@@ -37,6 +37,7 @@ editions in `etexts/` (the underlying works and prints are, as far as we know, i
 | `alignments/` | Pratīka alignments: which base-text word each commentary pratīka explains (124,316 pratīkas; 109,004 linked to exactly one word). Method in `METHOD.md`. | `alignments/METHOD.md` |
 | `annotations/` | Reading annotations of the bhāṣyas and ṭīkās: argument roles (pūrvapakṣa, ekadeśī, siddhānta, gloss, tātparya, saṅgraha …), resolved citations, pramāṇa grades, mahāvākya verses. **Machine-applied** under the scheme in `SCHEME.md`. | `annotations/README.md` |
 | `analyses/` | The grammatical corpus (morphology, kāraka, samāsa, meanings), every field tagged with its source (ours/machine, Tamal Maharaj's deposit, UoHyd), plus ṭīkā word analyses and English translations. | `analyses/README.md` |
+| `deposit-additions/` | Additions keyed to Sri Tamal Maharaj's bhāṣya-word data: a samāsa vigraha for 20,153 compounds that have none in it (16,685 of them without a samāsa type either). Machine-made. | `deposit-additions/README.md` |
 | `etexts/` | Our transcriptions of printed commentaries: Brahmatattvaprakāśikā, Śaṅkarānandī, Bṛhadāraṇyaka-vārttikasāra with Laghusaṅgrahā, Ātmabodha with Padmapāda's ṭīkā, Saddarśanam with Kapāli Śāstrī's bhāṣya. | `etexts/README.md` |
 | `prompts/` | The prompts behind the machine-made layers (Gemini; one Claude rubric), verbatim, each with what it produced, the model where recorded, and its place in our pipeline. | `prompts/README.md` |
 
