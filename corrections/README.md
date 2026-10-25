@@ -51,7 +51,7 @@ Only readings a printed edition (or, where stated, clear internal evidence) conf
 ## Regenerate
 
 ```
-node ~/Projects/devanagari-rescue/work/share-tamal/export/gen_corrections.js [outDir]
+node work/share-tamal/export/gen_corrections.js [outDir]   # in our (private) pipeline repository
 ```
 
 (reads the correction files of the adhyayana-sahakārī build; writes only into `outDir`).

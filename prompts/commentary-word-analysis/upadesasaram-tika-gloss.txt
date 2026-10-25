@@ -1,0 +1,46 @@
+You are producing a scholarly reading-edition analysis of ONE verse-unit of the Upadeśasāra-bhāṣya (commentary) by Vāsiṣṭha Kāvyakaṇṭha Gaṇapati Muni. You are given the MŪLA verse (Bhagavān Ramaṇa Maharṣi's Upadeśa Sāram, CONTEXT ONLY), the optional PRASTĀVANĀ (lead-in — only verse 1 has one), and the ṬĪKĀ (Gaṇapati Muni's bhāṣya prose). Analyse the PRASTĀVANĀ and ṬĪKĀ prose fully. (Pratīka/mūla-linking is done deterministically in code — do NOT emit it.) The source is a PROOFREAD DIGITAL text (not OCR): list in ocrSuspects only clear typos/corruptions (e.g. a wrong akṣara like ब्रह्न for ब्रह्म), never editorial choices, sandhi or orthography — and NEVER correct the sanskrit field.
+
+Run ONE VERSE PER CALL — do not batch multiple verses (batching degraded thoroughness + meaning coverage in testing).
+
+Output STRICT JSON only — no prose, no markdown fences — exactly this shape:
+
+{
+  "ref": "<given ref>",
+  "prelude": [ <same sentence shape as "tika" below — the PRASTĀVANĀ, sentence-split; [] if none> ],
+  "tika": [
+    {
+      "s": 1,
+      "sanskrit": "<one full ṭīkā sentence, Devanāgarī, verbatim — PRESERVE any '=' gloss marker>",
+      "words": [
+        { "n": 1,
+          "word": "<segmented pada, sandhi undone, citation-form>",
+          "morph": "<morphology, see MORPH>",
+          "meaning": "<1-6 word English gloss, as used here — REQUIRED on every word>",
+          "paryaya": "<the mūla word this pada GLOSSES, if it is a synonym-gloss flagged by इत्यर्थः/इति यावत्/अर्थः/=; else omit>",
+          "adhyahara": true,   // include ONLY if the commentator SUPPLIES this word to complete the syntax (इति शेषः); else omit
+          "samasa": [ <recursive layers — for COMPOUNDS ONLY; omit otherwise; see SAMĀSA> ]
+        }
+      ],
+      "translation": "<faithful, readable English of THIS sentence; see TRANSLATION>",
+      "roleSpans": [ { "role": "<see ROLES>", "from": <words[].n of the span's first word>, "pramana": "anumana|anubhava|shruti|tarka|" } ]
+    }
+  ],
+  "ocrSuspects": [ { "loc": "prelude"|"tika", "span": "<verbatim garbled text AS IT APPEARS>", "suggested": "<best corrected reading>", "reason": "<short, e.g. dropped ्र conjunct / ऋ read as u / stray Latin>", "confidence": "high|medium|low" } ]
+}
+
+FIELD SPECS
+SEGMENTATION (words): undo sandhi; one pada per unit in reading order, citation-form restored; keep a samāsa as ONE hyphen-joined unit; drop nothing (particles च/एव/हि/तु/अपि/इति included); exclude daṇḍas and numbers.
+MEANING: REQUIRED on EVERY word object — a 1-6 word English gloss as used in this context. NEVER omit "meaning", not even for particles or compounds.
+MORPH: Nominal = "<stem> · <विभक्ति>·<वचन>·<लिङ्ग>" (add (सर्वनाम) for pronouns; samāsa type for compounds). Finite verb = "<√धातु> · <कर्तरि|कर्मणि|भावे>·<लकारः>·<पुरुष>·<वचन>·<पद>" — SPELL THE लकार IN FULL (लट्/लिट्/लुट्/लृट्/लोट्/लङ्/विधिलिङ्/आशीर्लिङ्/लुङ्/लृङ् — NEVER bare लिङ्) and give पद. कृदन्त = प्रत्यय + function (क्त/ल्यप्/क्त्वा/शतृ/शानच्/तुमुन्). Indeclinable = "अव्यय (<sense>)". A तृतीया governed by विना/सह/नाना/पृथक् is upapada-tṛtīyā (NOT karaṇa).
+SAMĀSA (recursive, conservative peel): peel one BINARY layer from the RIGHT; at EVERY split resolve BOTH members; recurse to the underived प्रातिपदिक. Flat array, outermost first, each layer = {"c":"<compound>","vigraha":"<analysis>","type":"<समास type, e.g. षष्ठी-तत्पुरुष>","sutra":"<optional>"} (add "pratyaya" + type कृत्/तद्धित for a derived leaf). PEEL transparent kṛt/taddhita leaves (ज्ञान→√ज्ञा+ल्युट् 3.3.115; भाव→√भू+घञ्). STOP (मूल, no leaf) at underived + उणादि/lexicalised nouns (धर्म, मार्ग, कर्मन्, देव, गुरु, नर); when unsure → मूल. Do NOT decompose pronouns / particles / prefixes.
+GLOSS CONNECTOR (=): the ṭīkā often glosses inline — "X = Y" or "X इत्यर्थः / इति यावत्". PRESERVE the "=" VERBATIM in the "sanskrit" field where the source has it (it is a gloss marker, NOT a word — do not put it in words[]). Keep X and Y as normal words.
+TRANSLATION: per SENTENCE; faithful, readable, natural English. Keep CORE technical terms UNTRANSLATED (transliterated, *italics* via _underscores_) and CONSISTENT: Brahman, jīva, ātman, avidyā, māyā, vṛtti, upādhi, adhyāsa, ānanda, sākṣin, cit, mokṣa. Gloss other terms in plain English.
+ROLES (span-level, by word index; from = words[].n of the span's first word; a span runs to the next span's from; first span from:1; break only at a words[] boundary): purvapaksha (objection: ननु/स्यादेतत्/आशङ्का/इति चेत्), siddhanta (resolution: अत्रोच्यते/तन्न/इति चेन्न/किन्तु/उच्यते), drishtanta (sustained analogy: यथा…तथा, रज्जुसर्प/घटाकाश/शुक्तिरजत/स्वप्न), lakshana (definition: X इत्युच्यते / X नाम Y), phalita (उपसंहार/conclusion: तस्मात्/इति भावः/इति फलितम्), ekadeshi (a named partial view: अपरे तु/केचित्/अन्ये), exposition (plain running exposition — the DEFAULT). Classify by discourse function, not keywords; default exposition. pramana = the epistemic instrument the span leans on (anumana/anubhava/shruti/tarka), else empty.
+
+VERBATIM (fidelity — non-negotiable): reproduce all Sanskrit in "sanskrit"/"word" EXACTLY as given — do NOT fix, normalise, complete, or silently improve OCR. Report suspected errors ONLY in "ocrSuspects", never by editing the text.
+QUOTATION EXTENT: mark an ENTIRE quoted śloka (all pādas) as ONE ‹ › quotation; keep the source tag verbatim right after it (e.g. ‹…› (गीता २.१४)).
+OCR-ERROR DETECTION (DETECT ONLY, NEVER CORRECT): this ṭīkā is old-letterpress OCR; artifacts are likely — dropped/half conjuncts (्र, र्ष्ट, श्श्र), ऋ-mātrā read as u, स↔श, repha (र्) dropped, म↔भ (e.g. भक्त misread as मक → मकेष्ट for भक्तेष्ट), थ↔श्य, an OCR-introduced space splitting a word, or a stray Latin letter wedged in a word (e.g. निश्चalम् for निश्चलम्). List SUSPECTED garbles in the top-level "ocrSuspects" array (advisory, does NOT change the text). If none, []. Do NOT flag legitimate archaic spellings, sandhi, or genuine edition variants — only likely OCR errors; when UNSURE use "low" confidence rather than omit (bias to recall — every hit is human-verified against the page scan).
+
+JSON VALIDITY: NO double-quote (") inside any string value — Sanskrit quotations use guillemets ‹ ›; English strings use single quotes '…'. PRESERVE parenthetical source tags verbatim (e.g. (गीता २.१४)). Balance every { } [ ]. No trailing commas.
+
+INPUT

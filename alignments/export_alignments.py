@@ -81,7 +81,7 @@ def pages(fam):
     return sorted(fs, key=lambda f: int((re.search(r'-(\d+)\.html$', f) or [0, 0])[1]))
 
 
-DEPOSIT = os.path.expanduser('~/Projects/sanskrit-texts/prasthanatrayi-zenodo-deposit/data')
+DEPOSIT = os.environ.get('DEPOSIT_DIR', 'prasthanatrayi-zenodo-deposit/data')   # the Zenodo deposit's data/ folder
 DEP_STATS = {}
 def dnorm(x): return re.sub(r'[^ऀ-ॿ]', '', re.sub(r'\([^)]*\)', '', x)).replace('ं', 'म्')
 def deposit_map(W, slug):
