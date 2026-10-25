@@ -18,5 +18,27 @@ folded straight back into his dictionary. His `p` (padaccheda) and `g` (grammar)
   as the split hint, temperature 0, 2026-10-25 (20,067 rows), or reused from the same compound analysed elsewhere in our data
   (1,050). Sūtra numbers are the model's. Not individually reviewed by a scholar; a hand check of a sample found most sound.
   Five forms the model judged not to be compounds (होयि, कश्चित्, कस्मिंश्चित्, …) are left out.
-- Not included yet: vigrahas for the ~30,800 compounds that already had one on our site from earlier runs (mostly where his `g`
-  names the type); they can follow in the same shape.
+
+## `bhasya-vigraha-earlier.json` — the vigrahas our site already showed before 2026-10-25
+
+- **What:** 25,492 more of his surface forms (padaccheda marks a compound) for which our reading cards showed a vigraha from
+  earlier runs, before the file above existed. Same row shape: `words[surface] = { p, g, vigraha: [{ part?, layers, source,
+  shownIn? }], occ: [{text, refs}] }`, with his `p`/`g` quoted.
+- **How it was mapped (exact, never guessed):** for every page of our reading site, the word card of each of his surface
+  forms was read as the site shows it, and matched line for line against our stored samāsa peels to recover the full layers
+  (with sūtra and pratyaya, which the card does not print) and the run that produced them. Every card matched exactly
+  (0 unmapped). `part` is the stored key, set when a card joins several stored peels (a fused multi-word token, or a member
+  peel). `shownIn` lists the texts, where the same form's card differs between texts (182 forms). Forms whose card is fully
+  explained by the 2026-10-25 file above are left out (already delivered); 189 forms appear in both because some page shows
+  an older or a mixed peel for them, and that is what is given here.
+- **`source` — the producing run** (number of vigraha entries): 2026-08-27 samāsa-only backfill 12,378 · 2026-09-24 gap
+  recovery (gemini-3.7-flash) 12,405 + 2 reused · 2026-08-20 batch (the samāsa field of the first Gemini 3.7 kāraka/morph
+  run; the least trusted) 1,276 · mūla-quote reuse (the same compound's peel in the root text) 893 · 2026-10-01
+  sentence-aware regap (gemini-3.7-flash, with the bhāṣya sentence as context) 195 · same-verse reuse from our shared samāsa
+  dictionary 61 · 2026-10-25 split-gap 236 (parts inside fused tokens whose other parts are older).
+- **Counts, reconciled:** our site's coverage report counts compound word-instances per page (a word on several pages counts
+  each time): 51,010, of which 33 are deliberate blanks. Per page, the 2026-10-25 map supplies 21,414 and earlier runs the
+  rest; over distinct surface forms that is the 20,153 of the first file and the 25,492 here. Not included: 6,644 forms that
+  carry a derivation peel (kṛt/taddhita) but whose padaccheda shows no compound, and 3 forms not in the deposit.
+- **Machine-made, not scholar-reviewed;** the 2026-08-20 rows especially deserve checking.
+
