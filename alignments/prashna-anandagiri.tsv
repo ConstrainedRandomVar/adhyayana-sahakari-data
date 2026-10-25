@@ -1,0 +1,686 @@
+text	lane	ref	unit	pratika	lemma	mark	target_layer	target_ref	target_ord	target_occ	target_word	target_deposit	target2_layer	target2_ref	target2_ord	target2_occ	target2_word	target2_deposit	member	status	source_key
+prashna	anandagiri	intro	ttika_0	मन्त्रेति ।	मन्त्रोक्तस्यार्थस्य	as	bhashya	intro	0	1	मन्त्रोक्तस्यार्थस्य									linked	Prashna:intro:ttika_0_12
+prashna	anandagiri	intro	ttika_1	विस्तरेति ।	विस्तरानुवादीदं	as,mri	bhashya	intro	1	1	विस्तरानुवादीदं									linked	Prashna:intro:ttika_1_0
+prashna	anandagiri	intro	ttika_2	ब्रह्मचर्यादिसाधनेति ।	ब्रह्मचर्यादिसाधनसूचनाच्च	as,mri	bhashya	intro	16	1	ब्रह्मचर्यादिसाधनसूचनाच्च									linked	Prashna:intro:ttika_2_5
+prashna	anandagiri	1.1	ttika_0	सौर्यायणीति ।	सौर्यायणीति	as,mri	bhashya	1.1	10	1	सौर्यायणी									linked	Prashna:1.1:ttika_0_0
+prashna	anandagiri	1.1	ttika_1	युवप्रत्यय इति ।	युवप्रत्ययः ।	as,mri	bhashya	1.1	36	1	युवप्रत्ययः									linked	Prashna:1.1:ttika_1_0
+prashna	anandagiri	1.1	ttika_2	अपरं ब्रह्मेति ।	अपरं ब्रह्म	as,mri	bhashya	1.1	41	1	अपरं									linked	Prashna:1.1:ttika_2_3
+prashna	anandagiri	1.1	ttika_3	किं तदिति ।	किं तत्	as,mri	bhashya	1.1	50	1	किं									linked	Prashna:1.1:ttika_3_0
+prashna	anandagiri	1.1	ttika_4	यदिति ।	यन्नित्यं	as,mri	bhashya	1.1	52	1	यन्नित्यं									linked	Prashna:1.1:ttika_4_6
+prashna	anandagiri	1.1	ttika_5	तत्प्राप्त्यर्थमिति ।	तत्प्राप्त्यर्थं	as,mri	bhashya	1.1	54	1	तत्प्राप्त्यर्थं									linked	Prashna:1.1:ttika_5_4
+prashna	anandagiri	1.1	ttika_6	समिदिति ।	समिद्भारगृहीतहस्ताः	as,mri	bhashya	1.1	71	1	समिद्भारगृहीतहस्ताः									linked	Prashna:1.1:ttika_6_0
+prashna	anandagiri	1.2	ttika_0	विशेषत	विशेषत	mri	bhashya	1.2	17	1	विशेषतो									linked	Prashna:1.2:ttika_0_4
+prashna	anandagiri	1.2	ttika_0	यद्विषय इति ।	यद्विषये	as,mri	bhashya	1.2	34	1	यद्विषये									linked	Prashna:1.2:ttika_0_9
+prashna	anandagiri	1.2	ttika_1	प्रश्नेति ।	तद्विषयान् प्रश्नान् पृच्छत ।	as,mri	bhashya	1.2	37	1	तद्विषयान्									linked	Prashna:1.2:ttika_1_2
+prashna	anandagiri	1.3	ttika_0	अपरविद्येति ।	अपरविद्याकर्मणोः	as,mri	bhashya	1.3	20	1	अपरविद्याकर्मणोः									linked	Prashna:1.3:ttika_0_6
+prashna	anandagiri	1.3	ttika_0	प्रश्न	प्रश्न	mri	bhashya	1.3	25	1	प्रश्नः									linked	Prashna:1.3:ttika_0_57
+prashna	anandagiri	1.4	ttika_0	तदपाकरणायेति ।	तदपाकरणायाह	as,mri	bhashya	1.4	6	1	तदपाकरणायाह									linked	Prashna:1.4:ttika_0_6
+prashna	anandagiri	1.4	ttika_1	यथोक्तकारीति ।	विज्ञानवान्यथोक्तकारी	as,mri	bhashya	1.4	16	1	विज्ञानवान्यथोक्तकारी									linked	Prashna:1.4:ttika_1_0
+prashna	anandagiri	1.4	ttika_2	तद्भावभावित इति ।	तद्भावभावितः	as,mri	bhashya	1.4	17	1	तद्भावभावितः									linked	Prashna:1.4:ttika_2_0
+prashna	anandagiri	1.4	ttika_3	स एवमिति ।	सः एवं	as,mri	bhashya	1.4	34	1	सः									linked	Prashna:1.4:ttika_3_15
+prashna	anandagiri	1.4	ttika_4	रयिं चेति ।	रयिं च सोममन्नं	as,mri	bhashya	1.4	45	1	रयिं									linked	Prashna:1.4:ttika_4_9
+prashna	anandagiri	1.4	ttika_5	प्राणं चेति ।	प्राणं च अग्निमत्तारम्	as,mri	bhashya	1.4	48	1	प्राणं									linked	Prashna:1.4:ttika_5_21
+prashna	anandagiri	1.4	ttika_6	अण्डोत्पत्तीति ।	अण्डोत्पत्तिक्रमेण	as,mri	bhashya	1.4	63	1	अण्डोत्पत्तिक्रमेण									linked	Prashna:1.4:ttika_6_1
+prashna	anandagiri	1.4	ttika_7	सूर्यचन्द्रमसाविति॥ ४ ॥	सूर्याचन्द्रमसावकल्पयत् ॥	as	bhashya	1.4	64	1	सूर्याचन्द्रमसावकल्पयत्									linked	Prashna:1.4:ttika_7_5
+prashna	anandagiri	1.5	ttika_0	तत्राऽऽदित्य इति ।	तत्र आदित्यः	as,mri	bhashya	1.5	0	1	तत्र									linked	Prashna:1.5:ttika_0_5
+prashna	anandagiri	1.5	ttika_1	तदेतदेकमिति ।	तदेतदेकमत्ता	as,mri	bhashya	1.5	12	1	तदेतदेकमत्ता									linked	Prashna:1.5:ttika_1_6
+prashna	anandagiri	1.5	ttika_2	गुणेति ।	गुणप्रधानकृतो	as,mri	bhashya	1.5	18	1	गुणप्रधानकृतो									linked	Prashna:1.5:ttika_2_10
+prashna	anandagiri	1.5	ttika_3	कथमिति ।	कथम्	as,mri	bhashya	1.5	20	1	कथम्									linked	Prashna:1.5:ttika_3_0
+prashna	anandagiri	1.5	ttika_4	रयिरिति ।	रयिर्वै	as,mri	bhashya	1.5	21	1	रयिर्वै									linked	Prashna:1.5:ttika_4_3
+prashna	anandagiri	1.5	ttika_5	तस्मादिति ॥ ५ ॥	तस्मात् प्रविभक्तादमूर्तात्	as	bhashya	1.5	40	1	तस्मात्									linked	Prashna:1.5:ttika_5_8
+prashna	anandagiri	1.6	ttika_0	तथेत्यादिना ।	तथा	as,mri	bhashya	1.6	0	1	तथा									linked	Prashna:1.6:ttika_0_7
+prashna	anandagiri	1.6	ttika_0	यच्चाऽद्यं	यच्चाऽद्यं	mri	bhashya	1.6	4	1	यच्चाद्यम्									linked	Prashna:1.6:ttika_0_9
+prashna	anandagiri	1.6	ttika_0	प्राणोऽतोऽत्ता	प्राणोऽतोऽत्ता	mri														unlinked	Prashna:1.6:ttika_0_11
+prashna	anandagiri	1.6	ttika_1	स्वप्रकाशेनेति ।	स्वप्रकाशेन	as,mri	bhashya	1.6	14	1	स्वप्रकाशेन									linked	Prashna:1.6:ttika_1_0
+prashna	anandagiri	1.6	ttika_2	अन्तर्भूतानिति ।	सर्वान्तःस्थान्	as,mri	bhashya	1.6	19	1	सर्वान्तःस्थान्									linked	Prashna:1.6:ttika_2_0
+prashna	anandagiri	1.6	ttika_3	स्वात्मावभासरूपेष्विति ।	स्वात्मावभासरूपेषु	as,mri	bhashya	1.6	23	1	स्वात्मावभासरूपेषु									linked	Prashna:1.6:ttika_3_0
+prashna	anandagiri	1.6	ttika_4	व्याप्तत्वादिति ।	व्याप्तत्वात्प्राणिनः	as,mri	bhashya	1.6	25	1	व्याप्तत्वात्प्राणिनः									linked	Prashna:1.6:ttika_4_0
+prashna	anandagiri	1.7	ttika_0	स एष इति ।	स एषः अत्ता	as,mri	bhashya	1.7	0	1	स									linked	Prashna:1.7:ttika_0_2
+prashna	anandagiri	1.7	ttika_1	वैश्वानर इति ।	वैश्वानरः सर्वात्मा	as,mri	bhashya	1.7	4	1	वैश्वानरः									linked	Prashna:1.7:ttika_1_0
+prashna	anandagiri	1.7	ttika_2	उक्तं वस्त्विति ।	उक्तं वस्तु	as,mri	bhashya	1.7	19	1	उक्तं									linked	Prashna:1.7:ttika_2_0
+prashna	anandagiri	1.8	ttika_0	स्वात्मानमित्यादिना ॥ ८ ॥	स्वात्मानं	as	bhashya	1.8	16	1	स्वात्मानं									linked	Prashna:1.8:ttika_0_6
+prashna	anandagiri	1.9	ttika_0	यश्चासाविति ।	यश्चासौ	as,mri	bhashya	1.9	0	1	यश्चासौ									linked	Prashna:1.9:ttika_0_4
+prashna	anandagiri	1.9	ttika_0	सर्वं	सर्वं	mri	bhashya	1.9	5	1	सर्वं									linked	Prashna:1.9:ttika_0_11
+prashna	anandagiri	1.9	ttika_1	कथमिति ।	कथं	as,mri	bhashya	1.9	6	1	कथं									linked	Prashna:1.9:ttika_1_9
+prashna	anandagiri	1.9	ttika_2	उच्यत इति ।	उच्यते	as,mri	bhashya	1.9	10	1	उच्यते									linked	Prashna:1.9:ttika_2_3
+prashna	anandagiri	1.9	ttika_2	तदेव	तदेव	mri	bhashya	1.9	11	1	तदेव									linked	Prashna:1.9:ttika_2_6
+prashna	anandagiri	1.9	ttika_3	तन्निर्वर्त्यत्वादिति ।	तन्निर्वर्त्यत्वात्संवत्सरस्य	as,mri	bhashya	1.9	16	1	तन्निर्वर्त्यत्वात्संवत्सरस्य									linked	Prashna:1.9:ttika_3_4
+prashna	anandagiri	1.9	ttika_4	चन्द्रेति ।	चन्द्रादित्यनिर्वर्त्यतिथ्यहोरात्रसमुदायो	as,mri	bhashya	1.9	17	1	चन्द्रादित्यनिर्वर्त्यतिथ्यहोरात्रसमुदायो									linked	Prashna:1.9:ttika_4_1
+prashna	anandagiri	1.9	ttika_5	तदनन्यत्वादिति ।	तदनन्यत्वाद्रयिप्राणैतन्मिथुनात्मक	as,mri	bhashya	1.9	20	1	तदनन्यत्वाद्रयिप्राणैतन्मिथुनात्मक									linked	Prashna:1.9:ttika_5_5
+prashna	anandagiri	1.9	ttika_6	तत्कथमिति ।	तत्कथम्	as,mri	bhashya	1.9	22	1	तत्कथम्									linked	Prashna:1.9:ttika_6_12
+prashna	anandagiri	1.9	ttika_6	र्दक्षिणायनं	र्दक्षिणायनं	mri														unlinked	Prashna:1.9:ttika_6_30
+prashna	anandagiri	1.9	ttika_7	कथमिति ।	लोकान्विदधत् । कथम्	as,mri	bhashya	1.9	43	1	लोकान्विदधत्									linked	Prashna:1.9:ttika_7_4
+prashna	anandagiri	1.9	ttika_8	तत्तत्रेति ।	तत् तत्र	as,mri	bhashya	1.9	45	1	तत्									linked	Prashna:1.9:ttika_8_11
+prashna	anandagiri	1.9	ttika_9	इष्टं चेति ।	इष्टं च	as,mri	bhashya	1.9	57	1	इष्टं									linked	Prashna:1.9:ttika_9_0
+prashna	anandagiri	1.9	ttika_10	इत्यादीति ।	इत्यादि	as,mri														unlinked	Prashna:1.9:ttika_10_6
+prashna	anandagiri	1.9	ttika_10	कृतमेवोपासते	कृतमेवोपासते	mri	bhashya	1.9	63	1	कृतमेवोपासते									linked	Prashna:1.9:ttika_10_10
+prashna	anandagiri	1.9	ttika_11	कृतरूपत्वादिति ।	कृतरूपत्वाच्चान्द्रमसस्य ।	as,mri	bhashya	1.9	74	1	कृतरूपत्वाच्चान्द्रमसस्य									linked	Prashna:1.9:ttika_11_2
+prashna	anandagiri	1.9	ttika_12	इमं लोकमिति ॥ ९ ॥	इमं लोकं	as	bhashya	1.9	80	1	इमं									linked	Prashna:1.9:ttika_12_3
+prashna	anandagiri	1.10	ttika_0	अथेति ।	अथ उत्तरेण अयनेन	as,mri	bhashya	1.10	0	1	अथ									linked	Prashna:1.10:ttika_0_0
+prashna	anandagiri	1.10	ttika_1	प्रजापत्यात्मविषयेति ।	प्रजापत्यात्मविषयया	as,mri	bhashya	1.10	15	1	प्रजापत्यात्मविषयया									linked	Prashna:1.10:ttika_1_0
+prashna	anandagiri	1.10	ttika_1	आदित्यमभिजयन्त	आद	mri														unlinked	Prashna:1.10:ttika_1_4
+prashna	anandagiri	1.10	ttika_2	सामान्यमिति ।	सामान्यमायतनम्	as,mri	bhashya	1.10	30	1	सामान्यमायतनम्									linked	Prashna:1.10:ttika_2_0
+prashna	anandagiri	1.10	ttika_3	विद्यावतामिति ।	गतिर्विद्यावतां	as,mri	bhashya	1.10	44	1	गतिर्विद्यावतां									linked	Prashna:1.10:ttika_3_0
+prashna	anandagiri	1.10	ttika_4	कर्मिणां च ज्ञानवतामिति ।	कर्मिणां च ज्ञानवताम्	as,mri	bhashya	1.10	45	1	कर्मिणां									linked	Prashna:1.10:ttika_4_0
+prashna	anandagiri	1.10	ttika_5	इति यस्मादिति ।	इति यस्मात्	as,mri	bhashya	1.10	52	1	इति									linked	Prashna:1.10:ttika_5_8
+prashna	anandagiri	1.10	ttika_6	यद्वा	यद्वा	mri														unlinked	Prashna:1.10:ttika_6_0
+prashna	anandagiri	1.10	ttika_6	निरोध	निरोध	mri	bhashya	1.10	56	1	निरोधः		mula	1.10	25	1	निरोधः	w9.p0		linked	Prashna:1.10:ttika_6_3
+prashna	anandagiri	1.10	ttika_6	तत्कथमिति ।	तत्कथमिति ।	as,mri														unlinked	Prashna:1.10:ttika_6_19
+prashna	anandagiri	1.10	ttika_7	तस्येति ।	तस्येति ।	as,mri														unlinked	Prashna:1.10:ttika_7_5
+prashna	anandagiri	1.10	ttika_8	याभ्यामिति ।	याभ्यामिति ।	as,mri														unlinked	Prashna:1.10:ttika_8_1
+prashna	anandagiri	1.10	ttika_9	कथमिति ।	कथमिति ।	as,mri														unlinked	Prashna:1.10:ttika_9_3
+prashna	anandagiri	1.10	ttika_10	तत्तत्रेति ।	तत् तत्रास्मिन्नर्थे	as,mri	bhashya	1.10	69	1	तत्									linked	Prashna:1.10:ttika_10_5
+prashna	anandagiri	1.10	ttika_11	लोकमिति ।	लोकमिति ।	as,mri														unlinked	Prashna:1.10:ttika_11_0
+prashna	anandagiri	1.10	ttika_12	कृतरूपत्वादिति ।	कृतरूपत्वादिति ।	as,mri														unlinked	Prashna:1.10:ttika_12_4
+prashna	anandagiri	1.10	ttika_13	यस्मादिति ।	यस्मादिति ।	as,mri	bhashya	1.10	53	1	यस्मात्									linked	Prashna:1.10:ttika_13_9
+prashna	anandagiri	1.10	ttika_14	एष इति ।	एष इति ।	as,mri	bhashya	1.10	71	2	एषः									linked	Prashna:1.10:ttika_14_5
+prashna	anandagiri	1.10	ttika_15	पितृयाणोपलक्षित इति ।	पितृयाणोपलक्षित इति ।	as,mri														unlinked	Prashna:1.10:ttika_15_0
+prashna	anandagiri	1.10	ttika_16	अथेति ।	अथेति ।	as,mri	bhashya	1.10	0	1	अथ									linked	Prashna:1.10:ttika_16_2
+prashna	anandagiri	1.10	ttika_17	एतद्वा इति ।	एतद्वा इति ।	as,mri	bhashya	1.10	27	1	एतद्वै									linked	Prashna:1.10:ttika_17_2
+prashna	anandagiri	1.10	ttika_18	अस्मिन्नर्थ इति ।	अस्मिन्नर्थ इति ।	as,mri														unlinked	Prashna:1.10:ttika_18_0
+prashna	anandagiri	1.11	ttika_0	इयं कल्पनेति ।	हेमन्तशिशिरावेकीकृत्येयं कल्पना	as,mri	bhashya	1.11	10	1	हेमन्तशिशिरावेकीकृत्येयं									linked	Prashna:1.11:ttika_0_0
+prashna	anandagiri	1.11	ttika_1	जनयितृत्वादिति ।	जनयितृत्वात्पितृत्वं	as,mri	bhashya	1.11	14	1	जनयितृत्वात्पितृत्वं									linked	Prashna:1.11:ttika_1_0
+prashna	anandagiri	1.11	ttika_2	आकरणं वेति ।	आकरणं वा	as,mri	bhashya	1.11	20	1	आकरणं									linked	Prashna:1.11:ttika_2_3
+prashna	anandagiri	1.11	ttika_3	अवयविकरणमिति ।	अवयविकरणमस्य	as,mri	bhashya	1.11	22	1	अवयविकरणमस्य									linked	Prashna:1.11:ttika_3_0
+prashna	anandagiri	1.11	ttika_4	द्युलोकादिति ।	द्युलोकात्	as,mri	bhashya	1.11	27	1	द्युलोकात्									linked	Prashna:1.11:ttika_4_0
+prashna	anandagiri	1.11	ttika_5	उदकवन्तमिति ।	उदकवन्तम्	as,mri	bhashya	1.11	36	1	उदकवन्तम्									linked	Prashna:1.11:ttika_5_0
+prashna	anandagiri	1.11	ttika_5	अन्य	अन्य	mri	bhashya	1.11	40	1	तमेवान्ये									linked	Prashna:1.11:ttika_5_6
+prashna	anandagiri	1.11	ttika_6	सप्तचक्र इति ।	सप्तचक्रे सप्तहयरूपे चक्रे	as,mri	bhashya	1.11	48	1	सप्तचक्रे									linked	Prashna:1.11:ttika_6_2
+prashna	anandagiri	1.11	ttika_7	यदीति ।	यदि	as,mri	bhashya	1.11	63	1	यदि									linked	Prashna:1.11:ttika_7_4
+prashna	anandagiri	1.12	ttika_0	यस्मिन्निति ।	यस्मिन्निदं	as,mri	bhashya	1.12	0	1	यस्मिन्निदं									linked	Prashna:1.12:ttika_0_4
+prashna	anandagiri	1.12	ttika_1	स एवेति ।	स एव	as,mri	bhashya	1.12	3	1	स									linked	Prashna:1.12:ttika_1_3
+prashna	anandagiri	1.12	ttika_2	यथोक्तेति ।	यथोक्तलक्षण	as,mri	bhashya	1.12	14	1	यथोक्तलक्षण									linked	Prashna:1.12:ttika_2_0
+prashna	anandagiri	1.12	ttika_3	यस्मादिति ।	आदित्योऽत्ताग्निर्यस्माच्छुक्लपक्षात्मानं	as,mri	bhashya	1.12	31	1	आदित्योऽत्ताग्निर्यस्माच्छुक्लपक्षात्मानं									linked	Prashna:1.12:ttika_3_8
+prashna	anandagiri	1.12	ttika_3	सर्वमेव	सर्वमेव	mri	bhashya	1.12	33	1	सर्वमेव									linked	Prashna:1.12:ttika_3_11
+prashna	anandagiri	1.12	ttika_4	इतरे त्विति ।	इतरे तु	as,mri	bhashya	1.12	48	1	इतरे									linked	Prashna:1.12:ttika_4_2
+prashna	anandagiri	1.12	ttika_5	इतर इति ॥ १२ ॥	इतरे इतरस्मिन्कृष्णपक्ष	as	bhashya	1.12	55	2	इतरे									linked	Prashna:1.12:ttika_5_3
+prashna	anandagiri	1.13	ttika_0	रयिः पूर्ववदिति ।	रयिः पूर्ववदेव	as,mri	bhashya	1.13	16	1	रयिः									linked	Prashna:1.13:ttika_0_0
+prashna	anandagiri	1.13	ttika_1	प्राणमिति ।	प्राणम्	as,mri	bhashya	1.13	18	1	प्राणम्									linked	Prashna:1.13:ttika_1_4
+prashna	anandagiri	1.13	ttika_2	प्रकृतमिति ।	प्रकृतं तूच्यते	as,mri	bhashya	1.13	58	1	प्रकृतं									linked	Prashna:1.13:ttika_2_0
+prashna	anandagiri	1.14	ttika_0	एवं क्रमेणेति ।	एवं क्रमेण	as,mri	bhashya	1.14	0	1	एवं									linked	Prashna:1.14:ttika_0_0
+prashna	anandagiri	1.14	ttika_0	परिणम्य	परिणम्य	mri	bhashya	1.14	2	1	परिणम्य									linked	Prashna:1.14:ttika_0_4
+prashna	anandagiri	1.14	ttika_1	कथमिति ।	कथम्	as,mri	bhashya	1.14	7	1	कथम्									linked	Prashna:1.14:ttika_1_0
+prashna	anandagiri	1.14	ttika_2	तत इति ।	ततः	as,mri	bhashya	1.14	8	1	ततः									linked	Prashna:1.14:ttika_2_0
+prashna	anandagiri	1.14	ttika_3	रेत इति ।	रेतः	as,mri	bhashya	1.14	12	1	रेतः									linked	Prashna:1.14:ttika_3_0
+prashna	anandagiri	1.15	ttika_0	इष्टापूर्तेति ।	फलमिष्टापूर्तदत्तकारिणां	as,mri	bhashya	1.15	29	1	फलमिष्टापूर्तदत्तकारिणां									linked	Prashna:1.15:ttika_0_7
+prashna	anandagiri	1.15	ttika_0	चान्द्रमसो ब्रह्मलोक	चान्द्रमसो ब्रह्मलोक	mri	bhashya	1.15	33	1	ब्रह्मलोकः									linked	Prashna:1.15:ttika_0_9
+prashna	anandagiri	1.15	ttika_1	येषां तप इति ॥ १५ ॥	येषां तपः	as,mri	bhashya	1.15	35	1	येषां									linked	Prashna:1.15:ttika_1_4
+prashna	anandagiri	1.16	ttika_0	यस्त्विति ।	यस्तु	as,mri	bhashya	1.16	0	1	यस्तु									linked	Prashna:1.16:ttika_0_4
+prashna	anandagiri	1.16	ttika_1	उत्तरायण इति ।	उत्तरायणः	as,mri	bhashya	1.16	2	1	उत्तरायणः									linked	Prashna:1.16:ttika_1_0
+prashna	anandagiri	1.16	ttika_2	असौ केषां तेषामिति ।	असौ तेषाम् केषामिति	as,mri	bhashya	1.16	9	1	असौ									linked	Prashna:1.16:ttika_2_0
+prashna	anandagiri	1.16	ttika_3	यथेत्यादिना ।	यथा	as,mri	bhashya	1.16	13	1	यथा									linked	Prashna:1.16:ttika_3_6
+prashna	anandagiri	1.16	ttika_4	मायेत्येवमिति ।	मायेत्येवमादयो	as,mri	bhashya	1.16	45	1	मायेत्येवमादयो									linked	Prashna:1.16:ttika_4_6
+prashna	anandagiri	1.16	ttika_4	भिक्षुष्विति	भिक्षुष्व	mri														unlinked	Prashna:1.16:ttika_4_8
+prashna	anandagiri	1.16	ttika_5	इत्येषेति ॥ १६ ॥	इत्येषा	as	bhashya	1.16	55	1	इत्येषा									linked	Prashna:1.16:ttika_5_1
+prashna	anandagiri	2.1	ttika_0	प्राणोऽत्तेति ।	प्राणोऽत्ता	as,mri	bhashya	2.1	0	1	प्राणोऽत्ता									linked	Prashna:2.1:ttika_0_3
+prashna	anandagiri	2.1	ttika_1	अवधारयितव्यमिति ।	चास्मिञ्शरीरेऽवधारयितव्यमित्ययं	as,mri	bhashya	2.1	4	1	चास्मिञ्शरीरेऽवधारयितव्यमित्ययं									linked	Prashna:2.1:ttika_1_0
+prashna	anandagiri	2.1	ttika_2	शरीरेति ।	शरीरलक्षणां	as,mri	bhashya	2.1	20	1	शरीरलक्षणां									linked	Prashna:2.1:ttika_2_7
+prashna	anandagiri	2.1	ttika_2	विभक्तानामि	विभक्तानामि	mri														unlinked	Prashna:2.1:ttika_2_9
+prashna	anandagiri	2.1	ttika_3	स्वमाहात्म्यख्यापनमिति ।	स्वमाहात्म्यप्रख्यापनं	as,mri	bhashya	2.1	28	1	स्वमाहात्म्यप्रख्यापनं									linked	Prashna:2.1:ttika_3_0
+prashna	anandagiri	2.2	ttika_0	एष देव इति ।	एषः देवः	as,mri	bhashya	2.2	9	1	एषः									linked	Prashna:2.2:ttika_0_0
+prashna	anandagiri	2.2	ttika_0	देव	देव	mri	bhashya	2.2	10	1	देवः									linked	Prashna:2.2:ttika_0_7
+prashna	anandagiri	2.2	ttika_1	कर्मेन्द्रियेति ।	कर्मेन्द्रियबुद्धीन्द्रियाणि	as,mri	bhashya	2.2	21	1	कर्मेन्द्रियबुद्धीन्द्रियाणि									linked	Prashna:2.2:ttika_1_5
+prashna	anandagiri	2.2	ttika_1	कार्यलक्षणाः	कार्यलक्षणाः	mri	bhashya	2.2	23	1	कार्यलक्षणाः									linked	Prashna:2.2:ttika_1_7
+prashna	anandagiri	2.2	ttika_1	करणलक्षणा	करणलक्षणा	mri	bhashya	2.2	24	1	करणलक्षणाश्च									linked	Prashna:2.2:ttika_1_12
+prashna	anandagiri	2.2	ttika_2	माहात्म्यमिति ।	माहात्म्यं	as,mri	bhashya	2.2	28	1	माहात्म्यं									linked	Prashna:2.2:ttika_2_0
+prashna	anandagiri	2.2	ttika_2	प्रकाश्य	प्रकाश्य	mri	bhashya	2.2	30	1	प्रकाश्याभिवदन्ति		mula	2.2	19	1	प्रकाश्य	w14.p0		linked	Prashna:2.2:ttika_2_6
+prashna	anandagiri	2.2	ttika_2	भिवदन्ति	भिवदन्ति	mri	mula	2.2	20	1	अभिवदन्ति	w14.p1								linked	Prashna:2.2:ttika_2_11
+prashna	anandagiri	2.2	ttika_3	बाणमिति ।	बाणं	as,mri	bhashya	2.2	36	1	बाणं									linked	Prashna:2.2:ttika_3_0
+prashna	anandagiri	2.3	ttika_0	कथमेतदिति ।	कथमेतदेवमिति ॥	as,mri														unlinked	Prashna:2.3:ttika_0_0
+prashna	anandagiri	2.3	ttika_0	एवं	एवं	mri	bhashya	2.3	1	1	एवमभिमानवतः									linked	Prashna:2.3:ttika_0_4
+prashna	anandagiri	2.4	ttika_0	उत्क्रान्तवानिवेति ।	उत्क्रान्तवानिव	as,mri	bhashya	2.4	9	1	उत्क्रान्तवानिव									linked	Prashna:2.4:ttika_0_0
+prashna	anandagiri	2.4	ttika_1	निरपेक्ष इति ।	रोषान्निरपेक्षः	as,mri	bhashya	2.4	11	1	रोषान्निरपेक्षः									linked	Prashna:2.4:ttika_1_0
+prashna	anandagiri	2.4	ttika_2	दृष्टान्तेनेति ।	तद्दृष्टान्तेन	as,mri	bhashya	2.4	14	1	तद्दृष्टान्तेन									linked	Prashna:2.4:ttika_2_0
+prashna	anandagiri	2.4	ttika_2	तद्यथे	तद्यथे	mri	bhashya	2.4	41	1	तत्		mula	2.4	18	1	तत्	w10.p0		linked	Prashna:2.4:ttika_2_2
+prashna	anandagiri	2.5	ttika_0	सूर्यः सन्निति ।	सूर्यः सन्	as,mri	bhashya	2.5	9	1	सूर्यः									linked	Prashna:2.5:ttika_0_0
+prashna	anandagiri	2.5	ttika_1	आवहप्रवहादीति ।	आवहप्रवहादिभेदः ।	as,mri	bhashya	2.5	27	1	आवहप्रवहादिभेदः									linked	Prashna:2.5:ttika_1_0
+prashna	anandagiri	2.5	ttika_1	एष देवः	एष देवः	mri	bhashya	2.5	32	1	देवः									linked	Prashna:2.5:ttika_1_9
+prashna	anandagiri	2.6	ttika_0	श्रद्धादीति ।	श्रद्धादि	as,mri	bhashya	2.6	5	1	श्रद्धादि									linked	Prashna:2.6:ttika_0_0
+prashna	anandagiri	2.6	ttika_1	ब्रह्म चेति ।	पालयितृ ब्रह्म च	as,mri	bhashya	2.6	24	1	पालयितृ									linked	Prashna:2.6:ttika_1_0
+prashna	anandagiri	2.6	ttika_2	यज्ञादीति ।	यज्ञादिकर्मकर्तृत्वेऽधिकृतं	as,mri	bhashya	2.6	27	1	यज्ञादिकर्मकर्तृत्वेऽधिकृतं									linked	Prashna:2.6:ttika_2_1
+prashna	anandagiri	2.6	ttika_2	अधिकृतं	अधिकृतं	mri	bhashya	2.6	27	1	यज्ञादिकर्मकर्तृत्वेऽधिकृतं									linked	Prashna:2.6:ttika_2_3
+prashna	anandagiri	2.7	ttika_0	किञ्चेति ।	किञ्च	as,mri	bhashya	2.7	0	1	किञ्च									linked	Prashna:2.7:ttika_0_0
+prashna	anandagiri	2.7	ttika_0	प्रतिरूपः	प्रतिरूपः	mri	bhashya	2.7	8	1	प्रतिरूपः									linked	Prashna:2.7:ttika_0_12
+prashna	anandagiri	2.7	ttika_1	प्रतिरूपः सन्निति ।	प्रतिरूपः सन्	as,mri	bhashya	2.7	8	1	प्रतिरूपः									linked	Prashna:2.7:ttika_1_2
+prashna	anandagiri	2.7	ttika_2	प्रजापतित्वादेवेति ।	प्रजापतित्वादेव	as,mri	bhashya	2.7	11	1	प्रजापतित्वादेव									linked	Prashna:2.7:ttika_2_8
+prashna	anandagiri	2.7	ttika_3	सर्वदेहेति ।	सर्वदेहदेह्याकृतिच्छन्नः	as,mri	bhashya	2.7	16	1	सर्वदेहदेह्याकृतिच्छन्नः									linked	Prashna:2.7:ttika_3_1
+prashna	anandagiri	2.7	ttika_4	भोक्ता हीति ।	भोक्तासि	as,mri	bhashya	2.7	41	1	भोक्तासि									linked	Prashna:2.7:ttika_4_2
+prashna	anandagiri	2.8	ttika_0	हविषां प्रापयितृतम इति ।	हविषां प्रापयितृतमः	as,mri	bhashya	2.8	7	1	हविषां									linked	Prashna:2.8:ttika_0_0
+prashna	anandagiri	2.8	ttika_1	प्रथमा भवतीति ।	प्रथमा भवति	as,mri	bhashya	2.8	19	1	प्रथमा									linked	Prashna:2.8:ttika_1_0
+prashna	anandagiri	2.8	ttika_2	अङ्गीरसभूतानामिति ।	अङ्गिरसभूतानामथर्वणाम्	as,mri	bhashya	2.8	31	1	अङ्गिरसभूतानामथर्वणाम्									linked	Prashna:2.8:ttika_2_0
+prashna	anandagiri	2.9	ttika_0	इन्द्रः परमेश्वर इति ।	इन्द्रः परमेश्वरः	as,mri	bhashya	2.9	1	1	इन्द्रः									linked	Prashna:2.9:ttika_0_7
+prashna	anandagiri	2.9	ttika_0	वीर्येण	वीर्येण	mri	bhashya	2.9	7	1	वीर्येण									linked	Prashna:2.9:ttika_0_11
+prashna	anandagiri	2.9	ttika_1	सौम्येनेति ।	सौम्येन	as,mri	bhashya	2.9	20	1	सौम्येन									linked	Prashna:2.9:ttika_1_0
+prashna	anandagiri	2.11	ttika_0	असंस्कृत इति ।	संस्कर्तुरभावादसंस्कृतो	as,mri	bhashya	2.11	2	1	संस्कर्तुरभावादसंस्कृतो									linked	Prashna:2.11:ttika_0_0
+prashna	anandagiri	2.11	ttika_1	स्वभावत एवेति ।	स्वभावत एव	as,mri	bhashya	2.11	5	1	स्वभावत									linked	Prashna:2.11:ttika_1_3
+prashna	anandagiri	2.11	ttika_2	मातरिश्वेति ।	पिता मातरिश्व हे मातरिश्वन्	as,mri	bhashya	2.11	38	1	पिता									linked	Prashna:2.11:ttika_2_0
+prashna	anandagiri	2.11	ttika_3	वायोस्त्वमिति ।	वायोः	as,mri	bhashya	2.11	46	1	वायोः									linked	Prashna:2.11:ttika_3_0
+prashna	anandagiri	2.11	ttika_4	अतश्चेति ।	अतश्च	as,mri	bhashya	2.11	49	1	अतश्च									linked	Prashna:2.11:ttika_4_4
+prashna	anandagiri	2.12	ttika_0	वाचि प्रतिष्ठितेति ।	तनूः वाचि प्रतिष्ठिता वक्तृत्वेन	as,mri	bhashya	2.12	5	1	तनूः									linked	Prashna:2.12:ttika_0_0
+prashna	anandagiri	2.12	ttika_0	वाच्य	वाच्य	mri														unlinked	Prashna:2.12:ttika_0_3
+prashna	anandagiri	2.12	ttika_0	श्रोत्रे	श्रोत्रे	mri	bhashya	2.12	13	1	श्रोत्रे		mula	2.12	6	1	श्रोत्रे	w5.p0		linked	Prashna:2.12:ttika_0_8
+prashna	anandagiri	2.12	ttika_0	चक्षुषि	चक्षुषि	mri	bhashya	2.12	15	1	चक्षुषि		mula	2.12	9	1	चक्षुषि	w8.p0		linked	Prashna:2.12:ttika_0_11
+prashna	anandagiri	2.12	ttika_0	मनसि	मनसि	mri	bhashya	2.12	18	1	मनसि		mula	2.12	12	1	मनसि	w11.p0		linked	Prashna:2.12:ttika_0_14
+prashna	anandagiri	2.12	ttika_1	उत्क्रमणेनेति ।	उत्क्रमणेनाशिवां	as,mri	bhashya	2.12	29	1	उत्क्रमणेनाशिवां									linked	Prashna:2.12:ttika_1_0
+prashna	anandagiri	2.13	ttika_0	ब्राह्म्य इति ।	ब्राह्म्यः	as,mri	bhashya	2.13	27	1	ब्राह्म्यः									linked	Prashna:2.13:ttika_0_0
+prashna	anandagiri	2.13	ttika_0	क्षात्र्यः	क्षात्र्यः	mri														unlinked	Prashna:2.13:ttika_0_17
+prashna	anandagiri	2.13	ttika_1	इत्येवमिति ।	इत्येवं	as,mri	bhashya	2.13	40	1	इत्येवं									linked	Prashna:2.13:ttika_1_4
+prashna	anandagiri	3.1	ttika_0	अथेति ।	अथ हैनं कौसल्यश्चाश्वलायनः प्रपच्छ । प्राणैर्ह्येवं	as,mri	bhashya	3.1	0	1	अथ									linked	Prashna:3.1:ttika_0_7
+prashna	anandagiri	3.1	ttika_1	प्राणैरिति ।	प्राणैर्ह्येवं	as,mri	bhashya	3.1	4	1	प्राणैर्ह्येवं									linked	Prashna:3.1:ttika_1_0
+prashna	anandagiri	3.1	ttika_2	अपि संहतत्वादिति ।	उपलब्धमहिमापि संहतत्वात्स्यादस्य	as,mri	bhashya	3.1	6	1	उपलब्धमहिमापि									linked	Prashna:3.1:ttika_2_4
+prashna	anandagiri	3.1	ttika_3	शरीरग्रहणमिति ।	शरीरग्रहणमित्यर्थः	as,mri	bhashya	3.1	27	1	शरीरग्रहणमित्यर्थः									linked	Prashna:3.1:ttika_3_0
+prashna	anandagiri	3.1	ttika_4	प्रातिष्ठत इति ।	प्रकारेण प्रातिष्ठते प्रतितिष्ठति ।	as,mri	bhashya	3.1	37	1	प्रकारेण									linked	Prashna:3.1:ttika_4_0
+prashna	anandagiri	3.2	ttika_0	विषमेति ।	तावद्दुर्विज्ञेयत्वाद्विषमप्रश्नार्हः	as,mri	bhashya	3.2	7	1	तावद्दुर्विज्ञेयत्वाद्विषमप्रश्नार्हः									linked	Prashna:3.2:ttika_0_0
+prashna	anandagiri	3.2	ttika_0	विषमं	विषमं	mri														unlinked	Prashna:3.2:ttika_0_2
+prashna	anandagiri	3.2	ttika_1	अतिप्रश्नानिति ।	अतिप्रश्नान्पृच्छसि	as,mri	bhashya	3.2	13	1	अतिप्रश्नान्पृच्छसि									linked	Prashna:3.2:ttika_1_0
+prashna	anandagiri	3.2	ttika_2	अतिशयेनेति ।	अतिशयेन	as,mri	bhashya	3.2	15	1	अतिशयेन									linked	Prashna:3.2:ttika_2_0
+prashna	anandagiri	3.3	ttika_0	परस्मादिति ।	परस्मात्पुरुषादक्षरात्सत्यात्	as,mri	bhashya	3.3	1	1	परस्मात्पुरुषादक्षरात्सत्यात्									linked	Prashna:3.3:ttika_0_25
+prashna	anandagiri	3.3	ttika_1	अत्र दृष्टान्त इति ।	कथमित्यत्र दृष्टान्तः	as,mri	bhashya	3.3	6	1	कथमित्यत्र									linked	Prashna:3.3:ttika_1_0
+prashna	anandagiri	3.3	ttika_2	छायेति ।	च्छाया	as,mri	bhashya	3.3	14	1	च्छाया									linked	Prashna:3.3:ttika_2_0
+prashna	anandagiri	3.3	ttika_3	एतस्मिन्निति ।	एतस्मिन्	as,mri	bhashya	3.3	18	1	एतस्मिन्									linked	Prashna:3.3:ttika_3_0
+prashna	anandagiri	3.3	ttika_3	ब्रह्मणी	ब्रह्मणी	mri	bhashya	3.3	19	1	ब्रह्मण्येतत्प्राणाख्यं									linked	Prashna:3.3:ttika_3_5
+prashna	anandagiri	3.3	ttika_4	मनोकृतेनेति ।	छायेव देहे मनोकृतेन मनःकृतेन	as,mri	bhashya	3.3	26	1	छायेव									linked	Prashna:3.3:ttika_4_1
+prashna	anandagiri	3.3	ttika_5	तदेव सक्त इति ।	तदेव सक्तः	as,mri	bhashya	3.3	35	1	तदेव									linked	Prashna:3.3:ttika_5_0
+prashna	anandagiri	3.3	ttika_5	निषक्तं		mri														unlinked	Prashna:3.3:ttika_5_8
+prashna	anandagiri	3.4	ttika_0	यथेति ।	यथा येन प्रकारेण	as,mri	bhashya	3.4	0	1	यथा									linked	Prashna:3.4:ttika_0_4
+prashna	anandagiri	3.4	ttika_1	इतरानिति ।	इतरान् प्राणान् चक्षुरादीनात्मभेदांश्च	as,mri	bhashya	3.4	15	1	इतरान्									linked	Prashna:3.4:ttika_1_0
+prashna	anandagiri	3.4	ttika_1	सन्निधत्ते	सन्निधत्ते	mri														unlinked	Prashna:3.4:ttika_1_3
+prashna	anandagiri	3.4	ttika_1	सन्निधत्ते	सन्निधत्ते	mri														unlinked	Prashna:3.4:ttika_1_24
+prashna	anandagiri	3.5	ttika_0	मध्य इति ।	मध्ये तु प्राणापानयोः स्थानयोः	as,mri	bhashya	3.5	34	1	मध्ये									linked	Prashna:3.5:ttika_0_0
+prashna	anandagiri	3.5	ttika_1	एष हीति ।	एषः हि	as,mri	bhashya	3.5	46	1	एषः									linked	Prashna:3.5:ttika_1_3
+prashna	anandagiri	3.5	ttika_2	आत्माग्नाविति ।	चात्माग्नौ	as,mri	bhashya	3.5	53	1	चात्माग्नौ									linked	Prashna:3.5:ttika_2_0
+prashna	anandagiri	3.5	ttika_3	तस्मादिति ।	तस्मात्	as,mri	bhashya	3.5	58	1	तस्मात्									linked	Prashna:3.5:ttika_3_14
+prashna	anandagiri	3.5	ttika_4	प्राप्तादिति ।	प्राप्तात्	as,mri	bhashya	3.5	60	1	प्राप्तात्									linked	Prashna:3.5:ttika_4_0
+prashna	anandagiri	3.5	ttika_4	अग्नेरौदर्या	अग्नेरौदर्या	mri														unlinked	Prashna:3.5:ttika_4_2
+prashna	anandagiri	3.5	ttika_4	सप्तार्चिषः	सप्तार्चिषः	mri	mula	3.5	19	1	सप्त-अर्चिषः	w14								linked	Prashna:3.5:ttika_4_18
+prashna	anandagiri	3.6	ttika_0	हृदीत्यादिना ।	हृदि ह्येषः पुण्डरीकाकारमांसपिण्डपरिच्छिन्ने	as,mri	bhashya	3.6	0	1	हृदि									linked	Prashna:3.6:ttika_0_6
+prashna	anandagiri	3.6	ttika_1	आत्मना संयुक्त इति ।	आत्मसंयुक्तो	as,mri	bhashya	3.6	6	1	आत्मसंयुक्तो									linked	Prashna:3.6:ttika_1_2
+prashna	anandagiri	3.6	ttika_2	अत्रेति ।	अत्र अस्मिन्हृदये एतत्	as,mri	bhashya	3.6	9	1	अत्र									linked	Prashna:3.6:ttika_2_6
+prashna	anandagiri	3.6	ttika_3	तासामिति ।	तासां शतं शतम् एकैकस्याः प्रधाननाड्या भेदाः	as,mri	bhashya	3.6	17	1	तासां									linked	Prashna:3.6:ttika_3_6
+prashna	anandagiri	3.6	ttika_4	पुनरपीति ।	पुनरपि	as,mri	bhashya	3.6	23	1	पुनरपि									linked	Prashna:3.6:ttika_4_6
+prashna	anandagiri	3.6	ttika_5	सहस्राणामिति ।	सहस्राणां	as,mri	bhashya	3.6	31	1	सहस्राणां									linked	Prashna:3.6:ttika_5_6
+prashna	anandagiri	3.6	ttika_6	प्रतिशाखेति ।	प्रतिशाखानाडीसहस्राणि प्रतिप्रतिनाडीशतं	as,mri	bhashya	3.6	33	1	प्रतिशाखानाडीसहस्राणि									linked	Prashna:3.6:ttika_6_0
+prashna	anandagiri	3.6	ttika_7	प्रतिप्रतीति ।	प्रतिप्रतिनाडीशतं	as,mri	bhashya	3.6	34	1	प्रतिप्रतिनाडीशतं									linked	Prashna:3.6:ttika_7_2
+prashna	anandagiri	3.6	ttika_8	आस्त्विति ।	आसु	as	bhashya	3.6	39	1	आसु									linked	Prashna:3.6:ttika_8_4
+prashna	anandagiri	3.6	ttika_9	आदित्यादिवेति ।	आदित्यादिव	as,mri	bhashya	3.6	45	1	आदित्यादिव									linked	Prashna:3.6:ttika_9_11
+prashna	anandagiri	3.6	ttika_10	सन्धीति ।	सन्धिस्कन्धमर्मदेशेषु	as,mri	bhashya	3.6	52	1	सन्धिस्कन्धमर्मदेशेषु									linked	Prashna:3.6:ttika_10_3
+prashna	anandagiri	3.6	ttika_11	प्राणेति ।	प्राणापानवृत्त्योश्च	as,mri	bhashya	3.6	54	1	प्राणापानवृत्त्योश्च									linked	Prashna:3.6:ttika_11_0
+prashna	anandagiri	3.6	ttika_12	वीर्यवदिति ।	उद्भूतवृत्तिर्वीर्यवत्कर्मकर्ता	as,mri	bhashya	3.6	56	1	उद्भूतवृत्तिर्वीर्यवत्कर्मकर्ता									linked	Prashna:3.6:ttika_12_0
+prashna	anandagiri	3.7	ttika_0	या त्विति ।	या तु	as,mri	bhashya	3.7	1	1	या									linked	Prashna:3.7:ttika_0_4
+prashna	anandagiri	3.7	ttika_1	उभाभ्यां समप्रधानाभ्यामिति ।	उभाभ्यां समप्रधानाभ्यां	as,mri	bhashya	3.7	30	1	उभाभ्यां									linked	Prashna:3.7:ttika_1_0
+prashna	anandagiri	3.8	ttika_0	आदित्य इति ।	आदित्यः	as,mri	bhashya	3.8	0	1	आदित्यः									linked	Prashna:3.8:ttika_0_3
+prashna	anandagiri	3.8	ttika_1	या देवता प्रसिद्धेति ।	या देवता प्रसिद्धा	as,mri	bhashya	3.8	28	1	या									linked	Prashna:3.8:ttika_1_0
+prashna	anandagiri	3.8	ttika_2	अध एवापकर्षणेनेति ।	वशीकृत्याध एवापकर्षणेनानुग्रहं	as,mri	bhashya	3.8	37	1	वशीकृत्याध									linked	Prashna:3.8:ttika_2_3
+prashna	anandagiri	3.8	ttika_3	अनुग्रहमिति ।	एवापकर्षणेनानुग्रहं	as,mri	bhashya	3.8	38	1	एवापकर्षणेनानुग्रहं									linked	Prashna:3.8:ttika_3_0
+prashna	anandagiri	3.8	ttika_4	अन्यथेति ।	अन्यथा	as,mri	bhashya	3.8	42	1	अन्यथा									linked	Prashna:3.8:ttika_4_0
+prashna	anandagiri	3.8	ttika_5	यदेतदिति ।	यदेतत्	as,mri	bhashya	3.8	47	1	यदेतत्									linked	Prashna:3.8:ttika_5_5
+prashna	anandagiri	3.8	ttika_6	यदि	यदि	mri														unlinked	Prashna:3.8:ttika_6_0
+prashna	anandagiri	3.8	ttika_6	य आकाश इति ।	यः आकाशः	as,mri	bhashya	3.8	51	1	यः									linked	Prashna:3.8:ttika_6_4
+prashna	anandagiri	3.8	ttika_7	मञ्चस्थवदिति ।	मञ्चस्थवत् ।	as,mri	bhashya	3.8	56	1	मञ्चस्थवत्									linked	Prashna:3.8:ttika_7_0
+prashna	anandagiri	3.8	ttika_8	स समान इति ।	स समानः	as,mri	bhashya	3.8	57	2	स									linked	Prashna:3.8:ttika_8_0
+prashna	anandagiri	3.8	ttika_9	समानमनुगृह्णान इति ।	समानमनुगृह्णानो	as,mri	bhashya	3.8	59	1	समानमनुगृह्णानो									linked	Prashna:3.8:ttika_9_1
+prashna	anandagiri	3.8	ttika_10	समानस्येति ।	समानस्यान्तराकाशस्थत्वसामान्यात्	as,mri	bhashya	3.8	62	1	समानस्यान्तराकाशस्थत्वसामान्यात्									linked	Prashna:3.8:ttika_10_2
+prashna	anandagiri	3.8	ttika_11	सामान्येनेति ॥ ८ ॥	सामान्येन	as	bhashya	3.8	63	1	सामान्येन									linked	Prashna:3.8:ttika_11_10
+prashna	anandagiri	3.9	ttika_0	यद्बाह्यमिति ।	यद्बाह्यं	as,mri	bhashya	3.9	0	1	यद्बाह्यं									linked	Prashna:3.9:ttika_0_6
+prashna	anandagiri	3.9	ttika_1	सामान्यं तेज इति ।	सामान्यं तेजः	as,mri	bhashya	3.9	4	1	सामान्यं									linked	Prashna:3.9:ttika_1_7
+prashna	anandagiri	3.9	ttika_2	यस्मादिति ।	यस्मात्तेजःस्वभावो	as,mri	bhashya	3.9	12	1	यस्मात्तेजःस्वभावो									linked	Prashna:3.9:ttika_2_4
+prashna	anandagiri	3.9	ttika_3	स्वाभाविकमिति ।	स्वाभाविकं	as,mri	bhashya	3.9	22	1	स्वाभाविकं									linked	Prashna:3.9:ttika_3_0
+prashna	anandagiri	3.9	ttika_3	भवः	भवः	mri														unlinked	Prashna:3.9:ttika_3_11
+prashna	anandagiri	3.9	ttika_4	कथमिति ।	कथम्	as,mri	bhashya	3.9	36	1	कथम्									linked	Prashna:3.9:ttika_4_4
+prashna	anandagiri	3.9	ttika_5	सहेति ।	सह	as,mri	bhashya	3.9	37	1	सह									linked	Prashna:3.9:ttika_5_1
+prashna	anandagiri	3.10	ttika_0	मरणेति ।	मरणकाले	as,mri	bhashya	3.10	0	1	मरणकाले									linked	Prashna:3.10:ttika_0_7
+prashna	anandagiri	3.10	ttika_1	यच्चित्त इति ।	यच्चित्तो	as,mri	bhashya	3.10	1	1	यच्चित्तो									linked	Prashna:3.10:ttika_1_0
+prashna	anandagiri	3.10	ttika_2	तदेति ।	तदा	as,mri	bhashya	3.10	16	1	तदा									linked	Prashna:3.10:ttika_2_4
+prashna	anandagiri	3.10	ttika_2	तेजसा	तेजसा	mri	bhashya	3.10	25	1	तेजसा		mula	3.10	6	1	तेजसा	w2.p1		linked	Prashna:3.10:ttika_2_6
+prashna	anandagiri	3.10	ttika_3	स एवमिति ।	स एवमुदान	as,mri	bhashya	3.10	32	2	स									linked	Prashna:3.10:ttika_3_9
+prashna	anandagiri	3.10	ttika_4	यथासङ्कल्पितमिति ।	यथासङ्कल्पितं यथाभिप्रेतं लोकं	as,mri	bhashya	3.10	39	1	यथासङ्कल्पितं									linked	Prashna:3.10:ttika_4_0
+prashna	anandagiri	3.10	ttika_4	लोकं	लोकं	mri	bhashya	3.10	41	1	लोकं		mula	3.10	11	1	लोकम्	w6.p0		linked	Prashna:3.10:ttika_4_7
+prashna	anandagiri	3.11	ttika_0	यः कश्चिदिति ।	यः कश्चित्	as,mri	bhashya	3.11	0	1	यः									linked	Prashna:3.11:ttika_0_5
+prashna	anandagiri	3.11	ttika_0	त्येवं प्राणं	त्येवं प्राणं	mri	bhashya	3.11	5	1	प्राणं									linked	Prashna:3.11:ttika_0_57
+prashna	anandagiri	3.11	ttika_1	पतित इति ।	पतिते	as,mri	bhashya	3.11	20	1	पतिते									linked	Prashna:3.11:ttika_1_1
+prashna	anandagiri	3.11	ttika_2	प्राणेति ।	प्राणसायुज्यतया	as,mri	bhashya	3.11	23	1	प्राणसायुज्यतया									linked	Prashna:3.11:ttika_2_6
+prashna	anandagiri	3.12	ttika_0	आयतिमिति ।	आयतिम्	as,mri	bhashya	3.12	3	1	आयतिम्									linked	Prashna:3.12:ttika_0_0
+prashna	anandagiri	4.1	ttika_0	अथ हैनमिति ।	अथ ह एनं	as,mri	bhashya	4.1	0	1	अथ									linked	Prashna:4.1:ttika_0_10
+prashna	anandagiri	4.1	ttika_1	प्रश्नत्रयेणेति ।	प्रश्नत्रयेणापरविद्यागोचरं	as,mri	bhashya	4.1	6	1	प्रश्नत्रयेणापरविद्यागोचरं									linked	Prashna:4.1:ttika_1_4
+prashna	anandagiri	4.1	ttika_2	संसारमिति ।	संसारं	as,mri	bhashya	4.1	9	1	संसारं									linked	Prashna:4.1:ttika_2_0
+prashna	anandagiri	4.1	ttika_3	व्याकृतविषयमिति ।	व्याकृतविषयं	as,mri	bhashya	4.1	10	1	व्याकृतविषयं									linked	Prashna:4.1:ttika_3_4
+prashna	anandagiri	4.1	ttika_4	साध्यसाधनलक्षणमिति ।	साध्यसाधनलक्षणमनित्यम्	as,mri	bhashya	4.1	11	1	साध्यसाधनलक्षणमनित्यम्									linked	Prashna:4.1:ttika_4_0
+prashna	anandagiri	4.1	ttika_5	असाध्येत्यादिना ।	साध्यसाधनविलक्षणमप्राणममनोगोचरमतीन्द्रियमविषयं	as,mri	bhashya	4.1	13	1	साध्यसाधनविलक्षणमप्राणममनोगोचरमतीन्द्रियमविषयं									linked	Prashna:4.1:ttika_5_5
+prashna	anandagiri	4.1	ttika_6	अतीन्द्रियविषयमिति ।	साध्यसाधनविलक्षणमप्राणममनोगोचरमतीन्द्रियमविषयं	as,mri	bhashya	4.1	13	1	साध्यसाधनविलक्षणमप्राणममनोगोचरमतीन्द्रियमविषयं									linked	Prashna:4.1:ttika_6_0
+prashna	anandagiri	4.1	ttika_7	अप्राणमिति ।	साध्यसाधनविलक्षणमप्राणममनोगोचरमतीन्द्रियमविषयं	as,mri	bhashya	4.1	13	1	साध्यसाधनविलक्षणमप्राणममनोगोचरमतीन्द्रियमविषयं									linked	Prashna:4.1:ttika_7_2
+prashna	anandagiri	4.1	ttika_8	शिवमिति ।	शिवं	as,mri	bhashya	4.1	14	1	शिवं									linked	Prashna:4.1:ttika_8_1
+prashna	anandagiri	4.1	ttika_9	शान्तमिति ।	शान्तमविकृतमक्षरं	as,mri	bhashya	4.1	15	1	शान्तमविकृतमक्षरं									linked	Prashna:4.1:ttika_9_1
+prashna	anandagiri	4.1	ttika_10	अविकृतमिति ।	शान्तमविकृतमक्षरं	as,mri	bhashya	4.1	15	1	शान्तमविकृतमक्षरं									linked	Prashna:4.1:ttika_10_3
+prashna	anandagiri	4.1	ttika_11	सत्यमिति ।	सत्यं	as,mri	bhashya	4.1	16	1	सत्यं									linked	Prashna:4.1:ttika_11_0
+prashna	anandagiri	4.1	ttika_12	परविद्यागम्यमिति ।	परविद्यागम्यं	as,mri	bhashya	4.1	17	1	परविद्यागम्यं									linked	Prashna:4.1:ttika_12_15
+prashna	anandagiri	4.1	ttika_13	पुरुषाख्यमिति ।	पुरुषाख्यं	as,mri	bhashya	4.1	18	1	पुरुषाख्यं									linked	Prashna:4.1:ttika_13_5
+prashna	anandagiri	4.1	ttika_14	सबाह्येति ।	सबाह्याभ्यन्तरमजं	as,mri	bhashya	4.1	19	1	सबाह्याभ्यन्तरमजं									linked	Prashna:4.1:ttika_14_5
+prashna	anandagiri	4.1	ttika_15	प्रश्नत्रयमिति ।	प्रश्नत्रयमारभ्यते ।	as,mri	bhashya	4.1	21	1	प्रश्नत्रयमारभ्यते									linked	Prashna:4.1:ttika_15_0
+prashna	anandagiri	4.1	ttika_16	तत्रेति ।	तत्र	as,mri	bhashya	4.1	22	1	तत्र									linked	Prashna:4.1:ttika_16_6
+prashna	anandagiri	4.1	ttika_16	यस्मादि	यस्मादि	mri														unlinked	Prashna:4.1:ttika_16_8
+prashna	anandagiri	4.1	ttika_17	उक्तमिति ।	चैवापियन्तीत्युक्तं	as,mri	bhashya	4.1	29	1	चैवापियन्तीत्युक्तं									linked	Prashna:4.1:ttika_17_0
+prashna	anandagiri	4.1	ttika_18	एतद्विवक्षयेति ।	एतद्विवक्षया	as,mri	bhashya	4.1	46	1	एतद्विवक्षया									linked	Prashna:4.1:ttika_18_0
+prashna	anandagiri	4.1	ttika_18	तृतीयेन		mri														unlinked	Prashna:4.1:ttika_18_60
+prashna	anandagiri	4.1	ttika_18	चतुर्थेन		mri														unlinked	Prashna:4.1:ttika_18_65
+prashna	anandagiri	4.1	ttika_19	कार्येति ।	कार्यकरणलक्षणयोः	as,mri	bhashya	4.1	67	1	कार्यकरणलक्षणयोः									linked	Prashna:4.1:ttika_19_0
+prashna	anandagiri	4.1	ttika_20	तत्किमिति ।	तत्किं	as,mri	bhashya	4.1	76	1	तत्किं									linked	Prashna:4.1:ttika_20_3
+prashna	anandagiri	4.1	ttika_21	प्रसन्नमिति ।	यत्प्रसन्नं	as,mri	bhashya	4.1	87	1	यत्प्रसन्नं									linked	Prashna:4.1:ttika_21_0
+prashna	anandagiri	4.1	ttika_22	निरायासेति ।	निरायासलक्षणमनाबाधं	as	bhashya	4.1	88	1	निरायासलक्षणमनाबाधं									linked	Prashna:4.1:ttika_22_0
+prashna	anandagiri	4.1	ttika_22	निरायासेन	निरायासेन	mri														unlinked	Prashna:4.1:ttika_22_2
+prashna	anandagiri	4.1	ttika_23	एतदिति ।	एतत्	as,mri	bhashya	4.1	91	1	एतत्									linked	Prashna:4.1:ttika_23_0
+prashna	anandagiri	4.1	ttika_24	तस्मिन्काल इति ।	तस्मिन्काले	as,mri	bhashya	4.1	93	1	तस्मिन्काले									linked	Prashna:4.1:ttika_24_0
+prashna	anandagiri	4.1	ttika_25	सम्यगेकीभूता इति ।	सम्यगेकीभूताः	as,mri	bhashya	4.1	98	1	सम्यगेकीभूताः									linked	Prashna:4.1:ttika_25_0
+prashna	anandagiri	4.1	ttika_26	मधुनि रसवदिति ।	मधुनि रसवत्समुद्र	as,mri	bhashya	4.1	100	1	मधुनि									linked	Prashna:4.1:ttika_26_0
+prashna	anandagiri	4.1	ttika_27	विवेकानर्हा इति ।	विवेकानर्हाः	as,mri	bhashya	4.1	102	1	विवेकानर्हाः									linked	Prashna:4.1:ttika_27_5
+prashna	anandagiri	4.1	ttika_28	नन्विति ।	ननु	as,mri	bhashya	4.1	108	1	ननु									linked	Prashna:4.1:ttika_28_0
+prashna	anandagiri	4.1	ttika_28	दात्रं	दात्रं	mri														unlinked	Prashna:4.1:ttika_28_2
+prashna	anandagiri	4.1	ttika_29	स्वात्मनीति ।	स्वात्मन्यवतिष्ठन्त	as,mri	bhashya	4.1	111	1	स्वात्मन्यवतिष्ठन्त									linked	Prashna:4.1:ttika_29_0
+prashna	anandagiri	4.1	ttika_30	सुषुप्तपुरुषाणां करणानामिति ।	सुषुप्तपुरुषाणां करणानां	as,mri	bhashya	4.1	115	1	सुषुप्तपुरुषाणां									linked	Prashna:4.1:ttika_30_0
+prashna	anandagiri	4.1	ttika_30	चेति	च	mri	bhashya	4.1	126	3	च									linked	Prashna:4.1:ttika_30_17
+prashna	anandagiri	4.1	ttika_31	युक्तैव त्विति ।	युक्तैव त्वाशङ्का	as,mri	bhashya	4.1	119	1	युक्तैव									linked	Prashna:4.1:ttika_31_9
+prashna	anandagiri	4.1	ttika_31	स्वाम्यर्थानि	स्वाम्यर्थानि	mri	bhashya	4.1	124	1	स्वाम्यर्थानि									linked	Prashna:4.1:ttika_31_12
+prashna	anandagiri	4.1	ttika_32	आशङ्कानुरूप इति ।	तस्मादाशङ्कानुरूप	as,mri	bhashya	4.1	132	1	तस्मादाशङ्कानुरूप									linked	Prashna:4.1:ttika_32_0
+prashna	anandagiri	4.1	ttika_33	अत्र त्विति ।	अत्र तु	as,mri	bhashya	4.1	135	1	अत्र									linked	Prashna:4.1:ttika_33_12
+prashna	anandagiri	4.2	ttika_0	तस्यैवार्कस्य ता मरीचय	तस्यैवार्कस्य ता मरीचय	mri	bhashya	4.2	11	1	मरीचयः									linked	Prashna:4.2:ttika_0_4
+prashna	anandagiri	4.2	ttika_0	विकीर्यन्त इति ।	विकीर्यन्ते	as,mri	bhashya	4.2	33	1	विकीर्यन्ते									linked	Prashna:4.2:ttika_0_9
+prashna	anandagiri	4.2	ttika_1	यस्मादिति ।	यस्मात्स्वप्नकाले	as,mri	bhashya	4.2	62	1	यस्मात्स्वप्नकाले									linked	Prashna:4.2:ttika_1_10
+prashna	anandagiri	4.2	ttika_2	नेयायत इति ।	न इयायते	as,mri	bhashya	4.2	92	10	न									linked	Prashna:4.2:ttika_2_0
+prashna	anandagiri	4.3	ttika_0	सुप्तवत्स्विति ।	सुप्तवत्सु	as,mri	bhashya	4.3	0	1	सुप्तवत्सु									linked	Prashna:4.3:ttika_0_10
+prashna	anandagiri	4.3	ttika_1	अग्नय इवेति ।	वायवोऽग्नय इवाग्नयः	as,mri	bhashya	4.3	11	1	वायवोऽग्नय									linked	Prashna:4.3:ttika_1_2
+prashna	anandagiri	4.3	ttika_2	यस्मादिति ।	यस्मात्	as,mri	bhashya	4.3	23	1	यस्मात्									linked	Prashna:4.3:ttika_2_8
+prashna	anandagiri	4.3	ttika_3	प्रणयनो गार्हपत्य इति ।	प्रणयनो गार्हपत्योऽग्निः	as,mri	bhashya	4.3	31	1	प्रणयनो									linked	Prashna:4.3:ttika_3_3
+prashna	anandagiri	4.3	ttika_4	तथेति ।	तथा	as,mri	bhashya	4.3	33	1	तथा									linked	Prashna:4.3:ttika_4_6
+prashna	anandagiri	4.3	ttika_5	व्यानस्त्विति ।	व्यानस्तु	as,mri	bhashya	4.3	43	1	व्यानस्तु									linked	Prashna:4.3:ttika_5_5
+prashna	anandagiri	4.4	ttika_0	अत्र चेति ।	अत्र च	as,mri	bhashya	4.4	0	1	अत्र									linked	Prashna:4.4:ttika_0_0
+prashna	anandagiri	4.4	ttika_1	यद्यस्मादिति ।	यत् यस्मात्	as,mri	bhashya	4.4	4	1	यत्									linked	Prashna:4.4:ttika_1_9
+prashna	anandagiri	4.4	ttika_1	द्वितीयोऽ	द्वितीयोऽ	mri														unlinked	Prashna:4.4:ttika_1_43
+prashna	anandagiri	4.4	ttika_1	तृतीयोऽ	तृतीयोऽ	mri														unlinked	Prashna:4.4:ttika_1_55
+prashna	anandagiri	4.4	ttika_2	अग्निस्थानीयोऽपीति ।	वायुरग्निस्थानीयोऽपि	as,mri	bhashya	4.4	19	1	वायुरग्निस्थानीयोऽपि									linked	Prashna:4.4:ttika_2_9
+prashna	anandagiri	4.4	ttika_3	होता चेति ।	होता चाहुत्योर्नेतृत्वात्	as,mri	bhashya	4.4	20	2	होता									linked	Prashna:4.4:ttika_3_0
+prashna	anandagiri	4.4	ttika_4	अतश्चेति ।	अतश्च	as,mri	bhashya	4.4	25	1	अतश्च									linked	Prashna:4.4:ttika_4_12
+prashna	anandagiri	4.4	ttika_5	सर्वदेति ।	सर्वदा	as,mri	bhashya	4.4	31	1	सर्वदा									linked	Prashna:4.4:ttika_5_0
+prashna	anandagiri	4.4	ttika_6	अत्र हीति ।	अत्र हि	as,mri	bhashya	4.4	40	2	अत्र									linked	Prashna:4.4:ttika_6_0
+prashna	anandagiri	4.4	ttika_7	यजमानवदिति ।	यजमानवत्कार्यकरणेषु	as,mri	bhashya	4.4	54	1	यजमानवत्कार्यकरणेषु									linked	Prashna:4.4:ttika_7_2
+prashna	anandagiri	4.4	ttika_8	जाग्रत्स्विति ।	जाग्रत्सु	as,mri	bhashya	4.4	42	1	जाग्रत्सु									linked	Prashna:4.4:ttika_8_0
+prashna	anandagiri	4.4	ttika_8	मनो जागर्ति	मनो जागर्ति	mri	bhashya	4.4	53	1	जागर्ति									linked	Prashna:4.4:ttika_8_6
+prashna	anandagiri	4.4	ttika_8	यजमान	यजमान	mri	bhashya	4.4	52	1	यजमानः		mula	4.4	12	1	यजमानः	w8.p0		linked	Prashna:4.4:ttika_8_24
+prashna	anandagiri	4.4	ttika_9	इष्टेति ।	इष्टफलं	as,mri	bhashya	4.4	62	1	इष्टफलं									linked	Prashna:4.4:ttika_9_0
+prashna	anandagiri	4.4	ttika_10	कथमिति ।	कथम्	as,mri	bhashya	4.4	67	1	कथम्									linked	Prashna:4.4:ttika_10_2
+prashna	anandagiri	4.4	ttika_11	स्वर्गमिवेति ।	स्वर्गमिव ब्रह्म अक्षरं गमयति ।	as,mri	bhashya	4.4	77	1	स्वर्गमिव									linked	Prashna:4.4:ttika_11_0
+prashna	anandagiri	4.5	ttika_0	एवं विदुष इति ।	एवं विदुषः	as,mri	bhashya	4.5	0	1	एवं									linked	Prashna:4.5:ttika_0_23
+prashna	anandagiri	4.5	ttika_1	विद्वत्तेति ।	विद्वत्ता	as,mri	bhashya	4.5	8	1	विद्वत्ता									linked	Prashna:4.5:ttika_1_0
+prashna	anandagiri	4.5	ttika_2	न हीति ।	न हि	as,mri	bhashya	4.5	10	1	न									linked	Prashna:4.5:ttika_2_14
+prashna	anandagiri	4.5	ttika_3	विद्वत्तास्तुतिरेवेति ।	विद्वत्तास्तुतिरेवेयमुपपद्यते	as,mri	bhashya	4.5	30	1	विद्वत्तास्तुतिरेवेयमुपपद्यते									linked	Prashna:4.5:ttika_3_0
+prashna	anandagiri	4.5	ttika_4	यदिति। कतर इति। अत्रेति	यद	mri	bhashya	4.5	31	1	यत्पृष्टं									linked	Prashna:4.5:ttika_4_7
+prashna	anandagiri	4.5	ttika_4	उपरतेष्वित्यादिनाऽन्तराल इत्यन्तेन ।	उपरतेषु श्रोत्रादिषु देहरक्षायै जाग्रत्सु प्राणादिवायुषु प्राक्सुषुप्तिप्रतिपत्तेः एतस्मिन्नन्तराल	as,mri	bhashya	4.5	44	1	एतस्मिन्नन्तराल									linked	Prashna:4.5:ttika_4_14
+prashna	anandagiri	4.5	ttika_5	अनेकेति ।	विषयविषयिलक्षणमनेकात्मभावगमनम्	as,mri	bhashya	4.5	52	1	विषयविषयिलक्षणमनेकात्मभावगमनम्									linked	Prashna:4.5:ttika_5_0
+prashna	anandagiri	4.5	ttika_6	नन्विति ।	ननु महिमानुभवने	as,mri	bhashya	4.5	55	1	ननु									linked	Prashna:4.5:ttika_6_13
+prashna	anandagiri	4.5	ttika_7	मनउपाधिकृतमिति ।	मनउपाधिकृतमेव	as,mri	bhashya	4.5	77	1	मनउपाधिकृतमेव									linked	Prashna:4.5:ttika_7_0
+prashna	anandagiri	4.5	ttika_8	मन इति ।	मनउपाधिसहितत्वे	as,mri	bhashya	4.5	93	1	मनउपाधिसहितत्वे									linked	Prashna:4.5:ttika_8_0
+prashna	anandagiri	4.5	ttika_9	स्वयञ्ज्योतिष्ट्वमिति ।	स्वयञ्ज्योतिष्ट्वं	as,mri	bhashya	4.5	96	1	स्वयञ्ज्योतिष्ट्वं									linked	Prashna:4.5:ttika_9_0
+prashna	anandagiri	4.5	ttika_10	तन्नेति ।	तन्न ।	as,mri	bhashya	4.5	100	1	तन्न									linked	Prashna:4.5:ttika_10_11
+prashna	anandagiri	4.5	ttika_11	श्रुत्यर्थेति ।	श्रुत्यर्थापरिज्ञानकृता	as,mri	bhashya	4.5	101	1	श्रुत्यर्थापरिज्ञानकृता									linked	Prashna:4.5:ttika_11_8
+prashna	anandagiri	4.5	ttika_12	यस्मादिति ।	यस्मात्स्वयञ्ज्योतिष्ट्वादिव्यवहारोऽप्यामोक्षान्तः	as,mri	bhashya	4.5	103	1	यस्मात्स्वयञ्ज्योतिष्ट्वादिव्यवहारोऽप्यामोक्षान्तः									linked	Prashna:4.5:ttika_12_17
+prashna	anandagiri	4.5	ttika_13	यत्र वेति ।	यत्र वा	as,mri	bhashya	4.5	107	1	यत्र									linked	Prashna:4.5:ttika_13_2
+prashna	anandagiri	4.5	ttika_14	मात्रेति ।	स्यात्तत्रान्योऽन्यत्पश्येन्मात्रासंसर्गस्त्वस्य	as,mri	bhashya	4.5	110	1	स्यात्तत्रान्योऽन्यत्पश्येन्मात्रासंसर्गस्त्वस्य									linked	Prashna:4.5:ttika_14_4
+prashna	anandagiri	4.5	ttika_14	असंसर्ग	असंसर्ग	mri														unlinked	Prashna:4.5:ttika_14_9
+prashna	anandagiri	4.5	ttika_15	अत इति ।	अतो मन्दब्रह्मविदामेवेयमाशङ्का	as,mri	bhashya	4.5	118	2	अतो									linked	Prashna:4.5:ttika_15_5
+prashna	anandagiri	4.5	ttika_16	नन्विति ।	नन्वेवं	as,mri	bhashya	4.5	122	1	नन्वेवं									linked	Prashna:4.5:ttika_16_10
+prashna	anandagiri	4.5	ttika_17	अत्रोच्यत इति ।	अत्रोच्यते ।	as,mri	bhashya	4.5	130	1	अत्रोच्यते									linked	Prashna:4.5:ttika_17_8
+prashna	anandagiri	4.5	ttika_17	तरपः	तरपः	mri														unlinked	Prashna:4.5:ttika_17_12
+prashna	anandagiri	4.5	ttika_18	स्वयंज्योतिष्ट्वमिति ।	सुतरां स्वयञ्ज्योतिष्ट्वं बाध्येत ।	as,mri	bhashya	4.5	137	1	सुतरां									linked	Prashna:4.5:ttika_18_0
+prashna	anandagiri	4.5	ttika_19	सत्यमिति ।	सत्यमेवम्	as,mri														unlinked	Prashna:4.5:ttika_19_20
+prashna	anandagiri	4.5	ttika_20	केवलतयेति ।	केवलतया	as,mri	bhashya	4.5	145	1	केवलतया									linked	Prashna:4.5:ttika_20_0
+prashna	anandagiri	4.5	ttika_21	भारस्येति ।	भारस्येति	as,mri	bhashya	4.5	148	1	भारस्येति									linked	Prashna:4.5:ttika_21_0
+prashna	anandagiri	4.5	ttika_22	न तत्रापीति ।	न तत्रापि	as,mri	bhashya	4.5	150	4	न									linked	Prashna:4.5:ttika_22_3
+prashna	anandagiri	4.5	ttika_23	तत्रापीति ।	पुरीतन्नाडीसम्बन्धादत्रापि	as,mri	bhashya	4.5	157	1	पुरीतन्नाडीसम्बन्धादत्रापि									linked	Prashna:4.5:ttika_23_0
+prashna	anandagiri	4.5	ttika_24	कथं तर्हीति ।	कथं तर्हि	as,mri	bhashya	4.5	161	1	कथं									linked	Prashna:4.5:ttika_24_19
+prashna	anandagiri	4.5	ttika_25	अन्येति ।	अन्यशाखात्वादनपेक्षा	as,mri	bhashya	4.5	167	1	अन्यशाखात्वादनपेक्षा									linked	Prashna:4.5:ttika_25_11
+prashna	anandagiri	4.5	ttika_26	नार्थैकत्वस्येति ।	न अर्थैकत्वस्येष्टत्वात् ।	as,mri	bhashya	4.5	171	5	न									linked	Prashna:4.5:ttika_26_6
+prashna	anandagiri	4.5	ttika_27	श्रुतेर्यथार्थेति ।	श्रुतेर्यथार्थतत्त्वप्रकाशकत्वात् ।	as,mri	bhashya	4.5	182	1	श्रुतेर्यथार्थतत्त्वप्रकाशकत्वात्									linked	Prashna:4.5:ttika_27_3
+prashna	anandagiri	4.5	ttika_28	एवं तर्हीति ।	एवं तर्हि	as,mri	bhashya	4.5	183	2	एवं									linked	Prashna:4.5:ttika_28_3
+prashna	anandagiri	4.5	ttika_29	सर्वमभिमानं	सर्वमभिमानं	mri	bhashya	4.5	188	1	सर्वमभिमानम्									linked	Prashna:4.5:ttika_29_13
+prashna	anandagiri	4.5	ttika_29	यथेत्यादिना ।	यथा हृदयाकाशे पुरीतति	as,mri	bhashya	4.5	197	1	यथा									linked	Prashna:4.5:ttika_29_35
+prashna	anandagiri	4.5	ttika_30	मनसीति ।	मनस्यविद्याकामकर्मनिमित्तोद्भूतवासनावति	as,mri	bhashya	4.5	212	1	मनस्यविद्याकामकर्मनिमित्तोद्भूतवासनावति									linked	Prashna:4.5:ttika_30_0
+prashna	anandagiri	4.5	ttika_31	कर्मनिमित्तेति ।	कर्मनिमित्ता	as,mri	bhashya	4.5	213	1	कर्मनिमित्ता									linked	Prashna:4.5:ttika_31_7
+prashna	anandagiri	4.5	ttika_31	सर्वकार्ये	सर्वकार्ये	mri	bhashya	4.5	218	1	सर्वकार्यकरणेभ्यः									linked	Prashna:4.5:ttika_31_47
+prashna	anandagiri	4.5	ttika_31	वासनाभ्य	वासनाभ्य	mri	bhashya	4.5	220	1	द्रष्टुर्वासनाभ्यो									linked	Prashna:4.5:ttika_31_58
+prashna	anandagiri	4.5	ttika_32	स्वयंज्योतिष्ट्वमिति ।	स्वयञ्ज्योतिष्ट्वं सुदर्पितेनापि तार्किकेण	as,mri	bhashya	4.5	222	4	स्वयञ्ज्योतिष्ट्वं									linked	Prashna:4.5:ttika_32_0
+prashna	anandagiri	4.5	ttika_33	तस्मादिति ।	तस्मात्साधूक्तं	as,mri	bhashya	4.5	228	1	तस्मात्साधूक्तं									linked	Prashna:4.5:ttika_33_3
+prashna	anandagiri	4.5	ttika_34	कथमिति ।	कथं महिमानमनुभवतीति	as,mri	bhashya	4.5	236	2	कथं									linked	Prashna:4.5:ttika_34_5
+prashna	anandagiri	4.5	ttika_35	उच्यत इति ।	उच्यते ।	as,mri	bhashya	4.5	238	1	उच्यते									linked	Prashna:4.5:ttika_35_6
+prashna	anandagiri	4.5	ttika_36	यदिति ।	यन्मित्रं	as,mri	bhashya	4.5	239	1	यन्मित्रं									linked	Prashna:4.5:ttika_36_0
+prashna	anandagiri	4.5	ttika_37	तथेति ।	तथा	as,mri	bhashya	4.5	253	1	तथा									linked	Prashna:4.5:ttika_37_0
+prashna	anandagiri	4.5	ttika_37	देशो	देशो	mri														unlinked	Prashna:4.5:ttika_37_8
+prashna	anandagiri	4.5	ttika_37	प्रत्यनुभूतं	प्रत्यनुभूतं	mri	bhashya	4.5	259	1	प्रत्यनुभूतं		mula	4.5	17	1	प्रत्यनुभूतम्	w9.p0		linked	Prashna:4.5:ttika_37_14
+prashna	anandagiri	4.5	ttika_38	अत्यन्तेति ।	अत्यन्तादृष्टे	as,mri	bhashya	4.5	268	1	अत्यन्तादृष्टे									linked	Prashna:4.5:ttika_38_3
+prashna	anandagiri	4.5	ttika_39	केवलेनेति ।	केवलेन	as,mri	bhashya	4.5	275	1	केवलेन									linked	Prashna:4.5:ttika_39_4
+prashna	anandagiri	4.5	ttika_40	सर्व इति ॥ ५ ॥	सर्वः पश्यति	as	bhashya	4.5	290	1	सर्वः									linked	Prashna:4.5:ttika_40_2
+prashna	anandagiri	4.6	ttika_0	स यदेति ।	सः यदा	as,mri	bhashya	4.6	0	1	सः									linked	Prashna:4.6:ttika_0_4
+prashna	anandagiri	4.6	ttika_1	पित्ताख्येनेति ।	पित्ताख्येन	as,mri	bhashya	4.6	6	1	पित्ताख्येन									linked	Prashna:4.6:ttika_1_0
+prashna	anandagiri	4.6	ttika_2	तिरस्कृतेति ।	तिरस्कृतवासनाद्वारो	as,mri	bhashya	4.6	12	1	तिरस्कृतवासनाद्वारो									linked	Prashna:4.6:ttika_2_0
+prashna	anandagiri	4.6	ttika_3	रश्मय इति ।	रश्मयो	as,mri	bhashya	4.6	17	1	रश्मयो									linked	Prashna:4.6:ttika_3_0
+prashna	anandagiri	4.6	ttika_4	अविशेषविज्ञानेति ।	दार्वग्निवदविशेषविज्ञानरूपेण	as,mri	bhashya	4.6	22	1	दार्वग्निवदविशेषविज्ञानरूपेण									linked	Prashna:4.6:ttika_4_0
+prashna	anandagiri	4.6	ttika_5	तदेति ।	तदा सुषुप्तो भवति ।	as,mri	bhashya	4.6	26	2	तदा									linked	Prashna:4.6:ttika_5_2
+prashna	anandagiri	4.6	ttika_6	यद्विज्ञानमिति ।	यद्विज्ञानं	as,mri	bhashya	4.6	45	1	यद्विज्ञानं									linked	Prashna:4.6:ttika_6_12
+prashna	anandagiri	4.7	ttika_0	एतस्मिन्निति ।	एतस्मिन्काले	as,mri	bhashya	4.7	0	1	एतस्मिन्काले									linked	Prashna:4.7:ttika_0_6
+prashna	anandagiri	4.7	ttika_1	अन्यथेति ।	शान्तेष्वात्मस्वरूपमुपाधिभिरन्यथा	as,mri	bhashya	4.7	6	1	शान्तेष्वात्मस्वरूपमुपाधिभिरन्यथा									linked	Prashna:4.7:ttika_1_0
+prashna	anandagiri	4.7	ttika_1	मन्यथा विभाव्यमान	मन्यथा विभाव्यमान	mri														unlinked	Prashna:4.7:ttika_1_3
+prashna	anandagiri	4.7	ttika_2	मात्रानुप्रवेशेनेति ।	पृथिव्याद्यविद्याकृतमात्रानुप्रवेशेन	as,mri	bhashya	4.7	11	1	पृथिव्याद्यविद्याकृतमात्रानुप्रवेशेन									linked	Prashna:4.7:ttika_2_0
+prashna	anandagiri	4.8	ttika_0	आपोमात्रा	आपोमात्रा	mri	bhashya	4.8	12	1	आपोमात्रा		mula	4.8	6	1	आपो-मात्रा	w3.p3		linked	Prashna:4.8:ttika_0_0
+prashna	anandagiri	4.8	ttika_0	स्थूलानि चेति ।	स्थूलानि च	as,mri	bhashya	4.8	22	1	स्थूलानि									linked	Prashna:4.8:ttika_0_4
+prashna	anandagiri	4.8	ttika_1	प्रकाशविशिष्टा या त्वगिति ।	प्रकाशविशिष्टा या त्वक् ।	as,mri	bhashya	4.8	91	1	प्रकाशविशिष्टा									linked	Prashna:4.8:ttika_1_0
+prashna	anandagiri	4.8	ttika_2	पृथिवी	पृथिवी	mri	bhashya	4.8	2	1	पृथिवी		mula	4.8	0	1	पृथिवी	w0.p0		linked	Prashna:4.8:ttika_2_0
+prashna	anandagiri	4.8	ttika_2	विधारयितव्यं	विधारयितव्यं	mri	bhashya	4.8	102	1	विधारयितव्यं		mula	4.8	82	1	विधारयितव्यम्	w58.p0		linked	Prashna:4.8:ttika_2_2
+prashna	anandagiri	4.8	ttika_2	सर्वं हीति ॥ ८ ॥	सर्वं हि	as	bhashya	4.8	104	1	सर्वं									linked	Prashna:4.8:ttika_2_7
+prashna	anandagiri	4.9	ttika_0	अतः परमिति ।	अतः परं	as,mri	bhashya	4.9	0	1	अतः									linked	Prashna:4.9:ttika_0_4
+prashna	anandagiri	4.9	ttika_1	द्रष्टेति ।	एषः हि द्रष्टा स्प्रष्टा श्रोता घ्राता रसयिता मन्ता बोद्धा कर्ता विज्ञानात्मा विज्ञानं विज्ञायतेऽनेनेति	as,mri	bhashya	4.9	16	1	विज्ञायतेऽनेनेति									linked	Prashna:4.9:ttika_1_0
+prashna	anandagiri	4.9	ttika_2	विज्ञानमिति ।	विज्ञानं	as,mri	bhashya	4.9	15	1	विज्ञानं									linked	Prashna:4.9:ttika_2_8
+prashna	anandagiri	4.9	ttika_3	करणभूतमिति ।	करणभूतं	as,mri	bhashya	4.9	17	1	करणभूतं									linked	Prashna:4.9:ttika_3_0
+prashna	anandagiri	4.9	ttika_4	एष हीति	एष ह	mri	bhashya	4.9	4	1	एषः		mula	4.9	0	1	एषः	w0.p0		linked	Prashna:4.9:ttika_4_0
+prashna	anandagiri	4.9	ttika_4	स चेति ॥ ९ ॥	स च	as	bhashya	4.9	30	1	स									linked	Prashna:4.9:ttika_4_17
+prashna	anandagiri	4.10	ttika_0	तदेकत्वेति ।	तदेकत्वविदः	as,mri	bhashya	4.10	0	1	तदेकत्वविदः									linked	Prashna:4.10:ttika_0_7
+prashna	anandagiri	4.10	ttika_1	एतदुच्यत इति ।	एतदुच्यते	as,mri	bhashya	4.10	7	1	एतदुच्यते									linked	Prashna:4.10:ttika_1_2
+prashna	anandagiri	4.10	ttika_2	सर्वेति ।	सर्वविशेषणरहितत्वादक्षरम्	as,mri	bhashya	4.10	24	1	सर्वविशेषणरहितत्वादक्षरम्									linked	Prashna:4.10:ttika_2_2
+prashna	anandagiri	4.10	ttika_2	स यो ह वा	स यो ह वा	mri	bhashya	4.10	8	1	स		mula	4.10	4	1	सः	w2.p0		linked	Prashna:4.10:ttika_2_6
+prashna	anandagiri	4.10	ttika_2	स यः	स यः	mri	bhashya	4.10	8	1	स									linked	Prashna:4.10:ttika_2_12
+prashna	anandagiri	4.10	ttika_2	वेदयत	वेदयत	mri	bhashya	4.10	30	1	वेदयते		mula	4.10	14	1	वेदयते	w8.p0		linked	Prashna:4.10:ttika_2_15
+prashna	anandagiri	4.10	ttika_2	यस्तु वेदयते स सर्वज्ञ	यस्तु वेदयते स सर्वज्ञ	mri	bhashya	4.10	37	1	सर्वज्ञः									linked	Prashna:4.10:ttika_2_20
+prashna	anandagiri	4.10	ttika_3	सत्यमित्यादिना ।	सत्यं	as,mri	bhashya	4.10	25	1	सत्यं									linked	Prashna:4.10:ttika_3_14
+prashna	anandagiri	4.10	ttika_3	सर्वत्यागी	सर्वत्यागी	mri	bhashya	4.10	33	1	सर्वत्यागी									linked	Prashna:4.10:ttika_3_17
+prashna	anandagiri	4.10	ttika_3	सर्वज्ञ	सर्वज्ञ	mri	bhashya	4.10	37	1	सर्वज्ञः		mula	4.10	19	1	सर्वज्ञः	w12.p0		linked	Prashna:4.10:ttika_3_24
+prashna	anandagiri	4.10	ttika_4	पूर्वमिति ।	पूर्वमविद्यया	as,mri	bhashya	4.10	41	1	पूर्वमविद्यया									linked	Prashna:4.10:ttika_4_4
+prashna	anandagiri	4.10	ttika_5	सर्वो भवतीति ॥ १० ॥	सर्वः भवति ।	as	bhashya	4.10	46	1	सर्वः									linked	Prashna:4.10:ttika_5_4
+prashna	anandagiri	4.11	ttika_0	अग्न्यादिभिरिति ।	अग्न्यादिभिः	as,mri	bhashya	4.11	3	1	अग्न्यादिभिः									linked	Prashna:4.11:ttika_0_0
+prashna	anandagiri	5.1	ttika_0	अथ हैनमिति ।	अथ ह एनं	as,mri	bhashya	5.1	0	1	अथ									linked	Prashna:5.1:ttika_0_13
+prashna	anandagiri	5.1	ttika_1	इदानीमिति ।	अथेदानीं	as,mri	bhashya	5.1	6	1	अथेदानीं									linked	Prashna:5.1:ttika_1_0
+prashna	anandagiri	5.1	ttika_2	परेति ।	परापरब्रह्मप्राप्तिसाधनत्वेन	as,mri	bhashya	5.1	7	1	परापरब्रह्मप्राप्तिसाधनत्वेन									linked	Prashna:5.1:ttika_2_0
+prashna	anandagiri	5.1	ttika_3	तदद्भुतमिवेति ।	तत् अद्भुतमिव	as,mri	bhashya	5.1	20	1	तत्									linked	Prashna:5.1:ttika_3_0
+prashna	anandagiri	5.1	ttika_4	बाह्येति ।	बाह्यविषयेभ्य	as,mri	bhashya	5.1	29	1	बाह्यविषयेभ्य									linked	Prashna:5.1:ttika_4_5
+prashna	anandagiri	5.1	ttika_4	ब्रह्मभावो	ब्रह्मभावो	mri	bhashya	5.1	32	1	भक्त्यावेशितब्रह्मभावे									linked	Prashna:5.1:ttika_4_9
+prashna	anandagiri	5.1	ttika_5	आत्मेति ।	आत्मप्रत्ययसन्तानाविच्छेदो	as,mri	bhashya	5.1	34	1	आत्मप्रत्ययसन्तानाविच्छेदो									linked	Prashna:5.1:ttika_5_1
+prashna	anandagiri	5.1	ttika_5	सन्तानाविच्छेद	सन्तानाविच्छेद	mri	bhashya	5.1	34	1	आत्मप्रत्ययसन्तानाविच्छेदो									linked	Prashna:5.1:ttika_5_3
+prashna	anandagiri	5.1	ttika_5	प्रत्ययान्तरेण	प्रत्ययान्तरेण	mri														unlinked	Prashna:5.1:ttika_5_7
+prashna	anandagiri	5.1	ttika_6	निर्वातेति ।	निवातस्थदीपशिखासमोऽभिध्यानशब्दार्थः	as,mri	bhashya	5.1	36	1	निवातस्थदीपशिखासमोऽभिध्यानशब्दार्थः									linked	Prashna:5.1:ttika_6_5
+prashna	anandagiri	5.1	ttika_7	सत्येति ।	सत्यब्रह्मचर्याहिंसापरिग्रहत्यागसंन्यासशौचसन्तोषामायावित्वाद्यनेकयमनियमानुगृहीतः	as,mri	bhashya	5.1	37	1	सत्यब्रह्मचर्याहिंसापरिग्रहत्यागसंन्यासशौचसन्तोषामायावित्वाद्यनेकयमनियमानुगृहीतः									linked	Prashna:5.1:ttika_7_3
+prashna	anandagiri	5.1	ttika_8	अनेके हीति ।	अनेके हि	as,mri	bhashya	5.1	43	1	अनेके									linked	Prashna:5.1:ttika_8_4
+prashna	anandagiri	5.2	ttika_0	एतद्वा इति ।	उवाच पिप्पलादः एतद्वै सत्यकाम । एतत् ब्रह्म	as,mri	bhashya	5.2	4	1	उवाच									linked	Prashna:5.2:ttika_0_7
+prashna	anandagiri	5.2	ttika_1	एतद्ब्रह्मेति ।	एतत् ब्रह्म	as,mri	bhashya	5.2	8	1	एतत्									linked	Prashna:5.2:ttika_1_1
+prashna	anandagiri	5.2	ttika_2	परं चेति ।	परं च अपरं च ब्रह्म परं	as,mri	bhashya	5.2	11	1	परं									linked	Prashna:5.2:ttika_2_3
+prashna	anandagiri	5.2	ttika_3	ओङ्कारप्रतीकत्वादिति ।	ओङ्कारप्रतीकत्वात् ।	as,mri	bhashya	5.2	27	1	ओङ्कारप्रतीकत्वात्									linked	Prashna:5.2:ttika_3_1
+prashna	anandagiri	5.2	ttika_4	परं हीति ।	परं हि	as,mri	bhashya	5.2	28	3	परं									linked	Prashna:5.2:ttika_4_6
+prashna	anandagiri	5.2	ttika_5	शब्दादीति ।	शब्दाद्युपलक्षणानर्हं	as,mri	bhashya	5.2	31	1	शब्दाद्युपलक्षणानर्हं									linked	Prashna:5.2:ttika_5_0
+prashna	anandagiri	5.2	ttika_6	सर्वेति ।	सर्वधर्मविशेषवर्जितम्	as,mri	bhashya	5.2	32	1	सर्वधर्मविशेषवर्जितम्									linked	Prashna:5.2:ttika_6_6
+prashna	anandagiri	5.2	ttika_7	अतीन्द्रियेति ।	शक्यमतीन्द्रियगोचरत्वात्केवलेन	as,mri	bhashya	5.2	35	1	शक्यमतीन्द्रियगोचरत्वात्केवलेन									linked	Prashna:5.2:ttika_7_4
+prashna	anandagiri	5.2	ttika_8	ओङ्कारे त्विति ।	ओङ्कारे तु	as,mri	bhashya	5.2	37	1	ओङ्कारे									linked	Prashna:5.2:ttika_8_14
+prashna	anandagiri	5.2	ttika_9	प्रसीदतीति ।	तत्प्रसीदतीत्यवगम्यते	as,mri	bhashya	5.2	42	1	तत्प्रसीदतीत्यवगम्यते									linked	Prashna:5.2:ttika_9_0
+prashna	anandagiri	5.2	ttika_10	शास्त्रेति ।	शास्त्रप्रामाण्यात्	as,mri	bhashya	5.2	43	1	शास्त्रप्रामाण्यात्									linked	Prashna:5.2:ttika_10_2
+prashna	anandagiri	5.2	ttika_11	तथाऽपरं चेति ।	तथा परं च	as,mri	bhashya	5.2	44	1	तथा									linked	Prashna:5.2:ttika_11_0
+prashna	anandagiri	5.2	ttika_12	तस्मादिति ।	तस्मात्परं	as,mri	bhashya	5.2	48	1	तस्मात्परं									linked	Prashna:5.2:ttika_12_0
+prashna	anandagiri	5.2	ttika_13	तस्मादेवं विद्वानिति ।	तस्मादेवं विद्वान्	as,mri	bhashya	5.2	54	1	तस्मादेवं									linked	Prashna:5.2:ttika_13_0
+prashna	anandagiri	5.2	ttika_14	ओङ्कारेति ।	ओङ्काराभिध्यानेन	as	bhashya	5.2	58	1	ओङ्काराभिध्यानेन									linked	Prashna:5.2:ttika_14_3
+prashna	anandagiri	5.2	ttika_15	नेदिष्ठमिति ।	नेदिष्ठं	as,mri	bhashya	5.2	64	1	नेदिष्ठं									linked	Prashna:5.2:ttika_15_4
+prashna	anandagiri	5.3	ttika_0	स यदीति ।	स यद्यप्योङ्कारस्य	as,mri	bhashya	5.3	0	1	स									linked	Prashna:5.3:ttika_0_3
+prashna	anandagiri	5.3	ttika_1	सकलेति ।	सकलमात्राविभागज्ञो	as,mri	bhashya	5.3	2	1	सकलमात्राविभागज्ञो									linked	Prashna:5.3:ttika_1_0
+prashna	anandagiri	5.3	ttika_2	यद्यप्येवमिति ।	यदि एवमोङ्कारमेव	as,mri	bhashya	5.3	15	1	यदि									linked	Prashna:5.3:ttika_2_1
+prashna	anandagiri	5.3	ttika_2	स तेनैवे	स तेनैवे	mri	bhashya	5.3	24	2	स		mula	5.3	4	2	सः	w2.p0		linked	Prashna:5.3:ttika_2_9
+prashna	anandagiri	5.3	ttika_3	एकमात्रमिति ।	एकमात्राविभागज्ञ	as,mri	bhashya	5.3	17	1	एकमात्राविभागज्ञ									linked	Prashna:5.3:ttika_3_0
+prashna	anandagiri	5.3	ttika_4	ओङ्कारेति ।	एकमात्राविशिष्टोङ्काराभिध्यानेनैव	as,mri	bhashya	5.3	26	1	एकमात्राविशिष्टोङ्काराभिध्यानेनैव									linked	Prashna:5.3:ttika_4_0
+prashna	anandagiri	5.3	ttika_4	दीपिकायां वाचस्पत्ये		mri														unlinked	Prashna:5.3:ttika_4_8
+prashna	anandagiri	5.3	ttika_5	सम्भोधित इति ।	सम्बोधितः	as,mri	bhashya	5.3	28	1	सम्बोधितः									linked	Prashna:5.3:ttika_5_0
+prashna	anandagiri	5.3	ttika_6	किमिति ।	किम्	as,mri	bhashya	5.3	34	1	किम्									linked	Prashna:5.3:ttika_6_5
+prashna	anandagiri	5.3	ttika_7	मनुष्यलोकमिति ।	मनुष्यलोकम् ।	as,mri	bhashya	5.3	35	1	मनुष्यलोकम्									linked	Prashna:5.3:ttika_7_2
+prashna	anandagiri	5.3	ttika_8	अनेकानि हीति ।	अनेकानि हि	as,mri	bhashya	5.3	36	1	अनेकानि									linked	Prashna:5.3:ttika_8_4
+prashna	anandagiri	5.3	ttika_9	तत्र तमिति ।	तत्र तं	as,mri	bhashya	5.3	41	1	तत्र									linked	Prashna:5.3:ttika_9_6
+prashna	anandagiri	5.3	ttika_10	ऋग्वेदरूपा हीति ।	ऋग्वेदरूपा ह्योङ्कारस्य	as,mri	bhashya	5.3	49	1	ऋग्वेदरूपा									linked	Prashna:5.3:ttika_10_0
+prashna	anandagiri	5.3	ttika_11	तेनेति ।	तेन स तत्र मनुष्यजन्मनि	as,mri	bhashya	5.3	53	1	तेन									linked	Prashna:5.3:ttika_11_0
+prashna	anandagiri	5.3	ttika_12	वीतश्रद्ध इति ।	वीतश्रद्धो	as,mri	bhashya	5.3	68	1	वीतश्रद्धो									linked	Prashna:5.3:ttika_12_0
+prashna	anandagiri	5.3	ttika_13	योगभ्रष्ट इति ।	योगभ्रष्टः	as,mri	bhashya	5.3	71	1	योगभ्रष्टः									linked	Prashna:5.3:ttika_13_0
+prashna	anandagiri	5.4	ttika_0	द्विमात्रेण विशिष्टमिति ।	द्विमात्रेण विशिष्टमोङ्कारमभिध्यायीत	as,mri	bhashya	5.4	4	1	द्विमात्रेण									linked	Prashna:5.4:ttika_0_0
+prashna	anandagiri	5.4	ttika_0	मनसि सम्पद्यत	मनसि सम्पद्यत	mri	bhashya	5.4	11	1	सम्पद्यते		mula	5.4	3	1	मनसि	w3.p0		linked	Prashna:5.4:ttika_0_24
+prashna	anandagiri	5.4	ttika_1	स्वप्नात्मक इति ।	स्वप्नात्मके	as,mri	bhashya	5.4	6	1	स्वप्नात्मके									linked	Prashna:5.4:ttika_1_11
+prashna	anandagiri	5.4	ttika_1	अत्र केचित्	अत्र केचित्	mri														unlinked	Prashna:5.4:ttika_1_21
+prashna	anandagiri	5.4	ttika_1	दीपिकायां		mri														unlinked	Prashna:5.4:ttika_1_46
+prashna	anandagiri	5.5	ttika_0	यः पुनरिति ।	यः पुनः	as,mri	bhashya	5.5	0	1	यः									linked	Prashna:5.5:ttika_0_5
+prashna	anandagiri	5.5	ttika_1	विज्ञानविशिष्टेनेति ।	त्रिमात्राविषयविज्ञानविशिष्टेन	as,mri	bhashya	5.5	5	1	त्रिमात्राविषयविज्ञानविशिष्टेन									linked	Prashna:5.5:ttika_1_0
+prashna	anandagiri	5.5	ttika_1	मोमित्येतेनैवाक्षरेणे	मोम	mri														unlinked	Prashna:5.5:ttika_1_16
+prashna	anandagiri	5.5	ttika_2	प्रतीकेनेति ।	प्रतीकत्वेन	as,mri	bhashya	5.5	11	1	प्रतीकत्वेन									linked	Prashna:5.5:ttika_2_26
+prashna	anandagiri	5.5	ttika_3	प्रतीकत्वेनेति ।	प्रतीकत्वेन ह्यालम्बनत्वं	as,mri	bhashya	5.5	14	2	प्रतीकत्वेन									linked	Prashna:5.5:ttika_3_3
+prashna	anandagiri	5.5	ttika_4	अभेदेति ।	अभेदश्रुतेः	as,mri	bhashya	5.5	21	1	अभेदश्रुतेः									linked	Prashna:5.5:ttika_4_0
+prashna	anandagiri	5.5	ttika_5	अनेकश इति ।	द्वितीयानेकशः	as,mri	bhashya	5.5	24	1	द्वितीयानेकशः									linked	Prashna:5.5:ttika_5_0
+prashna	anandagiri	5.5	ttika_6	यद्यपीति ।	यद्यपि	as,mri														unlinked	Prashna:5.5:ttika_6_21
+prashna	anandagiri	5.5	ttika_7	तथाऽपीति ।	तथापि	as,mri														unlinked	Prashna:5.5:ttika_7_5
+prashna	anandagiri	5.5	ttika_8	प्रकृतेति ।	प्रकृतानुरोधात्त्रिमात्रं	as,mri	bhashya	5.5	31	1	प्रकृतानुरोधात्त्रिमात्रं									linked	Prashna:5.5:ttika_8_0
+prashna	anandagiri	5.5	ttika_9	त्यजेदेकमिति ।	त्यजेदेकं	as,mri	bhashya	5.5	36	1	त्यजेदेकं									linked	Prashna:5.5:ttika_9_5
+prashna	anandagiri	5.5	ttika_10	तृतीयमात्रारूप इति ।	सः तृतीयमात्रारूपे	as,mri	bhashya	5.5	40	1	सः									linked	Prashna:5.5:ttika_10_0
+prashna	anandagiri	5.5	ttika_10	तृतीयमात्ररूप	तृतीयमात्ररूप	mri	bhashya	5.5	75	1	तृतीयमात्रारूपैः									linked	Prashna:5.5:ttika_10_13
+prashna	anandagiri	5.5	ttika_11	स हिरण्यगर्भ इति ।	सः हिरण्यगर्भः	as,mri	bhashya	5.5	82	3	सः									linked	Prashna:5.5:ttika_11_2
+prashna	anandagiri	5.5	ttika_12	लिङ्गरूपेणेति ।	लिङ्गरूपेण	as	bhashya	5.5	89	1	लिङ्गरूपेण									linked	Prashna:5.5:ttika_12_0
+prashna	anandagiri	5.5	ttika_13	तस्मिन्हीति ।	तस्मिन् हि	as,mri	bhashya	5.5	91	1	तस्मिन्									linked	Prashna:5.5:ttika_13_0
+prashna	anandagiri	5.5	ttika_14	स विद्वानिति ।	स विद्वांस्त्रिमात्रोङ्काराभिज्ञः	as,mri	bhashya	5.5	99	4	स									linked	Prashna:5.5:ttika_14_3
+prashna	anandagiri	5.6	ttika_0	तिस्र इति ।	तिस्रः	as,mri	bhashya	5.6	0	1	तिस्रः									linked	Prashna:5.6:ttika_0_6
+prashna	anandagiri	5.6	ttika_1	मृत्युगोचर इति ।	मृत्युगोचरा	as,mri	bhashya	5.6	10	1	मृत्युगोचरा									linked	Prashna:5.6:ttika_1_0
+prashna	anandagiri	5.6	ttika_2	किञ्चेति ।	किञ्च	as,mri	bhashya	5.6	16	1	किञ्च									linked	Prashna:5.6:ttika_2_8
+prashna	anandagiri	5.6	ttika_3	जाग्रदिति ।	जाग्रत्स्वप्नसुषुप्तस्थानपुरुषाभिध्यानलक्षणासु	as,mri	bhashya	5.6	37	1	जाग्रत्स्वप्नसुषुप्तस्थानपुरुषाभिध्यानलक्षणासु									linked	Prashna:5.6:ttika_3_0
+prashna	anandagiri	5.6	ttika_4	यथोक्तेति ।	यथोक्तविभागज्ञः	as,mri	bhashya	5.6	49	1	यथोक्तविभागज्ञः									linked	Prashna:5.6:ttika_4_0
+prashna	anandagiri	5.6	ttika_5	कुतो वेति ।	कुतो वा	as,mri	bhashya	5.6	61	1	कुतो									linked	Prashna:5.6:ttika_5_0
+prashna	anandagiri	5.7	ttika_0	तेनैवेति ।	तेनैवोङ्कारेण	as,mri	bhashya	5.7	28	1	तेनैवोङ्कारेण									linked	Prashna:5.7:ttika_0_11
+prashna	anandagiri	6.1	ttika_0	अथ हैनमिति ।	अथ ह एनं	as,mri	bhashya	6.1	0	1	अथ									linked	Prashna:6.1:ttika_0_21
+prashna	anandagiri	6.1	ttika_1	समस्तमित्यादिना ।	समस्तं	as,mri	bhashya	6.1	6	1	समस्तं									linked	Prashna:6.1:ttika_1_3
+prashna	anandagiri	6.1	ttika_2	सामर्थ्यादिति ।	तत्सामर्थ्यात्प्रलयेऽपि	as,mri	bhashya	6.1	14	1	तत्सामर्थ्यात्प्रलयेऽपि									linked	Prashna:6.1:ttika_2_5
+prashna	anandagiri	6.1	ttika_3	तत इति ।	जगत्तत	as,mri	bhashya	6.1	17	1	जगत्तत									linked	Prashna:6.1:ttika_3_2
+prashna	anandagiri	6.1	ttika_4	जगत इति ।	जगतश्च	as,mri	bhashya	6.1	34	1	जगतश्च									linked	Prashna:6.1:ttika_4_2
+prashna	anandagiri	6.1	ttika_5	अनन्तरमिति ।	अनन्तरं	as,mri	bhashya	6.1	41	1	अनन्तरं									linked	Prashna:6.1:ttika_5_6
+prashna	anandagiri	6.1	ttika_6	वक्तव्यमिति ।	वक्तव्यं	as,mri	bhashya	6.1	48	1	वक्तव्यं									linked	Prashna:6.1:ttika_6_2
+prashna	anandagiri	6.1	ttika_7	तदर्थोऽयमिति ।	तदर्थोऽयं	as,mri	bhashya	6.1	56	1	तदर्थोऽयं									linked	Prashna:6.1:ttika_7_0
+prashna	anandagiri	6.1	ttika_8	प्रश्नमिति ।	प्रश्न आरभ्यते ।	as,mri	bhashya	6.1	57	1	प्रश्न									linked	Prashna:6.1:ttika_8_0
+prashna	anandagiri	6.1	ttika_9	अज्ञाने कारणमिति ।	तमज्ञाने कारणमवादिषम्	as,mri	bhashya	6.1	112	1	तमज्ञाने									linked	Prashna:6.1:ttika_9_0
+prashna	anandagiri	6.1	ttika_10	अप्रत्ययमिति ।	भूयोऽप्यप्रत्ययमेवालक्ष्य	as,mri	bhashya	6.1	132	1	भूयोऽप्यप्रत्ययमेवालक्ष्य									linked	Prashna:6.1:ttika_10_0
+prashna	anandagiri	6.1	ttika_11	अन्यथा सन्तमिति ।	अन्यथा सन्तमात्मानमन्यथा	as,mri	bhashya	6.1	139	1	अन्यथा									linked	Prashna:6.1:ttika_11_0
+prashna	anandagiri	6.1	ttika_11	मन्यथा कुर्वन्न	मन्यथा कुर्वन्न	mri														unlinked	Prashna:6.1:ttika_11_5
+prashna	anandagiri	6.1	ttika_12	अत इति ।	अतो	as,mri	bhashya	6.1	173	1	अतो									linked	Prashna:6.1:ttika_12_4
+prashna	anandagiri	6.1	ttika_13	अनृतं चेति ।	अनृतं च	as,mri	bhashya	6.1	180	2	अनृतं									linked	Prashna:6.1:ttika_13_4
+prashna	anandagiri	6.1	ttika_14	विज्ञेयत्वेनेति ।	विज्ञेयत्वेन	as,mri	bhashya	6.1	193	1	विज्ञेयत्वेन									linked	Prashna:6.1:ttika_14_2
+prashna	anandagiri	6.2	ttika_0	षोडशकलाभिरिति ।	षोडशभिः कलाभिरुपाधिभूताभिः	as,mri	bhashya	6.2	22	1	षोडशभिः									linked	Prashna:6.2:ttika_0_12
+prashna	anandagiri	6.2	ttika_1	तदुपाधीति ।	तदुपाधिकलाध्यारोपापनयनेन	as,mri	bhashya	6.2	29	1	तदुपाधिकलाध्यारोपापनयनेन									linked	Prashna:6.2:ttika_1_7
+prashna	anandagiri	6.2	ttika_2	अत्यन्तेति ।	अत्यन्तनिर्विशेषे	as,mri	bhashya	6.2	39	1	अत्यन्तनिर्विशेषे									linked	Prashna:6.2:ttika_2_5
+prashna	anandagiri	6.2	ttika_3	अविद्याविषया इति ।	आरोप्यन्तेऽविद्याविषयाः	as,mri	bhashya	6.2	49	1	आरोप्यन्तेऽविद्याविषयाः									linked	Prashna:6.2:ttika_3_0
+prashna	anandagiri	6.2	ttika_4	चैतन्येति ।	चैतन्याव्यतिरेकेणैव	as,mri	bhashya	6.2	50	1	चैतन्याव्यतिरेकेणैव									linked	Prashna:6.2:ttika_4_4
+prashna	anandagiri	6.2	ttika_5	अत एवेति ।	अत एव	as,mri	bhashya	6.2	57	1	अत									linked	Prashna:6.2:ttika_5_5
+prashna	anandagiri	6.2	ttika_6	शून्य	शून्य	mri														unlinked	Prashna:6.2:ttika_6_6
+prashna	anandagiri	6.2	ttika_6	तन्निरोध इति ।	तन्निरोधे	as,mri	bhashya	6.2	67	1	तन्निरोधे									linked	Prashna:6.2:ttika_6_14
+prashna	anandagiri	6.2	ttika_7	घटादीति ।	घटादिविषयं	as,mri	bhashya	6.2	71	1	घटादिविषयं									linked	Prashna:6.2:ttika_7_7
+prashna	anandagiri	6.2	ttika_8	भूतधर्म इति ।	भूतधर्म	as,mri	bhashya	6.2	77	1	भूतधर्म									linked	Prashna:6.2:ttika_8_0
+prashna	anandagiri	6.2	ttika_9	अनपायेति ।	अनपायोपजनधर्मकचैतन्यमात्मैव	as,mri	bhashya	6.2	80	1	अनपायोपजनधर्मकचैतन्यमात्मैव									linked	Prashna:6.2:ttika_9_4
+prashna	anandagiri	6.2	ttika_10	प्रत्यवभासत इति ।	प्रत्यवभासते	as,mri	bhashya	6.2	82	1	प्रत्यवभासते									linked	Prashna:6.2:ttika_10_0
+prashna	anandagiri	6.2	ttika_11	सत्यं ज्ञानमिति ।	सत्यं ज्ञानमनन्तं	as,mri	bhashya	6.2	83	1	सत्यं									linked	Prashna:6.2:ttika_11_0
+prashna	anandagiri	6.2	ttika_12	स्वरूपेति ।	स्वरूपव्यभिचारिषु	as,mri	bhashya	6.2	93	1	स्वरूपव्यभिचारिषु									linked	Prashna:6.2:ttika_12_14
+prashna	anandagiri	6.2	ttika_13	यथा यथेति ।	चैतन्यस्याव्यभिचाराद्यथा यथा	as,mri	bhashya	6.2	95	1	चैतन्यस्याव्यभिचाराद्यथा									linked	Prashna:6.2:ttika_13_1
+prashna	anandagiri	6.2	ttika_14	वस्तुतत्त्वेति ।	वस्तुतत्त्वं	as,mri	bhashya	6.2	107	1	वस्तुतत्त्वं									linked	Prashna:6.2:ttika_14_6
+prashna	anandagiri	6.2	ttika_15	रूपं चेति ।	रूपं च	as,mri	bhashya	6.2	114	1	रूपं									linked	Prashna:6.2:ttika_15_3
+prashna	anandagiri	6.2	ttika_16	व्यभिचरति त्विति ।	व्यभिचरति तु	as,mri	bhashya	6.2	121	1	व्यभिचरति									linked	Prashna:6.2:ttika_16_5
+prashna	anandagiri	6.2	ttika_17	न व्यभिचरतीति ।	न ज्ञानं व्यभिचरति	as,mri	bhashya	6.2	124	5	न									linked	Prashna:6.2:ttika_17_8
+prashna	anandagiri	6.2	ttika_18	भावादिति ।	भावाज्ज्ञानस्य	as,mri	bhashya	6.2	131	1	भावाज्ज्ञानस्य									linked	Prashna:6.2:ttika_18_0
+prashna	anandagiri	6.2	ttika_19	न हीति ।	न हि	as,mri	bhashya	6.2	132	6	न									linked	Prashna:6.2:ttika_19_6
+prashna	anandagiri	6.2	ttika_20	सुषुप्त इति ।	सुषुप्तेऽदर्शनात्	as,mri	bhashya	6.2	139	1	सुषुप्तेऽदर्शनात्									linked	Prashna:6.2:ttika_20_2
+prashna	anandagiri	6.2	ttika_21	न ज्ञेयेति ।	न ज्ञेयावभासकस्य	as,mri	bhashya	6.2	145	7	न									linked	Prashna:6.2:ttika_21_2
+prashna	anandagiri	6.2	ttika_22	न हीति ।	न ह्यन्धकारे	as,mri	bhashya	6.2	153	8	न									linked	Prashna:6.2:ttika_22_8
+prashna	anandagiri	6.2	ttika_23	वैनाशिक इति ।	वैनाशिको	as,mri	bhashya	6.2	160	1	वैनाशिको									linked	Prashna:6.2:ttika_23_6
+prashna	anandagiri	6.2	ttika_24	कल्पयत्येवेति ।	कल्पयत्येवेति	as,mri														unlinked	Prashna:6.2:ttika_24_0
+prashna	anandagiri	6.2	ttika_25	येनेति ।	येन	as,mri	bhashya	6.2	165	1	येन									linked	Prashna:6.2:ttika_25_11
+prashna	anandagiri	6.2	ttika_25	येन	येन	mri	bhashya	6.2	165	1	येन									linked	Prashna:6.2:ttika_25_13
+prashna	anandagiri	6.2	ttika_25	तदभावं	तदभावं	mri	bhashya	6.2	166	1	तदभावं									linked	Prashna:6.2:ttika_25_15
+prashna	anandagiri	6.2	ttika_25	त्तस्य	त्तस्य	mri														unlinked	Prashna:6.2:ttika_25_18
+prashna	anandagiri	6.2	ttika_26	तदभावस्यापीति ।	तदभावस्यापि	as,mri	bhashya	6.2	173	1	तदभावस्यापि									linked	Prashna:6.2:ttika_26_3
+prashna	anandagiri	6.2	ttika_27	ज्ञेयेति ।	ज्ञेयत्वाज्ज्ञानाभावे	as,mri	bhashya	6.2	174	1	ज्ञेयत्वाज्ज्ञानाभावे									linked	Prashna:6.2:ttika_27_3
+prashna	anandagiri	6.2	ttika_28	नाभावस्येति।	न अभावस्यापि	as,mri	bhashya	6.2	181	9	न									linked	Prashna:6.2:ttika_28_19
+prashna	anandagiri	6.2	ttika_28	तदभावस्येति ।	तदभावस्य च	as,mri	bhashya	6.2	192	1	तदभावस्य									linked	Prashna:6.2:ttika_28_31
+prashna	anandagiri	6.2	ttika_28	न चेति । अभावनामेति ।	न च नित्यस्य ज्ञानस्याभावनाममात्राध्यारोपे	as,mri	bhashya	6.2	201	11	न									linked	Prashna:6.2:ttika_28_46
+prashna	anandagiri	6.2	ttika_28	अथेति ।	अथाभावो ज्ञेयोऽपि	as,mri	bhashya	6.2	206	1	अथाभावो									linked	Prashna:6.2:ttika_28_61
+prashna	anandagiri	6.2	ttika_28	न तर्हीति ।	न तर्हि ज्ञेयाभावो	as,mri	bhashya	6.2	212	12	न									linked	Prashna:6.2:ttika_28_72
+prashna	anandagiri	6.2	ttika_28	न तर्हीति ।	न तर्हि ज्ञेयाभावो	as,mri	bhashya	6.2	212	12	न									linked	Prashna:6.2:ttika_28_83
+prashna	anandagiri	6.2	ttika_28	ज्ञेयमिति ।	ज्ञेयं ज्ञानव्यतिरिक्तम्	as,mri	bhashya	6.2	216	2	ज्ञेयं									linked	Prashna:6.2:ttika_28_104
+prashna	anandagiri	6.2	ttika_28	न शब्दमात्रत्वादिति ।	न शब्दमात्रत्वाद्विशेषानुपपत्तेः	as,mri	bhashya	6.2	223	14	न									linked	Prashna:6.2:ttika_28_113
+prashna	anandagiri	6.2	ttika_28	ज्ञेयव्यतिरेके त्विति ।	ज्ञेयव्यतिरेके तु	as,mri	bhashya	6.2	242	1	ज्ञेयव्यतिरेके									linked	Prashna:6.2:ttika_28_132
+prashna	anandagiri	6.2	ttika_28	ज्ञेयाभाव इति ।	ज्ञेयाभावेऽदर्शनादभावो	as,mri	bhashya	6.2	248	1	ज्ञेयाभावेऽदर्शनादभावो									linked	Prashna:6.2:ttika_28_140
+prashna	anandagiri	6.2	ttika_29	न सुषुप्त इति ।	न सुषुप्ते	as,mri	bhashya	6.2	251	16	न									linked	Prashna:6.2:ttika_29_8
+prashna	anandagiri	6.2	ttika_30	अस्तित्वमिति ।	विज्ञानास्तित्वम्	as,mri	bhashya	6.2	257	1	विज्ञानास्तित्वम्									linked	Prashna:6.2:ttika_30_0
+prashna	anandagiri	6.2	ttika_31	तत्रापीति ।	तत्रापि	as,mri	bhashya	6.2	258	1	तत्रापि									linked	Prashna:6.2:ttika_31_17
+prashna	anandagiri	6.2	ttika_32	न भेदस्येति ।	न भेदस्य	as,mri	bhashya	6.2	263	17	न									linked	Prashna:6.2:ttika_32_7
+prashna	anandagiri	6.2	ttika_33	न हीति ।	न हि तत्सिद्धं मृतमिवोज्जीवयितुं	as,mri	bhashya	6.2	269	18	न									linked	Prashna:6.2:ttika_33_9
+prashna	anandagiri	6.2	ttika_34	ज्ञानस्येति ।	ज्ञानस्य स्वाज्ञेयत्वे तदप्यन्येन	as,mri	bhashya	6.2	277	5	ज्ञानस्य									linked	Prashna:6.2:ttika_34_4
+prashna	anandagiri	6.2	ttika_35	न तदिति ।	न तद्विभागोपपत्तेः	as,mri	bhashya	6.2	284	19	न									linked	Prashna:6.2:ttika_35_7
+prashna	anandagiri	6.2	ttika_35	द्विभागोपपत्तेरिति	द्विभागोपपत्तेर	mri														unlinked	Prashna:6.2:ttika_35_24
+prashna	anandagiri	6.2	ttika_36	यदा हीति ।	यदा हि	as,mri	bhashya	6.2	287	1	यदा									linked	Prashna:6.2:ttika_36_1
+prashna	anandagiri	6.2	ttika_36	अवैनाशिकै	अवैनाशिकै	mri	bhashya	6.2	298	1	एवाभ्युपगम्यतेऽवैनाशिकैः									linked	Prashna:6.2:ttika_36_19
+prashna	anandagiri	6.2	ttika_37	तद्विषय इति ।	तृतीयस्तद्विषय	as,mri	bhashya	6.2	300	1	तृतीयस्तद्विषय									linked	Prashna:6.2:ttika_37_0
+prashna	anandagiri	6.2	ttika_38	ज्ञानस्येति ।	ज्ञानस्य स्वेनैवाविज्ञेयत्वे सर्वज्ञत्वहानिरिति चेत्	as,mri	bhashya	6.2	302	6	ज्ञानस्य									linked	Prashna:6.2:ttika_38_9
+prashna	anandagiri	6.2	ttika_39	सोऽपीति ।	सोऽपि	as,mri	bhashya	6.2	306	1	सोऽपि									linked	Prashna:6.2:ttika_39_26
+prashna	anandagiri	6.2	ttika_40	किं तदिति ।	किं तन्निबर्हणेनास्माकम्	as,mri	bhashya	6.2	308	1	किं									linked	Prashna:6.2:ttika_40_12
+prashna	anandagiri	6.2	ttika_41	अनवस्थेति ।	अनवस्थादोषश्च	as,mri	bhashya	6.2	310	1	अनवस्थादोषश्च									linked	Prashna:6.2:ttika_41_2
+prashna	anandagiri	6.2	ttika_42	स्वात्मना चेति ।	स्वात्मना चाविज्ञेयत्वेनानवस्था	as,mri	bhashya	6.2	318	1	स्वात्मना									linked	Prashna:6.2:ttika_42_5
+prashna	anandagiri	6.2	ttika_43	समान एवेति ।	समान एवायं	as,mri	bhashya	6.2	321	1	समान									linked	Prashna:6.2:ttika_43_6
+prashna	anandagiri	6.2	ttika_44	न ज्ञानस्येति ।	न ज्ञानस्यैकत्वोपपत्तेः	as,mri	bhashya	6.2	326	21	न									linked	Prashna:6.2:ttika_44_5
+prashna	anandagiri	6.2	ttika_45	नामरूपेति ।	नामरूपाद्यनेकोपाधिभेदात्	as,mri	bhashya	6.2	330	1	नामरूपाद्यनेकोपाधिभेदात्									linked	Prashna:6.2:ttika_45_2
+prashna	anandagiri	6.2	ttika_46	तथा चेहेति ।	तथा चेहेदमुच्यते	as,mri	bhashya	6.2	335	3	तथा									linked	Prashna:6.2:ttika_46_8
+prashna	anandagiri	6.2	ttika_47	नन्विति ।	ननु श्रुतेरिहैवान्तःशरीरे परिच्छिन्नः	as,mri	bhashya	6.2	337	1	ननु									linked	Prashna:6.2:ttika_47_9
+prashna	anandagiri	6.2	ttika_48	नेति ।	न प्राणादिकलाकारणत्वात्	as,mri	bhashya	6.2	342	22	न									linked	Prashna:6.2:ttika_48_6
+prashna	anandagiri	6.2	ttika_49	कलेति ।	कलाकार्यत्वाच्च	as,mri	bhashya	6.2	352	1	कलाकार्यत्वाच्च									linked	Prashna:6.2:ttika_49_5
+prashna	anandagiri	6.2	ttika_50	बीजवृक्षादिवदिति ।	बीजवृक्षादिवत्स्यादिति	as,mri	bhashya	6.2	364	1	बीजवृक्षादिवत्स्यादिति									linked	Prashna:6.2:ttika_50_9
+prashna	anandagiri	6.2	ttika_51	यथेति ।	यथा बीजकार्यं वृक्षस्तत्कार्यं	as,mri	bhashya	6.2	366	3	यथा									linked	Prashna:6.2:ttika_51_1
+prashna	anandagiri	6.2	ttika_52	नेति ।	न अन्यत्वात्सावयवत्वाच्च	as,mri	bhashya	6.2	376	25	न									linked	Prashna:6.2:ttika_52_4
+prashna	anandagiri	6.2	ttika_53	सावयवत्वाच्चेति ।	अन्यत्वात्सावयवत्वाच्च	as,mri	bhashya	6.2	377	1	अन्यत्वात्सावयवत्वाच्च									linked	Prashna:6.2:ttika_53_15
+prashna	anandagiri	6.2	ttika_54	दृष्टान्त इति ।	दृष्टान्ते	as,mri	bhashya	6.2	378	1	दृष्टान्ते									linked	Prashna:6.2:ttika_54_3
+prashna	anandagiri	6.2	ttika_55	श्रूयत इति ।	श्रूयते	as,mri	bhashya	6.2	388	1	श्रूयते									linked	Prashna:6.2:ttika_55_0
+prashna	anandagiri	6.2	ttika_56	बीजेति ।	बीजवृक्षादीनां	as,mri	bhashya	6.2	389	1	बीजवृक्षादीनां									linked	Prashna:6.2:ttika_56_3
+prashna	anandagiri	6.2	ttika_57	निरवयवश्चेति ।	निरवयवश्च	as	bhashya	6.2	392	1	निरवयवश्च									linked	Prashna:6.2:ttika_57_0
+prashna	anandagiri	6.2	ttika_58	सावयवाश्चेति ।	सावयवाश्च कलाः शरीरं च ।	as,mri	bhashya	6.2	394	1	सावयवाश्च									linked	Prashna:6.2:ttika_58_8
+prashna	anandagiri	6.2	ttika_59	सावयवाश्चेति ।	सावयवाश्च कलाः शरीरं च ।	as,mri	bhashya	6.2	394	1	सावयवाश्च									linked	Prashna:6.2:ttika_59_7
+prashna	anandagiri	6.2	ttika_60	एतेनेति ।	एतेनाकाशस्यापि	as,mri	bhashya	6.2	398	1	एतेनाकाशस्यापि									linked	Prashna:6.2:ttika_60_10
+prashna	anandagiri	6.2	ttika_61	किं दृष्टान्तेनेति ।	किं दृष्टान्तेन	as,mri	bhashya	6.2	404	2	किं									linked	Prashna:6.2:ttika_61_3
+prashna	anandagiri	6.2	ttika_62	वचनस्येति ।	वचनात्स्यादिति	as,mri	bhashya	6.2	406	1	वचनात्स्यादिति									linked	Prashna:6.2:ttika_62_8
+prashna	anandagiri	6.2	ttika_63	तस्मादिति ।	तस्मादन्तःशरीर	as,mri	bhashya	6.2	418	1	तस्मादन्तःशरीर									linked	Prashna:6.2:ttika_63_10
+prashna	anandagiri	6.2	ttika_64	अण्डेति ।	अण्डस्यान्तर्व्योम	as,mri	bhashya	6.2	420	1	अण्डस्यान्तर्व्योम									linked	Prashna:6.2:ttika_64_0
+prashna	anandagiri	6.2	ttika_65	उपलब्धीति ।	उपलब्धिनिमित्तत्वाच्च	as,mri	bhashya	6.2	422	1	उपलब्धिनिमित्तत्वाच्च									linked	Prashna:6.2:ttika_65_4
+prashna	anandagiri	6.2	ttika_66	उपलभ्यते चेति ॥ २ ॥	उपलभ्यते चात्र	as	bhashya	6.2	428	1	उपलभ्यते									linked	Prashna:6.2:ttika_66_3
+prashna	anandagiri	6.3	ttika_0	यस्मिन्निति ।	यस्मिन्नेताः	as,mri	bhashya	6.3	0	1	यस्मिन्नेताः									linked	Prashna:6.3:ttika_0_9
+prashna	anandagiri	6.3	ttika_1	अत इति ।	स्यादित्यत	as,mri	bhashya	6.3	12	1	स्यादित्यत									linked	Prashna:6.3:ttika_1_0
+prashna	anandagiri	6.3	ttika_2	चेतनेति ।	चेतनपूर्विका	as,mri	bhashya	6.3	14	1	चेतनपूर्विका									linked	Prashna:6.3:ttika_2_2
+prashna	anandagiri	6.3	ttika_3	सृष्टीति ।	सृष्टिरित्येवमर्थं	as,mri	bhashya	6.3	16	1	सृष्टिरित्येवमर्थं									linked	Prashna:6.3:ttika_3_0
+prashna	anandagiri	6.3	ttika_3	सृष्टिः	सृष्टिः	mri	bhashya	6.3	30	1	सृष्टिफलक्रमादिविषयम्									linked	Prashna:6.3:ttika_3_2
+prashna	anandagiri	6.3	ttika_3	फलं क्रमः	फलं क्रमः	mri	bhashya	6.3	30	1	सृष्टिफलक्रमादिविषयम्									linked	Prashna:6.3:ttika_3_7
+prashna	anandagiri	6.3	ttika_4	साङ्ख्याः	साङ्ख्याः	mri	bhashya	6.3	159	1	साङ्ख्यैः									linked	Prashna:6.3:ttika_4_9
+prashna	anandagiri	6.3	ttika_4	नन्वात्मेति ।	नन्वात्मा	as,mri	bhashya	6.3	46	1	नन्वात्मा									linked	Prashna:6.3:ttika_4_11
+prashna	anandagiri	6.3	ttika_5	आत्मनोऽपीति ।	आत्मनोऽप्येकत्वेन	as,mri	bhashya	6.3	69	1	आत्मनोऽप्येकत्वेन									linked	Prashna:6.3:ttika_5_8
+prashna	anandagiri	6.3	ttika_6	प्रधानमिति ।	प्रधानं	as,mri	bhashya	6.3	48	1	प्रधानं									linked	Prashna:6.3:ttika_6_4
+prashna	anandagiri	6.3	ttika_7	कर्त्रिति ।	कर्तृ अतः पुरुषार्थं	as,mri	bhashya	6.3	49	1	कर्तृ									linked	Prashna:6.3:ttika_7_0
+prashna	anandagiri	6.3	ttika_8	पुरुषार्थमिति ।	पुरुषार्थं	as,mri	bhashya	6.3	51	1	पुरुषार्थं									linked	Prashna:6.3:ttika_8_4
+prashna	anandagiri	6.3	ttika_9	सत्त्वादिति ।	सत्त्वादिगुणसाम्ये	as,mri	bhashya	6.3	60	1	सत्त्वादिगुणसाम्ये									linked	Prashna:6.3:ttika_9_7
+prashna	anandagiri	6.3	ttika_10	ईश्वरेच्छेति ।	ईश्वरेच्छानुवर्तिषु	as,mri	bhashya	6.3	65	1	ईश्वरेच्छानुवर्तिषु									linked	Prashna:6.3:ttika_10_9
+prashna	anandagiri	6.3	ttika_11	तस्मादिति ।	तस्मात्पुरुषार्थेन	as,mri	bhashya	6.3	79	1	तस्मात्पुरुषार्थेन									linked	Prashna:6.3:ttika_11_4
+prashna	anandagiri	6.3	ttika_12	पुरुषार्थेनेति ।	तस्मात्पुरुषार्थेन	as,mri	bhashya	6.3	79	1	तस्मात्पुरुषार्थेन									linked	Prashna:6.3:ttika_12_0
+prashna	anandagiri	6.3	ttika_13	यथा राज्ञ इति ।	यथा राज्ञः	as,mri	bhashya	6.3	88	1	यथा									linked	Prashna:6.3:ttika_13_5
+prashna	anandagiri	6.3	ttika_14	तद्वदिति ।	तद्वत्	as,mri	bhashya	6.3	93	1	तद्वत्									linked	Prashna:6.3:ttika_14_0
+prashna	anandagiri	6.3	ttika_15	नेति ।	न आत्मनो भोक्तृत्ववत्कर्तृत्वोपपत्तेः	as,mri	bhashya	6.3	94	2	न									linked	Prashna:6.3:ttika_15_8
+prashna	anandagiri	6.3	ttika_16	श्रुतिप्रामाण्यादिति ।	श्रुतिप्रामाण्यात्	as,mri	bhashya	6.3	102	1	श्रुतिप्रामाण्यात्									linked	Prashna:6.3:ttika_16_0
+prashna	anandagiri	6.3	ttika_17	तत्त्वान्तरेति ।	तत्त्वान्तरपरिणामादात्मनोऽनित्यत्वाशुद्धत्वानेकत्वनिमित्तं	as,mri	bhashya	6.3	103	1	तत्त्वान्तरपरिणामादात्मनोऽनित्यत्वाशुद्धत्वानेकत्वनिमित्तं									linked	Prashna:6.3:ttika_17_4
+prashna	anandagiri	6.3	ttika_18	नेति ।	न एकस्याप्यात्मनोऽविद्या	as,mri	bhashya	6.3	118	4	न									linked	Prashna:6.3:ttika_18_4
+prashna	anandagiri	6.3	ttika_19	नामरूपेति ।	अविद्याकृतनामरूपोपाधिनिमित्तो	as,mri	bhashya	6.3	120	1	अविद्याकृतनामरूपोपाधिनिमित्तो									linked	Prashna:6.3:ttika_19_0
+prashna	anandagiri	6.3	ttika_19	बन्धमोक्षादी	बन्धमोक्षादी	mri	bhashya	6.3	124	1	बन्धमोक्षादिशास्त्रकृतसंव्यवहाराय									linked	Prashna:6.3:ttika_19_4
+prashna	anandagiri	6.3	ttika_20	सर्वेति ।	सर्वतार्किकबुद्ध्यनवगम्यं	as,mri	bhashya	6.3	128	1	सर्वतार्किकबुद्ध्यनवगम्यं									linked	Prashna:6.3:ttika_20_2
+prashna	anandagiri	6.3	ttika_21	न तत्रेति ।	न तत्र कर्तृत्वं भोक्तृत्वं	as,mri	bhashya	6.3	131	5	न									linked	Prashna:6.3:ttika_21_3
+prashna	anandagiri	6.3	ttika_22	कल्पयित्वेति ।	कल्पयित्वा	as,mri	bhashya	6.3	144	1	कल्पयित्वा									linked	Prashna:6.3:ttika_22_0
+prashna	anandagiri	6.3	ttika_23	अन्येति ।	कल्पयन्तोऽन्यतार्किककृतबुद्धिविषयाः	as,mri	bhashya	6.3	155	1	कल्पयन्तोऽन्यतार्किककृतबुद्धिविषयाः									linked	Prashna:6.3:ttika_23_14
+prashna	anandagiri	6.3	ttika_24	तथेति ।	तथेतरेतार्किकाः	as,mri	bhashya	6.3	158	1	तथेतरेतार्किकाः									linked	Prashna:6.3:ttika_24_6
+prashna	anandagiri	6.3	ttika_25	इत्येवमिति ।	इत्येवं परस्परविरुद्धार्थकल्पनात	as,mri	bhashya	6.3	160	1	इत्येवं									linked	Prashna:6.3:ttika_25_7
+prashna	anandagiri	6.3	ttika_26	अत इति ।	अतस्तन्मतमनादृत्य	as,mri	bhashya	6.3	165	1	अतस्तन्मतमनादृत्य									linked	Prashna:6.3:ttika_26_5
+prashna	anandagiri	6.3	ttika_27	विरोधोद्भवकारणमिति ।	विरोधोद्भवकारणम्	as,mri	bhashya	6.3	178	1	विरोधोद्भवकारणम्									linked	Prashna:6.3:ttika_27_0
+prashna	anandagiri	6.3	ttika_28	संरक्षितेति ।	संरक्षितसद्बुद्धिः	as,mri	bhashya	6.3	180	1	संरक्षितसद्बुद्धिः									linked	Prashna:6.3:ttika_28_0
+prashna	anandagiri	6.3	ttika_28	सन्निर्वाति	सन्निर्वाति	mri														unlinked	Prashna:6.3:ttika_28_6
+prashna	anandagiri	6.3	ttika_29	किञ्चेत्यादिना ।	किञ्च भोक्तृत्वकर्तृत्वयोर्विक्रिययोर्विशेषानुपपत्तिः ।	as,mri	bhashya	6.3	184	1	किञ्च									linked	Prashna:6.3:ttika_29_8
+prashna	anandagiri	6.3	ttika_30	भोक्तृत्वेति ।	भोक्तृत्वकर्तृत्वयोर्विक्रिययोर्विशेषानुपपत्तिः	as,mri	bhashya	6.3	185	1	भोक्तृत्वकर्तृत्वयोर्विक्रिययोर्विशेषानुपपत्तिः									linked	Prashna:6.3:ttika_30_5
+prashna	anandagiri	6.3	ttika_31	नन्विति ।	ननु	as,mri	bhashya	6.3	203	1	ननु									linked	Prashna:6.3:ttika_31_3
+prashna	anandagiri	6.3	ttika_32	स्वात्मस्थी विक्रियत इति ।	स्वात्मस्थो विक्रियते	as,mri	bhashya	6.3	209	1	स्वात्मस्थो									linked	Prashna:6.3:ttika_32_0
+prashna	anandagiri	6.3	ttika_33	तत्त्वन्तरेति ।	तत्त्वान्तरपरिणामेन	as,mri	bhashya	6.3	213	1	तत्त्वान्तरपरिणामेन									linked	Prashna:6.3:ttika_33_0
+prashna	anandagiri	6.3	ttika_34	नासाविति ।	नासौ	as,mri	bhashya	6.3	223	1	नासौ									linked	Prashna:6.3:ttika_34_8
+prashna	anandagiri	6.3	ttika_35	प्रागिति ।	प्राग्भोगोत्पत्तेः	as,mri	bhashya	6.3	226	1	प्राग्भोगोत्पत्तेः									linked	Prashna:6.3:ttika_35_2
+prashna	anandagiri	6.3	ttika_36	अस्यां कल्पनायामिति ।	अस्यां कल्पनायां	as,mri	bhashya	6.3	251	1	अस्यां									linked	Prashna:6.3:ttika_36_0
+prashna	anandagiri	6.3	ttika_36	कल्प्यत	कल्प्यत	mri	bhashya	6.3	258	2	कल्प्यते									linked	Prashna:6.3:ttika_36_14
+prashna	anandagiri	6.3	ttika_37	अथेति ।	अथ	as,mri	bhashya	6.3	259	1	अथ									linked	Prashna:6.3:ttika_37_2
+prashna	anandagiri	6.3	ttika_38	चिन्मात्र एवेति ।	चिन्मात्र एव प्राग्वत्पुरुष	as,mri	bhashya	6.3	261	1	चिन्मात्र									linked	Prashna:6.3:ttika_38_0
+prashna	anandagiri	6.3	ttika_39	न तर्हीति ।	न तर्हि	as,mri	bhashya	6.3	266	11	न									linked	Prashna:6.3:ttika_39_6
+prashna	anandagiri	6.3	ttika_40	भोगकाल इति ।	भोगकाले चिन्मात्रस्य	as,mri	bhashya	6.3	272	1	भोगकाले									linked	Prashna:6.3:ttika_40_11
+prashna	anandagiri	6.3	ttika_41	नेति ।	न प्रधानस्यापि भोगकाले	as,mri	bhashya	6.3	280	12	न									linked	Prashna:6.3:ttika_41_14
+prashna	anandagiri	6.3	ttika_42	चिन्मात्रस्यैवेति ।	चिन्मात्रस्यैव	as,mri	bhashya	6.3	284	1	चिन्मात्रस्यैव									linked	Prashna:6.3:ttika_42_2
+prashna	anandagiri	6.3	ttika_43	औष्ण्येति ।	औष्ण्याद्यसाधारणधर्मवतामग्न्यादीनामभोक्तृत्वे	as,mri	bhashya	6.3	288	1	औष्ण्याद्यसाधारणधर्मवतामग्न्यादीनामभोक्तृत्वे									linked	Prashna:6.3:ttika_43_2
+prashna	anandagiri	6.3	ttika_44	प्रधानेति ।	प्रधानपुरुषयोर्द्वयोर्युगपद्भोक्तृत्वमिति	as,mri														unlinked	Prashna:6.3:ttika_44_16
+prashna	anandagiri	6.3	ttika_45	नेति ।	न प्रधानस्य पारार्थ्यानुपपत्तेः	as,mri	bhashya	6.3	292	13	न									linked	Prashna:6.3:ttika_45_8
+prashna	anandagiri	6.3	ttika_46	भोगधर्मवतीति ।	भोगधर्मवति	as,mri	bhashya	6.3	300	1	भोगधर्मवति									linked	Prashna:6.3:ttika_46_17
+prashna	anandagiri	6.3	ttika_47	सत्त्वाङ्गिनीति ।	सत्त्वाङ्गिनि	as,mri	bhashya	6.3	301	1	सत्त्वाङ्गिनि									linked	Prashna:6.3:ttika_47_0
+prashna	anandagiri	6.3	ttika_48	नेति ।	न पुरुषस्य विशेषाभावे	as,mri	bhashya	6.3	308	15	न									linked	Prashna:6.3:ttika_48_12
+prashna	anandagiri	6.3	ttika_49	भोगरूपश्चेदिति ।	भोगरूपश्चेदनर्थः	as,mri	bhashya	6.3	312	1	भोगरूपश्चेदनर्थः									linked	Prashna:6.3:ttika_49_5
+prashna	anandagiri	6.3	ttika_50	अविद्येति ।	अविद्याध्यारोपितानर्थापनयनाय	as,mri	bhashya	6.3	321	1	अविद्याध्यारोपितानर्थापनयनाय									linked	Prashna:6.3:ttika_50_14
+prashna	anandagiri	6.3	ttika_51	अनर्थेति ।	अविद्याध्यारोपितानर्थापनयनाय	as,mri	bhashya	6.3	321	1	अविद्याध्यारोपितानर्थापनयनाय									linked	Prashna:6.3:ttika_51_0
+prashna	anandagiri	6.3	ttika_52	परमार्थत इति ।	परमार्थतः	as,mri	bhashya	6.3	324	1	परमार्थतः									linked	Prashna:6.3:ttika_52_4
+prashna	anandagiri	6.3	ttika_53	इति नाऽऽदर्तव्येति ।	इति नादर्तव्या	as,mri	bhashya	6.3	340	6	इति									linked	Prashna:6.3:ttika_53_9
+prashna	anandagiri	6.3	ttika_54	एकत्वेऽपीति ।	एकत्वेऽपि	as,mri	bhashya	6.3	343	1	एकत्वेऽपि									linked	Prashna:6.3:ttika_54_3
+prashna	anandagiri	6.3	ttika_55	नाभावादिति ।	न अभावात्	as,mri	bhashya	6.3	346	18	न									linked	Prashna:6.3:ttika_55_9
+prashna	anandagiri	6.3	ttika_56	न ह्यात्मैकत्व इति ।	न ह्यात्मैकत्वे	as,mri	bhashya	6.3	358	19	न									linked	Prashna:6.3:ttika_56_2
+prashna	anandagiri	6.3	ttika_56	एवं	एवं	mri	bhashya	6.3	364	1	एवं									linked	Prashna:6.3:ttika_56_12
+prashna	anandagiri	6.3	ttika_56	नैवानुपपन्नेति	नैवानुपपन्न	mri														unlinked	Prashna:6.3:ttika_56_17
+prashna	anandagiri	6.3	ttika_56	तदभाव	तदभाव	mri	bhashya	6.3	363	1	तदभावे									linked	Prashna:6.3:ttika_56_20
+prashna	anandagiri	6.3	ttika_57	कल्पना	कल्पना	mri														unlinked	Prashna:6.3:ttika_57_2
+prashna	anandagiri	6.3	ttika_57	अभ्युपगत इति ।	अभ्युपगते	as,mri	bhashya	6.3	366	1	अभ्युपगते									linked	Prashna:6.3:ttika_57_18
+prashna	anandagiri	6.3	ttika_58	प्रमाणार्थ इति ।	प्रमाणार्थश्चाभ्युपगतो	as,mri	bhashya	6.3	368	1	प्रमाणार्थश्चाभ्युपगतो									linked	Prashna:6.3:ttika_58_0
+prashna	anandagiri	6.3	ttika_59	तदभ्युपगमे चेति ।	तदभ्युपगमे च	as,mri	bhashya	6.3	371	1	तदभ्युपगमे									linked	Prashna:6.3:ttika_59_5
+prashna	anandagiri	6.3	ttika_60	शास्त्रप्रणयनेति ।	शास्त्रप्रणयनाद्युपपत्तिं	as,mri	bhashya	6.3	381	1	शास्त्रप्रणयनाद्युपपत्तिं									linked	Prashna:6.3:ttika_60_5
+prashna	anandagiri	6.3	ttika_61	अन्यत्रेति ।	अन्यत्र	as,mri	bhashya	6.3	383	1	अन्यत्र									linked	Prashna:6.3:ttika_61_3
+prashna	anandagiri	6.3	ttika_62	अत्र चेति ।	अत्र च	as,mri	bhashya	6.3	392	1	अत्र									linked	Prashna:6.3:ttika_62_12
+prashna	anandagiri	6.3	ttika_63	अत इति ।	अतो न तार्किकवादभटप्रवेशो	as,mri	bhashya	6.3	399	2	अतो									linked	Prashna:6.3:ttika_63_7
+prashna	anandagiri	6.3	ttika_64	राजप्रमाणेति ।	वेदान्तराजप्रमाणबाहुगुप्ते	as,mri	bhashya	6.3	402	1	वेदान्तराजप्रमाणबाहुगुप्ते									linked	Prashna:6.3:ttika_64_0
+prashna	anandagiri	6.3	ttika_64	विषय	विषय	mri	bhashya	6.3	403	1	इहात्मैकत्वविषये									linked	Prashna:6.3:ttika_64_11
+prashna	anandagiri	6.3	ttika_65	एतेनेति ।	एतेनाविद्याकृतनामरूपाद्युपाधिकृतानेकशक्तिसाधनकृतभेदवत्त्वाद्ब्रह्मणः	as,mri	bhashya	6.3	405	1	एतेनाविद्याकृतनामरूपाद्युपाधिकृतानेकशक्तिसाधनकृतभेदवत्त्वाद्ब्रह्मणः									linked	Prashna:6.3:ttika_65_3
+prashna	anandagiri	6.3	ttika_66	आत्मेति ।	आत्मानर्थकर्तृत्वादिदोषश्च	as,mri	bhashya	6.3	412	1	आत्मानर्थकर्तृत्वादिदोषश्च									linked	Prashna:6.3:ttika_66_0
+prashna	anandagiri	6.3	ttika_67	यस्त्विति ।	यस्तु	as,mri	bhashya	6.3	413	1	यस्तु									linked	Prashna:6.3:ttika_67_6
+prashna	anandagiri	6.3	ttika_68	तत्र हि गौणीति ।	तत्र हि गौणी	as,mri	bhashya	6.3	427	2	तत्र									linked	Prashna:6.3:ttika_68_5
+prashna	anandagiri	6.3	ttika_69	इह त्विति ।	इह त्वचेतनस्य	as,mri	bhashya	6.3	436	1	इह									linked	Prashna:6.3:ttika_69_6
+prashna	anandagiri	6.3	ttika_70	यथोक्तेति ॥ ३ ॥	यथोक्तसर्वज्ञेश्वरकर्तृत्वपक्षे	as	bhashya	6.3	446	1	यथोक्तसर्वज्ञेश्वरकर्तृत्वपक्षे									linked	Prashna:6.3:ttika_70_6
+prashna	anandagiri	6.4	ttika_0	ईश्वरेणेवेति ।	ईश्वरेणैव	as,mri	bhashya	6.4	0	1	ईश्वरेणैव									linked	Prashna:6.4:ttika_0_7
+prashna	anandagiri	6.4	ttika_1	कथमिति ।	कथम्	as,mri	bhashya	6.4	5	1	कथम्									linked	Prashna:6.4:ttika_1_2
+prashna	anandagiri	6.4	ttika_2	हिरण्यगर्भाख्यमिति ।	हिरण्यगर्भाख्यं	as,mri	bhashya	6.4	10	1	हिरण्यगर्भाख्यं									linked	Prashna:6.4:ttika_2_0
+prashna	anandagiri	6.4	ttika_2	हिरण्यगर्भाख्यमि	हिरण्यगर्भाख्यमि	mri														unlinked	Prashna:6.4:ttika_2_18
+prashna	anandagiri	6.4	ttika_3	सर्वेति ।	सर्वप्राणिकरणाधारमन्तरात्मानम्	as,mri	bhashya	6.4	11	1	सर्वप्राणिकरणाधारमन्तरात्मानम्									linked	Prashna:6.4:ttika_3_2
+prashna	anandagiri	6.4	ttika_4	अन्तरात्मानमिति ।	सर्वप्राणिकरणाधारमन्तरात्मानम्	as,mri	bhashya	6.4	11	1	सर्वप्राणिकरणाधारमन्तरात्मानम्									linked	Prashna:6.4:ttika_4_0
+prashna	anandagiri	6.4	ttika_4	तत	तत	mri	bhashya	6.4	14	1	ततः									linked	Prashna:6.4:ttika_4_6
+prashna	anandagiri	6.4	ttika_5	कारणभूतानीति ।	कारणभूतानि	as,mri	bhashya	6.4	21	1	कारणभूतानि									linked	Prashna:6.4:ttika_5_3
+prashna	anandagiri	6.4	ttika_5	खं	खं	mri	bhashya	6.4	24	1	खं									linked	Prashna:6.4:ttika_5_8
+prashna	anandagiri	6.4	ttika_6	वायुमिति ।	वायुः	as,mri	bhashya	6.4	26	1	वायुः									linked	Prashna:6.4:ttika_6_0
+prashna	anandagiri	6.4	ttika_7	तैरेवेति ।	तैरेव	as,mri	bhashya	6.4	55	1	तैरेव									linked	Prashna:6.4:ttika_7_0
+prashna	anandagiri	6.4	ttika_8	तस्य चेश्वरमिति ।	तस्य चेश्वरमन्तःस्थं	as,mri	bhashya	6.4	62	1	तस्य									linked	Prashna:6.4:ttika_8_0
+prashna	anandagiri	6.4	ttika_9	सङ्कीर्यमाणानामिति ।	सङ्कीर्यमाणानाम्	as,mri	bhashya	6.4	87	1	सङ्कीर्यमाणानाम्									linked	Prashna:6.4:ttika_9_0
+prashna	anandagiri	6.4	ttika_10	फलमिति ।	फलम्	as,mri	bhashya	6.4	98	1	फलम्									linked	Prashna:6.4:ttika_10_0
+prashna	anandagiri	6.4	ttika_11	नाम चेति ।	नाम च देवदत्तो यज्ञदत्त इत्यादि ।	as,mri	bhashya	6.4	104	1	नाम									linked	Prashna:6.4:ttika_11_0
+prashna	anandagiri	6.4	ttika_12	एवमेता इति ।	एवमेताः	as,mri	bhashya	6.4	109	1	एवमेताः									linked	Prashna:6.4:ttika_12_7
+prashna	anandagiri	6.4	ttika_12	दपेक्षया	दपेक्षया	mri														unlinked	Prashna:6.4:ttika_12_13
+prashna	anandagiri	6.4	ttika_12	तैमिरिक	तैमिरिक	mri	bhashya	6.4	112	1	सृष्टास्तैमिरिकदृष्टिसृष्टा									linked	Prashna:6.4:ttika_12_16
+prashna	anandagiri	6.4	ttika_13	पुनस्तस्मिन्नेवेति ॥ ४ ॥	पुनस्तस्मिन्नेव	as	bhashya	6.4	119	1	पुनस्तस्मिन्नेव									linked	Prashna:6.4:ttika_13_2
+prashna	anandagiri	6.5	ttika_0	आत्मभाव इति ।	गतिरात्मभावो	as,mri	bhashya	6.5	13	1	गतिरात्मभावो									linked	Prashna:6.5:ttika_0_3
+prashna	anandagiri	6.5	ttika_1	नामरूपतिरस्कारमिति ।	नामरूपतिरस्कारं	as,mri	bhashya	6.5	22	1	नामरूपतिरस्कारं									linked	Prashna:6.5:ttika_1_7
+prashna	anandagiri	6.5	ttika_2	तद्वस्त्विति ।	तद्वस्तूदकलक्षणम्	as,mri	bhashya	6.5	36	1	तद्वस्तूदकलक्षणम्									linked	Prashna:6.5:ttika_2_0
+prashna	anandagiri	6.5	ttika_2	पुरुषस्ये	पुरुषस्ये	mri	bhashya	6.5	43	1	पुरुषस्य									linked	Prashna:6.5:ttika_2_9
+prashna	anandagiri	6.5	ttika_3	दर्शनस्य कर्तुः स्वरूपभूतस्येति ।	समन्ताद्द्रष्टुर्दर्शनस्य कर्तुः स्वरूपभूतस्य	as,mri	bhashya	6.5	46	1	समन्ताद्द्रष्टुर्दर्शनस्य									linked	Prashna:6.5:ttika_3_7
+prashna	anandagiri	6.5	ttika_4	यथाऽर्क इति ।	यथा अर्कः	as,mri	bhashya	6.5	49	2	यथा									linked	Prashna:6.5:ttika_4_12
+prashna	anandagiri	6.5	ttika_5	नदीनामिवेति ।	नदीनामिव	as,mri	bhashya	6.5	61	1	नदीनामिव									linked	Prashna:6.5:ttika_5_0
+prashna	anandagiri	6.5	ttika_6	भिद्येते इति ।	भिद्येते च आसां नामरूपे	as,mri	bhashya	6.5	73	2	भिद्येते									linked	Prashna:6.5:ttika_6_1
+prashna	anandagiri	6.5	ttika_7	यथास्वमिति ।	यथास्वम्	as,mri	bhashya	6.5	81	1	यथास्वम्									linked	Prashna:6.5:ttika_7_0
+prashna	anandagiri	6.5	ttika_8	भेदे चेति ।	भेदे च	as,mri	bhashya	6.5	82	1	भेदे									linked	Prashna:6.5:ttika_8_4
+prashna	anandagiri	6.5	ttika_9	यदनष्टमिति ।	नामरूपयोर्यदनष्टं	as,mri	bhashya	6.5	84	1	नामरूपयोर्यदनष्टं									linked	Prashna:6.5:ttika_9_0
+prashna	anandagiri	6.5	ttika_10	य एवं विद्वानित्यादिना ॥ ५ ॥	य एवं विद्वान्गुरुणा	as,mri	bhashya	6.5	90	1	य									linked	Prashna:6.5:ttika_10_13
+prashna	anandagiri	6.6	ttika_0	परिवारा इति ।	रथचक्रपरिवारा	as,mri	bhashya	6.6	2	1	रथचक्रपरिवारा									linked	Prashna:6.6:ttika_0_0
+prashna	anandagiri	6.6	ttika_1	यथाप्रवेशिता इति ।	यथाप्रवेशिताः	as,mri	bhashya	6.6	7	1	यथाप्रवेशिताः									linked	Prashna:6.6:ttika_1_0
+prashna	anandagiri	6.6	ttika_2	न चेदिति ॥ ६ ॥	न चेद्विज्ञायेत	as	bhashya	6.6	38	1	न									linked	Prashna:6.6:ttika_2_3
+prashna	anandagiri	6.7	ttika_0	तानेवमिति ॥ ७ ॥	तान् एवमनुशिष्य	as	bhashya	6.7	0	1	तान्									linked	Prashna:6.7:ttika_0_5
+prashna	anandagiri	6.8	ttika_0	प्रकिरणेनेति ।	पुष्पाञ्जलिप्रकिरणेन	as,mri	bhashya	6.8	15	1	पुष्पाञ्जलिप्रकिरणेन									linked	Prashna:6.8:ttika_0_0
+prashna	anandagiri	6.8	ttika_1	अतः पितृत्वं तवेति ।	अस्मानित्यतः पितृत्वं तवास्मान्प्रत्युपपन्नमितरस्मात् ।	as,mri	bhashya	6.8	39	1	अस्मानित्यतः									linked	Prashna:6.8:ttika_1_0
+prashna	anandagiri	6.8	ttika_2	इतरस्मादिति ।	इतरोऽपि	as,mri	bhashya	6.8	42	1	इतरोऽपि									linked	Prashna:6.8:ttika_2_10
+prashna	anandagiri	6.8	ttika_2	किमु	किमु	mri	bhashya	6.8	51	1	किमु									linked	Prashna:6.8:ttika_2_17

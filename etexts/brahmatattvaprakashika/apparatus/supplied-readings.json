@@ -1,0 +1,23 @@
+[
+ {
+  "id": "c0640",
+  "ref": "2.1.37",
+  "find": "परपरिका स्प पनिरासेन",
+  "repl": "परपरिकल्पितदोषनिरासेन",
+  "note": "middle of word under a library stamp; supplied from VV"
+ },
+ {
+  "id": "c0833",
+  "ref": "2.3.23",
+  "find": "जीवोऽनि",
+  "repl": "जीवोऽपि",
+  "note": "broken type after ऽ (only ि visible); पि supplied — SUPPLIED-READINGS list"
+ },
+ {
+  "id": "c1686",
+  "ref": "3.4.47",
+  "find": "फरभूतसाक्षात्कारे",
+  "repl": "फलभूतसाक्षात्कारे",
+  "note": "2nd akṣara broken type; ल supplied from VV — SUPPLIED list"
+ }
+]

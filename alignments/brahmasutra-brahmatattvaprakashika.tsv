@@ -1,0 +1,662 @@
+text	lane	ref	unit	pratika	lemma	mark	target_layer	target_ref	target_ord	target_occ	target_word	target_deposit	target2_layer	target2_ref	target2_ord	target2_occ	target2_word	target2_deposit	member	status	source_key
+brahmasutra	brahmatattvaprakashika	1.1.1	tbrahmatattva_0	अथातो ब्रह्मजिज्ञासा	अथ	detected	mula	1.1.1	0.0	1	अथ	w0.p0								linked	BS:1.1.1:tbrahmatattva_0_0
+brahmasutra	brahmatattvaprakashika	1.1.2	tbrahmatattva_0	अस्य	अस्य	detected	mula	1.1.2	0.1	1	अस्य	w0.p1								linked	BS:1.1.2:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	1.1.2	tbrahmatattva_0	यतो	यतो	detected														unlinked	BS:1.1.2:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	1.1.2	tbrahmatattva_0	जन्मादि	जन्मादि	detected	mula	1.1.2	0	1	जन्म-आदि	w0.p0								linked	BS:1.1.2:tbrahmatattva_0_55
+brahmasutra	brahmatattvaprakashika	1.1.2	tbrahmatattva_0	जन्म	जन्म	detected	mula	1.1.2	0	1	जन्म-आदि	w0.p0							0	linked	BS:1.1.2:tbrahmatattva_0_56
+brahmasutra	brahmatattvaprakashika	1.1.3	tbrahmatattva_0	शास्त्रस्य	शास्त्रस्य	detected	mula	1.1.3	0	1	शास्त्र-योनि-त्व-आत्	w0.p0							0	linked	BS:1.1.3:tbrahmatattva_0_55
+brahmasutra	brahmatattvaprakashika	1.1.3	tbrahmatattva_0	योनिः	योनिः	detected	mula	1.1.3	0	1	शास्त्र-योनि-त्व-आत्	w0.p0							1	linked	BS:1.1.3:tbrahmatattva_0_58
+brahmasutra	brahmatattvaprakashika	1.1.3	tbrahmatattva_0	शास्त्रयोनित्वात्।	शास्त्रयोनित्वात्	detected	mula	1.1.3	0	1	शास्त्र-योनि-त्व-आत्	w0.p0								linked	BS:1.1.3:tbrahmatattva_0_90
+brahmasutra	brahmatattvaprakashika	1.1.4	tbrahmatattva_0	समन्वयात्	समन्वयात्	detected	mula	1.1.4	1	1	समन्वयात्	w1.p0								linked	BS:1.1.4:tbrahmatattva_0_40
+brahmasutra	brahmatattvaprakashika	1.1.5	tbrahmatattva_0	अशब्दम्।	अशब्दम्	detected	mula	1.1.5	0.2	1	अशब्दम्	w0.p2								linked	BS:1.1.5:tbrahmatattva_0_56
+brahmasutra	brahmatattvaprakashika	1.1.5	tbrahmatattva_0	ईक्षतेः	ईक्षतेः	detected	mula	1.1.5	0.0	1	ईक्षतेः	w0.p0								linked	BS:1.1.5:tbrahmatattva_0_60
+brahmasutra	brahmatattvaprakashika	1.1.6	tbrahmatattva_0	गौण	गौण	detected	mula	1.1.6	0.0	1	गौणः	w0.p0								linked	BS:1.1.6:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	1.1.6	tbrahmatattva_0	आत्मशब्दात्।	आत्मशब्दात्	detected	mula	1.1.6	0.3	1	आत्म-शब्दात्	w0.p3								linked	BS:1.1.6:tbrahmatattva_0_23
+brahmasutra	brahmatattvaprakashika	1.1.7	tbrahmatattva_0	मोक्षोपदेशात्।	मोक्षोपदेशात्	detected														unlinked	BS:1.1.7:tbrahmatattva_0_24
+brahmasutra	brahmatattvaprakashika	1.1.8	tbrahmatattva_0	हेयत्वं	हेयत्वं	detected	mula	1.1.8	0	1	हेयत्व-अवचनात्	w0.p0							0	linked	BS:1.1.8:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	1.1.9	tbrahmatattva_0	अप्ययात्	अप्ययात्	detected	mula	1.1.9	0	1	स्व-अप्ययात्	w0.p0							1	linked	BS:1.1.9:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	1.1.10	tbrahmatattva_0	गतेः	गतेः	detected	mula	1.1.10	0	1	गति-सामान्यात्	w0.p0							0	linked	BS:1.1.10:tbrahmatattva_0_0
+brahmasutra	brahmatattvaprakashika	1.1.12	tbrahmatattva_0	आनन्दमय	आनन्दमय	detected	mula	1.1.12	0.0	1	आनन्दमयः	w0.p0								linked	BS:1.1.12:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	1.1.12	tbrahmatattva_0	अभ्यासाद्	अभ्यासाद्	detected	mula	1.1.12	0.1	1	अभ्यासात्	w0.p1								linked	BS:1.1.12:tbrahmatattva_0_71
+brahmasutra	brahmatattvaprakashika	1.1.13	tbrahmatattva_0	विकारशब्दाद्	विकारशब्दाद्	detected	mula	1.1.13	0.0	1	विकारशब्दात्	w0.p0								linked	BS:1.1.13:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	1.1.13	tbrahmatattva_0	प्राचुर्यात्	प्राचुर्यात्	detected	mula	1.1.13	2	1	प्राचुर्यात्	w2.p0								linked	BS:1.1.13:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	1.1.15	tbrahmatattva_0	गीयते	गीयते	detected	mula	1.1.15	2	1	गीयते	w2.p0								linked	BS:1.1.15:tbrahmatattva_0_27
+brahmasutra	brahmatattvaprakashika	1.1.16	tbrahmatattva_0	अनुपपत्तेः	अनुपपत्तेः	detected	mula	1.1.16	0.2	1	अनुपपत्तेः	w0.p2								linked	BS:1.1.16:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	1.1.18	tbrahmatattva_0	कामात्	कामात्	detected	mula	1.1.18	0.0	1	कामात्	w0.p0								linked	BS:1.1.18:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	1.1.19	tbrahmatattva_0	तद्योगं	तद्योगं	detected	mula	1.1.19	2	1	तद्-योगम्	w2.p0								linked	BS:1.1.19:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	1.1.19	tbrahmatattva_0	शास्ति।	शास्ति	detected	mula	1.1.19	3	1	शास्ति	w3.p0								linked	BS:1.1.19:tbrahmatattva_0_21
+brahmasutra	brahmatattvaprakashika	1.1.20	tbrahmatattva_0	तद्धर्मोपदेशात्	तद्धर्मोपदेशात्	detected														unlinked	BS:1.1.20:tbrahmatattva_0_244
+brahmasutra	brahmatattvaprakashika	1.1.20	tbrahmatattva_0	उपदेशात्।	उपदेशात्	detected	mula	1.1.20	0.1	1	तद्-धर्म-उपदेशात्	w0.p1							2	linked	BS:1.1.20:tbrahmatattva_0_250
+brahmasutra	brahmatattvaprakashika	1.1.21	tbrahmatattva_0	भेदव्यपदेशाद्	भेदव्यपदेशाद्	detected														unlinked	BS:1.1.21:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	1.1.22	tbrahmatattva_0	आकाश	आकाश	detected	mula	1.1.22	0.0	1	आकाशः	w0.p0								linked	BS:1.1.22:tbrahmatattva_0_63
+brahmasutra	brahmatattvaprakashika	1.1.23	tbrahmatattva_0	प्राण	प्राण	detected	mula	1.1.23	2	1	प्राणः	w2.p0								linked	BS:1.1.23:tbrahmatattva_0_38
+brahmasutra	brahmatattvaprakashika	1.1.24	tbrahmatattva_0	ज्योतिरिति	ज्योतिरिति	detected	mula	1.1.24	0	1	ज्योतिः-चरण-अभिधानात्	w0.p0							0	linked	BS:1.1.24:tbrahmatattva_0_42
+brahmasutra	brahmatattvaprakashika	1.1.25	tbrahmatattva_0	दर्शनम्।	दर्शनम्	detected	mula	1.1.25	4	1	दर्शनम्	w4.p0								linked	BS:1.1.25:tbrahmatattva_0_33
+brahmasutra	brahmatattvaprakashika	1.1.26	tbrahmatattva_0	व्यपदेशस्य	व्यपदेशस्य	detected	mula	1.1.26	0.0	1	भूत-आदि-पाद-व्यपदेश-उपपत्तेः	w0.p0							3	linked	BS:1.1.26:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	1.1.27	tbrahmatattva_0	अविरोधात्।	अविरोधात्	detected	mula	1.1.27	1.4	1	अविरोधात्	w1.p4								linked	BS:1.1.27:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	1.1.28	tbrahmatattva_0	प्राणो	प्राणो	detected	mula	1.1.28	0.0	1	प्राणः	w0.p0								linked	BS:1.1.28:tbrahmatattva_0_63
+brahmasutra	brahmatattvaprakashika	1.1.29	tbrahmatattva_0	अध्यात्मसम्बन्धभूमा	अध्यात्मसम्बन्धभूमा	detected														unlinked	BS:1.1.29:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	1.1.29	tbrahmatattva_0	अस्मिन्	अस्मिन्	detected	mula	1.1.29	3.1	1	अस्मिन्	w3.p1								linked	BS:1.1.29:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	1.1.29	tbrahmatattva_0	भूमा	भूमा	detected	mula	1.1.29	2.1	1	अध्यात्म-सम्बन्ध-भूमा	w2.p1							2	linked	BS:1.1.29:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	1.1.30	tbrahmatattva_0	शास्त्रदृष्ट्या	शास्त्रदृष्ट्या	detected	mula	1.1.30	0	1	शास्त्र-दृष्ट्या	w0.p0								linked	BS:1.1.30:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	1.1.30	tbrahmatattva_0	वामदेवः	वामदेवः	detected	mula	1.1.30	2	1	वामदेव-वत्	w2.p0							0	linked	BS:1.1.30:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	1.1.31	tbrahmatattva_0	उपासात्रैविध्याद्	उपासात्रैविध्याद्	detected	mula	1.1.31	1.2	1	उपासा-त्रैविध्यात्	w1.p2								linked	BS:1.1.31:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	1.2.1	tbrahmatattva_0	सर्वत्र	सर्वत्र	detected	mula	1.2.1	0	1	सर्वत्र	w0.p0								linked	BS:1.2.1:tbrahmatattva_0_74
+brahmasutra	brahmatattvaprakashika	1.2.1	tbrahmatattva_0	प्रसिद्धोपदेशात्	प्रसिद्धोपदेशात्	detected														unlinked	BS:1.2.1:tbrahmatattva_0_75
+brahmasutra	brahmatattvaprakashika	1.2.1	tbrahmatattva_0	प्रसिद्धं	प्रसिद्धं	detected	mula	1.2.1	1	1	प्रसिद्ध-उपदेशात्	w1.p0							0	linked	BS:1.2.1:tbrahmatattva_0_79
+brahmasutra	brahmatattvaprakashika	1.2.2	tbrahmatattva_0	विवक्षिताः	विवक्षिताः	detected	mula	1.2.2	0.0	1	विवक्षित-गुण-उपपत्तेः	w0.p0							0	linked	BS:1.2.2:tbrahmatattva_0_3
+brahmasutra	brahmatattvaprakashika	1.2.2	tbrahmatattva_0	गुणाः	गुणाः	detected	mula	1.2.2	0.0	1	विवक्षित-गुण-उपपत्तेः	w0.p0							1	linked	BS:1.2.2:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	1.2.3	tbrahmatattva_0	शारीरो	शारीरो	detected	mula	1.2.3	2	1	शारीरः	w2.p0								linked	BS:1.2.3:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	1.2.7	tbrahmatattva_0	व्योमवद्।	व्योमवद्	detected	mula	1.2.7	4.0	1	व्योमवत्	w4.p0								linked	BS:1.2.7:tbrahmatattva_0_43
+brahmasutra	brahmatattvaprakashika	1.2.8	tbrahmatattva_0	वैशेष्यात्।	वैशेष्यात्	detected	mula	1.2.8	2	1	वैशेष्यात्	w2.p0								linked	BS:1.2.8:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	1.2.9	tbrahmatattva_0	चराचरग्रहणात्	चराचरग्रहणात्	detected	mula	1.2.9	1	1	चर-अचर-ग्रहणात्	w1.p0								linked	BS:1.2.9:tbrahmatattva_0_45
+brahmasutra	brahmatattvaprakashika	1.2.9	tbrahmatattva_0	ग्रहणात्।	ग्रहणात्	detected	mula	1.2.9	1	1	चर-अचर-ग्रहणात्	w1.p0							2	linked	BS:1.2.9:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	1.2.10	tbrahmatattva_0	प्रकरणात्	प्रकरणात्	detected	mula	1.2.10	0.0	1	प्रकरणात्	w0.p0								linked	BS:1.2.10:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	1.2.11	tbrahmatattva_0	गुहां	गुहां	detected	mula	1.2.11	0	1	गुहाम्	w0.p0								linked	BS:1.2.11:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	1.2.11	tbrahmatattva_0	प्रविष्टौ	प्रविष्टौ	detected	mula	1.2.11	1.0	1	प्रविष्टौ	w1.p0								linked	BS:1.2.11:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	1.2.11	tbrahmatattva_0	आत्मानौ	आत्मानौ	detected	mula	1.2.11	1.1	1	आत्मानौ	w1.p1								linked	BS:1.2.11:tbrahmatattva_0_38
+brahmasutra	brahmatattvaprakashika	1.2.13	tbrahmatattva_0	अन्तरः	अन्तरः	detected	mula	1.2.13	0	1	अन्तरः	w0.p0								linked	BS:1.2.13:tbrahmatattva_0_45
+brahmasutra	brahmatattvaprakashika	1.2.13	tbrahmatattva_0	उपपत्तेः	उपपत्तेः	detected	mula	1.2.13	1	1	उपपत्तेः	w1.p0								linked	BS:1.2.13:tbrahmatattva_0_49
+brahmasutra	brahmatattvaprakashika	1.2.16	tbrahmatattva_0	श्रुता	श्रुता	detected	mula	1.2.16	0.0	1	श्रुत-उपनिषत्क-गति-अभिधानात्	w0.p0							0	linked	BS:1.2.16:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	1.2.18	tbrahmatattva_0	तद्धर्मव्यपदेशात्	तद्धर्मव्यपदेशात्	detected	mula	1.2.18	1	1	तद्-धर्म-व्यपदेशात्	w1.p0								linked	BS:1.2.18:tbrahmatattva_0_54
+brahmasutra	brahmatattvaprakashika	1.2.18	tbrahmatattva_0	धर्माः	धर्माः	detected	mula	1.2.18	1	1	तद्-धर्म-व्यपदेशात्	w1.p0							1	linked	BS:1.2.18:tbrahmatattva_0_58
+brahmasutra	brahmatattvaprakashika	1.2.19	tbrahmatattva_0	स्मार्तं	स्मार्तं	detected	mula	1.2.19	2.0	1	स्मार्तम्	w2.p0								linked	BS:1.2.19:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	1.2.19	tbrahmatattva_0	अतद्धर्माभिलापात्।	अतद्धर्माभिलापात्	detected	mula	1.2.19	2.1	1	अ-तद्-धर्म-अभिलापात्	w2.p1								linked	BS:1.2.19:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	1.2.19	tbrahmatattva_0	धर्मा	धर्मा	detected	mula	1.2.19	2.1	1	अ-तद्-धर्म-अभिलापात्	w2.p1							2	linked	BS:1.2.19:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	1.2.20	tbrahmatattva_0	शारीरो	शारीरो	detected	mula	1.2.20	0.0	1	शारीरः	w0.p0								linked	BS:1.2.20:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	1.2.21	tbrahmatattva_0	धर्मोक्तेः	धर्मोक्तेः	detected														unlinked	BS:1.2.21:tbrahmatattva_0_54
+brahmasutra	brahmatattvaprakashika	1.2.22	tbrahmatattva_0	विशेषणं	विशेषणं	detected	mula	1.2.22	0	1	विशेषण-भेद-व्यपदेशाभ्याम्	w0.p0							0	linked	BS:1.2.22:tbrahmatattva_0_3
+brahmasutra	brahmatattvaprakashika	1.2.24	tbrahmatattva_0	वैश्वानरो	वैश्वानरो	detected	mula	1.2.24	0	1	वैश्वानरः	w0.p0								linked	BS:1.2.24:tbrahmatattva_0_45
+brahmasutra	brahmatattvaprakashika	1.2.24	tbrahmatattva_0	साधारणशब्दविशेषात्	साधारणशब्दविशेषात्	detected														unlinked	BS:1.2.24:tbrahmatattva_0_63
+brahmasutra	brahmatattvaprakashika	1.2.24	tbrahmatattva_0	साधारणो	साधारणो	detected	mula	1.2.24	1	1	साधारण-शब्द-विशेषात्	w1.p0							0	linked	BS:1.2.24:tbrahmatattva_0_66
+brahmasutra	brahmatattvaprakashika	1.2.25	tbrahmatattva_0	स्मर्यमाणं	स्मर्यमाणं	detected	mula	1.2.25	0.0	1	स्मर्यमाणम्	w0.p0								linked	BS:1.2.25:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	1.2.25	tbrahmatattva_0	स्याद्	स्याद्	detected	mula	1.2.25	1.0	1	स्यात्	w1.p0								linked	BS:1.2.25:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	1.2.26	tbrahmatattva_0	असम्भवात्।	असम्भवात्	detected	mula	1.2.26	3.1	1	असम्भवात्	w3.p1								linked	BS:1.2.26:tbrahmatattva_0_77
+brahmasutra	brahmatattvaprakashika	1.2.27	tbrahmatattva_0	देवता	देवता	detected	mula	1.2.27	3	1	देवता	w3.p0								linked	BS:1.2.27:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	1.2.27	tbrahmatattva_0	भूतं	भूतं	detected	mula	1.2.27	4	1	भूतम्	w4.p0								linked	BS:1.2.27:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	1.2.29	tbrahmatattva_0	अभिव्यक्तेः।	अभिव्यक्तेः	detected	mula	1.2.29	0.0	1	अभिव्यक्तेः	w0.p0								linked	BS:1.2.29:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	1.2.31	tbrahmatattva_0	दर्शयति	दर्शयति	detected	mula	1.2.31	3	1	दर्शयति	w3.p0								linked	BS:1.2.31:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	1.2.32	tbrahmatattva_0	अस्मिन्	अस्मिन्	detected	mula	1.2.32	1.2	1	अस्मिन्	w1.p2								linked	BS:1.2.32:tbrahmatattva_0_3
+brahmasutra	brahmatattvaprakashika	1.2.32	tbrahmatattva_0	एनं	एनं	detected	mula	1.2.32	1.1	1	एनम्	w1.p1								linked	BS:1.2.32:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	1.3.1	tbrahmatattva_0	द्यौः	द्यौः	detected	mula	1.3.1	0	1	द्यु - भू - आदि - आयतनम्	w0.p0							0	linked	BS:1.3.1:tbrahmatattva_0_82
+brahmasutra	brahmatattvaprakashika	1.3.1	tbrahmatattva_0	स्वशब्दात्	स्वशब्दात्	detected	mula	1.3.1	1	1	स्व - शब्दात्	w1.p0								linked	BS:1.3.1:tbrahmatattva_0_89
+brahmasutra	brahmatattvaprakashika	1.3.7	tbrahmatattva_0	स्थितिः	स्थितिः	detected	mula	1.3.7	0	1	स्थिति	w0.p0								linked	BS:1.3.7:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	1.3.8	tbrahmatattva_0	भूमा	भूमा	detected	mula	1.3.8	0	1	भूमा	w0.p0								linked	BS:1.3.8:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	1.3.8	tbrahmatattva_0	सम्प्रसादः	सम्प्रसादः	detected														unlinked	BS:1.3.8:tbrahmatattva_0_58
+brahmasutra	brahmatattvaprakashika	1.3.10	tbrahmatattva_0	अम्बरान्तधृतेः	अम्बरान्तधृतेः	detected	mula	1.3.10	0.1	1	अम्बर-अन्त-धृतेः	w0.p1								linked	BS:1.3.10:tbrahmatattva_0_47
+brahmasutra	brahmatattvaprakashika	1.3.11	tbrahmatattva_0	प्रशासनाद्	प्रशासनाद्	detected	mula	1.3.11	2	1	प्रशासनात्	w2.p0								linked	BS:1.3.11:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	1.3.12	tbrahmatattva_0	अन्यस्य	अन्यस्य	detected	mula	1.3.12	0.0	1	अन्य-भाव-व्यावृत्तेः	w0.p0							0	linked	BS:1.3.12:tbrahmatattva_0_3
+brahmasutra	brahmatattvaprakashika	1.3.13	tbrahmatattva_0	ईक्षतिकर्मव्यपदेशात्	ईक्षतिकर्मव्यपदेशात्	detected	mula	1.3.13	0.0	1	ईक्षति-कर्म-व्यपदेशात्	w0.p0								linked	BS:1.3.13:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	1.3.13	tbrahmatattva_0	व्यपदेशाद्	व्यपदेशाद्	detected	mula	1.3.13	0.0	1	ईक्षति-कर्म-व्यपदेशात्	w0.p0							2	linked	BS:1.3.13:tbrahmatattva_0_56
+brahmasutra	brahmatattvaprakashika	1.3.14	tbrahmatattva_0	उत्तरेभ्यः	उत्तरेभ्यः	detected	mula	1.3.14	1	1	उत्तरेभ्यः	w1.p0								linked	BS:1.3.14:tbrahmatattva_0_47
+brahmasutra	brahmatattvaprakashika	1.3.15	tbrahmatattva_0	दृष्टं	दृष्टं	detected	mula	1.3.15	3	1	दृष्टम्	w3.p0								linked	BS:1.3.15:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	1.3.15	tbrahmatattva_0	लिङ्गं	लिङ्गं	detected	mula	1.3.15	4	1	लिङ्गम्	w4.p0								linked	BS:1.3.15:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	1.3.16	tbrahmatattva_0	अस्य	अस्य	detected	mula	1.3.16	1.1	1	अस्य	w1.p1								linked	BS:1.3.16:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	1.3.18	tbrahmatattva_0	परामर्शात्	परामर्शात्	detected	mula	1.3.18	0.0	1	इतर-परामर्शात्	w0.p0							1	linked	BS:1.3.18:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	1.3.18	tbrahmatattva_0	असम्भवाद्	असम्भवाद्	detected	mula	1.3.18	2.2	1	असम्भवात्	w2.p2								linked	BS:1.3.18:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	1.3.19	tbrahmatattva_0	उत्तराद्	उत्तराद्	detected	mula	1.3.19	0.0	1	उत्तरात्	w0.p0								linked	BS:1.3.19:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	1.3.22	tbrahmatattva_0	अनुकृतेः	अनुकृतेः	detected	mula	1.3.22	0.0	1	अनुकृतेः	w0.p0								linked	BS:1.3.22:tbrahmatattva_0_60
+brahmasutra	brahmatattvaprakashika	1.3.22	tbrahmatattva_0	तस्य	तस्य	detected	mula	1.3.22	0.1	1	तस्य	w0.p1								linked	BS:1.3.22:tbrahmatattva_0_77
+brahmasutra	brahmatattvaprakashika	1.3.23	tbrahmatattva_0	स्मर्यत	स्मर्यत	detected	mula	1.3.23	2	1	स्मर्यते	w2.p0								linked	BS:1.3.23:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	1.3.25	tbrahmatattva_0	मनुष्याणां	मनुष्याणां	detected	mula	1.3.25	2	1	मनुष्य-अधिकार-त्वात्	w2.p0							0	linked	BS:1.3.25:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	1.3.26	tbrahmatattva_0	बादरायण	बादरायण	detected	mula	1.3.26	1	1	बादरायणः	w1.p0								linked	BS:1.3.26:tbrahmatattva_0_52
+brahmasutra	brahmatattvaprakashika	1.3.26	tbrahmatattva_0	सम्भवाद्	सम्भवाद्	detected	mula	1.3.26	2	1	सम्भवात्	w2.p0								linked	BS:1.3.26:tbrahmatattva_0_56
+brahmasutra	brahmatattvaprakashika	1.3.27	tbrahmatattva_0	कर्मणि	कर्मणि	detected	mula	1.3.27	1.0	1	कर्मणि	w1.p0								linked	BS:1.3.27:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	1.3.27	tbrahmatattva_0	विरोधः	विरोधः	detected	mula	1.3.27	0	1	विरोधः	w0.p0								linked	BS:1.3.27:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	1.3.27	tbrahmatattva_0	दर्शनात्।	दर्शनात्	detected	mula	1.3.27	2.3	1	दर्शनात्	w2.p3								linked	BS:1.3.27:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	1.3.28	tbrahmatattva_0	शब्दे	शब्दे	detected	mula	1.3.28	0	1	शब्दे	w0.p0								linked	BS:1.3.28:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	1.3.28	tbrahmatattva_0	प्रभवात्।	प्रभवात्	detected	mula	1.3.28	3.0	1	प्रभवात्	w3.p0								linked	BS:1.3.28:tbrahmatattva_0_16
+brahmasutra	brahmatattvaprakashika	1.3.28	tbrahmatattva_0	प्रत्यक्षानुमानाभ्यां	प्रत्यक्षानुमानाभ्यां	detected	mula	1.3.28	3.1	1	प्रत्यक्ष-अनुमानाभ्याम्	w3.p1								linked	BS:1.3.28:tbrahmatattva_0_26
+brahmasutra	brahmatattvaprakashika	1.3.29	tbrahmatattva_0	नित्यत्वं	नित्यत्वं	detected	mula	1.3.29	3	1	नित्यत्वम्	w3.p0								linked	BS:1.3.29:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	1.3.30	tbrahmatattva_0	दर्शनाद्	दर्शनाद्	detected	mula	1.3.30	1.0	1	दर्शनात्	w1.p0								linked	BS:1.3.30:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	1.3.31	tbrahmatattva_0	सम्भवति	सम्भवति	detected														unlinked	BS:1.3.31:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	1.3.32	tbrahmatattva_0	भावात्	भावात्	detected	mula	1.3.32	1.0	1	भावात्	w1.p0								linked	BS:1.3.32:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	1.3.33	tbrahmatattva_0	अस्ति	अस्ति	detected	mula	1.3.33	2.1	1	अस्ति	w2.p1								linked	BS:1.3.33:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	1.3.34	tbrahmatattva_0	अस्य	अस्य	detected	mula	1.3.34	0.1	1	अस्य	w0.p1								linked	BS:1.3.34:tbrahmatattva_0_50
+brahmasutra	brahmatattvaprakashika	1.3.34	tbrahmatattva_0	तदनादरश्रवणात्	तदनादरश्रवणात्	detected														unlinked	BS:1.3.34:tbrahmatattva_0_53
+brahmasutra	brahmatattvaprakashika	1.3.34	tbrahmatattva_0	सूच्यते।	सूच्यते	detected	mula	1.3.34	1.2	1	सूच्यते	w1.p2								linked	BS:1.3.34:tbrahmatattva_0_61
+brahmasutra	brahmatattvaprakashika	1.3.34	tbrahmatattva_0	तदाद्रवणात्।	तदाद्रवणात्	detected														unlinked	BS:1.3.34:tbrahmatattva_0_68
+brahmasutra	brahmatattvaprakashika	1.3.35	tbrahmatattva_0	क्षत्रियत्वगतेः।	क्षत्रियत्वगतेः	detected	mula	1.3.35	0.0	1	क्षत्रियत्व-गतेः	w0.p0								linked	BS:1.3.35:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	1.3.35	tbrahmatattva_0	उत्तरत्र	उत्तरत्र	detected	mula	1.3.35	0.2	1	उत्तरत्र	w0.p2								linked	BS:1.3.35:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	1.3.35	tbrahmatattva_0	चैत्ररथेन	चैत्ररथेन	detected	mula	1.3.35	1	1	चैत्ररथेन	w1.p0								linked	BS:1.3.35:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	1.3.38	tbrahmatattva_0	स्मृतेः	स्मृतेः	detected	mula	1.3.38	0.1	1	स्मृतेः	w0.p1								linked	BS:1.3.38:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	1.3.38	tbrahmatattva_0	प्रतिषेधात्।	प्रतिषेधात्	detected	mula	1.3.38	0.0	1	श्रवण-अध्ययन-अर्थ-प्रतिषेधात्	w0.p0							3	linked	BS:1.3.38:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	1.3.39	tbrahmatattva_0	कम्पन	कम्पन	detected	mula	1.3.39	0	1	कम्पनात्	w0.p0								linked	BS:1.3.39:tbrahmatattva_0_52
+brahmasutra	brahmatattvaprakashika	1.3.40	tbrahmatattva_0	दर्शनाद्	दर्शनाद्	detected	mula	1.3.40	0.1	1	दर्शनात्	w0.p1								linked	BS:1.3.40:tbrahmatattva_0_51
+brahmasutra	brahmatattvaprakashika	1.3.41	tbrahmatattva_0	आकाशो	आकाशो	detected	mula	1.3.41	0.0	1	आकाशः	w0.p0								linked	BS:1.3.41:tbrahmatattva_0_23
+brahmasutra	brahmatattvaprakashika	1.3.41	tbrahmatattva_0	अर्थान्तरत्वादिव्यपदेशात्	अर्थान्तरत्वादिव्यपदेशात्	detected	mula	1.3.41	0.1	1	अर्थान्तरत्व-आदि-व्यपदेशात्	w0.p1								linked	BS:1.3.41:tbrahmatattva_0_41
+brahmasutra	brahmatattvaprakashika	1.3.41	tbrahmatattva_0	व्यपदेशात्	व्यपदेशात्	detected	mula	1.3.41	0.1	1	अर्थान्तरत्व-आदि-व्यपदेशात्	w0.p1							2	linked	BS:1.3.41:tbrahmatattva_0_46
+brahmasutra	brahmatattvaprakashika	1.3.42	tbrahmatattva_0	भेदेन	भेदेन	detected	mula	1.3.42	0.1	1	भेदेन	w0.p1								linked	BS:1.3.42:tbrahmatattva_0_65
+brahmasutra	brahmatattvaprakashika	1.4.1	tbrahmatattva_0	शरीरमिति	शरीरमिति	detected	mula	1.4.1	2.0	1	शरीर-रूपक-विन्यस्त-गृहीतेः	w2.p0							0	linked	BS:1.4.1:tbrahmatattva_0_61
+brahmasutra	brahmatattvaprakashika	1.4.1	tbrahmatattva_0	शरीररूपकविन्यस्तगृहीतेः	शरीररूपकविन्यस्तगृहीतेः	detected	mula	1.4.1	2.0	1	शरीर-रूपक-विन्यस्त-गृहीतेः	w2.p0								linked	BS:1.4.1:tbrahmatattva_0_78
+brahmasutra	brahmatattvaprakashika	1.4.1	tbrahmatattva_0	विन्यस्तस्य	विन्यस्तस्य	detected	mula	1.4.1	2.0	1	शरीर-रूपक-विन्यस्त-गृहीतेः	w2.p0							2	linked	BS:1.4.1:tbrahmatattva_0_90
+brahmasutra	brahmatattvaprakashika	1.4.1	tbrahmatattva_0	दर्शयति	दर्शयति	detected	mula	1.4.1	2.1	1	दर्शयति	w2.p1								linked	BS:1.4.1:tbrahmatattva_0_97
+brahmasutra	brahmatattvaprakashika	1.4.2	tbrahmatattva_0	तदर्हत्वाद्	तदर्हत्वाद्	detected														unlinked	BS:1.4.2:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	1.4.3	tbrahmatattva_0	तदधीनत्वाद्	तदधीनत्वाद्	detected	mula	1.4.3	0	1	तदधीनत्वात्	w0.p0								linked	BS:1.4.3:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	1.4.3	tbrahmatattva_0	अर्थवत्।	अर्थवत्	detected	mula	1.4.3	0.1	1	अर्थवत्	w0.p1								linked	BS:1.4.3:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	1.4.5	tbrahmatattva_0	प्राज्ञो	प्राज्ञो	detected	mula	1.4.5	2	1	प्राज्ञः	w2.p0								linked	BS:1.4.5:tbrahmatattva_0_16
+brahmasutra	brahmatattvaprakashika	1.4.9	tbrahmatattva_0	उपक्रमे	उपक्रमे	detected	mula	1.4.9	0	1	ज्योतिस्-उपक्रमा	w0.p0							1	linked	BS:1.4.9:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	1.4.9	tbrahmatattva_0	एके	एके	detected	mula	1.4.9	4	1	एके	w4.p0								linked	BS:1.4.9:tbrahmatattva_0_16
+brahmasutra	brahmatattvaprakashika	1.4.10	tbrahmatattva_0	कल्पनोपदेशाद्	कल्पनोपदेशाद्	detected														unlinked	BS:1.4.10:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	1.4.11	tbrahmatattva_0	नानाभावात्	नानाभावात्	detected	mula	1.4.11	2.0	1	नाना-भावात्	w2.p0								linked	BS:1.4.11:tbrahmatattva_0_55
+brahmasutra	brahmatattvaprakashika	1.4.11	tbrahmatattva_0	अतिरेकात्।	अतिरेकात्	detected	mula	1.4.11	2.1	1	अतिरेकात्	w2.p1								linked	BS:1.4.11:tbrahmatattva_0_64
+brahmasutra	brahmatattvaprakashika	1.4.12	tbrahmatattva_0	प्राण	प्राण	detected	mula	1.4.12	0	1	प्राण-आदयः	w0.p0							0	linked	BS:1.4.12:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	1.4.12	tbrahmatattva_0	प्राणादयः	प्राणादयः	detected	mula	1.4.12	0	1	प्राण-आदयः	w0.p0								linked	BS:1.4.12:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	1.4.12	tbrahmatattva_0	वाक्यशेषात्	वाक्यशेषात्	detected	mula	1.4.12	1	1	वाक्य-शेषात्	w1.p0								linked	BS:1.4.12:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	1.4.13	tbrahmatattva_0	एकेषां	एकेषां	detected	mula	1.4.13	0.1	1	एकेषाम्	w0.p1								linked	BS:1.4.13:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	1.4.13	tbrahmatattva_0	ज्योतिः	ज्योतिः	detected														unlinked	BS:1.4.13:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	1.4.14	tbrahmatattva_0	कारणत्वे	कारणत्वे	detected														unlinked	BS:1.4.14:tbrahmatattva_0_43
+brahmasutra	brahmatattvaprakashika	1.4.14	tbrahmatattva_0	आकाशादिषु	आकाशादिषु	detected	mula	1.4.14	1.1	1	आकाश-आदिषु	w1.p1								linked	BS:1.4.14:tbrahmatattva_0_47
+brahmasutra	brahmatattvaprakashika	1.4.14	tbrahmatattva_0	यथा	यथा	detected	mula	1.4.14	2	1	यथा-व्यपदिष्ट-उक्तेः	w2.p0							0	linked	BS:1.4.14:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	1.4.14	tbrahmatattva_0	व्यपदिष्ट	व्यपदिष्ट	detected	mula	1.4.14	2	1	यथा-व्यपदिष्ट-उक्तेः	w2.p0							1	linked	BS:1.4.14:tbrahmatattva_0_53
+brahmasutra	brahmatattvaprakashika	1.4.17	tbrahmatattva_0	व्याख्यातम्	व्याख्यातम्	detected	mula	1.4.17	1.2	1	व्याख्यातम्	w1.p2								linked	BS:1.4.17:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	1.4.18	tbrahmatattva_0	प्रश्नव्याख्यानाभ्यां	प्रश्नव्याख्यानाभ्यां	detected	mula	1.4.18	3.0	1	प्रश्न-व्याख्यानाभ्याम्	w3.p0								linked	BS:1.4.18:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	1.4.19	tbrahmatattva_0	वाक्यान्वयाद्	वाक्यान्वयाद्	detected	mula	1.4.19	0	1	वाक्य-अन्वयात्	w0.p0								linked	BS:1.4.19:tbrahmatattva_0_44
+brahmasutra	brahmatattvaprakashika	1.4.19	tbrahmatattva_0	वाक्यस्य	वाक्यस्य	detected	mula	1.4.19	0	1	वाक्य-अन्वयात्	w0.p0							0	linked	BS:1.4.19:tbrahmatattva_0_46
+brahmasutra	brahmatattvaprakashika	1.4.21	tbrahmatattva_0	एवम्भावात्	एवम्भावात्	detected	mula	1.4.21	1	1	एवम्-भावात्	w1.p0								linked	BS:1.4.21:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	1.4.22	tbrahmatattva_0	काशकृत्स्न	काशकृत्स्न	detected	mula	1.4.22	1	1	काशकृत्स्नः	w1.p0								linked	BS:1.4.22:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	1.4.23	tbrahmatattva_0	प्रतिज्ञादृष्टान्तानुपरोधाद्	प्रतिज्ञादृष्टान्तानुपरोधाद्	detected	mula	1.4.23	1	1	प्रतिज्ञा-दृष्टान्त-अनुपरोधात्	w1.p0								linked	BS:1.4.23:tbrahmatattva_0_41
+brahmasutra	brahmatattvaprakashika	1.4.25	tbrahmatattva_0	साक्षाद्	साक्षाद्	detected	mula	1.4.25	0.0	1	साक्षात्	w0.p0								linked	BS:1.4.25:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	1.4.26	tbrahmatattva_0	आत्मकृतेः	आत्मकृतेः	detected	mula	1.4.26	0	1	आत्म-कृतेः	w0.p0								linked	BS:1.4.26:tbrahmatattva_0_25
+brahmasutra	brahmatattvaprakashika	1.4.26	tbrahmatattva_0	परिणामात्	परिणामात्	detected	mula	1.4.26	1	1	परिणामात्	w1.p0								linked	BS:1.4.26:tbrahmatattva_0_36
+brahmasutra	brahmatattvaprakashika	1.4.27	tbrahmatattva_0	गीयते	गीयते	detected	mula	1.4.27	2	1	गीयते	w2.p0								linked	BS:1.4.27:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	2.1.3	tbrahmatattva_0	एतेन	एतेन	detected	mula	2.1.3	0	1	एतेन	w0.p0								linked	BS:2.1.3:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	2.1.3	tbrahmatattva_0	प्रत्युक्ता	प्रत्युक्ता	detected	mula	2.1.3	2	1	प्रत्युक्तः	w2.p0								linked	BS:2.1.3:tbrahmatattva_0_25
+brahmasutra	brahmatattvaprakashika	2.1.4	tbrahmatattva_0	विलक्षणत्वाद्	विलक्षणत्वाद्	detected	mula	2.1.4	1.0	1	विलक्षणत्वात्	w1.p0								linked	BS:2.1.4:tbrahmatattva_0_30
+brahmasutra	brahmatattvaprakashika	2.1.4	tbrahmatattva_0	तथात्वं	तथात्वं	detected	mula	2.1.4	2	1	तथात्वम्	w2.p0								linked	BS:2.1.4:tbrahmatattva_0_47
+brahmasutra	brahmatattvaprakashika	2.1.4	tbrahmatattva_0	शब्दात्	शब्दात्	detected	mula	2.1.4	4	1	शब्दात्	w4.p0								linked	BS:2.1.4:tbrahmatattva_0_49
+brahmasutra	brahmatattvaprakashika	2.1.5	tbrahmatattva_0	व्यपदेशो	व्यपदेशो	detected	mula	2.1.5	0.0	1	अभिमानि-व्यपदेशः	w0.p0							1	linked	BS:2.1.5:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	2.1.5	tbrahmatattva_0	विशेषानुगतिभ्यां	विशेषानुगतिभ्यां	detected	mula	2.1.5	1	1	विशेष-अनुगतिभ्याम्	w1.p0								linked	BS:2.1.5:tbrahmatattva_0_27
+brahmasutra	brahmatattvaprakashika	2.1.5	tbrahmatattva_0	विशेषः	विशेषः	detected	mula	2.1.5	1	1	विशेष-अनुगतिभ्याम्	w1.p0							0	linked	BS:2.1.5:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	2.1.6	tbrahmatattva_0	दृश्यते	दृश्यते	detected	mula	2.1.6	0	1	दृश्यते	w0.p0								linked	BS:2.1.6:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	2.1.7	tbrahmatattva_0	प्रतिषेधमात्रत्वाद्	प्रतिषेधमात्रत्वाद्	detected														unlinked	BS:2.1.7:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	2.1.7	tbrahmatattva_0	असत्	असत्	detected	mula	2.1.7	0.0	1	असत्	w0.p0								linked	BS:2.1.7:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	2.1.8	tbrahmatattva_0	अपीतौ	अपीतौ	detected	mula	2.1.8	0	1	अपीतौ	w0.p0								linked	BS:2.1.8:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	2.1.8	tbrahmatattva_0	तद्वत्प्रसङ्गाद्	तद्वत्प्रसङ्गाद्	detected	mula	2.1.8	1.0	1	तद्वत्-प्रसङ्गात्	w1.p0								linked	BS:2.1.8:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	2.1.8	tbrahmatattva_0	तद्वत्	तद्वत्	detected	mula	2.1.8	1.0	1	तद्वत्-प्रसङ्गात्	w1.p0							0	linked	BS:2.1.8:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	2.1.9	tbrahmatattva_0	दृष्टान्तभावात्।	दृष्टान्तभावात्	detected	mula	2.1.9	2	1	दृष्टान्त-भावात्	w2.p0								linked	BS:2.1.9:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	2.1.9	tbrahmatattva_0	दृष्टान्तानां	दृष्टान्तानां	detected	mula	2.1.9	2	1	दृष्टान्त-भावात्	w2.p0							0	linked	BS:2.1.9:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	2.1.11	tbrahmatattva_0	तर्कस्य	तर्कस्य	detected	mula	2.1.11	0.0	1	तर्क-अप्रतिष्ठानात्	w0.p0							0	linked	BS:2.1.11:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	2.1.12	tbrahmatattva_0	एतेन	एतेन	detected	mula	2.1.12	0	1	एतेन	w0.p0								linked	BS:2.1.12:tbrahmatattva_0_23
+brahmasutra	brahmatattvaprakashika	2.1.12	tbrahmatattva_0	शिष्टैः	शिष्टैः	detected	mula	2.1.12	1	1	शिष्ट-अपरिग्रहाः	w1.p0							0	linked	BS:2.1.12:tbrahmatattva_0_25
+brahmasutra	brahmatattvaprakashika	2.1.12	tbrahmatattva_0	शिष्टापरिग्रहाः	शिष्टापरिग्रहाः	detected	mula	2.1.12	1	1	शिष्ट-अपरिग्रहाः	w1.p0								linked	BS:2.1.12:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	2.1.12	tbrahmatattva_0	व्याख्याता	व्याख्याता	detected	mula	2.1.12	3	1	व्याख्याताः	w3.p0								linked	BS:2.1.12:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	2.1.13	tbrahmatattva_0	स्याद्।	स्याद्	detected	mula	2.1.13	0.3	1	स्यात्	w0.p3								linked	BS:2.1.13:tbrahmatattva_0_30
+brahmasutra	brahmatattvaprakashika	2.1.13	tbrahmatattva_0	विभागः	विभागः	detected	mula	2.1.13	0.1	1	अविभागः	w0.p1								linked	BS:2.1.13:tbrahmatattva_0_44
+brahmasutra	brahmatattvaprakashika	2.1.14	tbrahmatattva_0	आरम्भणशब्दादिभ्यः।	आरम्भणशब्दादिभ्यः	detected														unlinked	BS:2.1.14:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	2.1.15	tbrahmatattva_0	भावे	भावे	detected	mula	2.1.15	0	1	भावे	w0.p0								linked	BS:2.1.15:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	2.1.16	tbrahmatattva_0	अवरस्य	अवरस्य	detected	mula	2.1.16	0.2	1	अवरस्य	w0.p2								linked	BS:2.1.16:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	2.1.16	tbrahmatattva_0	सत्त्वाद्	सत्त्वाद्	detected	mula	2.1.16	0.0	1	सत्त्वात्	w0.p0								linked	BS:2.1.16:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	2.1.17	tbrahmatattva_0	वाक्यशेषात्	वाक्यशेषात्	detected	mula	2.1.17	3	1	वाक्य - शेषात्	w3.p0								linked	BS:2.1.17:tbrahmatattva_0_26
+brahmasutra	brahmatattvaprakashika	2.1.18	tbrahmatattva_0	युक्तेः	युक्तेः	detected	mula	2.1.18	0	1	युक्तेः	w0.p0								linked	BS:2.1.18:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	2.1.20	tbrahmatattva_0	यथा	यथा	detected	mula	2.1.20	0	1	यथा	w0.p0								linked	BS:2.1.20:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	2.1.21	tbrahmatattva_0	इतरव्यपदेशाद्	इतरव्यपदेशाद्	detected	mula	2.1.21	0.0	1	इतर-व्यपदेशात्	w0.p0								linked	BS:2.1.21:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	2.1.21	tbrahmatattva_0	इतरस्य	इतरस्य	detected	mula	2.1.21	0.0	1	इतर-व्यपदेशात्	w0.p0							0	linked	BS:2.1.21:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	2.1.22	tbrahmatattva_0	भेदनिर्देशाद्	भेदनिर्देशाद्	detected														unlinked	BS:2.1.22:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	2.1.25	tbrahmatattva_0	लोकः	लोकः	detected	mula	2.1.25	1	1	लोके	w1.p0								linked	BS:2.1.25:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	2.1.25	tbrahmatattva_0	देवाः	देवाः	detected	mula	2.1.25	0.0	1	देव-आदि-वत्	w0.p0							0	linked	BS:2.1.25:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	2.1.26	tbrahmatattva_0	निरवयवत्वाद्	निरवयवत्वाद्	detected	mula	2.1.26	0.1	1	निरवयवत्व-शब्द-कोपः	w0.p1							0	linked	BS:2.1.26:tbrahmatattva_0_21
+brahmasutra	brahmatattvaprakashika	2.1.26	tbrahmatattva_0	कृत्स्नस्य	कृत्स्नस्य	detected	mula	2.1.26	0.0	1	कृत्स्न-प्रसक्तिः	w0.p0							0	linked	BS:2.1.26:tbrahmatattva_0_41
+brahmasutra	brahmatattvaprakashika	2.1.26	tbrahmatattva_0	कृत्स्नप्रसक्ति	कृत्स्नप्रसक्ति	detected	mula	2.1.26	0.0	1	कृत्स्न-प्रसक्तिः	w0.p0								linked	BS:2.1.26:tbrahmatattva_0_51
+brahmasutra	brahmatattvaprakashika	2.1.27	tbrahmatattva_0	श्रुतेः	श्रुतेः	detected	mula	2.1.27	0.0	1	श्रुतेः	w0.p0								linked	BS:2.1.27:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	2.1.27	tbrahmatattva_0	शब्दमूलत्वाद्	शब्दमूलत्वाद्	detected														unlinked	BS:2.1.27:tbrahmatattva_0_40
+brahmasutra	brahmatattvaprakashika	2.1.28	tbrahmatattva_0	विचित्रा	विचित्रा	detected	mula	2.1.28	2.0	1	विचित्राः	w2.p0								linked	BS:2.1.28:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	2.1.30	tbrahmatattva_0	सर्वोपेता	सर्वोपेता	detected														unlinked	BS:2.1.30:tbrahmatattva_0_23
+brahmasutra	brahmatattvaprakashika	2.1.30	tbrahmatattva_0	तद्दर्शनात्	तद्दर्शनात्	detected	mula	2.1.30	2	1	तद्-दर्शनात्	w2.p0								linked	BS:2.1.30:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	2.1.33	tbrahmatattva_0	लीलाकैवल्यं	लीलाकैवल्यं	detected	mula	2.1.33	1	1	लीला-कैवल्यम्	w1.p0								linked	BS:2.1.33:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	2.1.34	tbrahmatattva_0	वैषम्यनैर्घृण्ये	वैषम्यनैर्घृण्ये	detected	mula	2.1.34	0	1	वैषम्य-नैर्घृण्ये	w0.p0								linked	BS:2.1.34:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	2.1.34	tbrahmatattva_0	वैषम्यम्।	वैषम्यम्	detected	mula	2.1.34	0	1	वैषम्य-नैर्घृण्ये	w0.p0							0	linked	BS:2.1.34:tbrahmatattva_0_44
+brahmasutra	brahmatattvaprakashika	2.1.34	tbrahmatattva_0	नैर्घृण्यम्।	नैर्घृण्यम्	detected	mula	2.1.34	0	1	वैषम्य-नैर्घृण्ये	w0.p0							1	linked	BS:2.1.34:tbrahmatattva_0_46
+brahmasutra	brahmatattvaprakashika	2.1.34	tbrahmatattva_0	सापेक्षत्वात्	सापेक्षत्वात्	detected	mula	2.1.34	2.0	1	सापेक्षत्वात्	w2.p0								linked	BS:2.1.34:tbrahmatattva_0_63
+brahmasutra	brahmatattvaprakashika	2.1.34	tbrahmatattva_0	दर्शयति	दर्शयति	detected	mula	2.1.34	3	1	दर्शयति	w3.p0								linked	BS:2.1.34:tbrahmatattva_0_84
+brahmasutra	brahmatattvaprakashika	2.1.35	tbrahmatattva_0	अनादित्वात्	अनादित्वात्	detected	mula	2.1.35	2.2	1	अनादित्वात्	w2.p2								linked	BS:2.1.35:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	2.1.36	tbrahmatattva_0	उपलभ्यते	उपलभ्यते	detected	mula	2.1.36	1.2	1	उपलभ्यते	w1.p2								linked	BS:2.1.36:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	2.2.1	tbrahmatattva_0	रचनानुपपत्तेः	रचनानुपपत्तेः	detected	mula	2.2.1	0.0	1	रचना-अनुपपत्तेः	w0.p0								linked	BS:2.2.1:tbrahmatattva_0_80
+brahmasutra	brahmatattvaprakashika	2.2.7	tbrahmatattva_0	पुरुषः	पुरुषः	detected	mula	2.2.7	0.0	1	पुरुष-अश्म-वत्	w0.p0							0	linked	BS:2.2.7:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	2.2.9	tbrahmatattva_0	ज्ञशक्तिवियोगाद्	ज्ञशक्तिवियोगाद्	detected	mula	2.2.9	2	1	ज्ञ-शक्ति-वियोगात्	w2.p0								linked	BS:2.2.9:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	2.2.11	tbrahmatattva_0	ह्रस्वपरिमण्डलाभ्यां	ह्रस्वपरिमण्डलाभ्यां	detected	mula	2.2.11	1	1	ह्रस्व-परिमण्डलाभ्याम्	w1.p0								linked	BS:2.2.11:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	2.2.12	tbrahmatattva_0	कर्म	कर्म	detected	mula	2.2.12	2.0	1	कर्म	w2.p0								linked	BS:2.2.12:tbrahmatattva_0_69
+brahmasutra	brahmatattvaprakashika	2.2.12	tbrahmatattva_0	तदभावः	तदभावः	detected														unlinked	BS:2.2.12:tbrahmatattva_0_75
+brahmasutra	brahmatattvaprakashika	2.2.13	tbrahmatattva_0	समवायाभ्युपगमात्।	समवायाभ्युपगमात्	detected	mula	2.2.13	0.0	1	समवाय-अभ्युपगमात्	w0.p0								linked	BS:2.2.13:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	2.2.13	tbrahmatattva_0	समवायेन	समवायेन	detected	mula	2.2.13	0.0	1	समवाय-अभ्युपगमात्	w0.p0							0	linked	BS:2.2.13:tbrahmatattva_0_16
+brahmasutra	brahmatattvaprakashika	2.2.14	tbrahmatattva_0	भावात्	भावात्	detected	mula	2.2.14	2	1	भावात्	w2.p0								linked	BS:2.2.14:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	2.2.18	tbrahmatattva_0	समुदाये	समुदाये	detected	mula	2.2.18	0	1	समुदायः	w0.p0								linked	BS:2.2.18:tbrahmatattva_0_42
+brahmasutra	brahmatattvaprakashika	2.2.18	tbrahmatattva_0	तदप्राप्तिः	तदप्राप्तिः	detected														unlinked	BS:2.2.18:tbrahmatattva_0_49
+brahmasutra	brahmatattvaprakashika	2.2.19	tbrahmatattva_0	उत्पत्तिमात्रनिमित्तत्वाद्	उत्पत्तिमात्रनिमित्तत्वाद्	detected	mula	2.2.19	1.2	1	उत्पत्ति-मात्र-निमित्त-त्वात्	w1.p2								linked	BS:2.2.19:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	2.2.19	tbrahmatattva_0	मात्रे	मात्रे	detected	mula	2.2.19	1.2	1	उत्पत्ति-मात्र-निमित्त-त्वात्	w1.p2							1	linked	BS:2.2.19:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	2.2.21	tbrahmatattva_0	असति	असति	detected	mula	2.2.21	0	1	असति	w0.p0								linked	BS:2.2.21:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	2.2.21	tbrahmatattva_0	प्रतिज्ञाया	प्रतिज्ञाया	detected	mula	2.2.21	1	1	प्रतिज्ञा-उपरोधः	w1.p0							0	linked	BS:2.2.21:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	2.2.21	tbrahmatattva_0	उपरोधः	उपरोधः	detected	mula	2.2.21	1	1	प्रतिज्ञा-उपरोधः	w1.p0							1	linked	BS:2.2.21:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	2.2.21	tbrahmatattva_0	अन्यथा	अन्यथा	detected	mula	2.2.21	2.1	1	अन्यथा	w2.p1								linked	BS:2.2.21:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	2.2.22	tbrahmatattva_0	अविच्छेदात्	अविच्छेदात्	detected	mula	2.2.22	0.1	1	अविच्छेदात्	w0.p1								linked	BS:2.2.22:tbrahmatattva_0_25
+brahmasutra	brahmatattvaprakashika	2.2.24	tbrahmatattva_0	आकाशः	आकाशः	detected	mula	2.2.24	0	1	आकाशे	w0.p0								linked	BS:2.2.24:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	2.2.26	tbrahmatattva_0	अदृष्टत्वाद्	अदृष्टत्वाद्	detected	mula	2.2.26	0.2	1	अदृष्टत्वात्	w0.p2								linked	BS:2.2.26:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	2.2.27	tbrahmatattva_0	उदासीनानां	उदासीनानां	detected	mula	2.2.27	0.0	1	उदासीनानाम्	w0.p0								linked	BS:2.2.27:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	2.2.28	tbrahmatattva_0	उपलब्धेः	उपलब्धेः	detected	mula	2.2.28	1	1	उपलब्धेः	w1.p0								linked	BS:2.2.28:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	2.2.29	tbrahmatattva_0	स्वप्ने	स्वप्ने	detected	mula	2.2.29	2	1	स्वप्न-आदि-वत्	w2.p0							0	linked	BS:2.2.29:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	2.2.30	tbrahmatattva_0	भावो	भावो	detected	mula	2.2.30	1.0	1	भावः	w1.p0								linked	BS:2.2.30:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	2.2.30	tbrahmatattva_0	अनुपलब्धेः	अनुपलब्धेः	detected	mula	2.2.30	1.1	1	अनुपलब्धेः	w1.p1								linked	BS:2.2.30:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	2.2.33	tbrahmatattva_0	एकस्मिन्	एकस्मिन्	detected	mula	2.2.33	0.1	1	एकस्मिन्	w0.p1								linked	BS:2.2.33:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	2.2.36	tbrahmatattva_0	अन्त्यस्य	अन्त्यस्य	detected	mula	2.2.36	0.0	1	अन्त्य-अवस्थितेः	w0.p0							0	linked	BS:2.2.36:tbrahmatattva_0_1
+brahmasutra	brahmatattvaprakashika	2.2.37	tbrahmatattva_0	असामञ्जस्यात्।	असामञ्जस्यात्	detected	mula	2.2.37	0.1	1	असामञ्जस्यात्	w0.p1								linked	BS:2.2.37:tbrahmatattva_0_33
+brahmasutra	brahmatattvaprakashika	2.2.38	tbrahmatattva_0	सम्बन्धो	सम्बन्धो	detected	mula	2.2.38	0.0	1	सम्बन्ध-अनुपपत्तेः	w0.p0							0	linked	BS:2.2.38:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	2.2.40	tbrahmatattva_0	भोगादिभ्यो	भोगादिभ्यो	detected														unlinked	BS:2.2.40:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	2.2.43	tbrahmatattva_0	करणं	करणं	detected	mula	2.2.43	3	1	करणम्	w3.p0								linked	BS:2.2.43:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	2.3.1	tbrahmatattva_0	अश्रुतेः	अश्रुतेः	detected	mula	2.3.1	1.1	1	अश्रुतेः	w1.p1								linked	BS:2.3.1:tbrahmatattva_0_92
+brahmasutra	brahmatattvaprakashika	2.3.3	tbrahmatattva_0	गौणी	गौणी	detected	mula	2.3.3	0.0	1	गौणी	w0.p0								linked	BS:2.3.3:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	2.3.3	tbrahmatattva_0	असम्भवात्।	असम्भवात्	detected	mula	2.3.3	0.1	1	असम्भवात्	w0.p1								linked	BS:2.3.3:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	2.3.6	tbrahmatattva_0	प्रतिज्ञा	प्रतिज्ञा	detected	mula	2.3.6	0.0	1	प्रतिज्ञा-अहानिः	w0.p0							0	linked	BS:2.3.6:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	2.3.6	tbrahmatattva_0	शब्देभ्यः	शब्देभ्यः	detected	mula	2.3.6	0.2	1	शब्देभ्यः	w0.p2								linked	BS:2.3.6:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	2.3.7	tbrahmatattva_0	विभागो	विभागो	detected	mula	2.3.7	2	1	विभागः	w2.p0								linked	BS:2.3.7:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	2.3.8	tbrahmatattva_0	व्याख्यातः।	व्याख्यातः	detected	mula	2.3.8	2	1	व्याख्यातः	w2.p0								linked	BS:2.3.8:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	2.3.9	tbrahmatattva_0	सतः	सतः	detected	mula	2.3.9	1.0	1	सतः	w1.p0								linked	BS:2.3.9:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	2.3.9	tbrahmatattva_0	अनुपपत्तेः	अनुपपत्तेः	detected	mula	2.3.9	1.1	1	अनुपपत्तेः	w1.p1								linked	BS:2.3.9:tbrahmatattva_0_42
+brahmasutra	brahmatattvaprakashika	2.3.10	tbrahmatattva_0	तेजः	तेजः	detected	mula	2.3.10	0.0	1	तेजः	w0.p0								linked	BS:2.3.10:tbrahmatattva_0_38
+brahmasutra	brahmatattvaprakashika	2.3.12	tbrahmatattva_0	पृथिव्या	पृथिव्या	detected	mula	2.3.12	0	1	पृथिवी-अधिकार-रूप-शब्दान्तरेभ्यः	w0.p0							0	linked	BS:2.3.12:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	2.3.12	tbrahmatattva_0	अधिकार	अधिकार	detected	mula	2.3.12	0	1	पृथिवी-अधिकार-रूप-शब्दान्तरेभ्यः	w0.p0							1	linked	BS:2.3.12:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	2.3.14	tbrahmatattva_0	उपपद्यते	उपपद्यते	detected	mula	2.3.14	3	1	उपपद्यते	w3.p0								linked	BS:2.3.14:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	2.3.15	tbrahmatattva_0	क्रमेण	क्रमेण	detected	mula	2.3.15	2	1	क्रमेण	w2.p0								linked	BS:2.3.15:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	2.3.16	tbrahmatattva_0	चराचरव्यपाश्रयः	चराचरव्यपाश्रयः	detected	mula	2.3.16	0.0	1	चर-अचर-व्यपाश्रयः	w0.p0								linked	BS:2.3.16:tbrahmatattva_0_47
+brahmasutra	brahmatattvaprakashika	2.3.16	tbrahmatattva_0	भाक्तः	भाक्तः	detected	mula	2.3.16	2.0	1	भाक्तः	w2.p0								linked	BS:2.3.16:tbrahmatattva_0_52
+brahmasutra	brahmatattvaprakashika	2.3.16	tbrahmatattva_0	स्यात्	स्यात्	detected	mula	2.3.16	1.0	1	स्यात्	w1.p0								linked	BS:2.3.16:tbrahmatattva_0_54
+brahmasutra	brahmatattvaprakashika	2.3.16	tbrahmatattva_0	तद्भावभावित्वाद्	तद्भावभावित्वाद्	detected	mula	2.3.16	2.1	1	तत्-भाव-भावित्वात्	w2.p1								linked	BS:2.3.16:tbrahmatattva_0_57
+brahmasutra	brahmatattvaprakashika	2.3.17	tbrahmatattva_0	आत्मा	आत्मा	detected	mula	2.3.17	0.1	1	आत्मा	w0.p1								linked	BS:2.3.17:tbrahmatattva_0_30
+brahmasutra	brahmatattvaprakashika	2.3.17	tbrahmatattva_0	अश्रुतेः	अश्रुतेः	detected	mula	2.3.17	0.2	1	अश्रुतेः	w0.p2								linked	BS:2.3.17:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	2.3.17	tbrahmatattva_0	ताभ्यः	ताभ्यः	detected	mula	2.3.17	1	1	ताभ्यः	w1.p0								linked	BS:2.3.17:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	2.3.18	tbrahmatattva_0	ज्ञः	ज्ञः	detected	mula	2.3.18	0.0	1	ज्ञः	w0.p0								linked	BS:2.3.18:tbrahmatattva_0_25
+brahmasutra	brahmatattvaprakashika	2.3.20	tbrahmatattva_0	स्वात्मना	स्वात्मना	detected	mula	2.3.20	0	1	स्व-आत्मना	w0.p0								linked	BS:2.3.20:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	2.3.21	tbrahmatattva_0	इतराधिकाराद्	इतराधिकाराद्	detected	mula	2.3.21	1.2	1	इतर-अधिकारात्	w1.p2								linked	BS:2.3.21:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	2.3.21	tbrahmatattva_0	इतरस्य	इतरस्य	detected	mula	2.3.21	1.2	1	इतर-अधिकारात्	w1.p2							0	linked	BS:2.3.21:tbrahmatattva_0_16
+brahmasutra	brahmatattvaprakashika	2.3.24	tbrahmatattva_0	अवस्थितिवैशेष्यात्	अवस्थितिवैशेष्यात्	detected	mula	2.3.24	0.0	1	अवस्थिति-वैशेष्यात्	w0.p0								linked	BS:2.3.24:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	2.3.24	tbrahmatattva_0	हृदि	हृदि	detected	mula	2.3.24	1.3	1	हृदि	w1.p3								linked	BS:2.3.24:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	2.3.25	tbrahmatattva_0	लोकवद्	लोकवद्	detected	mula	2.3.25	1	1	लोकवत्	w1.p0								linked	BS:2.3.25:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	2.3.28	tbrahmatattva_0	पृथगुपदेशाद्	पृथगुपदेशाद्	detected														unlinked	BS:2.3.28:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	2.3.29	tbrahmatattva_0	तद्गुणसारत्वात्	तद्गुणसारत्वात्	detected	mula	2.3.29	0.0	1	तद्-गुण-सारत्वात्	w0.p0								linked	BS:2.3.29:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	2.3.29	tbrahmatattva_0	गुणाः	गुणाः	detected	mula	2.3.29	0.0	1	तद्-गुण-सारत्वात्	w0.p0							1	linked	BS:2.3.29:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	2.3.29	tbrahmatattva_0	तद्व्यपदेशो	तद्व्यपदेशो	detected	mula	2.3.29	1	1	तद्-व्यपदेशः	w1.p0								linked	BS:2.3.29:tbrahmatattva_0_27
+brahmasutra	brahmatattvaprakashika	2.3.29	tbrahmatattva_0	प्राज्ञवद्	प्राज्ञवद्	detected	mula	2.3.29	2	1	प्राज्ञवत्	w2.p0								linked	BS:2.3.29:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	2.3.30	tbrahmatattva_0	तद्दर्शनाद्	तद्दर्शनाद्	detected	mula	2.3.30	2.1	1	तद्-दर्शनात्	w2.p1								linked	BS:2.3.30:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	2.3.31	tbrahmatattva_0	सत	सत	detected	mula	2.3.31	1.0	1	सतः	w1.p0								linked	BS:2.3.31:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	2.3.32	tbrahmatattva_0	नियम	नियम	detected	mula	2.3.32	0.1	1	अन्यतर-नियमः	w0.p1							1	linked	BS:2.3.32:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	2.3.33	tbrahmatattva_0	कर्ता	कर्ता	detected	mula	2.3.33	0	1	कर्ता	w0.p0								linked	BS:2.3.33:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	2.3.34	tbrahmatattva_0	विहारस्य	विहारस्य	detected	mula	2.3.34	0	1	विहार-उपदेशात्	w0.p0							0	linked	BS:2.3.34:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	2.3.36	tbrahmatattva_0	निर्देशविपर्ययः	निर्देशविपर्ययः	detected	mula	2.3.36	3.1	1	निर्देश-विपर्ययः	w3.p1								linked	BS:2.3.36:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	2.3.40	tbrahmatattva_0	यथा	यथा	detected	mula	2.3.40	0	1	यथा	w0.p0								linked	BS:2.3.40:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	2.3.40	tbrahmatattva_0	उभयथा	उभयथा	detected	mula	2.3.40	2.1	1	उभयथा	w2.p1								linked	BS:2.3.40:tbrahmatattva_0_36
+brahmasutra	brahmatattvaprakashika	2.3.40	tbrahmatattva_0	तक्षा	तक्षा	detected	mula	2.3.40	2.0	1	तक्षा	w2.p0								linked	BS:2.3.40:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	2.3.41	tbrahmatattva_0	परात्	परात्	detected	mula	2.3.41	0.0	1	परात्	w0.p0								linked	BS:2.3.41:tbrahmatattva_0_36
+brahmasutra	brahmatattvaprakashika	2.3.42	tbrahmatattva_0	कृतो	कृतो	detected	mula	2.3.42	0.0	1	कृत-प्रयत्न-अपेक्षः	w0.p0							0	linked	BS:2.3.42:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	2.3.42	tbrahmatattva_0	प्रयत्नो	प्रयत्नो	detected	mula	2.3.42	0.0	1	कृत-प्रयत्न-अपेक्षः	w0.p0							1	linked	BS:2.3.42:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	2.3.42	tbrahmatattva_0	विहितप्रतिषिद्धावैयर्थ्यादिभ्यः।	विहितप्रतिषिद्धावैयर्थ्यादिभ्यः	detected														unlinked	BS:2.3.42:tbrahmatattva_0_30
+brahmasutra	brahmatattvaprakashika	2.3.43	tbrahmatattva_0	व्यपदेशाद्	व्यपदेशाद्	detected	mula	2.3.43	1.0	1	नाना-व्यपदेशात्	w1.p0							1	linked	BS:2.3.43:tbrahmatattva_0_53
+brahmasutra	brahmatattvaprakashika	2.3.43	tbrahmatattva_0	अन्यथा	अन्यथा	detected	mula	2.3.43	1.1	1	अन्यथा	w1.p1								linked	BS:2.3.43:tbrahmatattva_0_54
+brahmasutra	brahmatattvaprakashika	2.3.43	tbrahmatattva_0	एके	एके	detected	mula	2.3.43	4	1	एके	w4.p0								linked	BS:2.3.43:tbrahmatattva_0_59
+brahmasutra	brahmatattvaprakashika	2.3.43	tbrahmatattva_0	दाशाः	दाशाः	detected	mula	2.3.43	3.0	1	दाश-कितव-आदि-त्वम्	w3.p0							0	linked	BS:2.3.43:tbrahmatattva_0_70
+brahmasutra	brahmatattvaprakashika	2.3.43	tbrahmatattva_0	कितवा	कितवा	detected	mula	2.3.43	3.0	1	दाश-कितव-आदि-त्वम्	w3.p0							1	linked	BS:2.3.43:tbrahmatattva_0_74
+brahmasutra	brahmatattvaprakashika	2.3.44	tbrahmatattva_0	मन्त्रवर्णात्	मन्त्रवर्णात्	detected	mula	2.3.44	0.0	1	मन्त्रवर्णात्	w0.p0								linked	BS:2.3.44:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	2.3.45	tbrahmatattva_0	स्मर्यते॥	स्मर्यते	detected	mula	2.3.45	2	1	स्मर्यते	w2.p0								linked	BS:2.3.45:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	2.3.46	tbrahmatattva_0	पर	पर	detected	mula	2.3.46	1	1	परः	w1.p0								linked	BS:2.3.46:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	2.3.46	tbrahmatattva_0	प्रकाशादिवद्	प्रकाशादिवद्	detected	mula	2.3.46	0.0	1	प्रकाश-आदि-वत्	w0.p0								linked	BS:2.3.46:tbrahmatattva_0_16
+brahmasutra	brahmatattvaprakashika	2.3.46	tbrahmatattva_0	प्रकाशो	प्रकाशो	detected	mula	2.3.46	0.0	1	प्रकाश-आदि-वत्	w0.p0							0	linked	BS:2.3.46:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	2.3.49	tbrahmatattva_0	असन्ततेः	असन्ततेः	detected	mula	2.3.49	0.0	1	असन्ततेः	w0.p0								linked	BS:2.3.49:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	2.3.50	tbrahmatattva_0	आभास	आभास	detected	mula	2.3.50	0	1	आभासः	w0.p0								linked	BS:2.3.50:tbrahmatattva_0_1
+brahmasutra	brahmatattvaprakashika	2.4.1	tbrahmatattva_0	प्राण	प्राण	detected	mula	2.4.1	1	1	प्राणाः	w1.p0								linked	BS:2.4.1:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	2.4.2	tbrahmatattva_0	गौण्या	गौण्या	detected	mula	2.4.2	0	1	गौण्या-असम्भवात्	w0.p0							0	linked	BS:2.4.2:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	2.4.3	tbrahmatattva_0	श्रुतेः	श्रुतेः	detected	mula	2.4.3	0.0	1	तत्-प्राक्-श्रुतेः	w0.p0							2	linked	BS:2.4.3:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	2.4.4	tbrahmatattva_0	वाचो	वाचो	detected	mula	2.4.4	0.1	1	वाचः	w0.p1								linked	BS:2.4.4:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	2.4.5	tbrahmatattva_0	सप्त	सप्त	detected	mula	2.4.5	0	1	सप्त	w0.p0								linked	BS:2.4.5:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	2.4.5	tbrahmatattva_0	कुतः	कुतः	detected														unlinked	BS:2.4.5:tbrahmatattva_0_33
+brahmasutra	brahmatattvaprakashika	2.4.6	tbrahmatattva_0	स्थिते	स्थिते	detected	mula	2.4.6	1.0	1	स्थिते	w1.p0								linked	BS:2.4.6:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	2.4.7	tbrahmatattva_0	अणवः	अणवः	detected	mula	2.4.7	0.0	1	अणवः	w0.p0								linked	BS:2.4.7:tbrahmatattva_0_85
+brahmasutra	brahmatattvaprakashika	2.4.9	tbrahmatattva_0	वायुक्रिये	वायुक्रिये	detected	mula	2.4.9	1	1	वायु-क्रिये	w1.p0								linked	BS:2.4.9:tbrahmatattva_0_52
+brahmasutra	brahmatattvaprakashika	2.4.10	tbrahmatattva_0	सह	सह	detected	mula	2.4.10	1	1	तत्-सह-शिष्टि-आदिभ्यः	w1.p0							1	linked	BS:2.4.10:tbrahmatattva_0_21
+brahmasutra	brahmatattvaprakashika	2.4.10	tbrahmatattva_0	शिष्टेः	शिष्टेः	detected	mula	2.4.10	1	1	तत्-सह-शिष्टि-आदिभ्यः	w1.p0							2	linked	BS:2.4.10:tbrahmatattva_0_24
+brahmasutra	brahmatattvaprakashika	2.4.12	tbrahmatattva_0	व्यपदिश्यते।	व्यपदिश्यते	detected	mula	2.4.12	0.2	1	व्यपदिश्यते	w0.p2								linked	BS:2.4.12:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	2.4.12	tbrahmatattva_0	पञ्चवृत्तिः	पञ्चवृत्तिः	detected	mula	2.4.12	0	1	पञ्चवृत्तिः	w0.p0								linked	BS:2.4.12:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	2.4.14	tbrahmatattva_0	तदामननात्	तदामननात्	detected														unlinked	BS:2.4.14:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	2.4.15	tbrahmatattva_0	प्राणवता	प्राणवता	detected	mula	2.4.15	0	1	प्राणवता	w0.p0								linked	BS:2.4.15:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	2.4.15	tbrahmatattva_0	शब्दात्	शब्दात्	detected	mula	2.4.15	1	1	शब्दात्	w1.p0								linked	BS:2.4.15:tbrahmatattva_0_16
+brahmasutra	brahmatattvaprakashika	2.4.16	tbrahmatattva_0	तस्य	तस्य	detected	mula	2.4.16	0	1	तस्य	w0.p0								linked	BS:2.4.16:tbrahmatattva_0_1
+brahmasutra	brahmatattvaprakashika	2.4.21	tbrahmatattva_0	भौमं	भौमं	detected	mula	2.4.21	1	1	भौमम्	w1.p0								linked	BS:2.4.21:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	2.4.21	tbrahmatattva_0	मांसादि।	मांसादि	detected	mula	2.4.21	0	1	मांस-आदि	w0.p0								linked	BS:2.4.21:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	2.4.22	tbrahmatattva_0	वैशेष्यात्	वैशेष्यात्	detected	mula	2.4.22	0.0	1	वैशेष्यात्	w0.p0								linked	BS:2.4.22:tbrahmatattva_0_30
+brahmasutra	brahmatattvaprakashika	3.1.1	tbrahmatattva_0	सम्परिष्वक्त	सम्परिष्वक्त	detected	mula	3.1.1	2	1	सम्परिष्वक्तः	w2.p0								linked	BS:3.1.1:tbrahmatattva_0_57
+brahmasutra	brahmatattvaprakashika	3.1.1	tbrahmatattva_0	तदन्तरप्रतिपत्तौ	तदन्तरप्रतिपत्तौ	detected														unlinked	BS:3.1.1:tbrahmatattva_0_65
+brahmasutra	brahmatattvaprakashika	3.1.1	tbrahmatattva_0	रंहति	रंहति	detected	mula	3.1.1	1	1	रंहति	w1.p0								linked	BS:3.1.1:tbrahmatattva_0_69
+brahmasutra	brahmatattvaprakashika	3.1.1	tbrahmatattva_0	प्रश्ननिरूपणाभ्यां	प्रश्ननिरूपणाभ्यां	detected	mula	3.1.1	3	1	प्रश्न-निरूपणाभ्याम्	w3.p0								linked	BS:3.1.1:tbrahmatattva_0_72
+brahmasutra	brahmatattvaprakashika	3.1.1	tbrahmatattva_0	प्रश्नः।	प्रश्नः	detected	mula	3.1.1	3	1	प्रश्न-निरूपणाभ्याम्	w3.p0							0	linked	BS:3.1.1:tbrahmatattva_0_83
+brahmasutra	brahmatattvaprakashika	3.1.2	tbrahmatattva_0	त्र्यात्मकत्वात्।	त्र्यात्मकत्वात्	detected	mula	3.1.2	0.0	1	त्र्यात्मकत्वात्	w0.p0								linked	BS:3.1.2:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	3.1.5	tbrahmatattva_0	प्रथमे	प्रथमे	detected	mula	3.1.5	0.0	1	प्रथमे	w0.p0								linked	BS:3.1.5:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	3.1.7	tbrahmatattva_0	दर्शयति	दर्शयति	detected	mula	3.1.7	2	1	दर्शयति	w2.p0								linked	BS:3.1.7:tbrahmatattva_0_33
+brahmasutra	brahmatattvaprakashika	3.1.8	tbrahmatattva_0	दृष्टस्मृतिभ्याम्।	दृष्टस्मृतिभ्याम्	detected	mula	3.1.8	0.2	1	दृष्ट-स्मृतिभ्याम्	w0.p2								linked	BS:3.1.8:tbrahmatattva_0_56
+brahmasutra	brahmatattvaprakashika	3.1.8	tbrahmatattva_0	दृष्टा	दृष्टा	detected	mula	3.1.8	0.2	1	दृष्ट-स्मृतिभ्याम्	w0.p2							0	linked	BS:3.1.8:tbrahmatattva_0_71
+brahmasutra	brahmatattvaprakashika	3.1.8	tbrahmatattva_0	अनेवं	अनेवं	detected	mula	3.1.8	1.2	1	अनेवम्	w1.p2								linked	BS:3.1.8:tbrahmatattva_0_100
+brahmasutra	brahmatattvaprakashika	3.1.11	tbrahmatattva_0	सुकृतदुष्कृते	सुकृतदुष्कृते	detected	mula	3.1.11	0	1	सुकृत-दुष्कृते	w0.p0								linked	BS:3.1.11:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	3.1.12	tbrahmatattva_0	श्रुतम्।	श्रुतम्	detected	mula	3.1.12	2	1	श्रुतम्	w2.p0								linked	BS:3.1.12:tbrahmatattva_0_42
+brahmasutra	brahmatattvaprakashika	3.1.13	tbrahmatattva_0	संयमने	संयमने	detected	mula	3.1.13	0	1	संयमने	w0.p0								linked	BS:3.1.13:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	3.1.13	tbrahmatattva_0	अनुभूय	अनुभूय	detected	mula	3.1.13	1.1	1	अनुभूय	w1.p1								linked	BS:3.1.13:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	3.1.13	tbrahmatattva_0	तद्गतिदर्शनात्।	तद्गतिदर्शनात्	detected	mula	3.1.13	2	1	तद्-गति-दर्शनात्	w2.p0								linked	BS:3.1.13:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	3.1.14	tbrahmatattva_0	स्मरन्ति।	स्मरन्ति	detected	mula	3.1.14	0	1	स्मरन्ति	w0.p0								linked	BS:3.1.14:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	3.1.15	tbrahmatattva_0	सप्त	सप्त	detected	mula	3.1.15	2	1	सप्त	w2.p0								linked	BS:3.1.15:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	3.1.17	tbrahmatattva_0	प्रकृतत्वात्	प्रकृतत्वात्	detected	mula	3.1.17	2	1	प्रकृतत्वात्	w2.p0								linked	BS:3.1.17:tbrahmatattva_0_33
+brahmasutra	brahmatattvaprakashika	3.1.18	tbrahmatattva_0	तृतीये	तृतीये	detected	mula	3.1.18	1	1	तृतीये	w1.p0								linked	BS:3.1.18:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.1.19	tbrahmatattva_0	लोके	लोके	detected	mula	3.1.19	2	1	लोके	w2.p0								linked	BS:3.1.19:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	3.1.19	tbrahmatattva_0	स्मर्यते।	स्मर्यते	detected	mula	3.1.19	0.0	1	स्मर्यते	w0.p0								linked	BS:3.1.19:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	3.1.21	tbrahmatattva_0	संशोकजस्य	संशोकजस्य	detected	mula	3.1.21	1	1	संशोकजस्य	w1.p0								linked	BS:3.1.21:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	3.1.22	tbrahmatattva_0	साभाव्यापत्तिः	साभाव्यापत्तिः	detected	mula	3.1.22	0	1	साभाव्य-आपत्तिः	w0.p0								linked	BS:3.1.22:tbrahmatattva_0_60
+brahmasutra	brahmatattvaprakashika	3.1.22	tbrahmatattva_0	साभाव्यं	साभाव्यं	detected	mula	3.1.22	0	1	साभाव्य-आपत्तिः	w0.p0							0	linked	BS:3.1.22:tbrahmatattva_0_68
+brahmasutra	brahmatattvaprakashika	3.1.22	tbrahmatattva_0	उपपत्तेः।	उपपत्तेः	detected	mula	3.1.22	0.1	1	उपपत्तेः	w0.p1								linked	BS:3.1.22:tbrahmatattva_0_73
+brahmasutra	brahmatattvaprakashika	3.1.23	tbrahmatattva_0	विशेषात्	विशेषात्	detected	mula	3.1.23	1	1	विशेषात्	w1.p0								linked	BS:3.1.23:tbrahmatattva_0_50
+brahmasutra	brahmatattvaprakashika	3.1.25	tbrahmatattva_0	शब्दाद्	शब्दाद्	detected	mula	3.1.25	2	1	शब्दात्	w2.p0								linked	BS:3.1.25:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	3.1.26	tbrahmatattva_0	अथ	अथ	detected	mula	3.1.26	0.1	1	अथ	w0.p1								linked	BS:3.1.26:tbrahmatattva_0_1
+brahmasutra	brahmatattvaprakashika	3.1.27	tbrahmatattva_0	योनौ	योनौ	detected	mula	3.1.27	0	1	योनेः	w0.p0								linked	BS:3.1.27:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	3.2.1	tbrahmatattva_0	सन्ध्ये	सन्ध्ये	detected	mula	3.2.1	0	1	सन्ध्ये	w0.p0								linked	BS:3.2.1:tbrahmatattva_0_67
+brahmasutra	brahmatattvaprakashika	3.2.2	tbrahmatattva_0	एके	एके	detected	mula	3.2.2	1.1	1	एके	w1.p1								linked	BS:3.2.2:tbrahmatattva_0_1
+brahmasutra	brahmatattvaprakashika	3.2.3	tbrahmatattva_0	कार्त्स्न्येन	कार्त्स्न्येन	detected	mula	3.2.3	2	1	कार्त्स्न्येन	w2.p0								linked	BS:3.2.3:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	3.2.4	tbrahmatattva_0	सूचको	सूचको	detected	mula	3.2.4	0.0	1	सूचकः	w0.p0								linked	BS:3.2.4:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	3.2.4	tbrahmatattva_0	आचक्षते	आचक्षते	detected	mula	3.2.4	2.1	1	आचक्षते	w2.p1								linked	BS:3.2.4:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	3.2.5	tbrahmatattva_0	अस्य	अस्य	detected	mula	3.2.5	3.1	1	अस्य	w3.p1								linked	BS:3.2.5:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	3.2.6	tbrahmatattva_0	देहयोगाद्	देहयोगाद्	detected	mula	3.2.6	0.0	1	देहयोगात्	w0.p0								linked	BS:3.2.6:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	3.2.7	tbrahmatattva_0	नाडीषु	नाडीषु	detected	mula	3.2.7	1	1	नाडीषु	w1.p0								linked	BS:3.2.7:tbrahmatattva_0_24
+brahmasutra	brahmatattvaprakashika	3.2.7	tbrahmatattva_0	तदभावः	तदभावः	detected														unlinked	BS:3.2.7:tbrahmatattva_0_75
+brahmasutra	brahmatattvaprakashika	3.2.8	tbrahmatattva_0	प्रबोध	प्रबोध	detected	mula	3.2.8	1.0	1	प्रबोधः	w1.p0								linked	BS:3.2.8:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	3.2.9	tbrahmatattva_0	कर्मानुस्मृतिशब्दविधिभ्यः	कर्मानुस्मृतिशब्दविधिभ्यः	detected														unlinked	BS:3.2.9:tbrahmatattva_0_46
+brahmasutra	brahmatattvaprakashika	3.2.10	tbrahmatattva_0	परिशेषात्	परिशेषात्	detected	mula	3.2.10	1	1	परिशेषात्	w1.p0								linked	BS:3.2.10:tbrahmatattva_0_41
+brahmasutra	brahmatattvaprakashika	3.2.10	tbrahmatattva_0	मुग्धे	मुग्धे	detected	mula	3.2.10	0.0	1	मुग्धे	w0.p0								linked	BS:3.2.10:tbrahmatattva_0_50
+brahmasutra	brahmatattvaprakashika	3.2.11	tbrahmatattva_0	परस्य	परस्य	detected	mula	3.2.11	2.0	1	परस्य	w2.p0								linked	BS:3.2.11:tbrahmatattva_0_63
+brahmasutra	brahmatattvaprakashika	3.2.11	tbrahmatattva_0	स्थानत	स्थानत	detected	mula	3.2.11	1	1	स्थानतः	w1.p0								linked	BS:3.2.11:tbrahmatattva_0_80
+brahmasutra	brahmatattvaprakashika	3.2.11	tbrahmatattva_0	सर्वत्र	सर्वत्र	detected	mula	3.2.11	3	1	सर्वत्र	w3.p0								linked	BS:3.2.11:tbrahmatattva_0_93
+brahmasutra	brahmatattvaprakashika	3.2.12	tbrahmatattva_0	भेदात्	भेदात्	detected	mula	3.2.12	1.0	1	भेदात्	w1.p0								linked	BS:3.2.12:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	3.2.12	tbrahmatattva_0	प्रत्येकं	प्रत्येकं	detected	mula	3.2.12	3.0	1	प्रत्येकम्	w3.p0								linked	BS:3.2.12:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	3.2.17	tbrahmatattva_0	दर्शयति।	दर्शयति	detected	mula	3.2.17	0	1	दर्शयति	w0.p0								linked	BS:3.2.17:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	3.2.17	tbrahmatattva_0	स्मर्यते	स्मर्यते	detected	mula	3.2.17	3	1	स्मर्यते	w3.p0								linked	BS:3.2.17:tbrahmatattva_0_25
+brahmasutra	brahmatattvaprakashika	3.2.18	tbrahmatattva_0	सूर्यकादिवत्	सूर्यकादिवत्	detected	mula	3.2.18	3	1	सूर्यक-आदि-वत्	w3.p0								linked	BS:3.2.18:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	3.2.19	tbrahmatattva_0	तथात्वं	तथात्वं	detected	mula	3.2.19	2	1	तथात्वम्	w2.p0								linked	BS:3.2.19:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	3.2.20	tbrahmatattva_0	एवं	एवं	detected	mula	3.2.20	0.3	1	एवम्	w0.p3								linked	BS:3.2.20:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	3.2.20	tbrahmatattva_0	सामञ्जस्याद्	सामञ्जस्याद्	detected	mula	3.2.20	0.2	1	उभय-सामञ्जस्यात्	w0.p2							1	linked	BS:3.2.20:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.2.21	tbrahmatattva_0	दर्शनात्।	दर्शनात्	detected	mula	3.2.21	0.0	1	दर्शनात्	w0.p0								linked	BS:3.2.21:tbrahmatattva_0_24
+brahmasutra	brahmatattvaprakashika	3.2.22	tbrahmatattva_0	पूर्वः	पूर्वः	detected														unlinked	BS:3.2.22:tbrahmatattva_0_47
+brahmasutra	brahmatattvaprakashika	3.2.22	tbrahmatattva_0	प्रकृतं	प्रकृतं	detected	mula	3.2.22	0	1	प्रकृत-एतावत्त्वम्	w0.p0							0	linked	BS:3.2.22:tbrahmatattva_0_59
+brahmasutra	brahmatattvaprakashika	3.2.22	tbrahmatattva_0	तत्	तत्	detected														unlinked	BS:3.2.22:tbrahmatattva_0_64
+brahmasutra	brahmatattvaprakashika	3.2.22	tbrahmatattva_0	प्रकृतैतावत्त्वम्	प्रकृतैतावत्त्वम्	detected														unlinked	BS:3.2.22:tbrahmatattva_0_65
+brahmasutra	brahmatattvaprakashika	3.2.22	tbrahmatattva_0	प्रतिषेधति	प्रतिषेधति	detected	mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:tbrahmatattva_0_67
+brahmasutra	brahmatattvaprakashika	3.2.22	tbrahmatattva_0	भूयो	भूयो	detected														unlinked	BS:3.2.22:tbrahmatattva_0_97
+brahmasutra	brahmatattvaprakashika	3.2.23	tbrahmatattva_0	अव्यक्तं	अव्यक्तं	detected	mula	3.2.23	0.1	1	अव्यक्तम्	w0.p1								linked	BS:3.2.23:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	3.2.24	tbrahmatattva_0	संराधने	संराधने	detected	mula	3.2.24	2	1	संराधने	w2.p0								linked	BS:3.2.24:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	3.2.24	tbrahmatattva_0	प्रत्यक्षानुमानाभ्यां	प्रत्यक्षानुमानाभ्यां	detected	mula	3.2.24	3	1	प्रत्यक्ष-अनुमानाभ्याम्	w3.p0								linked	BS:3.2.24:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	3.2.25	tbrahmatattva_0	कर्मणि	कर्मणि	detected	mula	3.2.25	2.0	1	कर्मणि	w2.p0								linked	BS:3.2.25:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	3.2.25	tbrahmatattva_0	प्रकाशः	प्रकाशः	detected	mula	3.2.25	1.0	1	प्रकाशः	w1.p0								linked	BS:3.2.25:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	3.2.25	tbrahmatattva_0	अभ्यासात्	अभ्यासात्	detected	mula	3.2.25	2.1	1	अभ्यासात्	w2.p1								linked	BS:3.2.25:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	3.2.26	tbrahmatattva_0	लिङ्गं	लिङ्गं	detected	mula	3.2.26	3	1	लिङ्गम्	w3.p0								linked	BS:3.2.26:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	3.2.27	tbrahmatattva_0	व्यपदेशाद्	व्यपदेशाद्	detected	mula	3.2.27	0	1	उभय-व्यपदेशात्	w0.p0							1	linked	BS:3.2.27:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	3.2.27	tbrahmatattva_0	अहिकुण्डलवद्	अहिकुण्डलवद्	detected	mula	3.2.27	0.2	1	अहि-कुण्डल-वत्	w0.p2								linked	BS:3.2.27:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	3.2.27	tbrahmatattva_0	अहेः	अहेः	detected	mula	3.2.27	0.2	1	अहि-कुण्डल-वत्	w0.p2							0	linked	BS:3.2.27:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.2.27	tbrahmatattva_0	कुण्डलं	कुण्डलं	detected	mula	3.2.27	0.2	1	अहि-कुण्डल-वत्	w0.p2							1	linked	BS:3.2.27:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	3.2.30	tbrahmatattva_0	प्रतिषेधाद्	प्रतिषेधाद्	detected	mula	3.2.30	0.0	1	प्रतिषेधात्	w0.p0								linked	BS:3.2.30:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.2.31	tbrahmatattva_0	परं	परं	detected	mula	3.2.31	0.0	1	परम्	w0.p0								linked	BS:3.2.31:tbrahmatattva_0_36
+brahmasutra	brahmatattvaprakashika	3.2.33	tbrahmatattva_0	पादवद्	पादवद्	detected	mula	3.2.33	1	1	पादवत्	w1.p0								linked	BS:3.2.33:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	3.2.34	tbrahmatattva_0	स्थानविशेषात्	स्थानविशेषात्	detected	mula	3.2.34	0	1	स्थान-विशेषात्	w0.p0								linked	BS:3.2.34:tbrahmatattva_0_3
+brahmasutra	brahmatattvaprakashika	3.2.34	tbrahmatattva_0	प्रकाशादिवद्	प्रकाशादिवद्	detected	mula	3.2.34	0.1	1	प्रकाश-आदि-वत्	w0.p1								linked	BS:3.2.34:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	3.2.37	tbrahmatattva_0	अनेन	अनेन	detected	mula	3.2.37	0	1	अनेन	w0.p0								linked	BS:3.2.37:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	3.2.37	tbrahmatattva_0	सर्वगतत्वं	सर्वगतत्वं	detected	mula	3.2.37	1.0	1	सर्व-गत-त्वम्	w1.p0								linked	BS:3.2.37:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	3.2.37	tbrahmatattva_0	आयामशब्दादिभ्यः।	आयामशब्दादिभ्यः	detected														unlinked	BS:3.2.37:tbrahmatattva_0_21
+brahmasutra	brahmatattvaprakashika	3.2.38	tbrahmatattva_0	फलं	फलं	detected	mula	3.2.38	0.0	1	फलम्	w0.p0								linked	BS:3.2.38:tbrahmatattva_0_23
+brahmasutra	brahmatattvaprakashika	3.2.40	tbrahmatattva_0	धर्म	धर्म	detected	mula	3.2.40	0	1	धर्मम्	w0.p0								linked	BS:3.2.40:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	3.2.41	tbrahmatattva_0	पूर्वं	पूर्वं	detected	mula	3.2.41	0	1	पूर्वम्	w0.p0								linked	BS:3.2.41:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	3.2.41	tbrahmatattva_0	हेतुव्यपदेशाद्	हेतुव्यपदेशाद्	detected	mula	3.2.41	3	1	हेतु-व्यपदेशात्	w3.p0								linked	BS:3.2.41:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.2.41	tbrahmatattva_0	व्यपदेशादिति।	व्यपदेशादिति	detected	mula	3.2.41	3	1	हेतु-व्यपदेशात्	w3.p0							1	linked	BS:3.2.41:tbrahmatattva_0_47
+brahmasutra	brahmatattvaprakashika	3.3.1	tbrahmatattva_0	प्रत्ययं	प्रत्ययं	detected	mula	3.3.1	0	1	सर्व-वेदान्त-प्रत्ययम्	w0.p0							2	linked	BS:3.3.1:tbrahmatattva_0_53
+brahmasutra	brahmatattvaprakashika	3.3.1	tbrahmatattva_0	चोदनाया	चोदनाया	detected	mula	3.3.1	1	1	चोदना-आदि-अविशेषात्	w1.p0							0	linked	BS:3.3.1:tbrahmatattva_0_73
+brahmasutra	brahmatattvaprakashika	3.3.3	tbrahmatattva_0	तथात्वेन	तथात्वेन	detected	mula	3.3.3	1	1	तथात्वेन	w1.p0								linked	BS:3.3.3:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	3.3.3	tbrahmatattva_0	समाचारे	समाचारे	detected	mula	3.3.3	3.0	1	समाचारे	w3.p0								linked	BS:3.3.3:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	3.3.3	tbrahmatattva_0	नियमः।	नियमः	detected	mula	3.3.3	5.1	1	नियमः	w5.p1								linked	BS:3.3.3:tbrahmatattva_0_53
+brahmasutra	brahmatattvaprakashika	3.3.4	tbrahmatattva_0	दर्शयति।	दर्शयति	detected	mula	3.3.4	0	1	दर्शयति	w0.p0								linked	BS:3.3.4:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.3.5	tbrahmatattva_0	समान	समान	detected	mula	3.3.5	0.3	1	समाने	w0.p3								linked	BS:3.3.5:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	3.3.5	tbrahmatattva_0	अर्थाभेदाद्	अर्थाभेदाद्	detected	mula	3.3.5	0.1	1	अर्थ-अभेदात्	w0.p1								linked	BS:3.3.5:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	3.3.5	tbrahmatattva_0	विधिशेषवद्	विधिशेषवद्	detected	mula	3.3.5	0.2	1	विधि-शेष-वत्	w0.p2								linked	BS:3.3.5:tbrahmatattva_0_39
+brahmasutra	brahmatattvaprakashika	3.3.7	tbrahmatattva_0	प्रकरणभेदाद्	प्रकरणभेदाद्	detected	mula	3.3.7	2.0	1	प्रकरण-भेदात्	w2.p0								linked	BS:3.3.7:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	3.3.7	tbrahmatattva_0	परोवरीयस्त्वादिवद्।	परोवरीयस्त्वादिवद्	detected	mula	3.3.7	2.1	1	परोवरीयस्त्व-आदि-वत्	w2.p1								linked	BS:3.3.7:tbrahmatattva_0_33
+brahmasutra	brahmatattvaprakashika	3.3.8	tbrahmatattva_0	संज्ञातः	संज्ञातः	detected	mula	3.3.8	0.0	1	संज्ञातः	w0.p0								linked	BS:3.3.8:tbrahmatattva_0_1
+brahmasutra	brahmatattvaprakashika	3.3.8	tbrahmatattva_0	अस्ति	अस्ति	detected	mula	3.3.8	0.4	1	अस्ति	w0.p4								linked	BS:3.3.8:tbrahmatattva_0_16
+brahmasutra	brahmatattvaprakashika	3.3.9	tbrahmatattva_0	समञ्जसं	समञ्जसं	detected	mula	3.3.9	1	1	समञ्जसम्	w1.p0								linked	BS:3.3.9:tbrahmatattva_0_62
+brahmasutra	brahmatattvaprakashika	3.3.10	tbrahmatattva_0	अन्यत्र	अन्यत्र	detected	mula	3.3.10	0.1	1	अन्यत्र	w0.p1								linked	BS:3.3.10:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	3.3.10	tbrahmatattva_0	इमे	इमे	detected	mula	3.3.10	0.2	1	इमे	w0.p2								linked	BS:3.3.10:tbrahmatattva_0_40
+brahmasutra	brahmatattvaprakashika	3.3.10	tbrahmatattva_0	सर्वाभेदात्	सर्वाभेदात्	detected	mula	3.3.10	0.0	1	सर्व-अभेदात्	w0.p0								linked	BS:3.3.10:tbrahmatattva_0_45
+brahmasutra	brahmatattvaprakashika	3.3.11	tbrahmatattva_0	प्रधानस्य	प्रधानस्य	detected	mula	3.3.11	1	1	प्रधानस्य	w1.p0								linked	BS:3.3.11:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	3.3.11	tbrahmatattva_0	आनन्दादय	आनन्दादय	detected														unlinked	BS:3.3.11:tbrahmatattva_0_39
+brahmasutra	brahmatattvaprakashika	3.3.13	tbrahmatattva_0	इतरे	इतरे	detected	mula	3.3.13	0	1	इतरे	w0.p0								linked	BS:3.3.13:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	3.3.13	tbrahmatattva_0	अर्थसामान्याद्	अर्थसामान्याद्	detected	mula	3.3.13	1.1	1	अर्थ-सामान्यात्	w1.p1								linked	BS:3.3.13:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	3.3.13	tbrahmatattva_0	अर्थस्य	अर्थस्य	detected	mula	3.3.13	1.1	1	अर्थ-सामान्यात्	w1.p1							0	linked	BS:3.3.13:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	3.3.14	tbrahmatattva_0	आध्यानाय	आध्यानाय	detected	mula	3.3.14	0	1	आध्यानाय	w0.p0								linked	BS:3.3.14:tbrahmatattva_0_44
+brahmasutra	brahmatattvaprakashika	3.3.14	tbrahmatattva_0	प्रयोजनाभावात्।	प्रयोजनाभावात्	detected	mula	3.3.14	1	1	प्रयोजन-अभावात्	w1.p0								linked	BS:3.3.14:tbrahmatattva_0_57
+brahmasutra	brahmatattvaprakashika	3.3.14	tbrahmatattva_0	प्रयोजनं	प्रयोजनं	detected	mula	3.3.14	1	1	प्रयोजन-अभावात्	w1.p0							0	linked	BS:3.3.14:tbrahmatattva_0_61
+brahmasutra	brahmatattvaprakashika	3.3.16	tbrahmatattva_0	इतरवत्	इतरवत्	detected	mula	3.3.16	0.1	1	इतरवत्	w0.p1								linked	BS:3.3.16:tbrahmatattva_0_60
+brahmasutra	brahmatattvaprakashika	3.3.16	tbrahmatattva_0	उत्तरात्	उत्तरात्	detected	mula	3.3.16	0.2	1	उत्तरात्	w0.p2								linked	BS:3.3.16:tbrahmatattva_0_78
+brahmasutra	brahmatattvaprakashika	3.3.17	tbrahmatattva_0	स्यात्।	स्यात्	detected	mula	3.3.17	1.1	1	स्यात्	w1.p1								linked	BS:3.3.17:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	3.3.17	tbrahmatattva_0	अवधारणाद्	अवधारणाद्	detected	mula	3.3.17	1.2	1	अवधारणात्	w1.p2								linked	BS:3.3.17:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.3.18	tbrahmatattva_0	कार्याख्यानाद्	कार्याख्यानाद्	detected	mula	3.3.18	0.0	1	कार्य-आख्यानात्	w0.p0								linked	BS:3.3.18:tbrahmatattva_0_157
+brahmasutra	brahmatattvaprakashika	3.3.19	tbrahmatattva_0	एवं	एवं	detected	mula	3.3.19	1	1	एवम्	w1.p0								linked	BS:3.3.19:tbrahmatattva_0_53
+brahmasutra	brahmatattvaprakashika	3.3.19	tbrahmatattva_0	समाने	समाने	detected	mula	3.3.19	0	1	समानः	w0.p0								linked	BS:3.3.19:tbrahmatattva_0_54
+brahmasutra	brahmatattvaprakashika	3.3.19	tbrahmatattva_0	अभेदाद्	अभेदाद्	detected	mula	3.3.19	2.1	1	अभेदात्	w2.p1								linked	BS:3.3.19:tbrahmatattva_0_61
+brahmasutra	brahmatattvaprakashika	3.3.21	tbrahmatattva_0	विशेषात्।	विशेषात्	detected	mula	3.3.21	2	1	विशेषात्	w2.p0								linked	BS:3.3.21:tbrahmatattva_0_3
+brahmasutra	brahmatattvaprakashika	3.3.22	tbrahmatattva_0	दर्शयति।	दर्शयति	detected	mula	3.3.22	0	1	दर्शयति	w0.p0								linked	BS:3.3.22:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	3.3.23	tbrahmatattva_0	सम्भृतिद्युव्याप्ति	सम्भृतिद्युव्याप्ति	detected	mula	3.3.23	0.0	1	सम्भृति-द्युव्याप्ति	w0.p0								linked	BS:3.3.23:tbrahmatattva_0_44
+brahmasutra	brahmatattvaprakashika	3.3.24	tbrahmatattva_0	पुरुषविद्यायां	पुरुषविद्यायां	detected	mula	3.3.24	0.0	1	पुरुषविद्यायाम्	w0.p0								linked	BS:3.3.24:tbrahmatattva_0_45
+brahmasutra	brahmatattvaprakashika	3.3.25	tbrahmatattva_0	भेदाद्	भेदाद्	detected	mula	3.3.25	0	1	वेध-आदि-अर्थ-भेदात्	w0.p0							3	linked	BS:3.3.25:tbrahmatattva_0_60
+brahmasutra	brahmatattvaprakashika	3.3.26	tbrahmatattva_0	उपायनशब्दशेषत्वात्।	उपायनशब्दशेषत्वात्	detected														unlinked	BS:3.3.26:tbrahmatattva_0_79
+brahmasutra	brahmatattvaprakashika	3.3.26	tbrahmatattva_0	कुशा	कुशा	detected	mula	3.3.26	1.2	1	कुशा-छन्दस्-स्तुति-उपगान-वत्	w1.p2							0	linked	BS:3.3.26:tbrahmatattva_0_126
+brahmasutra	brahmatattvaprakashika	3.3.26	tbrahmatattva_0	हानौ	हानौ	detected	mula	3.3.26	0	1	हानौ	w0.p0								linked	BS:3.3.26:tbrahmatattva_0_203
+brahmasutra	brahmatattvaprakashika	3.3.27	tbrahmatattva_0	साम्पराये	साम्पराये	detected	mula	3.3.27	0	1	साम्पराये	w0.p0								linked	BS:3.3.27:tbrahmatattva_0_42
+brahmasutra	brahmatattvaprakashika	3.3.27	tbrahmatattva_0	तर्तव्याभावात्।	तर्तव्याभावात्	detected	mula	3.3.27	1.0	1	तर्तव्य-अभावात्	w1.p0								linked	BS:3.3.27:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	3.3.28	tbrahmatattva_0	छन्दतः	छन्दतः	detected	mula	3.3.28	0	1	छन्दतः	w0.p0								linked	BS:3.3.28:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	3.3.29	tbrahmatattva_0	अन्यथा	अन्यथा	detected	mula	3.3.29	0.3	1	अन्यथा	w0.p3								linked	BS:3.3.29:tbrahmatattva_0_51
+brahmasutra	brahmatattvaprakashika	3.3.30	tbrahmatattva_0	लोकवद्	लोकवद्	detected	mula	3.3.30	0.2	1	लोकवत्	w0.p2								linked	BS:3.3.30:tbrahmatattva_0_25
+brahmasutra	brahmatattvaprakashika	3.3.31	tbrahmatattva_0	नियमः	नियमः	detected	mula	3.3.31	0	1	अनियमः	w0.p0								linked	BS:3.3.31:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	3.3.31	tbrahmatattva_0	विरोधः।	विरोधः	detected	mula	3.3.31	1.1	1	अविरोधः	w1.p1								linked	BS:3.3.31:tbrahmatattva_0_49
+brahmasutra	brahmatattvaprakashika	3.3.31	tbrahmatattva_0	शब्दानुमानाभ्यां	शब्दानुमानाभ्यां	detected														unlinked	BS:3.3.31:tbrahmatattva_0_51
+brahmasutra	brahmatattvaprakashika	3.3.33	tbrahmatattva_0	सामान्यतद्भावाभ्यां	सामान्यतद्भावाभ्यां	detected	mula	3.3.33	2	1	सामान्य-तद्भावाभ्याम्	w2.p0								linked	BS:3.3.33:tbrahmatattva_0_63
+brahmasutra	brahmatattvaprakashika	3.3.33	tbrahmatattva_0	औपसदवद्	औपसदवद्	detected	mula	3.3.33	2.1	1	औपसदवत्	w2.p1								linked	BS:3.3.33:tbrahmatattva_0_80
+brahmasutra	brahmatattvaprakashika	3.3.34	tbrahmatattva_0	इयत	इयत	detected	mula	3.3.34	0	1	इयत्-आमननात्	w0.p0							0	linked	BS:3.3.34:tbrahmatattva_0_64
+brahmasutra	brahmatattvaprakashika	3.3.35	tbrahmatattva_0	स्वात्मनः	स्वात्मनः	detected	mula	3.3.35	1.1	1	स्व-आत्मनः	w1.p1								linked	BS:3.3.35:tbrahmatattva_0_52
+brahmasutra	brahmatattvaprakashika	3.3.35	tbrahmatattva_0	भूतग्रामवद्	भूतग्रामवद्	detected	mula	3.3.35	1.0	1	भूत-ग्राम-वत्	w1.p0								linked	BS:3.3.35:tbrahmatattva_0_59
+brahmasutra	brahmatattvaprakashika	3.3.36	tbrahmatattva_0	अन्यथा	अन्यथा	detected	mula	3.3.36	0	1	अन्यथा	w0.p0								linked	BS:3.3.36:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	3.3.37	tbrahmatattva_0	इतरवद्	इतरवद्	detected	mula	3.3.37	2.1	1	इतरवत्	w2.p1								linked	BS:3.3.37:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	3.3.38	tbrahmatattva_0	सत्यादयो	सत्यादयो	detected	mula	3.3.38	2	1	सत्य-आदयः	w2.p0								linked	BS:3.3.38:tbrahmatattva_0_95
+brahmasutra	brahmatattvaprakashika	3.3.39	tbrahmatattva_0	कामादि	कामादि	detected	mula	3.3.39	0.0	1	कामादि	w0.p0								linked	BS:3.3.39:tbrahmatattva_0_58
+brahmasutra	brahmatattvaprakashika	3.3.39	tbrahmatattva_0	तत्र	तत्र	detected	mula	3.3.39	1	1	तत्र	w1.p0								linked	BS:3.3.39:tbrahmatattva_0_65
+brahmasutra	brahmatattvaprakashika	3.3.39	tbrahmatattva_0	आयतनादिभ्य	आयतनादिभ्य	detected	mula	3.3.39	2.1	1	आयतन-आदिभ्यः	w2.p1								linked	BS:3.3.39:tbrahmatattva_0_69
+brahmasutra	brahmatattvaprakashika	3.3.41	tbrahmatattva_0	तद्वचनात्।	तद्वचनात्	detected	mula	3.3.41	0.2	1	तद्-वचनात्	w0.p2								linked	BS:3.3.41:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	3.3.41	tbrahmatattva_0	वचनात्।	वचनात्	detected	mula	3.3.41	0.2	1	तद्-वचनात्	w0.p2							1	linked	BS:3.3.41:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	3.3.42	tbrahmatattva_0	तद्दृष्टेः	तद्दृष्टेः	detected	mula	3.3.42	0.1	1	तत् - दृष्टेः	w0.p1								linked	BS:3.3.42:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	3.3.42	tbrahmatattva_0	पृथक्	पृथक्	detected	mula	3.3.42	1.0	1	पृथक्	w1.p0								linked	BS:3.3.42:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	3.3.42	tbrahmatattva_0	फलम्।	फलम्	detected	mula	3.3.42	2	1	फलम्	w2.p0								linked	BS:3.3.42:tbrahmatattva_0_53
+brahmasutra	brahmatattvaprakashika	3.3.44	tbrahmatattva_0	लिङ्गभूयस्त्वात्	लिङ्गभूयस्त्वात्	detected														unlinked	BS:3.3.44:tbrahmatattva_0_45
+brahmasutra	brahmatattvaprakashika	3.3.45	tbrahmatattva_0	पूर्वस्य	पूर्वस्य	detected	mula	3.3.45	0	1	पूर्व-विकल्पः	w0.p0							0	linked	BS:3.3.45:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	3.3.45	tbrahmatattva_0	विकल्पः	विकल्पः	detected	mula	3.3.45	0	1	पूर्व-विकल्पः	w0.p0							1	linked	BS:3.3.45:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	3.3.45	tbrahmatattva_0	प्रकरणात्	प्रकरणात्	detected	mula	3.3.45	1.0	1	प्रकरणात्	w1.p0								linked	BS:3.3.45:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.3.45	tbrahmatattva_0	क्रिया	क्रिया	detected	mula	3.3.45	1.2	1	क्रिया	w1.p2								linked	BS:3.3.45:tbrahmatattva_0_16
+brahmasutra	brahmatattvaprakashika	3.3.45	tbrahmatattva_0	स्यात्।	स्यात्	detected	mula	3.3.45	1.1	1	स्यात्	w1.p1								linked	BS:3.3.45:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	3.3.45	tbrahmatattva_0	मानसवद्।	मानसवद्	detected	mula	3.3.45	2	1	मानसवत्	w2.p0								linked	BS:3.3.45:tbrahmatattva_0_33
+brahmasutra	brahmatattvaprakashika	3.3.49	tbrahmatattva_0	बलीयस्त्वाद्	बलीयस्त्वाद्	detected	mula	3.3.49	0.0	1	श्रुति-आदि-बलीयस्त्वात्	w0.p0							2	linked	BS:3.3.49:tbrahmatattva_0_21
+brahmasutra	brahmatattvaprakashika	3.3.50	tbrahmatattva_0	प्रज्ञान्तरपृथक्त्ववद्।	प्रज्ञान्तरपृथक्त्ववद्	detected	mula	3.3.50	1	1	प्रज्ञान्तर-पृथक्त्ववत्	w1.p0								linked	BS:3.3.50:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	3.3.50	tbrahmatattva_0	प्रज्ञान्तराणां	प्रज्ञान्तराणां	detected	mula	3.3.50	1	1	प्रज्ञान्तर-पृथक्त्ववत्	w1.p0							0	linked	BS:3.3.50:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	3.3.50	tbrahmatattva_0	दृष्टः	दृष्टः	detected	mula	3.3.50	1.1	1	दृष्टः	w1.p1								linked	BS:3.3.50:tbrahmatattva_0_55
+brahmasutra	brahmatattvaprakashika	3.3.52	tbrahmatattva_0	परेण	परेण	detected	mula	3.3.52	0	1	परेण	w0.p0								linked	BS:3.3.52:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	3.3.52	tbrahmatattva_0	शब्दस्य	शब्दस्य	detected	mula	3.3.52	2	1	शब्दस्य	w2.p0								linked	BS:3.3.52:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	3.3.52	tbrahmatattva_0	ताद्विध्यं	ताद्विध्यं	detected	mula	3.3.52	3	1	ताद्विध्यम्	w3.p0								linked	BS:3.3.52:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	3.3.52	tbrahmatattva_0	भूयस्त्वात्	भूयस्त्वात्	detected	mula	3.3.52	4.0	1	भूयस्त्वात्	w4.p0								linked	BS:3.3.52:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	3.3.53	tbrahmatattva_0	शरीरे	शरीरे	detected	mula	3.3.53	2	1	शरीरे	w2.p0								linked	BS:3.3.53:tbrahmatattva_0_30
+brahmasutra	brahmatattvaprakashika	3.3.54	tbrahmatattva_0	व्यतिरेक	व्यतिरेक	detected	mula	3.3.54	0.0	1	व्यतिरेकः	w0.p0								linked	BS:3.3.54:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	3.3.54	tbrahmatattva_0	उपलब्धिवद्।	उपलब्धिवद्	detected	mula	3.3.54	1.1	1	उपलब्धि-वत्	w1.p1								linked	BS:3.3.54:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	3.3.55	tbrahmatattva_0	अङ्गावबद्धा	अङ्गावबद्धा	detected														unlinked	BS:3.3.55:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	3.3.55	tbrahmatattva_0	प्रतिवेदं	प्रतिवेदं	detected	mula	3.3.55	4	1	प्रतिवेदम्	w4.p0								linked	BS:3.3.55:tbrahmatattva_0_52
+brahmasutra	brahmatattvaprakashika	3.3.57	tbrahmatattva_0	भूम्नः	भूम्नः	detected	mula	3.3.57	0	1	भूम्नः	w0.p0								linked	BS:3.3.57:tbrahmatattva_0_39
+brahmasutra	brahmatattvaprakashika	3.3.57	tbrahmatattva_0	ज्यायस्त्वं	ज्यायस्त्वं	detected	mula	3.3.57	1.1	1	ज्यायस्त्वम्	w1.p1								linked	BS:3.3.57:tbrahmatattva_0_42
+brahmasutra	brahmatattvaprakashika	3.3.57	tbrahmatattva_0	क्रतुवद्	क्रतुवद्	detected	mula	3.3.57	1.0	1	क्रतुवत्	w1.p0								linked	BS:3.3.57:tbrahmatattva_0_47
+brahmasutra	brahmatattvaprakashika	3.3.57	tbrahmatattva_0	दर्शयति।	दर्शयति	detected	mula	3.3.57	4	1	दर्शयति	w4.p0								linked	BS:3.3.57:tbrahmatattva_0_66
+brahmasutra	brahmatattvaprakashika	3.3.58	tbrahmatattva_0	नाना	नाना	detected	mula	3.3.58	0	1	नाना	w0.p0								linked	BS:3.3.58:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	3.3.58	tbrahmatattva_0	शब्दादिभेदाद्	शब्दादिभेदाद्	detected														unlinked	BS:3.3.58:tbrahmatattva_0_42
+brahmasutra	brahmatattvaprakashika	3.3.59	tbrahmatattva_0	विकल्प	विकल्प	detected	mula	3.3.59	0.0	1	विकल्पः	w0.p0								linked	BS:3.3.59:tbrahmatattva_0_23
+brahmasutra	brahmatattvaprakashika	3.3.59	tbrahmatattva_0	अविशिष्टफलत्वाद्	अविशिष्टफलत्वाद्	detected	mula	3.3.59	0.1	1	अविशिष्ट-फल-त्वात्	w0.p1								linked	BS:3.3.59:tbrahmatattva_0_36
+brahmasutra	brahmatattvaprakashika	3.3.60	tbrahmatattva_0	यथाकामं	यथाकामं	detected	mula	3.3.60	1	1	यथाकामम्	w1.p0								linked	BS:3.3.60:tbrahmatattva_0_38
+brahmasutra	brahmatattvaprakashika	3.3.60	tbrahmatattva_0	समुच्चीयेरन्	समुच्चीयेरन्	detected	mula	3.3.60	2.0	1	समुच्चीयेरन्	w2.p0								linked	BS:3.3.60:tbrahmatattva_0_39
+brahmasutra	brahmatattvaprakashika	3.3.61	tbrahmatattva_0	अङ्गेषु	अङ्गेषु	detected	mula	3.3.61	0	1	अङ्गेषु	w0.p0								linked	BS:3.3.61:tbrahmatattva_0_25
+brahmasutra	brahmatattvaprakashika	3.3.61	tbrahmatattva_0	यथाश्रयभावः।	यथाश्रयभावः	detected	mula	3.3.61	1	1	यथा - आश्रय - भावः	w1.p0								linked	BS:3.3.61:tbrahmatattva_0_26
+brahmasutra	brahmatattvaprakashika	3.3.61	tbrahmatattva_0	यथा	यथा	detected	mula	3.3.61	1	1	यथा - आश्रय - भावः	w1.p0							0	linked	BS:3.3.61:tbrahmatattva_0_27
+brahmasutra	brahmatattvaprakashika	3.3.62	tbrahmatattva_0	शिष्टेः	शिष्टेः	detected	mula	3.3.62	0.0	1	शिष्टेः	w0.p0								linked	BS:3.3.62:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	3.3.64	tbrahmatattva_0	साधारण्यं	साधारण्यं	detected	mula	3.3.64	0.0	1	गुण-साधारण्य-श्रुतेः	w0.p0							1	linked	BS:3.3.64:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	3.3.65	tbrahmatattva_0	तत्सहभावाश्रुतेः	तत्सहभावाश्रुतेः	detected	mula	3.3.65	2	1	तत् - सहभाव - अश्रुतेः	w2.p0								linked	BS:3.3.65:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	3.3.65	tbrahmatattva_0	सहभावः	सहभावः	detected	mula	3.3.65	2	1	तत् - सहभाव - अश्रुतेः	w2.p0							1	linked	BS:3.3.65:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	3.4.1	tbrahmatattva_0	पुरुषार्थो	पुरुषार्थो	detected	mula	3.4.1	0.0	1	पुरुषार्थः	w0.p0								linked	BS:3.4.1:tbrahmatattva_0_68
+brahmasutra	brahmatattvaprakashika	3.4.1	tbrahmatattva_0	बादरायण	बादरायण	detected	mula	3.4.1	2	1	बादरायणः	w2.p0								linked	BS:3.4.1:tbrahmatattva_0_71
+brahmasutra	brahmatattvaprakashika	3.4.2	tbrahmatattva_0	पुरुषेत्यादि।	पुरुषेत्यादि	detected	mula	3.4.2	0.1	1	पुरुष-अर्थवादः	w0.p1							0	linked	BS:3.4.2:tbrahmatattva_0_19
+brahmasutra	brahmatattvaprakashika	3.4.8	tbrahmatattva_0	अधिकोपदेशात्।	अधिकोपदेशात्	detected	mula	3.4.8	0.0	1	अधिक-उपदेशात्	w0.p0								linked	BS:3.4.8:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	3.4.8	tbrahmatattva_0	एवं	एवं	detected	mula	3.4.8	1.1	1	एवम्	w1.p1								linked	BS:3.4.8:tbrahmatattva_0_36
+brahmasutra	brahmatattvaprakashika	3.4.8	tbrahmatattva_0	बादरायणस्य	बादरायणस्य	detected	mula	3.4.8	1.0	1	बादरायणस्य	w1.p0								linked	BS:3.4.8:tbrahmatattva_0_39
+brahmasutra	brahmatattvaprakashika	3.4.8	tbrahmatattva_0	तद्दर्शनात्	तद्दर्शनात्	detected	mula	3.4.8	2	1	तद्-दर्शनात्	w2.p0								linked	BS:3.4.8:tbrahmatattva_0_46
+brahmasutra	brahmatattvaprakashika	3.4.11	tbrahmatattva_0	विभागो	विभागो	detected	mula	3.4.11	0	1	विभागः	w0.p0								linked	BS:3.4.11:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.4.11	tbrahmatattva_0	शतवद्	शतवद्	detected	mula	3.4.11	1	1	शतवत्	w1.p0								linked	BS:3.4.11:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	3.4.14	tbrahmatattva_0	स्तुति	स्तुति	detected														unlinked	BS:3.4.14:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	3.4.15	tbrahmatattva_0	एके	एके	detected	mula	3.4.15	1.1	1	एके	w1.p1								linked	BS:3.4.15:tbrahmatattva_0_1
+brahmasutra	brahmatattvaprakashika	3.4.15	tbrahmatattva_0	कामकारेण	कामकारेण	detected	mula	3.4.15	0	1	काम-कारेण	w0.p0								linked	BS:3.4.15:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	3.4.17	tbrahmatattva_0	शब्दे	शब्दे	detected	mula	3.4.17	2	1	शब्दे	w2.p0								linked	BS:3.4.17:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	3.4.18	tbrahmatattva_0	परामर्शम्	परामर्शम्	detected	mula	3.4.18	0	1	परामर्शम्	w0.p0								linked	BS:3.4.18:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	3.4.19	tbrahmatattva_0	बादरायणो	बादरायणो	detected	mula	3.4.19	1	1	बादरायणः	w1.p0								linked	BS:3.4.19:tbrahmatattva_0_3
+brahmasutra	brahmatattvaprakashika	3.4.19	tbrahmatattva_0	साम्यश्रुतेः।	साम्यश्रुतेः	detected	mula	3.4.19	2	1	साम्य-श्रुतेः	w2.p0								linked	BS:3.4.19:tbrahmatattva_0_6
+brahmasutra	brahmatattvaprakashika	3.4.20	tbrahmatattva_0	धारणवद्	धारणवद्	detected	mula	3.4.20	1	1	धारणवत्	w1.p0								linked	BS:3.4.20:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.4.21	tbrahmatattva_0	स्तुतिमात्रम्	स्तुतिमात्रम्	detected	mula	3.4.21	0.0	1	स्तुति-मात्रम्	w0.p0								linked	BS:3.4.21:tbrahmatattva_0_46
+brahmasutra	brahmatattvaprakashika	3.4.21	tbrahmatattva_0	अपूर्वत्वात्	अपूर्वत्वात्	detected	mula	3.4.21	1.2	1	अपूर्वत्वात्	w1.p2								linked	BS:3.4.21:tbrahmatattva_0_51
+brahmasutra	brahmatattvaprakashika	3.4.23	tbrahmatattva_0	पारिप्लवार्था	पारिप्लवार्था	detected	mula	3.4.23	0	1	पारिप्लव-अर्थाः	w0.p0								linked	BS:3.4.23:tbrahmatattva_0_39
+brahmasutra	brahmatattvaprakashika	3.4.23	tbrahmatattva_0	विशेषितत्वात्।	विशेषितत्वात्	detected	mula	3.4.23	3	1	विशेषितत्वात्	w3.p0								linked	BS:3.4.23:tbrahmatattva_0_61
+brahmasutra	brahmatattvaprakashika	3.4.24	tbrahmatattva_0	एकवाक्यतोपबन्धात्।	एकवाक्यतोपबन्धात्	detected														unlinked	BS:3.4.24:tbrahmatattva_0_15
+brahmasutra	brahmatattvaprakashika	3.4.26	tbrahmatattva_0	यज्ञादिश्रुतेः।	यज्ञादिश्रुतेः	detected	mula	3.4.26	2.0	1	यज्ञादिश्रुतेः	w2.p0								linked	BS:3.4.26:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	3.4.26	tbrahmatattva_0	अश्ववद्	अश्ववद्	detected	mula	3.4.26	2.1	1	अश्ववत्	w2.p1								linked	BS:3.4.26:tbrahmatattva_0_51
+brahmasutra	brahmatattvaprakashika	3.4.27	tbrahmatattva_0	स्यात्।	स्यात्	detected	mula	3.4.27	1.0	1	स्यात्	w1.p0								linked	BS:3.4.27:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	3.4.27	tbrahmatattva_0	तदङ्गतया	तदङ्गतया	detected														unlinked	BS:3.4.27:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	3.4.27	tbrahmatattva_0	तद्विधेः।	तद्विधेः	detected	mula	3.4.27	3.0	1	तद्-विधेः	w3.p0								linked	BS:3.4.27:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	3.4.27	tbrahmatattva_0	तेषां	तेषां	detected	mula	3.4.27	4.0	1	तेषाम्	w4.p0								linked	BS:3.4.27:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	3.4.28	tbrahmatattva_0	प्राणात्यये	प्राणात्यये	detected	mula	3.4.28	1	1	प्राण-अत्यये	w1.p0								linked	BS:3.4.28:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	3.4.28	tbrahmatattva_0	तद्दर्शनात्।	तद्दर्शनात्	detected	mula	3.4.28	2	1	तद्-दर्शनात्	w2.p0								linked	BS:3.4.28:tbrahmatattva_0_60
+brahmasutra	brahmatattvaprakashika	3.4.30	tbrahmatattva_0	स्मर्यते	स्मर्यते	detected	mula	3.4.30	2	1	स्मर्यते	w2.p0								linked	BS:3.4.30:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	3.4.34	tbrahmatattva_0	उभयलिङ्गात्।	उभयलिङ्गात्	detected	mula	3.4.34	2.1	1	उभय-लिङ्गात्	w2.p1								linked	BS:3.4.34:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	3.4.36	tbrahmatattva_0	अन्तरा	अन्तरा	detected	mula	3.4.36	0	1	अन्तरा	w0.p0								linked	BS:3.4.36:tbrahmatattva_0_30
+brahmasutra	brahmatattvaprakashika	3.4.36	tbrahmatattva_0	तद्दृष्टेः।	तद्दृष्टेः	detected	mula	3.4.36	3	1	तद्-दृष्टेः	w3.p0								linked	BS:3.4.36:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	3.4.37	tbrahmatattva_0	स्मर्यत	स्मर्यत	detected	mula	3.4.37	2	1	स्मर्यते	w2.p0								linked	BS:3.4.37:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	3.4.39	tbrahmatattva_0	ज्यायः	ज्यायः	detected	mula	3.4.39	0.3	1	ज्यायः	w0.p3								linked	BS:3.4.39:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	3.4.40	tbrahmatattva_0	तद्भूतस्य	तद्भूतस्य	detected	mula	3.4.40	0	1	तद्भूतस्य	w0.p0								linked	BS:3.4.40:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	3.4.40	tbrahmatattva_0	नियमः	नियमः	detected	mula	3.4.40	4	1	नियम	w4.p0								linked	BS:3.4.40:tbrahmatattva_0_49
+brahmasutra	brahmatattvaprakashika	3.4.41	tbrahmatattva_0	पतनानुमानात्।	पतनानुमानात्	detected	mula	3.4.41	2.0	1	पतन-अनुमानात्	w2.p0								linked	BS:3.4.41:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	3.4.42	tbrahmatattva_0	अशनवद्	अशनवद्	detected	mula	3.4.42	2.1	1	अशनवत्	w2.p1								linked	BS:3.4.42:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	3.4.44	tbrahmatattva_0	स्वामिनो	स्वामिनो	detected	mula	3.4.44	0	1	स्वामिनः	w0.p0								linked	BS:3.4.44:tbrahmatattva_0_36
+brahmasutra	brahmatattvaprakashika	3.4.44	tbrahmatattva_0	फलश्रुतेः	फलश्रुतेः	detected	mula	3.4.44	1.0	1	फल-श्रुतेः	w1.p0								linked	BS:3.4.44:tbrahmatattva_0_42
+brahmasutra	brahmatattvaprakashika	3.4.45	tbrahmatattva_0	तस्मै	तस्मै	detected	mula	3.4.45	0.3	1	तस्मै	w0.p3								linked	BS:3.4.45:tbrahmatattva_0_3
+brahmasutra	brahmatattvaprakashika	3.4.45	tbrahmatattva_0	परिक्रीयते	परिक्रीयते	detected	mula	3.4.45	2	1	परिक्रीयते	w2.p0								linked	BS:3.4.45:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	3.4.46	tbrahmatattva_0	श्रुतेः	श्रुतेः	detected	mula	3.4.46	0.0	1	श्रुतेः	w0.p0								linked	BS:3.4.46:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	3.4.47	tbrahmatattva_0	पक्षः	पक्षः	detected														unlinked	BS:3.4.47:tbrahmatattva_0_46
+brahmasutra	brahmatattvaprakashika	3.4.47	tbrahmatattva_0	तृतीयं	तृतीयं	detected	mula	3.4.47	2	1	तृतीयम्	w2.p0								linked	BS:3.4.47:tbrahmatattva_0_67
+brahmasutra	brahmatattvaprakashika	3.4.47	tbrahmatattva_0	तद्वतः	तद्वतः	detected	mula	3.4.47	3	1	तद्वतः	w3.p0								linked	BS:3.4.47:tbrahmatattva_0_81
+brahmasutra	brahmatattvaprakashika	3.4.47	tbrahmatattva_0	विदित्वे	विदित्वे	detected														unlinked	BS:3.4.47:tbrahmatattva_0_83
+brahmasutra	brahmatattvaprakashika	3.4.51	tbrahmatattva_0	प्रस्तुतम्।	प्रस्तुतम्	detected	mula	3.4.51	0.3	1	प्रस्तुत-प्रतिबन्धे	w0.p3							0	linked	BS:3.4.51:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	3.4.51	tbrahmatattva_0	प्रतिबन्धे	प्रतिबन्धे	detected	mula	3.4.51	0.3	1	प्रस्तुत-प्रतिबन्धे	w0.p3							1	linked	BS:3.4.51:tbrahmatattva_0_40
+brahmasutra	brahmatattvaprakashika	3.4.52	tbrahmatattva_0	मुक्तिः	मुक्तिः	detected	mula	3.4.52	1.0	1	मुक्ति-फल-अनियमः	w1.p0							0	linked	BS:3.4.52:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	3.4.52	tbrahmatattva_0	एवं	एवं	detected	mula	3.4.52	0	1	एवम्	w0.p0								linked	BS:3.4.52:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	4.1.3	tbrahmatattva_0	ग्राहयन्ति	ग्राहयन्ति	detected	mula	4.1.3	2	1	ग्राहयन्ति	w2.p0								linked	BS:4.1.3:tbrahmatattva_0_45
+brahmasutra	brahmatattvaprakashika	4.1.4	tbrahmatattva_0	प्रतीके	प्रतीके	detected	mula	4.1.4	1	1	प्रतीके	w1.p0								linked	BS:4.1.4:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	4.1.5	tbrahmatattva_0	ब्रह्मदृष्टिः	ब्रह्मदृष्टिः	detected	mula	4.1.5	0.0	1	ब्रह्मदृष्टिः	w0.p0								linked	BS:4.1.5:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	4.1.5	tbrahmatattva_0	उत्कर्षाद्	उत्कर्षाद्	detected	mula	4.1.5	0.1	1	उत्कर्षात्	w0.p1								linked	BS:4.1.5:tbrahmatattva_0_36
+brahmasutra	brahmatattvaprakashika	4.1.7	tbrahmatattva_0	आसीन	आसीन	detected	mula	4.1.7	0	1	आसीनः	w0.p0								linked	BS:4.1.7:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	4.1.10	tbrahmatattva_0	स्मरन्ति।	स्मरन्ति	detected	mula	4.1.10	0	1	स्मरन्ति	w0.p0								linked	BS:4.1.10:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	4.1.11	tbrahmatattva_0	यत्र	यत्र	detected	mula	4.1.11	0.0	1	यत्र	w0.p0								linked	BS:4.1.11:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	4.1.12	tbrahmatattva_0	प्रायणादा	प्रायणादा	detected														unlinked	BS:4.1.12:tbrahmatattva_0_30
+brahmasutra	brahmatattvaprakashika	4.1.12	tbrahmatattva_0	दृष्टम्।	दृष्टम्	detected	mula	4.1.12	3	1	दृष्टम्	w3.p0								linked	BS:4.1.12:tbrahmatattva_0_40
+brahmasutra	brahmatattvaprakashika	4.1.13	tbrahmatattva_0	तदधिगमे	तदधिगमे	detected														unlinked	BS:4.1.13:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	4.1.13	tbrahmatattva_0	उत्तरपूर्वाघयोः	उत्तरपूर्वाघयोः	detected	mula	4.1.13	1.0	1	उत्तर-पूर्व-अघयोः	w1.p0								linked	BS:4.1.13:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	4.1.13	tbrahmatattva_0	श्लेषविनाशौ	श्लेषविनाशौ	detected	mula	4.1.13	1.1	1	अश्लेष-विनाशौ	w1.p1								linked	BS:4.1.13:tbrahmatattva_0_51
+brahmasutra	brahmatattvaprakashika	4.1.13	tbrahmatattva_0	तद्व्यपदेशात्	तद्व्यपदेशात्	detected	mula	4.1.13	2	1	तद्-व्यपदेशात्	w2.p0								linked	BS:4.1.13:tbrahmatattva_0_55
+brahmasutra	brahmatattvaprakashika	4.1.13	tbrahmatattva_0	व्यपदेशात्।	व्यपदेशात्	detected	mula	4.1.13	2	1	तद्-व्यपदेशात्	w2.p0							1	linked	BS:4.1.13:tbrahmatattva_0_85
+brahmasutra	brahmatattvaprakashika	4.1.15	tbrahmatattva_0	पूर्वः	पूर्वः	detected	mula	4.1.15	3	1	पूर्वे	w3.p0								linked	BS:4.1.15:tbrahmatattva_0_30
+brahmasutra	brahmatattvaprakashika	4.1.16	tbrahmatattva_0	तद्दर्शनाद्	तद्दर्शनाद्	detected	mula	4.1.16	3	1	तत्-दर्शनात्	w3.p0								linked	BS:4.1.16:tbrahmatattva_0_43
+brahmasutra	brahmatattvaprakashika	4.1.18	tbrahmatattva_0	विद्यया	विद्यया	detected	mula	4.1.18	1.0	1	विद्यया	w1.p0								linked	BS:4.1.18:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	4.1.19	tbrahmatattva_0	इतरे	इतरे	detected	mula	4.1.19	1.1	1	इतरे	w1.p1								linked	BS:4.1.19:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	4.1.19	tbrahmatattva_0	भोगेन	भोगेन	detected	mula	4.1.19	0	1	भोगेन	w0.p0								linked	BS:4.1.19:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	4.1.19	tbrahmatattva_0	क्षपयित्वा	क्षपयित्वा	detected	mula	4.1.19	2	1	क्षपयित्वा	w2.p0								linked	BS:4.1.19:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	4.2.1	tbrahmatattva_0	मनसि	मनसि	detected	mula	4.2.1	0.1	1	मनसि	w0.p1								linked	BS:4.2.1:tbrahmatattva_0_54
+brahmasutra	brahmatattvaprakashika	4.2.1	tbrahmatattva_0	दर्शनाद्	दर्शनाद्	detected	mula	4.2.1	1.0	1	दर्शनात्	w1.p0								linked	BS:4.2.1:tbrahmatattva_0_98
+brahmasutra	brahmatattvaprakashika	4.2.2	tbrahmatattva_0	सर्वाणि	सर्वाणि	detected	mula	4.2.2	3.0	1	सर्वाणि	w3.p0								linked	BS:4.2.2:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	4.2.3	tbrahmatattva_0	मनः	मनः	detected	mula	4.2.3	0.1	1	मनः	w0.p1								linked	BS:4.2.3:tbrahmatattva_0_28
+brahmasutra	brahmatattvaprakashika	4.2.3	tbrahmatattva_0	प्राण	प्राण	detected	mula	4.2.3	1	1	प्राणे	w1.p0								linked	BS:4.2.3:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	4.2.6	tbrahmatattva_0	दर्शयतो	दर्शयतो	detected	mula	4.2.6	0.2	1	दर्शयतः	w0.p2								linked	BS:4.2.6:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	4.2.7	tbrahmatattva_0	समाना	समाना	detected	mula	4.2.7	0	1	समाना	w0.p0								linked	BS:4.2.7:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	4.2.7	tbrahmatattva_0	अमृतत्वं	अमृतत्वं	detected	mula	4.2.7	1.3	1	अमृतत्वम्	w1.p3								linked	BS:4.2.7:tbrahmatattva_0_45
+brahmasutra	brahmatattvaprakashika	4.2.8	tbrahmatattva_0	संसारव्यपदेशात्।	संसारव्यपदेशात्	detected	mula	4.2.8	1	1	संसार-व्यपदेशात्	w1.p0								linked	BS:4.2.8:tbrahmatattva_0_60
+brahmasutra	brahmatattvaprakashika	4.2.9	tbrahmatattva_0	सूक्ष्मं	सूक्ष्मं	detected	mula	4.2.9	0	1	सूक्ष्मम्	w0.p0								linked	BS:4.2.9:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	4.2.11	tbrahmatattva_0	एष	एष	detected	mula	4.2.11	1.2	1	एषः	w1.p2								linked	BS:4.2.11:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	4.2.11	tbrahmatattva_0	ऊष्मा	ऊष्मा	detected	mula	4.2.11	2	1	ऊष्मा	w2.p0								linked	BS:4.2.11:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	4.2.12	tbrahmatattva_0	शरीरात्	शरीरात्	detected	mula	4.2.12	2	1	शारीरात्	w2.p0								linked	BS:4.2.12:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	4.2.13	tbrahmatattva_0	एकेषां	एकेषां	detected	mula	4.2.13	1.1	1	एकेषाम्	w1.p1								linked	BS:4.2.13:tbrahmatattva_0_1
+brahmasutra	brahmatattvaprakashika	4.2.13	tbrahmatattva_0	स्पष्टो	स्पष्टो	detected	mula	4.2.13	0	1	स्पष्टः	w0.p0								linked	BS:4.2.13:tbrahmatattva_0_7
+brahmasutra	brahmatattvaprakashika	4.2.14	tbrahmatattva_0	स्मर्यत	स्मर्यत	detected	mula	4.2.14	0	1	स्मर्यते	w0.p0								linked	BS:4.2.14:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	4.2.15	tbrahmatattva_0	तानि	तानि	detected	mula	4.2.15	0	1	तानि	w0.p0								linked	BS:4.2.15:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	4.2.15	tbrahmatattva_0	परे	परे	detected	mula	4.2.15	1	1	परे	w1.p0								linked	BS:4.2.15:tbrahmatattva_0_35
+brahmasutra	brahmatattvaprakashika	4.2.17	tbrahmatattva_0	द्वारेण	द्वारेण	detected	mula	4.2.17	1	1	तत्-प्रकाशित-द्वारः	w1.p0							2	linked	BS:4.2.17:tbrahmatattva_0_38
+brahmasutra	brahmatattvaprakashika	4.2.17	tbrahmatattva_0	ज्वलनं	ज्वलनं	detected	mula	4.2.17	0.1	1	ओकः-अग्र-ज्वलनम्	w0.p1							2	linked	BS:4.2.17:tbrahmatattva_0_57
+brahmasutra	brahmatattvaprakashika	4.2.17	tbrahmatattva_0	विद्यासामर्थ्याद्।	विद्यासामर्थ्याद्	detected	mula	4.2.17	2.0	1	विद्या-सामर्थ्यात्	w2.p0								linked	BS:4.2.17:tbrahmatattva_0_72
+brahmasutra	brahmatattvaprakashika	4.2.17	tbrahmatattva_0	हार्देन	हार्देन	detected	mula	4.2.17	3	1	हार्द-अनुगृहीतः	w3.p0							0	linked	BS:4.2.17:tbrahmatattva_0_106
+brahmasutra	brahmatattvaprakashika	4.2.19	tbrahmatattva_0	निशि	निशि	detected	mula	4.2.19	0	1	निशि	w0.p0								linked	BS:4.2.19:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	4.2.19	tbrahmatattva_0	दर्शयति	दर्शयति	detected	mula	4.2.19	4.1	1	दर्शयति	w4.p1								linked	BS:4.2.19:tbrahmatattva_0_18
+brahmasutra	brahmatattvaprakashika	4.2.21	tbrahmatattva_0	योगिनः	योगिनः	detected	mula	4.2.21	0	1	योगिनः	w0.p0								linked	BS:4.2.21:tbrahmatattva_0_31
+brahmasutra	brahmatattvaprakashika	4.2.21	tbrahmatattva_0	स्मर्यते	स्मर्यते	detected	mula	4.2.21	3	1	स्मर्यते	w3.p0								linked	BS:4.2.21:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	4.2.21	tbrahmatattva_0	प्रति।	प्रति	detected	mula	4.2.21	1	1	प्रति	w1.p0								linked	BS:4.2.21:tbrahmatattva_0_38
+brahmasutra	brahmatattvaprakashika	4.2.21	tbrahmatattva_0	स्मार्ते	स्मार्ते	detected	mula	4.2.21	4	1	स्मार्ते	w4.p0								linked	BS:4.2.21:tbrahmatattva_0_48
+brahmasutra	brahmatattvaprakashika	4.3.1	tbrahmatattva_0	तत्प्रथितेः।	तत्प्रथितेः	detected														unlinked	BS:4.3.1:tbrahmatattva_0_74
+brahmasutra	brahmatattvaprakashika	4.3.1	tbrahmatattva_0	प्रथितेः	प्रथितेः	detected	mula	4.3.1	1	1	तत् - प्रथिति	w1.p0							1	linked	BS:4.3.1:tbrahmatattva_0_90
+brahmasutra	brahmatattvaprakashika	4.3.2	tbrahmatattva_0	अब्दात्	अब्दात्	detected	mula	4.3.2	0.1	1	अब्दात्	w0.p1								linked	BS:4.3.2:tbrahmatattva_0_84
+brahmasutra	brahmatattvaprakashika	4.3.2	tbrahmatattva_0	अविशेषविशेषाभ्याम्।	अविशेषविशेषाभ्याम्	detected	mula	4.3.2	0.2	1	अविशेष-विशेषाभ्याम्	w0.p2								linked	BS:4.3.2:tbrahmatattva_0_88
+brahmasutra	brahmatattvaprakashika	4.3.3	tbrahmatattva_0	तडितो	तडितो	detected	mula	4.3.3	0.0	1	तडितः	w0.p0								linked	BS:4.3.3:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	4.3.3	tbrahmatattva_0	सम्बन्धाद्	सम्बन्धाद्	detected	mula	4.3.3	2	1	सम्बन्धात्	w2.p0								linked	BS:4.3.3:tbrahmatattva_0_37
+brahmasutra	brahmatattvaprakashika	4.3.4	tbrahmatattva_0	आतिवाहिका	आतिवाहिका	detected	mula	4.3.4	0	1	आतिवाहिकाः	w0.p0								linked	BS:4.3.4:tbrahmatattva_0_27
+brahmasutra	brahmatattvaprakashika	4.3.6	tbrahmatattva_0	वैद्युतः।	वैद्युतः	detected														unlinked	BS:4.3.6:tbrahmatattva_0_11
+brahmasutra	brahmatattvaprakashika	4.3.6	tbrahmatattva_0	ततो	ततो	detected	mula	4.3.6	1.0	1	ततः	w1.p0								linked	BS:4.3.6:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	4.3.7	tbrahmatattva_0	अस्य	अस्य	detected	mula	4.3.7	1.1	1	अस्य	w1.p1								linked	BS:4.3.7:tbrahmatattva_0_41
+brahmasutra	brahmatattvaprakashika	4.3.8	tbrahmatattva_0	विशेषितत्वात्।	विशेषितत्वात्	detected	mula	4.3.8	0	1	विशेषितत्वात्	w0.p0								linked	BS:4.3.8:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	4.3.9	tbrahmatattva_0	व्यपदेशो	व्यपदेशो	detected	mula	4.3.9	1	1	तत्-व्यपदेशः	w1.p0							1	linked	BS:4.3.9:tbrahmatattva_0_24
+brahmasutra	brahmatattvaprakashika	4.3.10	tbrahmatattva_0	तदध्यक्षेण	तदध्यक्षेण	detected														unlinked	BS:4.3.10:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	4.3.10	tbrahmatattva_0	सह	सह	detected	mula	4.3.10	2.0	1	सह	w2.p0								linked	BS:4.3.10:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	4.3.10	tbrahmatattva_0	कार्याद्	कार्याद्	detected	mula	4.3.10	0	1	कार्य-अत्यये	w0.p0							0	linked	BS:4.3.10:tbrahmatattva_0_22
+brahmasutra	brahmatattvaprakashika	4.3.10	tbrahmatattva_0	परं	परं	detected	mula	4.3.10	3.0	1	परम्	w3.p0								linked	BS:4.3.10:tbrahmatattva_0_24
+brahmasutra	brahmatattvaprakashika	4.3.12	tbrahmatattva_0	मुख्यत्वात्	मुख्यत्वात्	detected	mula	4.3.12	1.1	1	मुख्यत्वात्	w1.p1								linked	BS:4.3.12:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	4.3.14	tbrahmatattva_0	कार्ये	कार्ये	detected	mula	4.3.14	2	1	कार्ये	w2.p0								linked	BS:4.3.14:tbrahmatattva_0_13
+brahmasutra	brahmatattvaprakashika	4.3.15	tbrahmatattva_0	नयति	नयति	detected	mula	4.3.15	0.1	1	नयति	w0.p1								linked	BS:4.3.15:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	4.3.15	tbrahmatattva_0	अप्रतीकालम्बनान्	अप्रतीकालम्बनान्	detected	mula	4.3.15	0.0	1	अप्रतीक-आलम्बनान्	w0.p0								linked	BS:4.3.15:tbrahmatattva_0_25
+brahmasutra	brahmatattvaprakashika	4.3.15	tbrahmatattva_0	बादरायण	बादरायण	detected	mula	4.3.15	1	1	बादरायणः	w1.p0								linked	BS:4.3.15:tbrahmatattva_0_29
+brahmasutra	brahmatattvaprakashika	4.3.15	tbrahmatattva_0	अदोषाद्	अदोषाद्	detected	mula	4.3.15	2.1	1	अदोषात्	w2.p1								linked	BS:4.3.15:tbrahmatattva_0_51
+brahmasutra	brahmatattvaprakashika	4.3.16	tbrahmatattva_0	दर्शयति	दर्शयति	detected	mula	4.3.16	2	1	दर्शयति	w2.p0								linked	BS:4.3.16:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	4.4.1	tbrahmatattva_0	स्वेन	स्वेन	detected	mula	4.4.1	1.0	1	स्वेन	w1.p0								linked	BS:4.4.1:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	4.4.1	tbrahmatattva_0	सम्पद्य	सम्पद्य	detected	mula	4.4.1	0	1	सम्पद्य	w0.p0								linked	BS:4.4.1:tbrahmatattva_0_58
+brahmasutra	brahmatattvaprakashika	4.4.1	tbrahmatattva_0	आविर्भावः	आविर्भावः	detected	mula	4.4.1	0.1	1	आविर्भावः	w0.p1								linked	BS:4.4.1:tbrahmatattva_0_62
+brahmasutra	brahmatattvaprakashika	4.4.2	tbrahmatattva_0	प्रतिज्ञानाद्	प्रतिज्ञानाद्	detected	mula	4.4.2	1	1	प्रतिज्ञानात्	w1.p0								linked	BS:4.4.2:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	4.4.3	tbrahmatattva_0	आत्मा	आत्मा	detected	mula	4.4.3	0	1	आत्मा	w0.p0								linked	BS:4.4.3:tbrahmatattva_0_10
+brahmasutra	brahmatattvaprakashika	4.4.4	tbrahmatattva_0	अविभागेन	अविभागेन	detected	mula	4.4.4	0	1	अविभागेन	w0.p0								linked	BS:4.4.4:tbrahmatattva_0_23
+brahmasutra	brahmatattvaprakashika	4.4.4	tbrahmatattva_0	दृष्टत्वाद्	दृष्टत्वाद्	detected	mula	4.4.4	1	1	दृष्टत्वात्	w1.p0								linked	BS:4.4.4:tbrahmatattva_0_26
+brahmasutra	brahmatattvaprakashika	4.4.5	tbrahmatattva_0	उपन्यासः।	उपन्यासः	detected	mula	4.4.5	1.1	1	उपन्यास-आदिभ्यः	w1.p1							0	linked	BS:4.4.5:tbrahmatattva_0_45
+brahmasutra	brahmatattvaprakashika	4.4.7	tbrahmatattva_0	पूर्वभावात्	पूर्वभावात्	detected	mula	4.4.7	0.3	1	पूर्व-भावात्	w0.p3								linked	BS:4.4.7:tbrahmatattva_0_4
+brahmasutra	brahmatattvaprakashika	4.4.7	tbrahmatattva_0	पूर्वस्य	पूर्वस्य	detected	mula	4.4.7	0.3	1	पूर्व-भावात्	w0.p3							0	linked	BS:4.4.7:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	4.4.7	tbrahmatattva_0	भावाद्	भावाद्	detected	mula	4.4.7	0.3	1	पूर्व-भावात्	w0.p3							1	linked	BS:4.4.7:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	4.4.7	tbrahmatattva_0	बादरायण	बादरायण	detected	mula	4.4.7	1	1	बादरायणः	w1.p0								linked	BS:4.4.7:tbrahmatattva_0_12
+brahmasutra	brahmatattvaprakashika	4.4.8	tbrahmatattva_0	सङ्कल्पो	सङ्कल्पो	detected														unlinked	BS:4.4.8:tbrahmatattva_0_47
+brahmasutra	brahmatattvaprakashika	4.4.8	tbrahmatattva_0	श्रुत्या	श्रुत्या	detected	mula	4.4.8	2	1	तत् - श्रुतेः	w2.p0							1	linked	BS:4.4.8:tbrahmatattva_0_70
+brahmasutra	brahmatattvaprakashika	4.4.10	tbrahmatattva_0	एवं	एवं	detected	mula	4.4.10	2.1	1	एवम्	w2.p1								linked	BS:4.4.10:tbrahmatattva_0_36
+brahmasutra	brahmatattvaprakashika	4.4.10	tbrahmatattva_0	आह	आह	detected	mula	4.4.10	1.1	1	आह	w1.p1								linked	BS:4.4.10:tbrahmatattva_0_40
+brahmasutra	brahmatattvaprakashika	4.4.11	tbrahmatattva_0	भावं	भावं	detected	mula	4.4.11	0	1	भावम्	w0.p0								linked	BS:4.4.11:tbrahmatattva_0_3
+brahmasutra	brahmatattvaprakashika	4.4.12	tbrahmatattva_0	बादरायण	बादरायण	detected	mula	4.4.12	1.0	1	बादरायणः	w1.p0								linked	BS:4.4.12:tbrahmatattva_0_17
+brahmasutra	brahmatattvaprakashika	4.4.12	tbrahmatattva_0	द्वादशाह	द्वादशाह	detected	mula	4.4.12	0.0	1	द्वादशाह-वत्	w0.p0							0	linked	BS:4.4.12:tbrahmatattva_0_20
+brahmasutra	brahmatattvaprakashika	4.4.13	tbrahmatattva_0	तनोः	तनोः	detected														unlinked	BS:4.4.13:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	4.4.13	tbrahmatattva_0	सन्ध्यवद्	सन्ध्यवद्	detected	mula	4.4.13	1	1	सन्ध्यवत्	w1.p0								linked	BS:4.4.13:tbrahmatattva_0_8
+brahmasutra	brahmatattvaprakashika	4.4.15	tbrahmatattva_0	प्रदीपवद्।	प्रदीपवद्	detected	mula	4.4.15	0.0	1	प्रदीपवत्	w0.p0								linked	BS:4.4.15:tbrahmatattva_0_32
+brahmasutra	brahmatattvaprakashika	4.4.15	tbrahmatattva_0	दर्शयति	दर्शयति	detected	mula	4.4.15	2	1	दर्शयति	w2.p0								linked	BS:4.4.15:tbrahmatattva_0_42
+brahmasutra	brahmatattvaprakashika	4.4.17	tbrahmatattva_0	प्रकरणात्	प्रकरणात्	detected	mula	4.4.17	1	1	प्रकरणात्	w1.p0								linked	BS:4.4.17:tbrahmatattva_0_34
+brahmasutra	brahmatattvaprakashika	4.4.18	tbrahmatattva_0	आधिकारिकमण्डलस्थोक्तेः	आधिकारिकमण्डलस्थोक्तेः	detected														unlinked	BS:4.4.18:tbrahmatattva_0_14
+brahmasutra	brahmatattvaprakashika	4.4.19	tbrahmatattva_0	विकारावर्ति	विकारावर्ति	detected	mula	4.4.19	0	1	विकार-अवर्ति	w0.p0								linked	BS:4.4.19:tbrahmatattva_0_2
+brahmasutra	brahmatattvaprakashika	4.4.20	tbrahmatattva_0	एवं	एवं	detected	mula	4.4.20	0.2	1	एवम्	w0.p2								linked	BS:4.4.20:tbrahmatattva_0_5
+brahmasutra	brahmatattvaprakashika	4.4.20	tbrahmatattva_0	दर्शयतः।	दर्शयतः	detected	mula	4.4.20	0.0	1	दर्शयतः	w0.p0								linked	BS:4.4.20:tbrahmatattva_0_9
+brahmasutra	brahmatattvaprakashika	4.4.21	tbrahmatattva_0	साम्यं	साम्यं	detected	mula	4.4.21	0.0	1	भोग-मात्र-साम्य-लिङ्गात्	w0.p0							2	linked	BS:4.4.21:tbrahmatattva_0_3

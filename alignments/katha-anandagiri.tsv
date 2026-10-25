@@ -1,0 +1,151 @@
+text	lane	ref	unit	pratika	lemma	mark	target_layer	target_ref	target_ord	target_occ	target_word	target_deposit	target2_layer	target2_ref	target2_ord	target2_occ	target2_word	target2_deposit	member	status	source_key
+katha	anandagiri	intro	ttika_1	ओं नमो भगवते वैवस्वतायेति ।	ॐ नमो भगवते वैवस्वताय मृत्यवे	as,mri	bhashya	intro	0	1	ॐ									linked	Kathaka:intro:ttika_1_15
+katha	anandagiri	intro	ttika_2	काठकेति ।	काठकोपनिषद्वल्लीनां	as,mri	bhashya	intro	9	1	काठकोपनिषद्वल्लीनां									linked	Kathaka:intro:ttika_2_2
+katha	anandagiri	intro	ttika_3	उपनिपूर्वस्येति ।	सदेर्धातोर्विशरणगत्यवसादनार्थस्योपनिपूर्वस्य	as,mri	bhashya	intro	12	1	सदेर्धातोर्विशरणगत्यवसादनार्थस्योपनिपूर्वस्य									linked	Kathaka:intro:ttika_3_23
+katha	anandagiri	intro	ttika_4	उपनिषच्छब्देनेति ।	उपनिषच्छब्देन	as,mri	bhashya	intro	17	1	उपनिषच्छब्देन									linked	Kathaka:intro:ttika_4_9
+katha	anandagiri	intro	ttika_5	केन पुनरिति ।	केन पुनरर्थयोगेनोपनिषच्छब्देन	as,mri	bhashya	intro	22	1	केन									linked	Kathaka:intro:ttika_5_5
+katha	anandagiri	intro	ttika_6	उच्यत इति ।	इति उच्यते	as,mri	bhashya	intro	25	3	इति									linked	Kathaka:intro:ttika_6_4
+katha	anandagiri	intro	ttika_6	यच्छ		mri														unlinked	Kathaka:intro:ttika_6_17
+katha	anandagiri	intro	ttika_6	आनुश्रविकाः	आनुश्रविकाः	mri	bhashya	intro	29	1	दृष्टानुश्रविकविषयवितृष्णाः									linked	Kathaka:intro:ttika_6_22
+katha	anandagiri	intro	ttika_7	उपसद्येति ।	विद्यामुपसद्योपगम्य	as,mri	bhashya	intro	33	1	विद्यामुपसद्योपगम्य									linked	Kathaka:intro:ttika_7_0
+katha	anandagiri	intro	ttika_8	पूर्वोक्तेति ।	पूर्वोक्तविशेषणान्वा	as,mri	bhashya	intro	50	1	पूर्वोक्तविशेषणान्वा									linked	Kathaka:intro:ttika_8_1
+katha	anandagiri	intro	ttika_9	लोकादिरिति ।	लोकादिर्ब्रह्मजज्ञो	as,mri	bhashya	intro	67	1	लोकादिर्ब्रह्मजज्ञो									linked	Kathaka:intro:ttika_9_2
+katha	anandagiri	intro	ttika_10	ग्रन्थे तु भक्त्येति ।	ग्रन्थे तु भक्त्येति ।	as,mri	bhashya	intro	117	1	ग्रन्थे									linked	Kathaka:intro:ttika_10_0
+katha	anandagiri	intro	ttika_11	एवमित्यादिना ।	एवमुपनिषन्निर्वचनेनैव	as,mri	bhashya	intro	120	1	एवमुपनिषन्निर्वचनेनैव									linked	Kathaka:intro:ttika_11_2
+katha	anandagiri	intro	ttika_11	मुशन्नि		mri														unlinked	Kathaka:intro:ttika_11_27
+katha	anandagiri	intro	ttika_11	श्रवः	श्रवः	mri														unlinked	Kathaka:intro:ttika_11_30
+katha	anandagiri	intro	ttika_11	सर्वमेधेन	सर्वमेधेन	mri														unlinked	Kathaka:intro:ttika_11_33
+katha	anandagiri	1.1.5	ttika_0	नूनमिति ॥ ५ ६ ॥	नूनं	as	bhashya	1.1.5	45	1	नूनं									linked	Kathaka:1.1.5:ttika_0_23
+katha	anandagiri	1.1.7	ttika_0	स एवमुक्तः पितेति ॥ ७ ८ ॥	स एवमुक्तः पिता	as	bhashya	1.1.7	0	1	स									linked	Kathaka:1.1.7:ttika_0_3
+katha	anandagiri	1.1.10	ttika_0	किञ्च त्वत्प्रसृष्टमिति ॥ ९ १० ॥	किञ्च त्वत्प्रसृष्टं	as	bhashya	1.1.10	34	1	किञ्च									linked	Kathaka:1.1.10:ttika_0_10
+katha	anandagiri	1.1.11	ttika_0	औद्दालकिरि	औद्दालकिरि	mri														unlinked	Kathaka:1.1.11:ttika_0_0
+katha	anandagiri	1.1.11	ttika_0	द्व्यामुष्यायणो वेति ।	द्व्यामुष्यायणो वा	as,mri	bhashya	1.1.11	20	1	द्व्यामुष्यायणो									linked	Kathaka:1.1.11:ttika_0_7
+katha	anandagiri	1.1.12	ttika_0	स्वर्गे लोक इति ॥ १२ १३ ॥	स्वर्गलोके	as	bhashya	1.1.12	41	1	स्वर्गलोके									linked	Kathaka:1.1.12:ttika_0_4
+katha	anandagiri	1.1.14	ttika_0	इयं	इयं	mri	bhashya	1.1.14	1	1	प्रतिज्ञेयम्									linked	Kathaka:1.1.14:ttika_0_0
+katha	anandagiri	1.1.15	ttika_0	इदं श्रुतेर्वचनमिति ॥ १५ १६ ॥	इदं श्रुतेर्वचनम्	as	bhashya	1.1.15	0	1	इदं									linked	Kathaka:1.1.15:ttika_0_3
+katha	anandagiri	1.1.17	ttika_0	विशुद्धिरि		mri														unlinked	Kathaka:1.1.17:ttika_0_0
+katha	anandagiri	1.1.17	ttika_0	दृष्ट्वा चाऽऽत्मभावेनेति ।	दृष्ट्वा चात्मभावेन	as,mri	bhashya	1.1.17	55	1	दृष्ट्वा									linked	Kathaka:1.1.17:ttika_0_4
+katha	anandagiri	1.1.20	ttika_0	एतावद्धीति ।	एतावद्ध्यतिक्रान्तेन	as	bhashya	1.1.20	0	1	एतावद्ध्यतिक्रान्तेन									linked	Kathaka:1.1.20:ttika_0_9
+katha	anandagiri	1.1.20	ttika_1	तमेतमर्थमिति ।	तमेतमर्थं	as,mri	bhashya	1.1.20	18	1	तमेतमर्थं									linked	Kathaka:1.1.20:ttika_1_2
+katha	anandagiri	1.1.20	ttika_2	अतश्चास्माकमिति ।	अत्र चास्माकं	as,mri	bhashya	1.1.20	55	1	अत्र									linked	Kathaka:1.1.20:ttika_2_12
+katha	anandagiri	1.1.24	ttika_0	किञ्च वित्तं प्रभूतमिति ।	किञ्च वित्तं प्रभूतं	as,mri	bhashya	1.1.24	10	1	किञ्च									linked	Kathaka:1.1.24:ttika_0_4
+katha	anandagiri	1.1.24	ttika_0	एधी		mri														unlinked	Kathaka:1.1.24:ttika_0_12
+katha	anandagiri	1.1.28	ttika_0	यतश्चाजीर्यतामित्यादिना ॥ २८ २९ ॥	यतश्च अजीर्यतां	as	bhashya	1.1.28	0	1	यतश्च									linked	Kathaka:1.1.28:ttika_0_12
+katha	anandagiri	1.2.1	ttika_0	परीक्ष्येति ।	परीक्ष्य	as,mri	bhashya	1.2.1	0	1	परीक्ष्य									linked	Kathaka:1.2.1:ttika_0_7
+katha	anandagiri	1.2.1	ttika_1	ते यद्यपीति ।	ते यद्यप्येकैकपुरुषार्थसम्बन्धिनी	as,mri	bhashya	1.2.1	42	2	ते									linked	Kathaka:1.2.1:ttika_1_2
+katha	anandagiri	1.2.9	ttika_0	अणुत्वं	अणुत्वं	mri														unlinked	Kathaka:1.2.9:ttika_0_0
+katha	anandagiri	1.2.10	ttika_0	पुनरपि तुष्ट आहेति ॥ १० ११ ॥	पुनरपि तुष्ट आह	as	bhashya	1.2.10	0	1	पुनरपि									linked	Kathaka:1.2.10:ttika_0_12
+katha	anandagiri	1.2.12	ttika_0	यं त्वं ज्ञातुमिच्छसीत्यादिना ॥ १२ १३ ॥	यं त्वं ज्ञातुमिच्छस्यात्मानं	as	bhashya	1.2.12	0	1	यं									linked	Kathaka:1.2.12:ttika_0_19
+katha	anandagiri	1.2.14	ttika_0	यद्यहं योग्य इत्यादिना ।	यद्यहं योग्यः	as,mri	bhashya	1.2.14	3	1	यद्यहं									linked	Kathaka:1.2.14:ttika_0_9
+katha	anandagiri	1.2.15	ttika_0	सर्वे वेदा इति ।	सर्वे वेदा	as,mri	bhashya	1.2.15	8	1	सर्वे									linked	Kathaka:1.2.15:ttika_0_0
+katha	anandagiri	1.2.15	ttika_1	सङ्ग्रहेणेति ।	सङ्ग्रहेण	as,mri	bhashya	1.2.15	32	1	सङ्ग्रहेण									linked	Kathaka:1.2.15:ttika_1_4
+katha	anandagiri	1.2.18	ttika_0	अन्यत्र धर्मादित्यादिनेति ।	अन्यत्र धर्मादित्यादिना	as,mri	bhashya	1.2.18	1	1	धर्मादित्यादिना									linked	Kathaka:1.2.18:ttika_0_7
+katha	anandagiri	1.2.19	ttika_0	अनात्मज्ञविषय एवेति ।	अतोऽनात्मज्ञविषय एव	as,mri	bhashya	1.2.19	30	1	अतोऽनात्मज्ञविषय									linked	Kathaka:1.2.19:ttika_0_8
+katha	anandagiri	1.2.19	ttika_1	न्यायाच्चेति ।	श्रुतिप्रामाण्यान्न्यायाच्च	as	bhashya	1.2.19	35	1	श्रुतिप्रामाण्यान्न्यायाच्च									linked	Kathaka:1.2.19:ttika_1_11
+katha	anandagiri	1.2.20	ttika_0	कथं पुनरिति ।	कथं पुनरात्मानं	as,mri	bhashya	1.2.20	0	1	कथं									linked	Kathaka:1.2.20:ttika_0_1
+katha	anandagiri	1.2.20	ttika_1	अणु महद्वेति ॥ २० ॥	अणु महद्वा	as	bhashya	1.2.20	13	1	अणु									linked	Kathaka:1.2.20:ttika_1_9
+katha	anandagiri	1.2.21	ttika_0	स्थितिगतीति ।	स्थितिगतिनित्यानित्यादिविरुद्धानेकधर्मोपाधिकत्वाद्विरुद्धधर्मवान्	as,mri	bhashya	1.2.21	29	1	स्थितिगतिनित्यानित्यादिविरुद्धानेकधर्मोपाधिकत्वाद्विरुद्धधर्मवान्									linked	Kathaka:1.2.21:ttika_0_6
+katha	anandagiri	1.2.21	ttika_0	इति		mri														unlinked	Kathaka:1.2.21:ttika_0_30
+katha	anandagiri	1.2.21	ttika_1	करणानामित्यादिना ।	करणानामुपशमः	as,mri	bhashya	1.2.21	39	1	करणानामुपशमः									linked	Kathaka:1.2.21:ttika_1_5
+katha	anandagiri	1.2.21	ttika_2	एकदेशविज्ञानस्येति ।	करणजनितस्यैकदेशविज्ञानस्योपशमः	as,mri	bhashya	1.2.21	41	1	करणजनितस्यैकदेशविज्ञानस्योपशमः									linked	Kathaka:1.2.21:ttika_2_0
+katha	anandagiri	1.2.23	ttika_0	न बहुना श्रुतेनेति ।	न बहुना श्रुतेन न	as,mri	bhashya	1.2.23	13	1	न									linked	Kathaka:1.2.23:ttika_0_0
+katha	anandagiri	1.2.23	ttika_0	केवलेनेति	केवलेन	mri	bhashya	1.2.23	18	1	केवलेन									linked	Kathaka:1.2.23:ttika_0_9
+katha	anandagiri	1.2.23	ttika_1	यमेवेति ।	यमेव	mri	bhashya	1.2.23	24	1	यमेव									linked	Kathaka:1.2.23:ttika_1_4
+katha	anandagiri	1.2.23	ttika_2	तेनैवेति ।	तेनैवात्मना	as,mri	bhashya	1.2.23	30	1	तेनैवात्मना									linked	Kathaka:1.2.23:ttika_2_0
+katha	anandagiri	1.2.23	ttika_2	आत्मा	आत्मा	mri	bhashya	1.2.23	47	1	आत्मा									linked	Kathaka:1.2.23:ttika_2_14
+katha	anandagiri	1.2.23	ttika_2	यमेव	यमेव	mri	bhashya	1.2.23	24	1	यमेव		mula	1.2.23	10	1	यम्	w8.p0		linked	Kathaka:1.2.23:ttika_2_20
+katha	anandagiri	1.2.23	ttika_2	वृणुते	वृणुते	mri	bhashya	1.2.23	28	1	वृणुते		mula	1.2.23	13	1	वृणुते	w9.p0		linked	Kathaka:1.2.23:ttika_2_22
+katha	anandagiri	1.2.23	ttika_2	तेनैव	तेनैव	mri	bhashya	1.2.23	30	1	तेनैवात्मना									linked	Kathaka:1.2.23:ttika_2_24
+katha	anandagiri	1.2.24	ttika_0	दुश्चरितं	दुश्चरितं	mri														unlinked	Kathaka:1.2.24:ttika_0_0
+katha	anandagiri	1.2.25	ttika_0	अशनत्वेऽप्यपर्याप्त इति ।	अशनत्वेऽप्यपर्याप्तः	as,mri	bhashya	1.2.25	20	1	अशनत्वेऽप्यपर्याप्तः									linked	Kathaka:1.2.25:ttika_0_9
+katha	anandagiri	1.2.25	ttika_0	यत्र	यत्र	mri	bhashya	1.2.25	30	1	यत्र		mula	1.2.25	14	1	यत्र	w12.p0		linked	Kathaka:1.2.25:ttika_0_16
+katha	anandagiri	1.3.1	ttika_0	रथरूपककल्पनेति ।	रथरूपककल्पना	as	bhashya	1.3.1	14	1	रथरूपककल्पना									linked	Kathaka:1.3.1:ttika_0_0
+katha	anandagiri	1.3.1	ttika_0	बाह्यपुरुषाकाशसंस्थानं	बाह्यपुरुषाकाशसंस्थानं	mri														unlinked	Kathaka:1.3.1:ttika_0_20
+katha	anandagiri	1.3.1	ttika_1	पञ्चाग्नय इति ।	पञ्चाग्नयो	as,mri	bhashya	1.3.1	76	1	पञ्चाग्नयो									linked	Kathaka:1.3.1:ttika_1_0
+katha	anandagiri	1.3.2	ttika_0	यः सेतुरिवेत्यादिना ।	यः सेतुः सेतुरिव	as,mri	bhashya	1.3.2	0	1	यः									linked	Kathaka:1.3.2:ttika_0_7
+katha	anandagiri	1.3.2	ttika_1	परापरे इति ॥ २ ॥	परापरे	as	bhashya	1.3.2	34	1	परापरे									linked	Kathaka:1.3.2:ttika_1_10
+katha	anandagiri	1.3.3	ttika_0	तत्रेति ।	तत्र	as,mri	bhashya	1.3.3	0	1	तत्र									linked	Kathaka:1.3.3:ttika_0_0
+katha	anandagiri	1.3.4	ttika_0	आत्मेन्द्रियमनोयुक्तमिति ।	आत्मेन्द्रियमनोयुक्तं	as,mri	bhashya	1.3.4	13	1	आत्मेन्द्रियमनोयुक्तं									linked	Kathaka:1.3.4:ttika_0_8
+katha	anandagiri	1.3.4	ttika_1	न हि केवलस्येति ।	न हि केवलस्यात्मनो	as,mri	bhashya	1.3.4	22	1	न									linked	Kathaka:1.3.4:ttika_1_4
+katha	anandagiri	1.3.4	ttika_2	एवं च सतीति ॥ ४ ५ ६ ७ ८ ९ ॥	एवं च सति	as	bhashya	1.3.4	37	1	एवं									linked	Kathaka:1.3.4:ttika_2_5
+katha	anandagiri	1.3.10	ttika_0	प्रत्यगात्मभूताश्चेति ।	प्रत्यगात्मभूताश्च ।	as,mri	bhashya	1.3.10	23	1	प्रत्यगात्मभूताश्च									linked	Kathaka:1.3.10:ttika_0_0
+katha	anandagiri	1.3.10	ttika_0	मनः शब्दवाच्यं भूतसूक्ष्ममिति	मनः शब्दवाच्यं भूतसूक्ष्मम	mri	bhashya	1.3.10	34	1	भूतसूक्ष्मम्									linked	Kathaka:1.3.10:ttika_0_43
+katha	anandagiri	1.3.10	ttika_1	बुद्धिशब्दवाच्यमिति ।	बुद्धिशब्दवाच्यमध्यवसायाद्यारम्भकं	as,mri	bhashya	1.3.10	43	1	बुद्धिशब्दवाच्यमध्यवसायाद्यारम्भकं									linked	Kathaka:1.3.10:ttika_1_2
+katha	anandagiri	1.3.10	ttika_2	बोधाबोधात्मकमिति ।	बोधाबोधात्मकं	as,mri	bhashya	1.3.10	54	1	बोधाबोधात्मकं									linked	Kathaka:1.3.10:ttika_2_0
+katha	anandagiri	1.3.11	ttika_0	परमात्मनीति ।	परमात्मन्योतप्रोतभावेन	as,mri	bhashya	1.3.11	14	1	परमात्मन्योतप्रोतभावेन									linked	Kathaka:1.3.11:ttika_0_49
+katha	anandagiri	1.3.11	ttika_1	वटकणिकायामिवेति ।	वटकणिकायामिव	as,mri	bhashya	1.3.11	16	1	वटकणिकायामिव									linked	Kathaka:1.3.11:ttika_1_1
+katha	anandagiri	1.3.12	ttika_0	पारयिष्णव इति ।	पारयिष्णवः	as,mri	bhashya	1.3.12	32	1	पारयिष्णवः									linked	Kathaka:1.3.12:ttika_0_0
+katha	anandagiri	1.3.12	ttika_1	दर्शनश्रवणादीनि ।	दर्शनश्रवणादिकर्मा	as,mri	bhashya	1.3.12	46	1	दर्शनश्रवणादिकर्मा									linked	Kathaka:1.3.12:ttika_1_7
+katha	anandagiri	1.3.12	ttika_2	अविद्यामायाछन्न इति ।	अविद्यामायाच्छन्नः	as,mri	bhashya	1.3.12	47	1	अविद्यामायाच्छन्नः									linked	Kathaka:1.3.12:ttika_2_2
+katha	anandagiri	1.3.14	ttika_0	एवं पुरुष इत्यादिना ॥ १४ ॥	एवं पुरुषे	as	bhashya	1.3.14	0	1	एवं									linked	Kathaka:1.3.14:ttika_0_10
+katha	anandagiri	1.3.15	ttika_0	स्थूला तावदित्यादिना ॥ १५ १६ १७ ॥	स्थूला तावदियं	as	bhashya	1.3.15	3	1	स्थूला									linked	Kathaka:1.3.15:ttika_0_10
+katha	anandagiri	intro	ttika_0	ब्रह्म यत्तन्नमाम्यहम् ॥	एष सर्वेषु	as,mri	bhashya	intro	0	1	एष									linked	Kathaka:intro:ttika_0_4
+katha	anandagiri	intro	ttika_0	यद्यस्मादादत्ते	यद्यस्मादादत्ते	mri														unlinked	Kathaka:intro:ttika_0_23
+katha	anandagiri	intro	ttika_0	विषयानत्ती	विषयानत्ती	mri														unlinked	Kathaka:intro:ttika_0_29
+katha	anandagiri	intro	ttika_0	सन्ततो	सन्ततो	mri														unlinked	Kathaka:intro:ttika_0_36
+katha	anandagiri	2.1.3	ttika_0	येनेत्यादिना ।	येन	as,mri	bhashya	2.1.3	7	1	येन									linked	Kathaka:2.1.3:ttika_0_10
+katha	anandagiri	2.1.3	ttika_1	न त्वेवं देहादीत्यादिना ।	न त्वेवम् देहादिसङ्घातस्यापि	as,mri	bhashya	2.1.3	32	1	न									linked	Kathaka:2.1.3:ttika_1_18
+katha	anandagiri	2.1.3	ttika_2	यदि हीति ॥ ३ ४ ५ ॥	यदि हि	as	bhashya	2.1.3	39	1	यदि									linked	Kathaka:2.1.3:ttika_2_2
+katha	anandagiri	2.1.6	ttika_0	यदिति ।	यत्तत्प्रकृतं	as	bhashya	2.1.6	50	1	यत्तत्प्रकृतं									linked	Kathaka:2.1.6:ttika_0_0
+katha	anandagiri	2.1.6	ttika_0	शब्दादीनुपलभमानमिति	शब्दादीनुपलभमानम	mri	bhashya	2.1.6	34	1	शब्दादीनुपलभमानं									linked	Kathaka:2.1.6:ttika_0_19
+katha	anandagiri	2.1.7	ttika_0	किञ्चेति ॥ ७ ८ ९ ॥	किञ्च	as	bhashya	2.1.7	0	1	किञ्च									linked	Kathaka:2.1.7:ttika_0_2
+katha	anandagiri	2.1.10	ttika_0	यद्ब्रह्मादीत्यादिना ।	यद्ब्रह्मादिस्थावरान्तेषु	as	bhashya	2.1.10	0	1	यद्ब्रह्मादिस्थावरान्तेषु									linked	Kathaka:2.1.10:ttika_0_9
+katha	anandagiri	2.1.10	ttika_0	पाधिस्वभावभेददृष्टिलक्षणा	पाधिस्वभावभेददृष्टिलक्षणा	mri														unlinked	Kathaka:2.1.10:ttika_0_19
+katha	anandagiri	2.1.11	ttika_0	प्रागेकत्वविज्ञानादिति ॥ ११ ॥	प्रागेकत्वविज्ञानादाचार्यागमसंस्कृतेन	as	bhashya	2.1.11	0	1	प्रागेकत्वविज्ञानादाचार्यागमसंस्कृतेन									linked	Kathaka:2.1.11:ttika_0_8
+katha	anandagiri	2.1.12	ttika_0	पुनरपि तदेवेति ॥ १२ १३ १४ १५ ॥	पुनरपि तदेव	as	bhashya	2.1.12	0	1	पुनरपि									linked	Kathaka:2.1.12:ttika_0_4
+katha	anandagiri	2.2.1	ttika_0	पुनरपीति ।	पुनरपि	as,mri	bhashya	2.2.1	0	1	पुनरपि									linked	Kathaka:2.2.1:ttika_0_2
+katha	anandagiri	2.2.2	ttika_0	परोऽन्तः	परोऽन्तः	mri	bhashya	2.2.2	34	1	परोऽन्तः									linked	Kathaka:2.2.2:ttika_0_5
+katha	anandagiri	2.2.2	ttika_0	यदाऽप्यादित्य एवेति ।	यदाप्यादित्य एव	as,mri	bhashya	2.2.2	106	1	यदाप्यादित्य									linked	Kathaka:2.2.2:ttika_0_24
+katha	anandagiri	2.2.3	ttika_0	आत्मनः स्वरूपाधिगम इत्यादिना ।	आत्मनः स्वरूपाधिगमे	as,mri	bhashya	2.2.3	0	1	आत्मनः									linked	Kathaka:2.2.3:ttika_0_13
+katha	anandagiri	2.2.4	ttika_0	किं चास्येति ॥ ४ ॥	किञ्च अस्य	as	bhashya	2.2.4	0	1	किञ्च									linked	Kathaka:2.2.4:ttika_0_4
+katha	anandagiri	2.2.5	ttika_0	स्यान्मतमिति ।	स्यान्मतं	as,mri	bhashya	2.2.5	0	1	स्यान्मतं									linked	Kathaka:2.2.5:ttika_0_2
+katha	anandagiri	2.2.5	ttika_1	स्वार्थेनासंहतेनेति ।	स्वार्थेनासंहतेन	as,mri	bhashya	2.2.5	28	1	स्वार्थेनासंहतेन									linked	Kathaka:2.2.5:ttika_1_23
+katha	anandagiri	2.2.6	ttika_0	हन्तेदानीमिति ॥ ६ ७ ८ ॥	हन्तेदानीं	as	bhashya	2.2.6	0	1	हन्तेदानीं									linked	Kathaka:2.2.6:ttika_0_10
+katha	anandagiri	2.2.9	ttika_0	अनेकतार्किकेत्यादिना ।	अतः कुतार्किकपाषण्डबुद्धिविचालितान्तःकरणानां	as,mri	bhashya	2.2.9	0	1	अतः									linked	Kathaka:2.2.9:ttika_0_21
+katha	anandagiri	2.2.9	ttika_0	प्रतिरूपः	प्रतिरूपः	mri	bhashya	2.2.9	31	1	प्रतिरूपः		mula	2.2.9	7	1	प्रति-रूपः	w5.p0		linked	Kathaka:2.2.9:ttika_0_23
+katha	anandagiri	2.2.11	ttika_0	एकस्य सर्वात्मकत्व इति ।	एकस्य सर्वात्मत्वे	as,mri	bhashya	2.2.11	0	1	एकस्य									linked	Kathaka:2.2.11:ttika_0_3
+katha	anandagiri	2.2.11	ttika_1	लोको ह्यविद्ययेति ।	लोको ह्यविद्यया	as,mri	bhashya	2.2.11	32	1	लोको									linked	Kathaka:2.2.11:ttika_1_8
+katha	anandagiri	2.2.12	ttika_0	किञ्च स हीत्यादिना ॥ १२ ॥	किञ्च स हि	as,mri	bhashya	2.2.12	0	1	किञ्च									linked	Kathaka:2.2.12:ttika_0_14
+katha	anandagiri	2.2.13	ttika_0	किञ्च नित्य इति ।	किञ्च नित्यः	as,mri	bhashya	2.2.13	0	1	किञ्च									linked	Kathaka:2.2.13:ttika_0_2
+katha	anandagiri	2.2.13	ttika_1	चेतनश्चेतनानामिति ।	चेतनः चेतनानां	as,mri	bhashya	2.2.13	5	1	चेतनः									linked	Kathaka:2.2.13:ttika_1_10
+katha	anandagiri	2.2.13	ttika_2	किञ्च स इति ॥ १३ ॥	किञ्च स	as,mri	bhashya	2.2.13	13	2	किञ्च									linked	Kathaka:2.2.13:ttika_2_5
+katha	anandagiri	2.2.14	ttika_0	यत्तदात्मविज्ञानमिति ।	यत्तदात्मविज्ञानसुखम्	as,mri	bhashya	2.2.14	0	1	यत्तदात्मविज्ञानसुखम्									linked	Kathaka:2.2.14:ttika_0_3
+katha	anandagiri	2.2.14	ttika_1	कथं न्विति ॥ १४ १५ ॥	कथं नु	as	bhashya	2.2.14	11	1	कथं									linked	Kathaka:2.2.14:ttika_1_7
+katha	anandagiri	2.3.1	ttika_0	तूलावधारणेनेति ।	तूलावधारणेनैव	as,mri	bhashya	2.3.1	0	1	तूलावधारणेनैव									linked	Kathaka:2.3.1:ttika_0_7
+katha	anandagiri	2.3.1	ttika_1	व्रश्चनादिति ।	व्रश्चनात्	as,mri	bhashya	2.3.1	26	1	व्रश्चनात्									linked	Kathaka:2.3.1:ttika_1_1
+katha	anandagiri	2.3.1	ttika_2	जन्मजरेत्यादिना ।	अविच्छिन्नजन्मजरामरणशोकाद्यनेकानर्थात्मकः	as,mri	bhashya	2.3.1	28	1	अविच्छिन्नजन्मजरामरणशोकाद्यनेकानर्थात्मकः									linked	Kathaka:2.3.1:ttika_2_2
+katha	anandagiri	2.3.1	ttika_3	अवसाने चेत्यादिना ।	मायामरीच्युदकगन्धर्वनगरादिवद्दृष्टनष्टस्वरूपत्वादवसाने च	as,mri	bhashya	2.3.1	30	1	मायामरीच्युदकगन्धर्वनगरादिवद्दृष्टनष्टस्वरूपत्वादवसाने									linked	Kathaka:2.3.1:ttika_3_3
+katha	anandagiri	2.3.1	ttika_4	तत्त्वविजिज्ञासुभिरिति ।	तत्त्वविजिज्ञासुभिरनिर्धारितेदन्तत्त्वः	as,mri	bhashya	2.3.1	35	1	तत्त्वविजिज्ञासुभिरनिर्धारितेदन्तत्त्वः									linked	Kathaka:2.3.1:ttika_4_1
+katha	anandagiri	2.3.2	ttika_0	यद्विज्ञानादिति ।	यद्विज्ञानादमृता	as,mri	bhashya	2.3.2	0	1	यद्विज्ञानादमृता									linked	Kathaka:2.3.2:ttika_0_8
+katha	anandagiri	2.3.4	ttika_0	तच्चेति ।	तच्च	as,mri	bhashya	2.3.4	0	1	तच्च									linked	Kathaka:2.3.4:ttika_0_10
+katha	anandagiri	2.3.7	ttika_0	अर्थानामिहेति ॥ ६ ७ ॥	अर्थानामिहेन्द्रियसमानजातीयत्वादिन्द्रियग्रहणेनैव	as	bhashya	2.3.7	15	1	अर्थानामिहेन्द्रियसमानजातीयत्वादिन्द्रियग्रहणेनैव									linked	Kathaka:2.3.7:ttika_0_15
+katha	anandagiri	2.3.8	ttika_0	लिङ्ग्यते गम्यते येनेति ॥ ८ ॥	लिङ्ग्यते गम्यते येन	as	bhashya	2.3.8	8	1	लिङ्ग्यते									linked	Kathaka:2.3.8:ttika_0_18
+katha	anandagiri	2.3.9	ttika_0	न सन्दृश इति ।	न सन्दृशे	as,mri	bhashya	2.3.9	7	1	न									linked	Kathaka:2.3.9:ttika_0_13
+katha	anandagiri	2.3.9	ttika_1	कथं तर्हीति ।	कथं तर्हि तं पश्येदिति	as,mri	bhashya	2.3.9	29	1	पश्येदिति									linked	Kathaka:2.3.9:ttika_1_2
+katha	anandagiri	2.3.9	ttika_2	मनस इति ।	मनसः	as,mri	bhashya	2.3.9	35	1	मनसः									linked	Kathaka:2.3.9:ttika_2_32
+katha	anandagiri	2.3.9	ttika_3	अविकल्पयित्र्येति ।	विकल्पवर्जितया	as,mri	bhashya	2.3.9	42	1	विकल्पवर्जितया									linked	Kathaka:2.3.9:ttika_3_0
+katha	anandagiri	2.3.9	ttika_4	मनसेति ।	मनसा	as,mri	bhashya	2.3.9	44	1	मनसा									linked	Kathaka:2.3.9:ttika_4_3
+katha	anandagiri	2.3.10	ttika_0	सा हृदिति ।	सा हृन्मनीट्	as,mri	bhashya	2.3.10	0	1	सा									linked	Kathaka:2.3.10:ttika_0_6
+katha	anandagiri	2.3.10	ttika_1	यदनुगतानीति ।	यदनुगतानि	as,mri	bhashya	2.3.10	20	1	यदनुगतानि									linked	Kathaka:2.3.10:ttika_1_0
+katha	anandagiri	2.3.11	ttika_0	सर्वानर्थेति ।	सर्वानर्थसंयोगवियोगलक्षणा	as,mri	bhashya	2.3.11	7	1	सर्वानर्थसंयोगवियोगलक्षणा									linked	Kathaka:2.3.11:ttika_0_7
+katha	anandagiri	2.3.11	ttika_1	अथवेति ।	अथवा	as,mri	bhashya	2.3.11	38	1	अथवा									linked	Kathaka:2.3.11:ttika_1_5
+katha	anandagiri	2.3.11	ttika_2	कुत इति ॥ ११ ॥	कुतः	as	bhashya	2.3.11	47	1	कुतः									linked	Kathaka:2.3.11:ttika_2_3
+katha	anandagiri	2.3.12	ttika_0	बुद्ध्यादिचेष्टाविषयं चेदिति ।	बुद्ध्यादिचेष्टाविषयं	as,mri	bhashya	2.3.12	0	1	बुद्ध्यादिचेष्टाविषयं									linked	Kathaka:2.3.12:ttika_0_2
+katha	anandagiri	2.3.12	ttika_1	तथा हीति ।	तथा हीदं	as,mri	bhashya	2.3.12	40	1	तथा									linked	Kathaka:2.3.12:ttika_1_5
+katha	anandagiri	2.3.12	ttika_2	यदाऽपीति ।	यदापि	as,mri	bhashya	2.3.12	45	1	यदापि									linked	Kathaka:2.3.12:ttika_2_7
+katha	anandagiri	2.3.12	ttika_3	बुद्धिर्हीति ।	बुद्धिर्हि	as,mri	bhashya	2.3.12	53	1	बुद्धिर्हि									linked	Kathaka:2.3.12:ttika_3_3
+katha	anandagiri	2.3.12	ttika_4	मूलं चेदिति ।	मूलं चेज्जगतो	as,mri	bhashya	2.3.12	57	1	मूलं									linked	Kathaka:2.3.12:ttika_4_5
+katha	anandagiri	2.3.12	ttika_5	कस्मादिति ।	कस्मात्	as,mri	bhashya	2.3.12	75	1	कस्मात्									linked	Kathaka:2.3.12:ttika_5_8
+katha	anandagiri	2.3.12	ttika_6	अस्तीति ब्रुवत इत्यादिना ॥ १२ ॥	अस्तीति ब्रुवतः	as,mri	bhashya	2.3.12	76	1	अस्तीति									linked	Kathaka:2.3.12:ttika_6_8
+katha	anandagiri	2.3.13	ttika_0	यदा त्विति ।	यदा तु	as,mri	bhashya	2.3.13	5	1	यदा									linked	Kathaka:2.3.13:ttika_0_3
+katha	anandagiri	2.3.13	ttika_1	तत्राप्युभयोरित्यादिना ।	तत्राप्युभयोः	as,mri	bhashya	2.3.13	29	1	तत्राप्युभयोः									linked	Kathaka:2.3.13:ttika_1_10
+katha	anandagiri	2.3.13	ttika_1	कार्यमुपाधि	कार्यमुपाधि	mri														unlinked	Kathaka:2.3.13:ttika_1_13
+katha	anandagiri	2.3.13	ttika_1	त्कृतो योऽस्तित्वप्रत्ययः	त्कृतो योऽस्तित्वप्रत्ययः	mri														unlinked	Kathaka:2.3.13:ttika_1_17
+katha	anandagiri	2.3.14	ttika_0	सर्वे कामा इति ।	सर्वे कामाः	as,mri	bhashya	2.3.14	4	1	सर्वे									linked	Kathaka:2.3.14:ttika_0_0
+katha	anandagiri	2.3.14	ttika_1	बुद्धिर्हीति ॥ १४ ॥	बुद्धिर्हि	as	bhashya	2.3.14	16	1	बुद्धिर्हि									linked	Kathaka:2.3.14:ttika_1_4
+katha	anandagiri	2.3.15	ttika_0	कदा पुनरिति ॥ १५ ॥	कदा पुनः	as	bhashya	2.3.15	0	1	कदा									linked	Kathaka:2.3.15:ttika_0_6
+katha	anandagiri	2.3.16	ttika_0	निरस्ताशेषेत्यादिना ।	निरस्ताशेषविशेषव्यापिब्रह्मात्मप्रतिपत्त्या	as,mri	bhashya	2.3.16	0	1	निरस्ताशेषविशेषव्यापिब्रह्मात्मप्रतिपत्त्या									linked	Kathaka:2.3.16:ttika_0_3
+katha	anandagiri	2.3.16	ttika_0	भास्करेण		mri														unlinked	Kathaka:2.3.16:ttika_0_6
+katha	anandagiri	2.3.16	ttika_0	प्रकटार्थ		mri														unlinked	Kathaka:2.3.16:ttika_0_27
+katha	anandagiri	2.3.19	ttika_0	इत्यध्यात्मम्	इत्यध्यात्मम्	mri														unlinked	Kathaka:2.3.19:ttika_0_3
+katha	anandagiri	2.3.19	ttika_0	एवंविदि	एवंविदि	mri														unlinked	Kathaka:2.3.19:ttika_0_18

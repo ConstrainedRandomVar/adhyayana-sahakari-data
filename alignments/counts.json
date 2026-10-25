@@ -1,0 +1,597 @@
+{
+ "lanes": {
+  "isha-bhashya": {
+   "pratikas": 310,
+   "linked": 294,
+   "unlinked": 16,
+   "to_bhashya": 0,
+   "to_mula": 294,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "isha-bhashya.tsv"
+   ]
+  },
+  "isha-anandagiri": {
+   "pratikas": 83,
+   "linked": 56,
+   "unlinked": 27,
+   "to_bhashya": 55,
+   "to_mula": 1,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "isha-anandagiri.tsv"
+   ]
+  },
+  "kena-bhashya": {
+   "pratikas": 532,
+   "linked": 462,
+   "unlinked": 70,
+   "to_bhashya": 0,
+   "to_mula": 462,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "kena-bhashya.tsv"
+   ]
+  },
+  "kena-anandagiri": {
+   "pratikas": 123,
+   "linked": 116,
+   "unlinked": 7,
+   "to_bhashya": 116,
+   "to_mula": 0,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "kena-anandagiri.tsv"
+   ]
+  },
+  "katha-bhashya": {
+   "pratikas": 1877,
+   "linked": 1789,
+   "unlinked": 88,
+   "to_bhashya": 0,
+   "to_mula": 1789,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "katha-bhashya.tsv"
+   ]
+  },
+  "katha-anandagiri": {
+   "pratikas": 150,
+   "linked": 129,
+   "unlinked": 21,
+   "to_bhashya": 129,
+   "to_mula": 0,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "katha-anandagiri.tsv"
+   ]
+  },
+  "prashna-bhashya": {
+   "pratikas": 1503,
+   "linked": 1413,
+   "unlinked": 90,
+   "to_bhashya": 0,
+   "to_mula": 1413,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "prashna-bhashya.tsv"
+   ]
+  },
+  "prashna-anandagiri": {
+   "pratikas": 685,
+   "linked": 630,
+   "unlinked": 55,
+   "to_bhashya": 628,
+   "to_mula": 2,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "prashna-anandagiri.tsv"
+   ]
+  },
+  "mundaka-bhashya": {
+   "pratikas": 1162,
+   "linked": 1102,
+   "unlinked": 60,
+   "to_bhashya": 0,
+   "to_mula": 1102,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "mundaka-bhashya.tsv"
+   ]
+  },
+  "mundaka-anandagiri": {
+   "pratikas": 142,
+   "linked": 116,
+   "unlinked": 26,
+   "to_bhashya": 116,
+   "to_mula": 0,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "mundaka-anandagiri.tsv"
+   ]
+  },
+  "mandukya-bhashya": {
+   "pratikas": 2289,
+   "linked": 2030,
+   "unlinked": 259,
+   "to_bhashya": 0,
+   "to_mula": 2030,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "mandukya-bhashya.tsv"
+   ]
+  },
+  "mandukya-anandagiri": {
+   "pratikas": 2259,
+   "linked": 2037,
+   "unlinked": 222,
+   "to_bhashya": 1944,
+   "to_mula": 93,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "mandukya-anandagiri.tsv"
+   ]
+  },
+  "taittiriya-bhashya": {
+   "pratikas": 1759,
+   "linked": 1398,
+   "unlinked": 361,
+   "to_bhashya": 0,
+   "to_mula": 1398,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "taittiriya-bhashya.tsv"
+   ]
+  },
+  "taittiriya-anandagiri": {
+   "pratikas": 382,
+   "linked": 355,
+   "unlinked": 27,
+   "to_bhashya": 354,
+   "to_mula": 1,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "taittiriya-anandagiri.tsv"
+   ]
+  },
+  "taittiriya-vanamala": {
+   "pratikas": 2487,
+   "linked": 2012,
+   "unlinked": 475,
+   "to_bhashya": 1976,
+   "to_mula": 36,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "taittiriya-vanamala.tsv"
+   ]
+  },
+  "aitareya-bhashya": {
+   "pratikas": 618,
+   "linked": 564,
+   "unlinked": 54,
+   "to_bhashya": 0,
+   "to_mula": 564,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "aitareya-bhashya.tsv"
+   ]
+  },
+  "aitareya-anandagiri": {
+   "pratikas": 796,
+   "linked": 726,
+   "unlinked": 70,
+   "to_bhashya": 722,
+   "to_mula": 4,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "aitareya-anandagiri.tsv"
+   ]
+  },
+  "chandogya-bhashya": {
+   "pratikas": 9753,
+   "linked": 8800,
+   "unlinked": 953,
+   "to_bhashya": 0,
+   "to_mula": 8800,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "chandogya-bhashya.tsv"
+   ]
+  },
+  "chandogya-anandagiri": {
+   "pratikas": 3932,
+   "linked": 3360,
+   "unlinked": 572,
+   "to_bhashya": 3331,
+   "to_mula": 29,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "chandogya-anandagiri.tsv"
+   ]
+  },
+  "brihadaranyaka-bhashya": {
+   "pratikas": 12611,
+   "linked": 11186,
+   "unlinked": 1425,
+   "to_bhashya": 0,
+   "to_mula": 11186,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "brihadaranyaka-bhashya.tsv"
+   ]
+  },
+  "brihadaranyaka-anandagiri": {
+   "pratikas": 8811,
+   "linked": 7410,
+   "unlinked": 1401,
+   "to_bhashya": 7270,
+   "to_mula": 140,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "brihadaranyaka-anandagiri.tsv"
+   ]
+  },
+  "brihadaranyaka-shastraprakashika": {
+   "pratikas": 6733,
+   "linked": 6733,
+   "unlinked": 0,
+   "to_bhashya": 0,
+   "to_mula": 0,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "brihadaranyaka-shastraprakashika.tsv"
+   ]
+  },
+  "gita-bhashya": {
+   "pratikas": 9273,
+   "linked": 8890,
+   "unlinked": 383,
+   "to_bhashya": 0,
+   "to_mula": 8890,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "gita-bhashya.tsv"
+   ]
+  },
+  "gita-bhashyarka": {
+   "pratikas": 10593,
+   "linked": 6604,
+   "unlinked": 3989,
+   "to_bhashya": 6532,
+   "to_mula": 72,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "gita-bhashyarka.tsv"
+   ]
+  },
+  "gita-dhanapati": {
+   "pratikas": 310,
+   "linked": 201,
+   "unlinked": 109,
+   "to_bhashya": 191,
+   "to_mula": 10,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "gita-dhanapati.tsv"
+   ]
+  },
+  "gita-madhusudani": {
+   "pratikas": 3715,
+   "linked": 3502,
+   "unlinked": 213,
+   "to_bhashya": 0,
+   "to_mula": 3502,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 3566,
+   "files": [
+    "gita-madhusudani.tsv"
+   ]
+  },
+  "gita-nilakanthi": {
+   "pratikas": 3113,
+   "linked": 2911,
+   "unlinked": 202,
+   "to_bhashya": 0,
+   "to_mula": 2911,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 2526,
+   "files": [
+    "gita-nilakanthi.tsv"
+   ]
+  },
+  "gita-shankaranandi": {
+   "pratikas": 4015,
+   "linked": 3712,
+   "unlinked": 303,
+   "to_bhashya": 0,
+   "to_mula": 3712,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 3408,
+   "files": [
+    "gita-shankaranandi.tsv"
+   ]
+  },
+  "gita-sridhari": {
+   "pratikas": 3038,
+   "linked": 2854,
+   "unlinked": 184,
+   "to_bhashya": 0,
+   "to_mula": 2854,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 2341,
+   "files": [
+    "gita-sridhari.tsv"
+   ]
+  },
+  "gita-anandagiri": {
+   "pratikas": 5013,
+   "linked": 4475,
+   "unlinked": 538,
+   "to_bhashya": 4468,
+   "to_mula": 7,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "gita-anandagiri.tsv"
+   ]
+  },
+  "brahmasutra-bhashya": {
+   "pratikas": 1834,
+   "linked": 1396,
+   "unlinked": 438,
+   "to_bhashya": 0,
+   "to_mula": 1396,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "brahmasutra-bhashya.tsv"
+   ]
+  },
+  "brahmasutra-brahmatattvaprakashika": {
+   "pratikas": 661,
+   "linked": 606,
+   "unlinked": 55,
+   "to_bhashya": 0,
+   "to_mula": 606,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 661,
+   "files": [
+    "brahmasutra-brahmatattvaprakashika.tsv"
+   ]
+  },
+  "brahmasutra-ratnaprabha": {
+   "pratikas": 4316,
+   "linked": 3769,
+   "unlinked": 547,
+   "to_bhashya": 3703,
+   "to_mula": 66,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "brahmasutra-ratnaprabha.tsv"
+   ]
+  },
+  "brahmasutra-purnanandi": {
+   "pratikas": 1498,
+   "linked": 835,
+   "unlinked": 663,
+   "to_bhashya": 0,
+   "to_mula": 0,
+   "to_tika": 835,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "brahmasutra-purnanandi.tsv"
+   ]
+  },
+  "brahmasutra-nyayanirnaya": {
+   "pratikas": 11659,
+   "linked": 10250,
+   "unlinked": 1409,
+   "to_bhashya": 10088,
+   "to_mula": 162,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "brahmasutra-nyayanirnaya.tsv"
+   ]
+  },
+  "vivekacudamani-vyakhya-candrasekhara": {
+   "pratikas": 5082,
+   "linked": 5082,
+   "unlinked": 0,
+   "to_bhashya": 0,
+   "to_mula": 5082,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "vivekacudamani-vyakhya-candrasekhara.tsv"
+   ]
+  },
+  "atmabodha-tika-padmapada": {
+   "pratikas": 373,
+   "linked": 373,
+   "unlinked": 0,
+   "to_bhashya": 0,
+   "to_mula": 373,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "atmabodha-tika-padmapada.tsv"
+   ]
+  },
+  "saddarshanam-tika-kapali": {
+   "pratikas": 656,
+   "linked": 656,
+   "unlinked": 0,
+   "to_bhashya": 0,
+   "to_mula": 656,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "saddarshanam-tika-kapali.tsv"
+   ]
+  },
+  "upadesasaram-bhashya-ganapati": {
+   "pratikas": 170,
+   "linked": 170,
+   "unlinked": 0,
+   "to_bhashya": 0,
+   "to_mula": 170,
+   "to_tika": 0,
+   "forced_first_word": 0,
+   "detected": 0,
+   "files": [
+    "upadesasaram-bhashya-ganapati.tsv"
+   ]
+  }
+ },
+ "deposit_mula_mapping": {
+  "Isha": {
+   "deposit_file": "prasthan-words-Isha.json",
+   "verses_fully_mapped": 18,
+   "verses_partly_mapped": 0,
+   "mula_words": 285,
+   "mula_words_mapped": 285
+  },
+  "Kena": {
+   "deposit_file": "prasthan-words-Kena_pada.json",
+   "verses_fully_mapped": 34,
+   "verses_partly_mapped": 1,
+   "mula_words": 598,
+   "mula_words_mapped": 596
+  },
+  "Kathaka": {
+   "deposit_file": "prasthan-words-Kathaka.json",
+   "verses_fully_mapped": 115,
+   "verses_partly_mapped": 5,
+   "mula_words": 1986,
+   "mula_words_mapped": 1976
+  },
+  "Prashna": {
+   "deposit_file": "prasthan-words-Prashna.json",
+   "verses_fully_mapped": 65,
+   "verses_partly_mapped": 2,
+   "mula_words": 1521,
+   "mula_words_mapped": 1518
+  },
+  "Mundaka": {
+   "deposit_file": "prasthan-words-Mundaka.json",
+   "verses_fully_mapped": 59,
+   "verses_partly_mapped": 6,
+   "mula_words": 1163,
+   "mula_words_mapped": 1151
+  },
+  "Mandukya": {
+   "deposit_file": "prasthan-words-Mandukya.json",
+   "verses_fully_mapped": 223,
+   "verses_partly_mapped": 4,
+   "mula_words": 2956,
+   "mula_words_mapped": 2948
+  },
+  "Taitiriya": {
+   "deposit_file": "prasthan-words-Taitiriya.json",
+   "verses_fully_mapped": 47,
+   "verses_partly_mapped": 6,
+   "mula_words": 2318,
+   "mula_words_mapped": 2308
+  },
+  "Aitareya": {
+   "deposit_file": "prasthan-words-Aitareya.json",
+   "verses_fully_mapped": 32,
+   "verses_partly_mapped": 1,
+   "mula_words": 833,
+   "mula_words_mapped": 832
+  },
+  "Chandogya": {
+   "deposit_file": "prasthan-words-Chandogya.json",
+   "verses_fully_mapped": 608,
+   "verses_partly_mapped": 21,
+   "mula_words": 15566,
+   "mula_words_mapped": 15518
+  },
+  "Brha": {
+   "deposit_file": "prasthan-words-Brha.json",
+   "verses_fully_mapped": 420,
+   "verses_partly_mapped": 14,
+   "mula_words": 18409,
+   "mula_words_mapped": 18280
+  },
+  "Gita": {
+   "deposit_file": "prasthan-words-Gita.json",
+   "verses_fully_mapped": 700,
+   "verses_partly_mapped": 0,
+   "mula_words": 9029,
+   "mula_words_mapped": 9029
+  },
+  "BS": {
+   "deposit_file": "prasthan-words-BS.json",
+   "verses_fully_mapped": 555,
+   "verses_partly_mapped": 0,
+   "mula_words": 2069,
+   "mula_words_mapped": 2069
+  }
+ }
+}

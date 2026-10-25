@@ -1,0 +1,84 @@
+text	lane	ref	unit	pratika	lemma	mark	target_layer	target_ref	target_ord	target_occ	target_word	target_deposit	target2_layer	target2_ref	target2_ord	target2_occ	target2_word	target2_deposit	member	status	source_key
+isha	anandagiri	intro	ttika_1	ईशा वास्यमित्यादय इति ।	ईशा वास्यम् इत्यादय	as,mri	bhashya	intro	0	1	ईशा									linked	Isha:intro:ttika_1_21
+isha	anandagiri	intro	ttika_2	कर्मस्वविनियुक्ता इति ।	कर्मस्वविनियुक्ता	as,mri	bhashya	intro	4	1	कर्मस्वविनियुक्ताः									linked	Isha:intro:ttika_2_0
+isha	anandagiri	intro	ttika_3	तेषामिति ।	तेषाम	as,mri	bhashya	intro	5	1	तेषामकर्मशेषस्यात्मनो									linked	Isha:intro:ttika_3_12
+isha	anandagiri	intro	ttika_4	याथात्म्यं चेति ।	याथात्म्यं च	as,mri	bhashya	intro	7	1	याथात्म्यं									linked	Isha:intro:ttika_4_10
+isha	anandagiri	intro	ttika_5	नह्येवमिति ।	न ह्येव	as,mri	bhashya	intro	18	1	न									linked	Isha:intro:ttika_5_16
+isha	anandagiri	intro	ttika_6	सर्वासामिति ।	सर्वासाम	as,mri	bhashya	intro	31	1	सर्वासामुपनिषदामात्मयाथात्म्यनिरूपणेनैवोपक्षयात्									linked	Isha:intro:ttika_6_5
+isha	anandagiri	intro	ttika_6	स्तत्त्वालोके	स्तत्त्वालोके	mri														unlinked	Isha:intro:ttika_6_53
+isha	anandagiri	intro	ttika_7	गीतानामिति ।	गीताना	as,mri	bhashya	intro	32	1	गीतानां									linked	Isha:intro:ttika_7_18
+isha	anandagiri	intro	ttika_8	तस्मादिति ।	तस्मा	as,mri														unlinked	Isha:intro:ttika_8_4
+isha	anandagiri	intro	ttika_9	यो हीत्यादिना ।	यो हि	as,mri	bhashya	intro	42	1	यो									linked	Isha:intro:ttika_9_3
+isha	anandagiri	intro	ttika_9	षष्ठेऽध्याये		mri														unlinked	Isha:intro:ttika_9_8
+isha	anandagiri	intro	ttika_10	तस्मादेत इति ।	तस्मादेत	as,mri	bhashya	intro	58	1	तस्मादेते									linked	Isha:intro:ttika_10_9
+isha	anandagiri	intro	ttika_11	अविद्यया मृत्युं तीर्त्वेत्यादिना ।	अविद्यया मृत्युं तीर्त्व	as														unlinked	Isha:intro:ttika_11_4
+isha	anandagiri	intro	ttika_12	अमृतत्वं चेति ।	अमृतत्वं च	as														unlinked	Isha:intro:ttika_12_0
+isha	anandagiri	intro	ttika_13	न दूरमेते इति ।	दूरमेते	as														unlinked	Isha:intro:ttika_13_11
+isha	anandagiri	intro	ttika_14	सहसम्भवानुपपत्तेरिति ।	सहसम्भवानुपपत्त	as														unlinked	Isha:intro:ttika_14_0
+isha	anandagiri	intro	ttika_15	न विद्योत्पत्ताविति ।	न विद्योत्पत्तौ अविद्याया	as														unlinked	Isha:intro:ttika_15_14
+isha	anandagiri	intro	ttika_16	अविद्याऽसम्भवादिति ।	अविद्यासम्भवात्तदुपादानस्य	as														unlinked	Isha:intro:ttika_16_8
+isha	anandagiri	intro	ttika_17	अमृतमिति ।	अमृतमश्नुते इत्यापेक्षिकममृतम्	as														unlinked	Isha:intro:ttika_17_9
+isha	anandagiri	1.1	ttika_0	ईशेति ।	ईश	as,mri	bhashya	1.1	0	1	ईशा									linked	Isha:1.1:ttika_0_3
+isha	anandagiri	1.1	ttika_0	ईशितेति ।	ईशिता परमेश्वरः	as,mri	bhashya	1.1	6	1	ईशिता									linked	Isha:1.1:ttika_0_21
+isha	anandagiri	1.1	ttika_1	सर्वजन्तूनामात्मा सन्निति ।	सर्वजन्तूनामात्मा सन्	as,mri	bhashya	1.1	13	1	सर्वजन्तूनामात्मा									linked	Isha:1.1:ttika_1_5
+isha	anandagiri	1.1	ttika_1	च्छादनीयम्	च्छादनीयम्	mri	bhashya	1.1	21	1	आच्छादनीयम्									linked	Isha:1.1:ttika_1_36
+isha	anandagiri	1.1	ttika_2	यथेति ।	यथा	as,mri	bhashya	1.1	41	1	यथा									linked	Isha:1.1:ttika_2_7
+isha	anandagiri	1.1	ttika_3	तद्वदेव हीति ।	तद्वदेव हि	as,mri	bhashya	1.1	48	1	तद्वदेव									linked	Isha:1.1:ttika_3_11
+isha	anandagiri	1.1	ttika_4	एवमीश्वरात्मेति ।	एवमीश्वरात्म	as,mri	bhashya	1.1	62	1	एवमीश्वरात्मभावनया									linked	Isha:1.1:ttika_4_6
+isha	anandagiri	1.1	ttika_5	तेन त्यक्तेनेति ।	तेन त्यक्तेन	as,mri	bhashya	1.1	68	3	तेन									linked	Isha:1.1:ttika_5_3
+isha	anandagiri	1.1	ttika_6	एवं त्यक्तैषण इति ।	एवं त्यक्तैषण	as,mri	bhashya	1.1	83	1	एवं									linked	Isha:1.1:ttika_6_11
+isha	anandagiri	1.1	ttika_6	इत्यनर्थकमि	इत्यनर्थकमि	mri														unlinked	Isha:1.1:ttika_6_24
+isha	anandagiri	1.2::pre	ttika_0	एवमात्मविद इत्यादिना ।	एवमात्मविद	as,mri	bhashya	1.2::pre	0	1	एवमात्मविदः									linked	Isha:1.2::pre:ttika_0_12
+isha	anandagiri	1.2	ttika_0	कथं पुनरिति ।	कथं पुन	as,mri	bhashya	1.2	49	1	कथं									linked	Isha:1.2:ttika_0_11
+isha	anandagiri	1.2	ttika_0	यच्चोक्तं		mri														unlinked	Isha:1.2:ttika_0_25
+isha	anandagiri	1.2	ttika_1	ज्ञानकर्मणोर्विरोधमिति ।	ज्ञानकर्मणोर्विरोध	as,mri	bhashya	1.2	59	1	ज्ञानकर्मणोर्विरोधं									linked	Isha:1.2:ttika_1_10
+isha	anandagiri	1.2	ttika_2	इहाप्युक्तमिति ।	इहाप्युक्तम्	as,mri	bhashya	1.2	65	1	इहाप्युक्तम्									linked	Isha:1.2:ttika_2_4
+isha	anandagiri	1.2	ttika_3	न जीवित इति ।	न जीवित	as,mri	bhashya	1.2	84	4	न									linked	Isha:1.2:ttika_3_8
+isha	anandagiri	1.2	ttika_3	अरण्यं	अरण्यं	mri	bhashya	1.2	89	1	कुर्वीतारण्यमियात्									linked	Isha:1.2:ttika_3_12
+isha	anandagiri	1.2	ttika_3	पदं	पदं	mri	bhashya	1.2	91	1	पदं									linked	Isha:1.2:ttika_3_14
+isha	anandagiri	1.2	ttika_4	उभयोरिति ।	उभयो	as,mri	bhashya	1.2	98	1	उभयोः									linked	Isha:1.2:ttika_4_5
+isha	anandagiri	1.2	ttika_4	वक्ष्यति	वक्ष्यति	mri	bhashya	1.2	101	1	वक्ष्यति									linked	Isha:1.2:ttika_4_15
+isha	anandagiri	1.2	ttika_5	इमौ द्वावेवेति ।	इमौ द्वावेव	as,mri	bhashya	1.2	102	1	इमौ									linked	Isha:1.2:ttika_5_3
+isha	anandagiri	1.2	ttika_5	पुरस्तात्सृष्टिकालेऽनुनिष्क्रान्ततरौ	पुरस्तात्सृष्टिकालेऽनुनिष्क्रान्ततरौ	mri														unlinked	Isha:1.2:ttika_5_6
+isha	anandagiri	1.2	ttika_6	द्वाविमाविति ॥ २ ॥	द्वाविमाव	as														unlinked	Isha:1.2:ttika_6_2
+isha	anandagiri	1.3::pre	ttika_0	अथेति ।	अथ	as,mri	bhashya	1.3::pre	0	1	अथेदानीमविद्वन्निन्दार्थोऽयं									linked	Isha:1.3::pre:ttika_0_5
+isha	anandagiri	1.3::pre	ttika_0	ते लोका	ते लोका	mri	mula	1.3	2	1	ते	w2.p0								linked	Isha:1.3::pre:ttika_0_7
+isha	anandagiri	1.3	ttika_0	यथाश्रुतमिति ।	यथाश्रुत	as,mri	bhashya	1.3	31	1	यथाश्रुतम्									linked	Isha:1.3:ttika_0_0
+isha	anandagiri	1.3	ttika_1	कथं त इति ।	कथं त	as,mri	bhashya	1.3	42	1	कथं									linked	Isha:1.3:ttika_1_5
+isha	anandagiri	1.3	ttika_2	अविद्यादोषेणेति ।	अविद्यादोषेण	as,mri	bhashya	1.3	47	1	अविद्यादोषेण									linked	Isha:1.3:ttika_2_4
+isha	anandagiri	1.3	ttika_3	विद्यमानस्येति ।	विद्यमानस्य	as,mri	bhashya	1.3	48	1	विद्यमानस्यात्मनस्तिरस्करणात्									linked	Isha:1.3:ttika_3_10
+isha	anandagiri	1.3	ttika_4	तेन हीति ॥ ३ ॥	तेन	as	bhashya	1.3	61	1	तेन									linked	Isha:1.3:ttika_4_3
+isha	anandagiri	1.4::pre	ttika_0	यस्याऽऽत्मन इत्यादिना ।	यस्यात्मनो हननादविद्वांसः	as,mri	bhashya	1.4::pre	0	1	यस्यात्मनो									linked	Isha:1.4::pre:ttika_0_1
+isha	anandagiri	1.4	ttika_0	मनस इत्यादिना ।	मनस	as,mri	bhashya	1.4	14	1	मनसः									linked	Isha:1.4:ttika_0_12
+isha	anandagiri	1.4	ttika_0	उपाधेरनुवर्तनात्	उपाधेरनुवर्तनात्	mri														unlinked	Isha:1.4:ttika_0_15
+isha	anandagiri	1.4	ttika_1	देहस्थस्येति ।	देहस्थस्य	as,mri	bhashya	1.4	39	1	देहस्थस्य									linked	Isha:1.4:ttika_1_4
+isha	anandagiri	1.4	ttika_2	नैनद्दैवा इति ।	नैनद्देवाः द्योतनाद्देवाः	as,mri	bhashya	1.4	58	1	नैनद्देवाः									linked	Isha:1.4:ttika_2_3
+isha	anandagiri	1.4	ttika_3	यस्मादिति ।	यस्मा	as,mri														unlinked	Isha:1.4:ttika_3_7
+isha	anandagiri	1.4	ttika_4	तस्मिन्नात्मतत्त्वे सतीति ।	तस्मिन् आत्मतत्त्वे सति	as,mri	bhashya	1.4	109	1	तस्मिन्									linked	Isha:1.4:ttika_4_1
+isha	anandagiri	1.4	ttika_5	सर्वा हीति ॥ ४ ॥	सर्वा हि	as	bhashya	1.4	145	1	सर्वा									linked	Isha:1.4:ttika_5_8
+isha	anandagiri	1.5	ttika_0	जामिता	जामिता	mri	bhashya	1.5::pre	2	1	जामितास्तीति									linked	Isha:1.5:ttika_0_0
+isha	anandagiri	1.5	ttika_0	प्रज्ञानघन एवेति ॥ ५ ॥	प्रज्ञानघन एव	as	bhashya	1.5	49	1	प्रज्ञानघन									linked	Isha:1.5:ttika_0_9
+isha	anandagiri	1.6	ttika_0	यस्त्विति ॥ ६ ॥	यस्त्व	as														unlinked	Isha:1.6:ttika_0_3
+isha	anandagiri	1.7	ttika_0	शोकश्च मोहश्चेत्यादिना ॥ ७ ॥	शोकश्च मोहश्च	as	bhashya	1.7	23	1	शोकश्च									linked	Isha:1.7:ttika_0_29
+isha	anandagiri	1.8::pre	ttika_0	योऽयमिति ।	योऽय	as,mri														unlinked	Isha:1.8::pre:ttika_0_0
+isha	anandagiri	1.8::pre	ttika_0	स्नावाः	स्नावाः	mri														unlinked	Isha:1.8::pre:ttika_0_8
+isha	anandagiri	1.9::pre	ttika_0	अत्राऽऽद्येनेति ।	अत्राद्य	as,mri														unlinked	Isha:1.9::pre:ttika_0_2
+isha	anandagiri	1.9::pre	ttika_0	भास्करेण		mri														unlinked	Isha:1.9::pre:ttika_0_5
+isha	anandagiri	1.9::pre	ttika_1	अनयोश्चेत्यादिना ।	अनयोश्च	as,mri	bhashya	1.9::pre	25	1	अनयोश्च									linked	Isha:1.9::pre:ttika_1_3
+isha	anandagiri	1.9::pre	ttika_2	मन एवेति ।	मन एव	as,mri	bhashya	1.9::pre	38	1	मन									linked	Isha:1.9::pre:ttika_2_4
+isha	anandagiri	1.9::pre	ttika_3	तथा चेति ।	तथा च	as,mri	bhashya	1.9::pre	49	1	तथा									linked	Isha:1.9::pre:ttika_3_7
+isha	anandagiri	1.9::pre	ttika_3	सप्तान्नसर्गो	सप्तान्नसर्गो	mri	bhashya	1.9::pre	52	1	सप्तान्नसर्गस्तेष्वात्मभावेनात्मस्वरूपावस्थानम्									linked	Isha:1.9::pre:ttika_3_24
+isha	anandagiri	1.9::pre	ttika_4	ये तु ज्ञाननिष्ठा इत्यादिना ।	ये तु ज्ञाननिष्ठा	as,mri	bhashya	1.9::pre	66	1	ये									linked	Isha:1.9::pre:ttika_4_7
+isha	anandagiri	1.9::pre	ttika_5	अत्याश्रमिभ्य इति ।	अत्याश्रमिभ्य	as	bhashya	1.9::pre	90	1	अत्याश्रमिभ्यः									linked	Isha:1.9::pre:ttika_5_0
+isha	anandagiri	1.9::pre	ttika_6	तत्र च यस्येति ।	तत्र च यस्य	as,mri	bhashya	1.9::pre	145	2	तत्र									linked	Isha:1.9::pre:ttika_6_3
+isha	anandagiri	1.9::pre	ttika_7	यद्दैवं वित्तमिति ।	तद्दैवं वित्तं	as,mri	bhashya	1.9::pre	155	1	तद्दैवं									linked	Isha:1.9::pre:ttika_7_6
+isha	anandagiri	1.9::pre	ttika_7	भास्करेणे		mri														unlinked	Isha:1.9::pre:ttika_7_10
+isha	anandagiri	1.9::pre	ttika_8	विद्ययेति ।	विद्यय	as,mri	bhashya	1.9::pre	162	1	विद्यया									linked	Isha:1.9::pre:ttika_8_6
+isha	anandagiri	1.9::pre	ttika_9	तयोर्ज्ञानकर्मणोरिति ।	तयोर्ज्ञानकर्मण	as,mri														unlinked	Isha:1.9::pre:ttika_9_12
+isha	anandagiri	1.14	ttika_0	भास्कराभिमतस्तु परिणामवादस्तत्त्वालोके	भास्कराभिमतस्तु परिणामवादस्तत्त्वालोके	mri														unlinked	Isha:1.14:ttika_0_21
+isha	anandagiri	1.15::pre	ttika_0	मानुषदैववित्तसाध्यमित्यादिना ।	मानुषदैववित्तसाध्य	as,mri	bhashya	1.15::pre	0	1	मानुषदैववित्तसाध्यं									linked	Isha:1.15::pre:ttika_0_2
+isha	anandagiri	1.15::pre	ttika_0	मानुषं	मानुषं	mri														unlinked	Isha:1.15::pre:ttika_0_6
+isha	anandagiri	1.15::pre	ttika_0	दैवं	दैवं	mri														unlinked	Isha:1.15::pre:ttika_0_9
+isha	anandagiri	1.15::pre	ttika_1	तत्र निषेकादीत्यादिना ।	तत्र निषेका	as,mri	bhashya	1.15::pre	33	2	तत्र									linked	Isha:1.15::pre:ttika_1_2
+isha	anandagiri	1.15::pre	ttika_1	तदुक्तमिति	तदुक्तम	mri	bhashya	1.15::pre	40	1	तदुक्तम्									linked	Isha:1.15::pre:ttika_1_5
+isha	anandagiri	1.16	ttika_0	व्याहृत्यव इति ।	व्याहृत्यव	as,mri														unlinked	Isha:1.16:ttika_0_0

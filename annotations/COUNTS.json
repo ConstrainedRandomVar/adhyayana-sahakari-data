@@ -1,0 +1,578 @@
+{
+ "Īśāvāsya-upaniṣad": {
+  "passages": 34,
+  "annotated": 34,
+  "unanchored": 0,
+  "chars": 17534,
+  "citations": 20,
+  "connectors": {
+   "=": 142,
+   "→": 20
+  },
+  "classChars": {
+   "sangraha": 265,
+   "quote": 1782,
+   "purvapaksha": 689,
+   "siddhanta": 2786,
+   "mula": 1727,
+   "vyakarana": 1198,
+   "gloss": 2057,
+   "import": 372
+  },
+  "classSpans": {
+   "sangraha": 8,
+   "quote": 36,
+   "purvapaksha": 8,
+   "siddhanta": 10,
+   "mula": 207,
+   "vyakarana": 31,
+   "gloss": 138,
+   "import": 19
+  },
+  "roleOverrides": 0
+ },
+ "Kena-upaniṣad (pada-bhāṣya)": {
+  "passages": 31,
+  "annotated": 31,
+  "unanchored": 0,
+  "chars": 35282,
+  "citations": 9,
+  "connectors": {
+   "=": 155,
+   "→": 9
+  },
+  "classChars": {
+   "sangraha": 165,
+   "mula": 2733,
+   "quote": 3556,
+   "purvapaksha": 2378,
+   "siddhanta": 3918,
+   "gloss": 1627,
+   "vyakarana": 740,
+   "import": 285,
+   "ekadeshi": 7
+  },
+  "classSpans": {
+   "sangraha": 5,
+   "mula": 339,
+   "quote": 66,
+   "purvapaksha": 16,
+   "siddhanta": 18,
+   "gloss": 102,
+   "vyakarana": 21,
+   "import": 10,
+   "ekadeshi": 1
+  },
+  "roleOverrides": 0
+ },
+ "Kaṭha-upaniṣad": {
+  "passages": 124,
+  "annotated": 124,
+  "unanchored": 0,
+  "chars": 64841,
+  "citations": 4,
+  "connectors": {
+   "=": 733,
+   "→": 37
+  },
+  "classChars": {
+   "sangraha": 992,
+   "vyakarana": 2816,
+   "siddhanta": 6583,
+   "quote": 1027,
+   "purvapaksha": 1084,
+   "mula": 11628,
+   "gloss": 9687,
+   "import": 1200
+  },
+  "classSpans": {
+   "sangraha": 13,
+   "vyakarana": 87,
+   "siddhanta": 195,
+   "quote": 30,
+   "purvapaksha": 19,
+   "mula": 1217,
+   "gloss": 680,
+   "import": 39
+  },
+  "roleOverrides": 0
+ },
+ "Praśna-upaniṣad": {
+  "passages": 68,
+  "annotated": 68,
+  "unanchored": 0,
+  "chars": 48238,
+  "citations": 0,
+  "connectors": {
+   "=": 328,
+   "→": 22
+  },
+  "classChars": {
+   "sangraha": 822,
+   "mula": 8870,
+   "vyakarana": 1336,
+   "gloss": 4273,
+   "import": 578,
+   "siddhanta": 8315,
+   "quote": 613,
+   "purvapaksha": 2899,
+   "ekadeshi": 4
+  },
+  "classSpans": {
+   "sangraha": 20,
+   "mula": 823,
+   "vyakarana": 38,
+   "gloss": 286,
+   "import": 20,
+   "siddhanta": 74,
+   "quote": 15,
+   "purvapaksha": 30,
+   "ekadeshi": 1
+  },
+  "roleOverrides": 0
+ },
+ "Muṇḍaka-upaniṣad": {
+  "passages": 70,
+  "annotated": 70,
+  "unanchored": 0,
+  "chars": 49721,
+  "citations": 7,
+  "connectors": {
+   "=": 553,
+   "→": 19
+  },
+  "classChars": {
+   "quote": 1435,
+   "vyakarana": 2410,
+   "sangraha": 1429,
+   "mula": 7230,
+   "gloss": 10381,
+   "import": 581,
+   "purvapaksha": 900,
+   "siddhanta": 2906,
+   "ekadeshi": 60
+  },
+  "classSpans": {
+   "quote": 37,
+   "vyakarana": 62,
+   "sangraha": 16,
+   "mula": 829,
+   "gloss": 558,
+   "import": 19,
+   "purvapaksha": 12,
+   "siddhanta": 60,
+   "ekadeshi": 1
+  },
+  "roleOverrides": 0
+ },
+ "Māṇḍūkya-upaniṣad with Gauḍapāda-kārikā": {
+  "passages": 222,
+  "annotated": 222,
+  "unanchored": 0,
+  "chars": 107319,
+  "citations": 4,
+  "connectors": {
+   "=": 403,
+   "→": 54
+  },
+  "classChars": {
+   "sangraha": 2236,
+   "quote": 5221,
+   "siddhanta": 21118,
+   "purvapaksha": 7120,
+   "mula": 15539,
+   "gloss": 6086,
+   "vyakarana": 2536,
+   "import": 1704
+  },
+  "classSpans": {
+   "sangraha": 40,
+   "quote": 127,
+   "siddhanta": 331,
+   "purvapaksha": 114,
+   "mula": 1334,
+   "gloss": 424,
+   "vyakarana": 85,
+   "import": 58
+  },
+  "roleOverrides": 0
+ },
+ "Taittirīya-upaniṣad": {
+  "passages": 53,
+  "annotated": 53,
+  "unanchored": 0,
+  "chars": 99025,
+  "citations": 3,
+  "connectors": {
+   "=": 361,
+   "→": 24
+  },
+  "classChars": {
+   "sangraha": 3321,
+   "quote": 4379,
+   "purvapaksha": 7404,
+   "siddhanta": 18652,
+   "vyakarana": 2783,
+   "mula": 9963,
+   "gloss": 5285,
+   "import": 656,
+   "ekadeshi": 643
+  },
+  "classSpans": {
+   "sangraha": 65,
+   "quote": 99,
+   "purvapaksha": 73,
+   "siddhanta": 103,
+   "vyakarana": 76,
+   "mula": 1080,
+   "gloss": 374,
+   "import": 23,
+   "ekadeshi": 6
+  },
+  "roleOverrides": 1
+ },
+ "Aitareya-upaniṣad": {
+  "passages": 43,
+  "annotated": 43,
+  "unanchored": 0,
+  "chars": 41169,
+  "citations": 48,
+  "connectors": {
+   "=": 170,
+   "→": 2
+  },
+  "classChars": {
+   "quote": 3808,
+   "purvapaksha": 4917,
+   "siddhanta": 10385,
+   "sangraha": 1537,
+   "ekadeshi": 252,
+   "mula": 3613,
+   "vyakarana": 219,
+   "gloss": 1457,
+   "import": 34
+  },
+  "classSpans": {
+   "quote": 80,
+   "purvapaksha": 32,
+   "siddhanta": 78,
+   "sangraha": 22,
+   "ekadeshi": 1,
+   "mula": 391,
+   "vyakarana": 11,
+   "gloss": 117,
+   "import": 2
+  },
+  "roleOverrides": 0
+ },
+ "Chāndogya-upaniṣad": {
+  "passages": 591,
+  "annotated": 591,
+  "unanchored": 0,
+  "chars": 326052,
+  "citations": 12,
+  "connectors": {
+   "=": 1829,
+   "→": 146
+  },
+  "classChars": {
+   "quote": 9193,
+   "sangraha": 7665,
+   "purvapaksha": 14640,
+   "siddhanta": 46465,
+   "mula": 62306,
+   "gloss": 23694,
+   "vyakarana": 9234,
+   "import": 3963,
+   "ekadeshi": 2227
+  },
+  "classSpans": {
+   "quote": 264,
+   "sangraha": 122,
+   "purvapaksha": 189,
+   "siddhanta": 413,
+   "mula": 5117,
+   "gloss": 1717,
+   "vyakarana": 299,
+   "import": 165,
+   "ekadeshi": 14
+  },
+  "roleOverrides": 0
+ },
+ "Bṛhadāraṇyaka-upaniṣad": {
+  "passages": 449,
+  "annotated": 449,
+  "unanchored": 0,
+  "chars": 627492,
+  "citations": 88,
+  "connectors": {
+   "=": 2095,
+   "→": 136
+  },
+  "classChars": {
+   "sangraha": 12556,
+   "quote": 28366,
+   "vyakarana": 9377,
+   "purvapaksha": 38419,
+   "siddhanta": 129102,
+   "mula": 75745,
+   "ekadeshi": 6477,
+   "gloss": 28933,
+   "import": 3390
+  },
+  "classSpans": {
+   "sangraha": 254,
+   "quote": 645,
+   "vyakarana": 332,
+   "purvapaksha": 335,
+   "siddhanta": 973,
+   "mula": 6546,
+   "ekadeshi": 50,
+   "gloss": 2151,
+   "import": 144
+  },
+  "roleOverrides": 1
+ },
+ "Bhagavad-gītā": {
+  "passages": 1132,
+  "annotated": 1131,
+  "unanchored": 1,
+  "chars": 369216,
+  "citations": 122,
+  "connectors": {
+   "=": 3220,
+   "→": 158
+  },
+  "classChars": {
+   "quote": 18587,
+   "sangraha": 12863,
+   "siddhanta": 67165,
+   "purvapaksha": 16750,
+   "mula": 54828,
+   "ekadeshi": 3326,
+   "gloss": 45737,
+   "import": 3907,
+   "vyakarana": 24276
+  },
+  "classSpans": {
+   "quote": 427,
+   "sangraha": 154,
+   "siddhanta": 283,
+   "purvapaksha": 172,
+   "mula": 5070,
+   "ekadeshi": 13,
+   "gloss": 3133,
+   "import": 163,
+   "vyakarana": 551
+  },
+  "roleOverrides": 4
+ },
+ "Brahma-sūtra": {
+  "passages": 670,
+  "annotated": 670,
+  "unanchored": 0,
+  "chars": 764158,
+  "citations": 58,
+  "connectors": {
+   "=": 116,
+   "→": 11
+  },
+  "classChars": {
+   "sangraha": 14927,
+   "purvapaksha": 123261,
+   "siddhanta": 332926,
+   "ekadeshi": 8590,
+   "quote": 109704,
+   "mula": 13613,
+   "vyakarana": 4153,
+   "gloss": 3787,
+   "import": 223
+  },
+  "classSpans": {
+   "sangraha": 297,
+   "purvapaksha": 623,
+   "siddhanta": 983,
+   "ekadeshi": 27,
+   "quote": 2148,
+   "mula": 1151,
+   "vyakarana": 121,
+   "gloss": 176,
+   "import": 12
+  },
+  "roleOverrides": 0
+ },
+ "Vivekacūḍāmaṇi — vyākhyā of Śrī Candraśekhara Bhāratī": {
+  "passages": 477,
+  "annotated": 477,
+  "unanchored": 0,
+  "chars": 319761,
+  "citations": 0,
+  "connectors": {
+   "=": 1254,
+   "→": 67
+  },
+  "classChars": {
+   "quote": 36311,
+   "mula": 48776,
+   "gloss": 26217,
+   "import": 25005,
+   "vyakarana": 15816,
+   "purvapaksha": 2321,
+   "siddhanta": 3551,
+   "ekadeshi": 5
+  },
+  "classSpans": {
+   "quote": 583,
+   "mula": 3474,
+   "gloss": 1534,
+   "import": 464,
+   "vyakarana": 341,
+   "purvapaksha": 38,
+   "siddhanta": 37,
+   "ekadeshi": 1
+  }
+ },
+ "Vivekacūḍāmaṇi — vyākhyā of Śrī Candraśekhara Bhāratī (sentence roles)": {
+  "passages": 472,
+  "sentences": 3514,
+  "roleSentences": {
+   "exposition": 2883,
+   "drishtanta": 276,
+   "purvapaksha": 65,
+   "phalita": 363,
+   "lakshana": 171,
+   "siddhanta": 96
+  }
+ },
+ "Saddarśanam — ṭīkā of T. V. Kapali Sastri (sentence roles)": {
+  "passages": 44,
+  "sentences": 576,
+  "roleSentences": {
+   "exposition": 410,
+   "lakshana": 11,
+   "siddhanta": 65,
+   "purvapaksha": 12,
+   "drishtanta": 18,
+   "phalita": 60,
+   "tarka": 5,
+   "ekadeshi": 1,
+   "shruti": 3
+  }
+ },
+ "Upadeśa Sāram — Upadeśasārabhāṣya of Kāvyakaṇṭha Gaṇapati Muni (sentence roles)": {
+  "passages": 30,
+  "sentences": 209,
+  "roleSentences": {
+   "exposition": 129,
+   "purvapaksha": 11,
+   "siddhanta": 32,
+   "phalita": 36,
+   "lakshana": 6
+  }
+ },
+ "Ātmabodha — Vedāntasāra ṭīkā of Padmapāda (sentence roles)": {
+  "passages": 67,
+  "sentences": 287,
+  "roleSentences": {
+   "exposition": 196,
+   "purvapaksha": 33,
+   "siddhanta": 38,
+   "phalita": 30,
+   "drishtanta": 42,
+   "lakshana": 5
+  }
+ },
+ "pramāṇa grading": {
+  "Kaṭha": {
+   "none": 32,
+   "yukti": 15,
+   "anubhava": 2
+  },
+  "Taittirīya": {
+   "shruti": 12,
+   "anubhava": 8,
+   "yukti": 86,
+   "none": 40
+  },
+  "Bṛhadāraṇyaka": {
+   "none": 82,
+   "yukti": 154,
+   "shruti": 36,
+   "anubhava": 6
+  },
+  "Chāndogya": {
+   "yukti": 158,
+   "none": 115,
+   "shruti": 32,
+   "anubhava": 3
+  },
+  "Īśa": {
+   "none": 3,
+   "shruti": 3,
+   "yukti": 8
+  },
+  "Muṇḍaka": {
+   "yukti": 13,
+   "none": 14,
+   "shruti": 1
+  },
+  "Aitareya": {
+   "none": 13,
+   "anubhava": 3,
+   "yukti": 44,
+   "shruti": 8
+  },
+  "Kena": {
+   "yukti": 20,
+   "none": 9,
+   "anubhava": 1,
+   "shruti": 3
+  },
+  "Māṇḍūkya": {
+   "none": 53,
+   "shruti": 10,
+   "yukti": 89,
+   "anubhava": 10
+  },
+  "Praśna": {
+   "yukti": 55,
+   "none": 5,
+   "shruti": 4
+  },
+  "Bhagavad-gītā": {
+   "shruti": 28,
+   "yukti": 165,
+   "anubhava": 14,
+   "none": 182
+  },
+  "Saddarśanam (ṭīkā)": {
+   "none": 46,
+   "yukti": 24,
+   "anubhava": 3,
+   "shruti": 4
+  },
+  "Vivekacūḍāmaṇi (vyākhyā)": {
+   "yukti": 22,
+   "shruti": 4,
+   "none": 60,
+   "anubhava": 1
+  }
+ },
+ "mahāvākya catalogue": {
+  "Brha": 54,
+  "Kena": 5,
+  "Mandukya": 4,
+  "Kathaka": 1,
+  "Isha": 3,
+  "Mundaka": 4,
+  "VC": 40,
+  "AB": 8,
+  "UPS": 1,
+  "VS": 1,
+  "Gita": 14,
+  "Aitareya": 2,
+  "SAD": 3,
+  "Taitiriya": 2,
+  "Chandogya": 30
+ }
+}

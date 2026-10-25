@@ -1,0 +1,533 @@
+text	lane	ref	unit	pratika	lemma	mark	target_layer	target_ref	target_ord	target_occ	target_word	target_deposit	target2_layer	target2_ref	target2_ord	target2_occ	target2_word	target2_deposit	member	status	source_key
+kena	bhashya	1.1	b23	केनेषितमित्यादि		mri	mula	1.1	0	1	केन	w0.p0								linked	Kena:1.1:b23
+kena	bhashya	1.1	b24	केन		gemini,mri,upasanayoga	mula	1.1	0	1	केन	w0.p0								linked	Kena:1.1:b24
+kena	bhashya	1.1	b25	इषितं		gemini,mri,upasanayoga	mula	1.1	1	1	इषितम्	w0.p1								linked	Kena:1.1:b25
+kena	bhashya	1.1	b31	मनः		gemini,matcher,upasanayoga	mula	1.1	4	1	मनः	w3.p0								linked	Kena:1.1:b31
+kena	bhashya	1.1	b32	पतति		gemini,upasanayoga	mula	1.1	2	1	पतति	w1.p0								linked	Kena:1.1:b32
+kena	bhashya	1.1	b47	प्रेषितमित्येतत्		upasanayoga	mula	1.1	3	1	प्रेषितम्	w2.p0								linked	Kena:1.1:b47
+kena	bhashya	1.1	b52	केन		gemini,matcher	mula	1.1	5	2	केन	w4.p0								linked	Kena:1.1:b52
+kena	bhashya	1.1	b81	युक्तः		matcher	mula	1.1	9	1	युक्तः	w8.p0								linked	Kena:1.1:b81
+kena	bhashya	1.1	b161	केन		mri,upasanayoga	mula	1.1	5	2	केन	w4.p0								linked	Kena:1.1:b161
+kena	bhashya	1.1	b162	प्राणः		gemini,mri,upasanayoga	mula	1.1	6	1	प्राणः	w5.p0								linked	Kena:1.1:b162
+kena	bhashya	1.1	b163	युक्तः		gemini,mri,upasanayoga	mula	1.1	9	1	युक्तः	w8.p0								linked	Kena:1.1:b163
+kena	bhashya	1.1	b167	प्रैति		gemini,mri,upasanayoga	mula	1.1	8	1	प्रैति	w7								linked	Kena:1.1:b167
+kena	bhashya	1.1	b171	प्रथम		mri,upasanayoga	mula	1.1	7	1	प्रथमः	w6.p0								linked	Kena:1.1:b171
+kena	bhashya	1.1	b176	केन		gemini,mri,upasanayoga	mula	1.1	10	3	केन	w9.p0								linked	Kena:1.1:b176
+kena	bhashya	1.1	b177	इषितां		gemini,mri,upasanayoga	mula	1.1	11	1	इषिताम्	w9.p1								linked	Kena:1.1:b177
+kena	bhashya	1.1	b178	वाचम्		gemini,mri,upasanayoga	mula	1.1	12	1	वाचम्	w10.p0								linked	Kena:1.1:b178
+kena	bhashya	1.1	b179	इमां		gemini,mri,upasanayoga	mula	1.1	13	1	इमाम्	w10.p1								linked	Kena:1.1:b179
+kena	bhashya	1.1	b181	वदन्ति		gemini,matcher,mri,upasanayoga	mula	1.1	14	1	वदन्ति	w11.p0								linked	Kena:1.1:b181
+kena	bhashya	1.1	b184	चक्षुः		matcher,mri,upasanayoga	mula	1.1	15	1	चक्षुः-श्रोत्रम्	w12.p0							0	linked	Kena:1.1:b184
+kena	bhashya	1.1	b185	श्रोत्रं		mri,upasanayoga	mula	1.1	15	1	चक्षुः-श्रोत्रम्	w12.p0							1	linked	Kena:1.1:b185
+kena	bhashya	1.1	b190	क		gemini,matcher,mri,upasanayoga	mula	1.1	16	1	कः	w13.p0								linked	Kena:1.1:b190
+kena	bhashya	1.1	b191	उ		gemini,matcher	mula	1.1	17	1	उ	w14.p0								linked	Kena:1.1:b191
+kena	bhashya	1.1	b192	देवः		gemini,mri,upasanayoga	mula	1.1	18	1	देवः	w15.p0								linked	Kena:1.1:b192
+kena	bhashya	1.1	b194	युनक्ति		gemini,matcher,mri,upasanayoga	mula	1.1	19	1	युनक्ति	w16.p0								linked	Kena:1.1:b194
+kena	bhashya	1.2	b17	श्रोत्रस्य		gemini,matcher,mri,upasanayoga	mula	1.2	0	1	श्रोत्रस्य	w0.p0								linked	Kena:1.2:b17
+kena	bhashya	1.2	b18	श्रोत्रं		gemini,matcher,mri,upasanayoga	mula	1.2	1	1	श्रोत्रम्	w1.p0								linked	Kena:1.2:b18
+kena	bhashya	1.2	b20	श्रोत्रम्		matcher	mula	1.2	1	1	श्रोत्रम्	w1.p0								linked	Kena:1.2:b20
+kena	bhashya	1.2	b45	श्रोत्रस्य		matcher	mula	1.2	0	1	श्रोत्रस्य	w0.p0								linked	Kena:1.2:b45
+kena	bhashya	1.2	b85	श्रोत्रस्य		matcher	mula	1.2	0	1	श्रोत्रस्य	w0.p0								linked	Kena:1.2:b85
+kena	bhashya	1.2	b90	श्रोत्रस्य		matcher	mula	1.2	0	1	श्रोत्रस्य	w0.p0								linked	Kena:1.2:b90
+kena	bhashya	1.2	b94	श्रोत्रस्य		matcher	mula	1.2	0	1	श्रोत्रस्य	w0.p0								linked	Kena:1.2:b94
+kena	bhashya	1.2	b108	श्रोत्रस्य		matcher	mula	1.2	0	1	श्रोत्रस्य	w0.p0								linked	Kena:1.2:b108
+kena	bhashya	1.2	b119	श्रोत्रस्य		matcher	mula	1.2	0	1	श्रोत्रस्य	w0.p0								linked	Kena:1.2:b119
+kena	bhashya	1.2	b171	मनसः		gemini,mri,upasanayoga	mula	1.2	2	1	मनसः	w2.p0								linked	Kena:1.2:b171
+kena	bhashya	1.2	b173	मनः		gemini,mri,upasanayoga	mula	1.2	3	1	मनः	w3.p0								linked	Kena:1.2:b173
+kena	bhashya	1.2	b190	यद्वाचो		gemini,matcher,mri,upasanayoga	mula	1.2	4	1	यत्	w4.p0								linked	Kena:1.2:b190
+kena	bhashya	1.2	b191	ह		gemini,matcher,mri,upasanayoga	mula	1.2	6	1	ह	w5.p0								linked	Kena:1.2:b191
+kena	bhashya	1.2	b192	वाचम्		gemini,mri,upasanayoga	mula	1.2	7	1	वाचम्	w6.p0								linked	Kena:1.2:b192
+kena	bhashya	1.2	b199	श्रोत्रम्		matcher	mula	1.2	1	1	श्रोत्रम्	w1.p0								linked	Kena:1.2:b199
+kena	bhashya	1.2	b209	प्राणस्य		gemini,matcher	mula	1.2	10	1	प्राणस्य	w9.p0								linked	Kena:1.2:b209
+kena	bhashya	1.2	b216	प्राणस्य		matcher	mula	1.2	10	1	प्राणस्य	w9.p0								linked	Kena:1.2:b216
+kena	bhashya	1.2	b226	स		upasanayoga	mula	1.2	8	1	सः	w7.p0								linked	Kena:1.2:b226
+kena	bhashya	1.2	b228	प्राणस्य		matcher,upasanayoga	mula	1.2	10	1	प्राणस्य	w9.p0								linked	Kena:1.2:b228
+kena	bhashya	1.2	b229	प्राण		upasanayoga	mula	1.2	11	1	प्राणः	w10.p0								linked	Kena:1.2:b229
+kena	bhashya	1.2	b247	प्राणस्य		matcher	mula	1.2	10	1	प्राणस्य	w9.p0								linked	Kena:1.2:b247
+kena	bhashya	1.2	b249	प्राणः		gemini,matcher	mula	1.2	11	1	प्राणः	w10.p0								linked	Kena:1.2:b249
+kena	bhashya	1.2	b252	प्राणस्य		matcher	mula	1.2	10	1	प्राणस्य	w9.p0								linked	Kena:1.2:b252
+kena	bhashya	1.2	b281	प्राणस्य		matcher	mula	1.2	10	1	प्राणस्य	w9.p0								linked	Kena:1.2:b281
+kena	bhashya	1.2	b302	चक्षुषश्चक्षुः		gemini,matcher,mri,upasanayoga	mula	1.2	12	1	चक्षुषः	w11.p0								linked	Kena:1.2:b302
+kena	bhashya	1.2	b318	भवन्ति		matcher	mula	1.2	20	1	भवन्ति	w14.p0								linked	Kena:1.2:b318
+kena	bhashya	1.2	b324	अतिमुच्य		gemini,upasanayoga	mula	1.2	14	1	अतिमुच्य	w11.p2								linked	Kena:1.2:b324
+kena	bhashya	1.2	b343	अतिमुच्य		mri	mula	1.2	14	1	अतिमुच्य	w11.p2								linked	Kena:1.2:b343
+kena	bhashya	1.2	b350	धीराः		gemini,mri,upasanayoga	mula	1.2	15	1	धीराः	w12.p0								linked	Kena:1.2:b350
+kena	bhashya	1.2	b358	प्रेत्य		gemini,mri,upasanayoga	mula	1.2	16	1	प्रेत्य	w13.p0								linked	Kena:1.2:b358
+kena	bhashya	1.2	b360	अस्मात्		gemini,upasanayoga	mula	1.2	17	1	अस्मात्	w13.p1								linked	Kena:1.2:b360
+kena	bhashya	1.2	b361	लोकात्		gemini,mri,upasanayoga	mula	1.2	18	1	लोकात्	w13.p2								linked	Kena:1.2:b361
+kena	bhashya	1.2	b366	अमृताः		gemini,mri,upasanayoga	mula	1.2	19	1	अमृताः	w13.p3								linked	Kena:1.2:b366
+kena	bhashya	1.2	b368	भवन्ति		gemini,mri,upasanayoga	mula	1.2	20	1	भवन्ति	w14.p0								linked	Kena:1.2:b368
+kena	bhashya	1.3	b4	न		gemini,matcher,mri,upasanayoga	mula	1.3	0	1	न	w0.p0								linked	Kena:1.3:b4
+kena	bhashya	1.3	b5	तत्र		gemini,matcher,mri,upasanayoga	mula	1.3	1	1	तत्र	w1.p0								linked	Kena:1.3:b5
+kena	bhashya	1.3	b7	चक्षुः		gemini,matcher,mri,upasanayoga	mula	1.3	2	1	चक्षुः	w2.p0								linked	Kena:1.3:b7
+kena	bhashya	1.3	b8	गच्छति		gemini,mri,upasanayoga	mula	1.3	3	1	गच्छति	w2.p1								linked	Kena:1.3:b8
+kena	bhashya	1.3	b12	न		gemini,matcher,mri,upasanayoga	mula	1.3	4	2	न	w3.p0								linked	Kena:1.3:b12
+kena	bhashya	1.3	b13	वाक्		gemini	mula	1.3	5	1	वाक्	w4.p0								linked	Kena:1.3:b13
+kena	bhashya	1.3	b14	गच्छति		gemini,mri	mula	1.3	6	2	गच्छति	w4.p1								linked	Kena:1.3:b14
+kena	bhashya	1.3	b32	न		matcher														unlinked	Kena:1.3:b32
+kena	bhashya	1.3	b33	वाग्गच्छति		matcher	mula	1.3	5	1	वाक्	w4.p0								linked	Kena:1.3:b33
+kena	bhashya	1.3	b37	न		matcher	mula	1.3	7	3	न	w5.p0								linked	Kena:1.3:b37
+kena	bhashya	1.3	b43	नो		gemini,mri,upasanayoga	mula	1.3	7	3	न	w5.p0								linked	Kena:1.3:b43
+kena	bhashya	1.3	b44	मनः		gemini,mri,upasanayoga	mula	1.3	9	1	मनः	w6.p0								linked	Kena:1.3:b44
+kena	bhashya	1.3	b60	न		gemini,mri,upasanayoga	mula	1.3	10	4	न	w7.p0								linked	Kena:1.3:b60
+kena	bhashya	1.3	b61	विद्मः		gemini,mri,upasanayoga	mula	1.3	11	1	विद्मः	w8.p0								linked	Kena:1.3:b61
+kena	bhashya	1.3	b65	न		gemini,mri,upasanayoga	mula	1.3	12	5	न	w9.p0								linked	Kena:1.3:b65
+kena	bhashya	1.3	b66	विजानीमः		gemini,mri,upasanayoga	mula	1.3	13	1	विजानीमः	w10.p0								linked	Kena:1.3:b66
+kena	bhashya	1.3	b67	यथा		gemini,mri,upasanayoga	mula	1.3	14	1	यथा	w11.p0								linked	Kena:1.3:b67
+kena	bhashya	1.3	b70	एतत्		gemini	mula	1.3	15	1	एतत्	w11.p1								linked	Kena:1.3:b70
+kena	bhashya	1.3	b72	अनुशिष्यात्		gemini,matcher,mri,upasanayoga	mula	1.3	16	1	अनुशिष्यात्	w11.p2								linked	Kena:1.3:b72
+kena	bhashya	1.4	b0	न		mri	mula	1.4	11	1	नः	w7.p0								linked	Kena:1.4:b0
+kena	bhashya	1.4	b1	विद्मो		mri	mula	1.3	11	1	विद्मः	w8.p0								linked	Kena:1.4:b1
+kena	bhashya	1.4	b2	न		mri	mula	1.4	11	1	नः	w7.p0								linked	Kena:1.4:b2
+kena	bhashya	1.4	b3	विजानीमो		mri	mula	1.3	13	1	विजानीमः	w10.p0								linked	Kena:1.4:b3
+kena	bhashya	1.4	b5	इति		matcher	mula	1.4	7	1	इति	w3.p0								linked	Kena:1.4:b5
+kena	bhashya	1.4	b21	अन्यदेव		gemini,mri	mula	1.4	0	1	अन्यत्	w0.p0								linked	Kena:1.4:b21
+kena	bhashya	1.4	b22	तद्विदितादथो		gemini,matcher,mri	mula	1.4	2	1	तत्	w1.p0								linked	Kena:1.4:b22
+kena	bhashya	1.4	b23	अविदितादधीति		gemini,matcher,mri	mula	1.4	5	1	अ-विदितात्	w2.p0								linked	Kena:1.4:b23
+kena	bhashya	1.4	b24	अन्यदेव		gemini,mri,upasanayoga	mula	1.4	0	1	अन्यत्	w0.p0								linked	Kena:1.4:b24
+kena	bhashya	1.4	b26	तत्		gemini	mula	1.4	2	1	तत्	w1.p0								linked	Kena:1.4:b26
+kena	bhashya	1.4	b32	विदितात्		gemini	mula	1.4	3	1	विदितात्	w1.p1								linked	Kena:1.4:b32
+kena	bhashya	1.4	b49	अथो		gemini,upasanayoga	mula	1.4	4	1	अथो	w1.p2								linked	Kena:1.4:b49
+kena	bhashya	1.4	b51	अविदितात्		gemini,upasanayoga	mula	1.4	5	1	अ-विदितात्	w2.p0								linked	Kena:1.4:b51
+kena	bhashya	1.4	b53	अधि		gemini,mri,upasanayoga	mula	1.4	6	1	अधि	w2.p1								linked	Kena:1.4:b53
+kena	bhashya	1.4	b116	इति		mri	mula	1.4	7	1	इति	w3.p0								linked	Kena:1.4:b116
+kena	bhashya	1.4	b117	शुश्रुमेत्यादि		mri	mula	1.4	8	1	शुश्रुम	w4.p0								linked	Kena:1.4:b117
+kena	bhashya	1.4	b123	इति		mri,upasanayoga	mula	1.4	7	1	इति	w3.p0								linked	Kena:1.4:b123
+kena	bhashya	1.4	b125	शुश्रुम		gemini,matcher,mri,upasanayoga	mula	1.4	8	1	शुश्रुम	w4.p0								linked	Kena:1.4:b125
+kena	bhashya	1.4	b128	पूर्वेषाम्		gemini,mri,upasanayoga	mula	1.4	9	1	पूर्वेषाम्	w5.p0								linked	Kena:1.4:b128
+kena	bhashya	1.4	b131	ये		gemini,matcher,mri,upasanayoga	mula	1.4	10	1	ये	w6.p0								linked	Kena:1.4:b131
+kena	bhashya	1.4	b133	नः		gemini,mri,upasanayoga	mula	1.4	11	1	नः	w7.p0								linked	Kena:1.4:b133
+kena	bhashya	1.4	b135	तत्		gemini	mula	1.4	12	2	तत्	w7.p1								linked	Kena:1.4:b135
+kena	bhashya	1.4	b137	व्याचचक्षिरे		gemini,matcher,mri,upasanayoga	mula	1.4	13	1	व्याचचक्षिरे	w7.p2								linked	Kena:1.4:b137
+kena	bhashya	1.5	b6	ब्रह्मेति		matcher	mula	1.5	8	1	ब्रह्म	w4.p0								linked	Kena:1.5:b6
+kena	bhashya	1.5	b60	यत्		gemini,upasanayoga	mula	1.5	0	1	यत्	w0.p0								linked	Kena:1.5:b60
+kena	bhashya	1.5	b62	वाचा		gemini,mri,upasanayoga	mula	1.5	1	1	वाचा	w0.p1								linked	Kena:1.5:b62
+kena	bhashya	1.5	b99	अनभ्युदितम्		gemini,mri,upasanayoga	mula	1.5	2	1	अन्-अभ्युदितम्	w0								linked	Kena:1.5:b99
+kena	bhashya	1.5	b101	येन		gemini,matcher,mri,upasanayoga	mula	1.5	3	1	येन	w1.p0								linked	Kena:1.5:b101
+kena	bhashya	1.5	b105	वाक्		gemini	mula	1.5	4	1	वाक्	w2.p0								linked	Kena:1.5:b105
+kena	bhashya	1.5	b106	अभ्युद्यते		gemini,matcher,mri,upasanayoga	mula	1.5	5	1	अभ्युद्यते	w2.p1								linked	Kena:1.5:b106
+kena	bhashya	1.5	b151	तदेव		gemini,matcher,mri,upasanayoga	mula	1.5	6	1	तत्	w3.p0								linked	Kena:1.5:b151
+kena	bhashya	1.5	b153	ब्रह्म		gemini,matcher,mri,upasanayoga	mula	1.5	8	1	ब्रह्म	w4.p0								linked	Kena:1.5:b153
+kena	bhashya	1.5	b157	विद्धि		gemini,matcher,mri,upasanayoga	mula	1.5	10	1	विद्धि	w6.p0								linked	Kena:1.5:b157
+kena	bhashya	1.5	b159	त्वम्		gemini,mri,upasanayoga	mula	1.5	9	1	त्वम्	w5.p0								linked	Kena:1.5:b159
+kena	bhashya	1.5	b190	नेदं		gemini,matcher,mri,upasanayoga	mula	1.5	11	1	न	w7.p0								linked	Kena:1.5:b190
+kena	bhashya	1.5	b192	यदिदम्		gemini,matcher,mri,upasanayoga	mula	1.5	13	2	यत्	w8.p0								linked	Kena:1.5:b192
+kena	bhashya	1.5	b194	उपासते		gemini,mri,upasanayoga	mula	1.5	15	1	उपासते	w8.p2								linked	Kena:1.5:b194
+kena	bhashya	1.6	b0	यन्मनसा		gemini,matcher,mri														unlinked	Kena:1.6:b0
+kena	bhashya	1.6	b1	न		gemini,matcher,mri	mula	1.6	2	1	न	w1.p0								linked	Kena:1.6:b1
+kena	bhashya	1.6	b2	मनुते		gemini,matcher,mri	mula	1.6	3	1	मनुते	w2.p0								linked	Kena:1.6:b2
+kena	bhashya	1.6	b22	मनसा		mri,upasanayoga	mula	1.6	1	1	मनसा	w0.p1								linked	Kena:1.6:b22
+kena	bhashya	1.6	b23	यत्		upasanayoga														unlinked	Kena:1.6:b23
+kena	bhashya	1.6	b25	न		gemini,mri,upasanayoga	mula	1.6	2	1	न	w1.p0								linked	Kena:1.6:b25
+kena	bhashya	1.6	b26	मनुते		gemini,mri,upasanayoga	mula	1.6	3	1	मनुते	w2.p0								linked	Kena:1.6:b26
+kena	bhashya	1.6	b47	मनः		upasanayoga	mula	1.6	6	1	मनः	w3.p2								linked	Kena:1.6:b47
+kena	bhashya	1.6	b48	येन		gemini,mri,upasanayoga	mula	1.6	4	1	येन	w3.p0								linked	Kena:1.6:b48
+kena	bhashya	1.6	b50	मतं		gemini,mri,upasanayoga	mula	1.6	7	1	मतम्	w4.p0								linked	Kena:1.6:b50
+kena	bhashya	1.6	b53	आहुः		gemini,mri,upasanayoga	mula	1.6	5	1	आहुः	w3.p1								linked	Kena:1.6:b53
+kena	bhashya	1.6	b57	तदेव		gemini,matcher,mri,upasanayoga	mula	1.6	8	1	तत्	w5.p0								linked	Kena:1.6:b57
+kena	bhashya	1.6	b61	ब्रह्म		gemini,matcher,mri,upasanayoga	mula	1.6	10	1	ब्रह्म	w6.p0								linked	Kena:1.6:b61
+kena	bhashya	1.6	b62	विद्धि		gemini,matcher,mri,upasanayoga	mula	1.6	12	1	विद्धि	w8.p0								linked	Kena:1.6:b62
+kena	bhashya	1.6	b63	नेदमि	नेदमित्यादि	mri,upasanayoga;sub-word;hand-pin	mula	1.6	13	2	न	w9.p0								linked	Kena:1.6:b63
+kena	bhashya	1.7	b0	यत्		gemini,upasanayoga	mula	1.7	0	1	यत्	w0.p0								linked	Kena:1.7:b0
+kena	bhashya	1.7	b1	चक्षुषा		gemini,mri,upasanayoga	mula	1.7	1	1	चक्षुषा	w0.p1								linked	Kena:1.7:b1
+kena	bhashya	1.7	b2	न		gemini,matcher,mri,upasanayoga	mula	1.7	2	1	न	w1.p0								linked	Kena:1.7:b2
+kena	bhashya	1.7	b3	पश्यति		gemini,matcher,mri,upasanayoga	mula	1.7	3	1	पश्यति	w2.p0								linked	Kena:1.7:b3
+kena	bhashya	1.7	b8	येन		gemini,matcher,mri,upasanayoga	mula	1.7	4	1	येन	w3.p0								linked	Kena:1.7:b8
+kena	bhashya	1.7	b9	चक्षूंषि		gemini,matcher,mri,upasanayoga	mula	1.7	5	1	चक्षूंषि	w4.p0								linked	Kena:1.7:b9
+kena	bhashya	1.7	b11	पश्यति		gemini,matcher,mri,upasanayoga	mula	1.7	6	2	पश्यति	w5.p0								linked	Kena:1.7:b11
+kena	bhashya	1.7	b15	तदेवे	तदेवेत्यादि	mri,upasanayoga;sub-word;hand-pin	mula	1.7	7	1	तत्	w6.p0								linked	Kena:1.7:b15
+kena	bhashya	1.8	b0	यत्		gemini,upasanayoga	mula	1.8	0	1	यत्	w0.p0								linked	Kena:1.8:b0
+kena	bhashya	1.8	b1	श्रोत्रेण		gemini,upasanayoga	mula	1.8	1	1	श्रोत्रेण	w0.p1								linked	Kena:1.8:b1
+kena	bhashya	1.8	b2	न		gemini,matcher,mri,upasanayoga	mula	1.8	2	1	न	w1.p0								linked	Kena:1.8:b2
+kena	bhashya	1.8	b3	शृणोति		gemini,matcher,mri,upasanayoga	mula	1.8	3	1	शृणोति	w2.p0								linked	Kena:1.8:b3
+kena	bhashya	1.8	b10	येन		gemini,matcher,mri,upasanayoga	mula	1.8	4	1	येन	w3.p0								linked	Kena:1.8:b10
+kena	bhashya	1.8	b11	श्रोत्रम्		gemini,matcher,mri,upasanayoga	mula	1.8	5	1	श्रोत्रम्	w4.p0								linked	Kena:1.8:b11
+kena	bhashya	1.8	b12	इदं		gemini,mri,upasanayoga	mula	1.8	6	1	इदम्	w4.p1								linked	Kena:1.8:b12
+kena	bhashya	1.8	b13	श्रुतं		gemini,matcher,mri,upasanayoga	mula	1.8	7	1	श्रुतम्	w5.p0								linked	Kena:1.8:b13
+kena	bhashya	1.8	b17	तदेवे	तदेवेत्यादि	mri,upasanayoga;sub-word;hand-pin	mula	1.8	8	1	तत्	w6.p0								linked	Kena:1.8:b17
+kena	bhashya	1.9	b0	यत्		gemini,mri,upasanayoga	mula	1.9	0	1	यत्	w0.p0								linked	Kena:1.9:b0
+kena	bhashya	1.9	b1	प्राणेन		gemini,mri,upasanayoga	mula	1.9	1	1	प्राणेन	w0.p1								linked	Kena:1.9:b1
+kena	bhashya	1.9	b7	प्राणिति		gemini,matcher,mri,upasanayoga	mula	1.9	3	1	प्राणिति	w2.p0								linked	Kena:1.9:b7
+kena	bhashya	1.9	b10	येन		gemini,matcher,mri,upasanayoga	mula	1.9	4	1	येन	w3.p0								linked	Kena:1.9:b10
+kena	bhashya	1.9	b14	प्राणः		gemini,matcher,mri,upasanayoga	mula	1.9	5	1	प्राणः	w4.p0								linked	Kena:1.9:b14
+kena	bhashya	1.9	b15	प्रणीयते		gemini,matcher,mri,upasanayoga	mula	1.9	6	1	प्रणीयते	w5.p0								linked	Kena:1.9:b15
+kena	bhashya	1.9	b16	तदेवे	तदेवेत्यादि	upasanayoga;sub-word;hand-pin	mula	1.9	7	1	तत्	w6.p0								linked	Kena:1.9:b16
+kena	bhashya	2.1	b12	यदीत्यादि		adjudicated,adjudicated	mula	2.1	0	1	यदि	w0.p0								linked	Kena:2.1:b12
+kena	bhashya	2.1	b72	सुवेदेति		matcher	mula	2.1	2	1	सुवेद	w2								linked	Kena:2.1:b72
+kena	bhashya	2.1	b100	यदि		gemini,mri,upasanayoga	mula	2.1	0	1	यदि	w0.p0								linked	Kena:2.1:b100
+kena	bhashya	2.1	b102	मन्यसे		mri,upasanayoga	mula	2.1	1	1	मन्यसे	w1.p0								linked	Kena:2.1:b102
+kena	bhashya	2.1	b103	सुवेदेति		mri,upasanayoga	mula	2.1	2	1	सुवेद	w2								linked	Kena:2.1:b103
+kena	bhashya	2.1	b114	यदीत्यादि		mri														unlinked	Kena:2.1:b114
+kena	bhashya	2.1	b160	यदि		gemini	mula	2.1	0	1	यदि	w0.p0								linked	Kena:2.1:b160
+kena	bhashya	2.1	b161	मन्यसे		gemini	mula	2.1	1	1	मन्यसे	w1.p0								linked	Kena:2.1:b161
+kena	bhashya	2.1	b166	दभ्रम्		gemini	mula	2.1	4	1	दभ्रम्	w3.p0								linked	Kena:2.1:b166
+kena	bhashya	2.1	b168	नूनं		gemini,matcher,upasanayoga	mula	2.1	7	1	नूनम्	w4.p0								linked	Kena:2.1:b168
+kena	bhashya	2.1	b169	त्वं		gemini,matcher,upasanayoga	mula	2.1	8	1	त्वम्	w5.p0								linked	Kena:2.1:b169
+kena	bhashya	2.1	b170	वेत्थ		gemini,matcher,mri,upasanayoga	mula	2.1	9	1	वेत्थ	w6.p0								linked	Kena:2.1:b170
+kena	bhashya	2.1	b172	ब्रह्मणो		gemini,matcher,mri,upasanayoga	mula	2.1	10	1	ब्रह्मणः	w7.p0								linked	Kena:2.1:b172
+kena	bhashya	2.1	b173	रूपम्		gemini,mri,upasanayoga	mula	2.1	11	1	रूपम्	w8.p0								linked	Kena:2.1:b173
+kena	bhashya	2.1	b175	ब्रह्मणो		matcher	mula	2.1	10	1	ब्रह्मणः	w7.p0								linked	Kena:2.1:b175
+kena	bhashya	2.1	b185	ब्रह्मणो		matcher	mula	2.1	10	1	ब्रह्मणः	w7.p0								linked	Kena:2.1:b185
+kena	bhashya	2.1	b230	ब्रह्मणो		matcher	mula	2.1	10	1	ब्रह्मणः	w7.p0								linked	Kena:2.1:b230
+kena	bhashya	2.1	b248	ब्रह्मणो		matcher	mula	2.1	10	1	ब्रह्मणः	w7.p0								linked	Kena:2.1:b248
+kena	bhashya	2.1	b249	रूपं		matcher	mula	2.1	11	1	रूपम्	w8.p0								linked	Kena:2.1:b249
+kena	bhashya	2.1	b268	यदस्य		gemini,matcher,mri,upasanayoga	mula	2.1	12	1	यत्	w9.p0								linked	Kena:2.1:b268
+kena	bhashya	2.1	b269	ब्रह्मणो		matcher	mula	2.1	10	1	ब्रह्मणः	w7.p0								linked	Kena:2.1:b269
+kena	bhashya	2.1	b276	ब्रह्मणो		matcher	mula	2.1	10	1	ब्रह्मणः	w7.p0								linked	Kena:2.1:b276
+kena	bhashya	2.1	b278	त्वम	त्वमल्पं	mri,upasanayoga;sub-word;hand-pin	mula	2.1	14	2	त्वम्	w10.p0								linked	Kena:2.1:b278
+kena	bhashya	2.1	b280	यदप्यधिदैवतोपाधिपरिच्छिन्नस्यास्य		adjudicated,adjudicated	mula	2.1	15	2	यत्	w11.p0								linked	Kena:2.1:b280
+kena	bhashya	2.1	b281	ब्रह्मणो		matcher	mula	2.1	10	1	ब्रह्मणः	w7.p0								linked	Kena:2.1:b281
+kena	bhashya	2.1	b283	देवेषु		gemini,mri,upasanayoga	mula	2.1	17	1	देवेषु	w12.p0								linked	Kena:2.1:b283
+kena	bhashya	2.1	b288	दभ्रमेव		matcher	mula	2.1	4	1	दभ्रम्	w3.p0								linked	Kena:2.1:b288
+kena	bhashya	2.1	b309	अथ		gemini,mri,upasanayoga	mula	2.1	18	1	अथ	w12.p1								linked	Kena:2.1:b309
+kena	bhashya	2.1	b310	नु		gemini,matcher,mri,upasanayoga	mula	2.1	19	1	नु	w13.p0								linked	Kena:2.1:b310
+kena	bhashya	2.1	b312	मन्ये		gemini,matcher,mri	mula	2.1	23	1	मन्ये	w16.p0								linked	Kena:2.1:b312
+kena	bhashya	2.1	b314	मीमांस्यं		mri,upasanayoga	mula	2.1	20	1	मीमांस्यम्	w14.p0								linked	Kena:2.1:b314
+kena	bhashya	2.1	b316	ते		gemini,mri,upasanayoga	mula	2.1	22	1	ते	w15.p0								linked	Kena:2.1:b316
+kena	bhashya	2.1	b335	विदितं		mri,upasanayoga	mula	2.1	24	1	विदितम्	w17.p0								linked	Kena:2.1:b335
+kena	bhashya	2.2	b2	न		gemini,mri,upasanayoga	mula	2.2	0	1	न	w0.p0								linked	Kena:2.2:b2
+kena	bhashya	2.2	b3	अहं		gemini,mri,upasanayoga	mula	2.2	1	1	अहम्	w0.p1								linked	Kena:2.2:b3
+kena	bhashya	2.2	b4	मन्ये		gemini,matcher,mri,upasanayoga	mula	2.2	2	1	मन्ये	w1.p0								linked	Kena:2.2:b4
+kena	bhashya	2.2	b5	सुवेदेति		gemini,matcher,mri,upasanayoga	mula	2.2	3	1	सु	w2.p0								linked	Kena:2.2:b5
+kena	bhashya	2.2	b9	वेद		matcher	mula	2.2	4	1	वेद	w2.p1								linked	Kena:2.2:b9
+kena	bhashya	2.2	b17	नो		gemini,mri,upasanayoga	mula	2.2	6	2	न	w3								linked	Kena:2.2:b17
+kena	bhashya	2.2	b18	न		gemini,mri,upasanayoga	mula	2.2	8	3	न	w4.p0								linked	Kena:2.2:b18
+kena	bhashya	2.2	b19	वेदेति		gemini,mri,upasanayoga	mula	2.2	9	2	वेद	w5.p0								linked	Kena:2.2:b19
+kena	bhashya	2.2	b20	वेद		gemini,mri,upasanayoga	mula	2.2	11	3	वेद	w6.p0								linked	Kena:2.2:b20
+kena	bhashya	2.2	b21	च		gemini,matcher,mri,upasanayoga	mula	2.2	12	1	च	w7.p0								linked	Kena:2.2:b21
+kena	bhashya	2.2	b22	वेद		gemini														unlinked	Kena:2.2:b22
+kena	bhashya	2.2	b34	नो		matcher														unlinked	Kena:2.2:b34
+kena	bhashya	2.2	b35	न		matcher														unlinked	Kena:2.2:b35
+kena	bhashya	2.2	b36	वेदेति		matcher														unlinked	Kena:2.2:b36
+kena	bhashya	2.2	b37	वेद		matcher														unlinked	Kena:2.2:b37
+kena	bhashya	2.2	b38	च		matcher	mula	2.2	12	1	च	w7.p0								linked	Kena:2.2:b38
+kena	bhashya	2.2	b97	यः		gemini,mri,upasanayoga	mula	2.2	13	1	यः	w8.p0								linked	Kena:2.2:b97
+kena	bhashya	2.2	b100	नः		gemini,mri,upasanayoga	mula	2.2	14	1	नः	w9.p0								linked	Kena:2.2:b100
+kena	bhashya	2.2	b104	तत्		gemini	mula	2.2	15	1	तत्	w9.p1								linked	Kena:2.2:b104
+kena	bhashya	2.2	b108	वेद		gemini,mri,upasanayoga	mula	2.2	16	4	वेद	w9.p2								linked	Kena:2.2:b108
+kena	bhashya	2.2	b110	तत्		gemini	mula	2.2	17	2	तत्	w10.p0								linked	Kena:2.2:b110
+kena	bhashya	2.2	b111	ब्रह्म		mri														unlinked	Kena:2.2:b111
+kena	bhashya	2.2	b112	वेद		gemini,mri,upasanayoga														unlinked	Kena:2.2:b112
+kena	bhashya	2.2	b116	नो		gemini,upasanayoga														unlinked	Kena:2.2:b116
+kena	bhashya	2.2	b117	न		gemini,upasanayoga														unlinked	Kena:2.2:b117
+kena	bhashya	2.2	b118	वेदेति		gemini,upasanayoga														unlinked	Kena:2.2:b118
+kena	bhashya	2.2	b119	वेद		gemini,upasanayoga														unlinked	Kena:2.2:b119
+kena	bhashya	2.2	b120	च		gemini,upasanayoga														unlinked	Kena:2.2:b120
+kena	bhashya	2.2	b133	नो		gemini														unlinked	Kena:2.2:b133
+kena	bhashya	2.2	b134	न		gemini														unlinked	Kena:2.2:b134
+kena	bhashya	2.2	b135	वेदेति		gemini														unlinked	Kena:2.2:b135
+kena	bhashya	2.2	b136	वेद		gemini														unlinked	Kena:2.2:b136
+kena	bhashya	2.2	b137	च		gemini														unlinked	Kena:2.2:b137
+kena	bhashya	2.2	b147	नस्तद्वेद		matcher	mula	2.2	14	1	नः	w9.p0								linked	Kena:2.2:b147
+kena	bhashya	2.3	b6	यस्यामतमित्यादिना		mri	mula	2.3	0	1	यस्य	w0.p0								linked	Kena:2.3:b6
+kena	bhashya	2.3	b7	यस्य		gemini,mri,upasanayoga	mula	2.3	0	1	यस्य	w0.p0								linked	Kena:2.3:b7
+kena	bhashya	2.3	b9	अमतम्		gemini,mri,upasanayoga	mula	2.3	1	1	अमतम्	w0.p1								linked	Kena:2.3:b9
+kena	bhashya	2.3	b10	अविज्ञातम्		matcher	mula	2.3	9	1	अविज्ञातम्	w8.p0								linked	Kena:2.3:b10
+kena	bhashya	2.3	b16	तस्य		gemini,matcher,mri,upasanayoga	mula	2.3	2	1	तस्य	w1.p0								linked	Kena:2.3:b16
+kena	bhashya	2.3	b17	मतं		matcher,mri,upasanayoga	mula	2.3	3	1	मतम्	w2.p0								linked	Kena:2.3:b17
+kena	bhashya	2.3	b20	यस्य		gemini,matcher,mri,upasanayoga	mula	2.3	5	2	यस्य	w4.p0								linked	Kena:2.3:b20
+kena	bhashya	2.3	b22	मतं		mri,upasanayoga														unlinked	Kena:2.3:b22
+kena	bhashya	2.3	b28	न		gemini,matcher,mri,upasanayoga	mula	2.3	6	1	न	w5.p0								linked	Kena:2.3:b28
+kena	bhashya	2.3	b29	वेदैव		mri,upasanayoga	mula	2.3	7	1	वेद	w6.p0								linked	Kena:2.3:b29
+kena	bhashya	2.3	b30	सः		gemini,matcher,mri	mula	2.3	8	1	सः	w7.p0								linked	Kena:2.3:b30
+kena	bhashya	2.3	b34	सः		upasanayoga	mula	2.3	8	1	सः	w7.p0								linked	Kena:2.3:b34
+kena	bhashya	2.3	b37	अविज्ञातं		gemini,matcher	mula	2.3	9	1	अविज्ञातम्	w8.p0								linked	Kena:2.3:b37
+kena	bhashya	2.3	b38	विजानतामिति			mula	2.3	10	1	विजानताम्	w9.p0								linked	Kena:2.3:b38
+kena	bhashya	2.3	b39	अविज्ञातम्		gemini,matcher,mri,upasanayoga	mula	2.3	9	1	अविज्ञातम्	w8.p0								linked	Kena:2.3:b39
+kena	bhashya	2.3	b43	विजानतां		mri,upasanayoga	mula	2.3	10	1	विजानताम्	w9.p0								linked	Kena:2.3:b43
+kena	bhashya	2.3	b45	विज्ञातं		mri,upasanayoga	mula	2.3	11	1	विज्ञातम्	w10.p0								linked	Kena:2.3:b45
+kena	bhashya	2.3	b48	अविजानताम्		gemini,matcher,mri,upasanayoga	mula	2.3	12	1	अविजानताम्	w10.p1								linked	Kena:2.3:b48
+kena	bhashya	2.3	b68	विज्ञातमविजानतामिति			mula	2.3	11	1	विज्ञातम्	w10.p0								linked	Kena:2.3:b68
+kena	bhashya	2.4	b19	प्रतिबोधविदितं		gemini,matcher,mri,upasanayoga	mula	2.4	0	1	प्रतिबोध-विदितम्	w0.p0								linked	Kena:2.4:b19
+kena	bhashya	2.4	b49	मतं		upasanayoga	mula	2.4	1	1	मतम्	w1.p0								linked	Kena:2.4:b49
+kena	bhashya	2.4	b74	हि		matcher	mula	2.4	3	1	हि	w2.p0								linked	Kena:2.4:b74
+kena	bhashya	2.4	b83	प्रतिबोधविदितमिति		matcher	mula	2.4	0	1	प्रतिबोध-विदितम्	w0.p0								linked	Kena:2.4:b83
+kena	bhashya	2.4	b194	प्रतिबोधविदितं		matcher	mula	2.4	0	1	प्रतिबोध-विदितम्	w0.p0								linked	Kena:2.4:b194
+kena	bhashya	2.4	b265	प्रतिबोधः		matcher	mula	2.4	0	1	प्रतिबोध-विदितम्	w0.p0							0	linked	Kena:2.4:b265
+kena	bhashya	2.4	b271	प्रतिबोध		matcher	mula	2.4	0	1	प्रतिबोध-विदितम्	w0.p0							0	linked	Kena:2.4:b271
+kena	bhashya	2.4	b276	प्रतिबोध		matcher	mula	2.4	0	1	प्रतिबोध-विदितम्	w0.p0							0	linked	Kena:2.4:b276
+kena	bhashya	2.4	b280	अमृतत्वम्		gemini,mri,upasanayoga	mula	2.4	2	1	अमृतत्वम्	w1.p1								linked	Kena:2.4:b280
+kena	bhashya	2.4	b284	हि		gemini,mri,upasanayoga	mula	2.4	3	1	हि	w2.p0								linked	Kena:2.4:b284
+kena	bhashya	2.4	b286	विन्दते		gemini,matcher,mri,upasanayoga	mula	2.4	4	1	विन्दते	w3.p0								linked	Kena:2.4:b286
+kena	bhashya	2.4	b295	मतममृतत्वे		matcher	mula	2.4	1	1	मतम्	w1.p0								linked	Kena:2.4:b295
+kena	bhashya	2.4	b312	आत्मना		gemini,matcher,mri,upasanayoga	mula	2.4	5	1	आत्मना	w4.p0								linked	Kena:2.4:b312
+kena	bhashya	2.4	b315	विन्दते		gemini,matcher,mri,upasanayoga	mula	2.4	6	2	विन्दते	w5.p0								linked	Kena:2.4:b315
+kena	bhashya	2.4	b317	वीर्यं		gemini,matcher,mri,upasanayoga	mula	2.4	7	1	वीर्यम्	w6.p0								linked	Kena:2.4:b317
+kena	bhashya	2.4	b329	विन्दते		matcher														unlinked	Kena:2.4:b329
+kena	bhashya	2.4	b340	विद्यया		gemini,mri,upasanayoga	mula	2.4	8	1	विद्यया	w7.p0								linked	Kena:2.4:b340
+kena	bhashya	2.4	b342	विन्दतेऽमृतम्		gemini,matcher,mri,upasanayoga	mula	2.4	9	3	विन्दते	w8.p0								linked	Kena:2.4:b342
+kena	bhashya	2.5	b7	इह		gemini,matcher,mri,upasanayoga	mula	2.5	0	1	इह	w0.p0								linked	Kena:2.5:b7
+kena	bhashya	2.5	b8	एव		mri														unlinked	Kena:2.5:b8
+kena	bhashya	2.5	b9	चेत्		gemini	mula	2.5	1	1	चेत्	w1.p0								linked	Kena:2.5:b9
+kena	bhashya	2.5	b14	अवेदीत्		gemini	mula	2.5	2	1	अवेदीत्	w1.p1								linked	Kena:2.5:b14
+kena	bhashya	2.5	b20	अथ		gemini,mri,upasanayoga	mula	2.5	3	1	अथ	w1.p2								linked	Kena:2.5:b20
+kena	bhashya	2.5	b22	अस्ति		gemini,mri,upasanayoga	mula	2.5	5	1	अस्ति	w2.p1								linked	Kena:2.5:b22
+kena	bhashya	2.5	b23	सत्यं		gemini,matcher,mri,upasanayoga	mula	2.5	4	1	सत्यम्	w2.p0								linked	Kena:2.5:b23
+kena	bhashya	2.5	b32	न		gemini,matcher,mri	mula	2.5	6	1	न	w3.p0								linked	Kena:2.5:b32
+kena	bhashya	2.5	b33	चेदिहावेदीदिति		mri	mula	2.5	7	2	चेत्	w4.p0								linked	Kena:2.5:b33
+kena	bhashya	2.5	b34	न		mri,upasanayoga	mula	2.5	6	1	न	w3.p0								linked	Kena:2.5:b34
+kena	bhashya	2.5	b36	इह		mri,upasanayoga	mula	2.5	8	2	इह	w4.p1								linked	Kena:2.5:b36
+kena	bhashya	2.5	b43	महती		gemini,mri,upasanayoga	mula	2.5	10	1	महती	w4.p3								linked	Kena:2.5:b43
+kena	bhashya	2.5	b46	विनष्टिः		gemini,matcher,mri,upasanayoga	mula	2.5	11	1	विनष्टिः	w5.p0								linked	Kena:2.5:b46
+kena	bhashya	2.5	b54	भूतेषु		gemini,matcher,mri,upasanayoga	mula	2.5	12	1	भूतेषु	w6.p0								linked	Kena:2.5:b54
+kena	bhashya	2.5	b55	भूतेषु		gemini,matcher,mri,upasanayoga	mula	2.5	13	2	भूतेषु	w7.p0								linked	Kena:2.5:b55
+kena	bhashya	2.5	b62	विचित्य		gemini,matcher,mri,upasanayoga	mula	2.5	14	1	विचित्य	w8.p0								linked	Kena:2.5:b62
+kena	bhashya	2.5	b65	धीराः		gemini,matcher,mri,upasanayoga	mula	2.5	15	1	धीराः	w9.p0								linked	Kena:2.5:b65
+kena	bhashya	2.5	b67	प्रेत्य		gemini,matcher,mri,upasanayoga	mula	2.5	16	1	प्रेत्य	w10.p0								linked	Kena:2.5:b67
+kena	bhashya	2.5	b73	अमृता		gemini,mri,upasanayoga	mula	2.5	19	1	अ-मृताः	w10.p3								linked	Kena:2.5:b73
+kena	bhashya	2.5	b74	भवन्ति		gemini,matcher,mri,upasanayoga	mula	2.5	20	1	भवन्ति	w11.p0								linked	Kena:2.5:b74
+kena	bhashya	3.1	b0	ब्रह्म		gemini,matcher	mula	3.1	0	1	ब्रह्म	w0.p0								linked	Kena:3.1:b0
+kena	bhashya	3.1	b1	ह		gemini,matcher	mula	3.1	1	1	ह	w1.p0								linked	Kena:3.1:b1
+kena	bhashya	3.1	b2	देवेभ्यो		gemini,matcher	mula	3.1	2	1	देवेभ्यः	w2.p0								linked	Kena:3.1:b2
+kena	bhashya	3.1	b3	विजिग्ये		gemini,matcher	mula	3.1	3	1	विजिग्ये	w3.p0								linked	Kena:3.1:b3
+kena	bhashya	3.1	b75	ब्रह्म		gemini	mula	3.1	0	1	ब्रह्म	w0.p0								linked	Kena:3.1:b75
+kena	bhashya	3.1	b78	ह		gemini,matcher,mri,upasanayoga	mula	3.1	1	1	ह	w1.p0								linked	Kena:3.1:b78
+kena	bhashya	3.1	b80	देवेभ्यो	देवेभ्योऽर्थाय	mri,upasanayoga;sub-word;hand-pin	mula	3.1	2	1	देवेभ्यः	w2.p0								linked	Kena:3.1:b80
+kena	bhashya	3.1	b81	विजिग्ये		mri,upasanayoga	mula	3.1	3	1	विजिग्ये	w3.p0								linked	Kena:3.1:b81
+kena	bhashya	3.1	b94	तस्य		gemini,mri,upasanayoga	mula	3.1	4	1	तस्य	w4.p0								linked	Kena:3.1:b94
+kena	bhashya	3.1	b95	ह		gemini,mri,upasanayoga	mula	3.1	5	2	ह	w5.p0								linked	Kena:3.1:b95
+kena	bhashya	3.1	b97	ब्रह्मणो		gemini,matcher,mri,upasanayoga	mula	3.1	6	1	ब्रह्मणः	w6.p0								linked	Kena:3.1:b97
+kena	bhashya	3.1	b98	विजये		gemini,matcher,mri,upasanayoga	mula	3.1	7	1	विजये	w7.p0								linked	Kena:3.1:b98
+kena	bhashya	3.1	b99	देवाः		gemini,mri,upasanayoga	mula	3.1	8	1	देवाः	w8.p0								linked	Kena:3.1:b99
+kena	bhashya	3.1	b101	अमहीयन्त		gemini,matcher,mri,upasanayoga	mula	3.1	9	1	अमहीयन्त	w9.p0								linked	Kena:3.1:b101
+kena	bhashya	3.1	b119	ते		gemini,mri,upasanayoga	mula	3.1	10	1	ते	w10.p0								linked	Kena:3.1:b119
+kena	bhashya	3.1	b121	ऐक्षन्त		gemini,matcher,mri,upasanayoga	mula	3.1	11	1	ऐक्षन्त	w11.p0								linked	Kena:3.1:b121
+kena	bhashya	3.1	b124	अस्माकमेवायं		gemini,matcher,mri,upasanayoga	mula	3.1	12	1	अस्माकम्	w11.p1								linked	Kena:3.1:b124
+kena	bhashya	3.1	b125	विजयः		gemini,matcher,mri,upasanayoga	mula	3.1	15	1	विजयः	w12.p0								linked	Kena:3.1:b125
+kena	bhashya	3.1	b126	अस्माकमेवायं		gemini,matcher,mri,upasanayoga	mula	3.1	16	2	अस्माकम्	w12.p1								linked	Kena:3.1:b126
+kena	bhashya	3.1	b127	महिमा		gemini,mri,upasanayoga	mula	3.1	19	1	महिमा	w13.p0								linked	Kena:3.1:b127
+kena	bhashya	3.1	b131	इति		upasanayoga	mula	3.1	20	1	इति	w13.p1								linked	Kena:3.1:b131
+kena	bhashya	3.2	b2	तत्		gemini	mula	3.2	0	1	तत्	w0.p0								linked	Kena:3.2:b2
+kena	bhashya	3.2	b3	ह		gemini,matcher,upasanayoga	mula	3.2	1	1	ह	w0.p1								linked	Kena:3.2:b3
+kena	bhashya	3.2	b5	एषां		gemini,mri,upasanayoga	mula	3.2	2	1	एषाम्	w0.p2								linked	Kena:3.2:b5
+kena	bhashya	3.2	b7	विजज्ञौ		gemini,mri,upasanayoga	mula	3.2	3	1	विजज्ञौ	w1.p0								linked	Kena:3.2:b7
+kena	bhashya	3.2	b20	तेभ्यः		gemini,mri,upasanayoga	mula	3.2	4	1	तेभ्यः	w2.p0								linked	Kena:3.2:b20
+kena	bhashya	3.2	b22	ह		gemini,mri,upasanayoga	mula	3.2	5	2	ह	w3.p0								linked	Kena:3.2:b22
+kena	bhashya	3.2	b25	प्रादुर्बभूव		gemini,matcher,mri,upasanayoga	mula	3.2	6	1	प्रादुर्बभूव	w4								linked	Kena:3.2:b25
+kena	bhashya	3.2	b30	प्रादुर्बभूव		gemini,matcher	mula	3.2	6	1	प्रादुर्बभूव	w4								linked	Kena:3.2:b30
+kena	bhashya	3.2	b32	तत्		gemini,mri,upasanayoga	mula	3.2	7	2	तत्	w5.p0								linked	Kena:3.2:b32
+kena	bhashya	3.2	b35	न		gemini,mri,upasanayoga	mula	3.2	8	1	न	w5.p1								linked	Kena:3.2:b35
+kena	bhashya	3.2	b36	व्यजानत		gemini,matcher,mri,upasanayoga	mula	3.2	9	1	व्यजानत	w6.p0								linked	Kena:3.2:b36
+kena	bhashya	3.2	b40	किमिदं		gemini,matcher,mri,upasanayoga	mula	3.2	10	1	किम्	w7.p0								linked	Kena:3.2:b40
+kena	bhashya	3.2	b41	यक्षं		mri,upasanayoga	mula	3.2	12	1	यक्षम्	w8.p0								linked	Kena:3.2:b41
+kena	bhashya	3.6	b0	ते		mri,upasanayoga														unlinked	Kena:3.6:b0
+kena	bhashya	3.6	b4	अग्निम्		mri,upasanayoga														unlinked	Kena:3.6:b4
+kena	bhashya	3.6	b8	अब्रुवन्		mri,upasanayoga														unlinked	Kena:3.6:b8
+kena	bhashya	3.6	b11	जातवेदः		mri,upasanayoga														unlinked	Kena:3.6:b11
+kena	bhashya	3.6	b15	विजानीहि		mri,upasanayoga														unlinked	Kena:3.6:b15
+kena	bhashya	3.6	b20	किमेतद्यक्षमिति		mri,upasanayoga														unlinked	Kena:3.6:b20
+kena	bhashya	3.6	b21	तथा		mri,upasanayoga														unlinked	Kena:3.6:b21
+kena	bhashya	3.6	b23	इति		upasanayoga														unlinked	Kena:3.6:b23
+kena	bhashya	3.6	b25	यक्षम्		adjudicated,adjudicated	mula	3.6	23	1	यक्षम्	w14.p2								linked	Kena:3.6:b25
+kena	bhashya	3.6	b26	अभि		mri,upasanayoga														unlinked	Kena:3.6:b26
+kena	bhashya	3.6	b27	अद्रवत्		mri,upasanayoga														unlinked	Kena:3.6:b27
+kena	bhashya	3.6	b30	तं		mri,upasanayoga														unlinked	Kena:3.6:b30
+kena	bhashya	3.6	b35	तद्यक्षम्		matcher														unlinked	Kena:3.6:b35
+kena	bhashya	3.6	b36	अभ्यवदत्		mri,upasanayoga														unlinked	Kena:3.6:b36
+kena	bhashya	3.6	b40	कोऽसीति		mri,upasanayoga														unlinked	Kena:3.6:b40
+kena	bhashya	3.6	b44	अब्रवीत्		upasanayoga														unlinked	Kena:3.6:b44
+kena	bhashya	3.6	b45	अग्निर्वै		mri,upasanayoga														unlinked	Kena:3.6:b45
+kena	bhashya	3.6	b48	जातवेदा		mri,upasanayoga														unlinked	Kena:3.6:b48
+kena	bhashya	3.6	b49	इति		upasanayoga														unlinked	Kena:3.6:b49
+kena	bhashya	3.6	b56	तस्मिन्		mri,upasanayoga	mula	3.6	0	1	तस्मै	w0.p0								linked	Kena:3.6:b56
+kena	bhashya	3.6	b59	त्वयि		mri,upasanayoga														unlinked	Kena:3.6:b59
+kena	bhashya	3.6	b60	किं		mri,upasanayoga														unlinked	Kena:3.6:b60
+kena	bhashya	3.6	b61	वीर्यं		mri,upasanayoga	mula	3.5	3	1	वीर्यम्	w2.p0								linked	Kena:3.6:b61
+kena	bhashya	3.6	b63	इति		mri,upasanayoga														unlinked	Kena:3.6:b63
+kena	bhashya	3.6	b65	इदं		mri,upasanayoga														unlinked	Kena:3.6:b65
+kena	bhashya	3.6	b67	सर्वं		mri,upasanayoga	mula	3.6	8	1	सर्व-जवेन	w4							0	linked	Kena:3.6:b67
+kena	bhashya	3.6	b68	दहेयं		mri,upasanayoga	mula	3.5	8	1	दहेयम्	w4.p0								linked	Kena:3.6:b68
+kena	bhashya	3.6	b71	इदं		mri,upasanayoga														unlinked	Kena:3.6:b71
+kena	bhashya	3.6	b73	पृथिव्याम्		mri,upasanayoga	mula	3.5	11	1	पृथिव्याम्	w6.p0								linked	Kena:3.6:b73
+kena	bhashya	3.6	b74	इति		mri,upasanayoga														unlinked	Kena:3.6:b74
+kena	bhashya	3.6	b79	तस्मै		gemini,matcher,mri,upasanayoga	mula	3.6	0	1	तस्मै	w0.p0								linked	Kena:3.6:b79
+kena	bhashya	3.6	b82	तृणं		gemini,matcher,mri,upasanayoga	mula	3.6	1	1	तृणम्	w1.p0								linked	Kena:3.6:b82
+kena	bhashya	3.6	b83	निदधौ		gemini,matcher,mri,upasanayoga	mula	3.6	2	1	निदधौ	w2.p0								linked	Kena:3.6:b83
+kena	bhashya	3.6	b87	एतत्		mri,upasanayoga	mula	3.6	3	1	एतत्	w2.p1								linked	Kena:3.6:b87
+kena	bhashya	3.6	b90	दह		gemini,mri,upasanayoga	mula	3.6	4	1	दह	w2.p2								linked	Kena:3.6:b90
+kena	bhashya	3.6	b99	तत्		gemini,mri,upasanayoga	mula	3.6	6	1	तत्	w3.p0								linked	Kena:3.6:b99
+kena	bhashya	3.6	b100	तृणम्		mri	mula	3.6	1	1	तृणम्	w1.p0								linked	Kena:3.6:b100
+kena	bhashya	3.6	b101	उपप्रेयाय		gemini,matcher,mri,upasanayoga	mula	3.6	7	1	उपप्रेयाय	w3.p1								linked	Kena:3.6:b101
+kena	bhashya	3.6	b104	सर्वजवेन		gemini,matcher,mri,upasanayoga	mula	3.6	8	1	सर्व-जवेन	w4								linked	Kena:3.6:b104
+kena	bhashya	3.6	b108	तत्		gemini	mula	3.6	9	2	तत्	w5.p0								linked	Kena:3.6:b108
+kena	bhashya	3.6	b109	न		gemini,mri,upasanayoga	mula	3.6	10	1	न	w5.p1								linked	Kena:3.6:b109
+kena	bhashya	3.6	b110	शशाक		gemini,matcher,mri,upasanayoga	mula	3.6	11	1	शशाक	w6.p0								linked	Kena:3.6:b110
+kena	bhashya	3.6	b112	दग्धुम्		gemini,mri,upasanayoga	mula	3.6	12	1	दग्धुम्	w7.p0								linked	Kena:3.6:b112
+kena	bhashya	3.6	b113	सः		gemini,mri,upasanayoga	mula	3.6	13	1	सः	w8.p0								linked	Kena:3.6:b113
+kena	bhashya	3.6	b119	तत		gemini,matcher,mri,upasanayoga	mula	3.6	14	1	ततः	w9								linked	Kena:3.6:b119
+kena	bhashya	3.6	b120	एव		gemini,matcher,mri,upasanayoga	mula	3.6	15	1	एव	w10.p0								linked	Kena:3.6:b120
+kena	bhashya	3.6	b124	निववृते		gemini,matcher,mri,upasanayoga	mula	3.6	16	1	निववृते	w11.p0								linked	Kena:3.6:b124
+kena	bhashya	3.6	b127	न		gemini,mri,upasanayoga	mula	3.6	17	2	न	w12.p0								linked	Kena:3.6:b127
+kena	bhashya	3.6	b128	एतत्		gemini	mula	3.6	18	2	एतत्	w12.p1								linked	Kena:3.6:b128
+kena	bhashya	3.6	b130	अशकं		gemini,mri,upasanayoga	mula	3.6	19	1	अशकम्	w12.p2								linked	Kena:3.6:b130
+kena	bhashya	3.6	b132	विज्ञातुं		gemini,matcher,mri,upasanayoga	mula	3.6	20	1	विज्ञातुम्	w13.p0								linked	Kena:3.6:b132
+kena	bhashya	3.6	b134	यदेतद्यक्षमिति		gemini,matcher,mri,upasanayoga	mula	3.6	21	1	यत्	w14.p0								linked	Kena:3.6:b134
+kena	bhashya	3.10	b0	अथ		mri,upasanayoga														unlinked	Kena:3.10:b0
+kena	bhashya	3.10	b2	वायुमब्रुवन्		mri,upasanayoga														unlinked	Kena:3.10:b2
+kena	bhashya	3.10	b3	हे		mri														unlinked	Kena:3.10:b3
+kena	bhashya	3.10	b4	वायो		mri,upasanayoga														unlinked	Kena:3.10:b4
+kena	bhashya	3.10	b5	एतद्विजानीही	एतद्विजानीहीत्यादि	mri,upasanayoga;sub-word;hand-pin	mula	3.10	3	1	एतत्	w2.p1								linked	Kena:3.10:b5
+kena	bhashya	3.10	b9	वायुः		mri														unlinked	Kena:3.10:b9
+kena	bhashya	3.10	b12	मातरिश्वा		mri,upasanayoga														unlinked	Kena:3.10:b12
+kena	bhashya	3.10	b13	इदं		mri,upasanayoga														unlinked	Kena:3.10:b13
+kena	bhashya	3.10	b14	सर्वमपि		mri,upasanayoga	mula	3.10	8	1	सर्व-जवेन	w4.p0							0	linked	Kena:3.10:b14
+kena	bhashya	3.10	b15	आददीय		mri,upasanayoga	mula	3.9	8	1	आददीय	w3.p1								linked	Kena:3.10:b15
+kena	bhashya	3.10	b17	यदिदं		mri,upasanayoga														unlinked	Kena:3.10:b17
+kena	bhashya	3.10	b18	पृथिव्यामि	पृथिव्यामित्यादि	mri,upasanayoga;sub-word														unlinked	Kena:3.10:b18
+kena	bhashya	3.12	b0	अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीही	अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहीत्यादि	mri,upasanayoga;sub-word														unlinked	Kena:3.12:b0
+kena	bhashya	3.12	b6	तथेति		mri,upasanayoga														unlinked	Kena:3.12:b6
+kena	bhashya	3.12	b7	तदभ्यद्रवत्		mri,upasanayoga														unlinked	Kena:3.12:b7
+kena	bhashya	3.12	b12	तिरोदधे		mri,upasanayoga	mula	3.11	15	1	तिरोदधे	w3.p3								linked	Kena:3.12:b12
+kena	bhashya	3.12	b19	तद्यक्षं		matcher														unlinked	Kena:3.12:b19
+kena	bhashya	3.12	b28	सः		gemini,mri,upasanayoga	mula	3.12	0	1	सः	w0.p0								linked	Kena:3.12:b28
+kena	bhashya	3.12	b30	तस्मिन्नेव		gemini,matcher,mri,upasanayoga	mula	3.12	1	1	तस्मिन्	w1.p0								linked	Kena:3.12:b30
+kena	bhashya	3.12	b31	आकाशे		gemini,mri,upasanayoga	mula	3.12	3	1	आकाशे	w1.p2								linked	Kena:3.12:b31
+kena	bhashya	3.12	b45	सः		gemini	mula	3.12	0	1	सः	w0.p0								linked	Kena:3.12:b45
+kena	bhashya	3.12	b47	ताम्		gemini	mula	3.12	10	1	ताम्	w6.p0								linked	Kena:3.12:b47
+kena	bhashya	3.12	b48	उमां		gemini,mri	mula	3.12	8	1	उमाम्	w4.p1								linked	Kena:3.12:b48
+kena	bhashya	3.12	b49	बहु		gemini,matcher,mri,upasanayoga	mula	3.12	6	1	बहु	w3.p0								linked	Kena:3.12:b49
+kena	bhashya	3.12	b50	शोभमानाम्		gemini,matcher,mri,upasanayoga	mula	3.12	7	1	शोभमानाम्	w4.p0								linked	Kena:3.12:b50
+kena	bhashya	3.12	b61	हैमवतीं		gemini,matcher,mri,upasanayoga	mula	3.12	9	1	हैमवतीम्	w5.p0								linked	Kena:3.12:b61
+kena	bhashya	3.12	b80	तां		gemini,matcher,mri,upasanayoga	mula	3.12	10	1	ताम्	w6.p0								linked	Kena:3.12:b80
+kena	bhashya	3.12	b81	ह		gemini,mri,upasanayoga	mula	3.12	11	1	ह	w7.p0								linked	Kena:3.12:b81
+kena	bhashya	3.12	b84	उवाच		gemini,mri,upasanayoga	mula	3.12	12	1	उवाच	w7.p1								linked	Kena:3.12:b84
+kena	bhashya	3.12	b87	किमेतद्	किमेतद्दर्शयित्वा	mri;sub-word;hand-pin	mula	3.12	13	1	किम्	w8.p0								linked	Kena:3.12:b87
+kena	bhashya	3.12	b89	यक्षमिति		matcher,mri,upasanayoga	mula	3.12	15	1	यक्षम्	w8.p2								linked	Kena:3.12:b89
+kena	bhashya	4.1	b0	सा		mri,upasanayoga														unlinked	Kena:4.1:b0
+kena	bhashya	4.1	b1	ब्रह्मेति		gemini,matcher,mri,upasanayoga	mula	4.1	0	1	ब्रह्म	w0.p0								linked	Kena:4.1:b1
+kena	bhashya	4.1	b2	होवाच		gemini,matcher,mri,upasanayoga	mula	4.1	2	1	ह	w1.p0								linked	Kena:4.1:b2
+kena	bhashya	4.1	b3	ह		mri	mula	4.1	2	1	ह	w1.p0								linked	Kena:4.1:b3
+kena	bhashya	4.1	b5	ब्रह्मणः		gemini,matcher,mri,upasanayoga	mula	4.1	4	1	ब्रह्मणः	w2.p0								linked	Kena:4.1:b5
+kena	bhashya	4.1	b6	वै		gemini,upasanayoga	mula	4.1	5	1	वै									linked	Kena:4.1:b6
+kena	bhashya	4.1	b8	विजये		gemini,mri,upasanayoga	mula	4.1	6	1	एतत्-विजये								1	linked	Kena:4.1:b8
+kena	bhashya	4.1	b18	महीयध्वं		gemini,matcher,mri,upasanayoga	mula	4.1	7	1	महीयध्वम्	w5.p0								linked	Kena:4.1:b18
+kena	bhashya	4.1	b21	एतदिति		mri,upasanayoga	mula	4.1	6	1	एतत्-विजये								0	linked	Kena:4.1:b21
+kena	bhashya	4.1	b28	ततः		gemini,mri,upasanayoga	mula	4.1	9	1	ततः	w6.p0								linked	Kena:4.1:b28
+kena	bhashya	4.1	b30	ह		gemini,upasanayoga	mula	4.1	10	2	ह	w7.p0								linked	Kena:4.1:b30
+kena	bhashya	4.1	b31	एव		gemini,mri,upasanayoga	mula	4.1	11	1	एव	w7.p1								linked	Kena:4.1:b31
+kena	bhashya	4.1	b32	विदाञ्चकार		gemini,matcher,mri,upasanayoga	mula	4.1	12	1	विदाञ्चकार	w8								linked	Kena:4.1:b32
+kena	bhashya	4.1	b33	ब्रह्मेति		gemini,matcher,mri,upasanayoga	mula	4.1	13	2	ब्रह्म	w9.p0								linked	Kena:4.1:b33
+kena	bhashya	4.2	b1	एते		matcher,mri	mula	4.2	2	1	एते	w1.p0								linked	Kena:4.2:b1
+kena	bhashya	4.2	b2	देवा		matcher,mri	mula	4.2	3	1	देवाः	w2.p0								linked	Kena:4.2:b2
+kena	bhashya	4.2	b6	तस्मात्		upasanayoga	mula	4.2	0	1	तस्मात्	w0.p0								linked	Kena:4.2:b6
+kena	bhashya	4.2	b8	अतितरामिव		gemini,matcher,mri	mula	4.2	4	1	अतितराम्	w3.p0								linked	Kena:4.2:b8
+kena	bhashya	4.2	b10	अन्यान्		gemini,mri,upasanayoga	mula	4.2	6	1	अन्यान्	w3.p2								linked	Kena:4.2:b10
+kena	bhashya	4.2	b11	देवान्		gemini,mri,upasanayoga	mula	4.2	7	1	देवान्	w3.p3								linked	Kena:4.2:b11
+kena	bhashya	4.2	b12	अतितराम्		gemini,upasanayoga	mula	4.2	4	1	अतितराम्	w3.p0								linked	Kena:4.2:b12
+kena	bhashya	4.2	b14	इव		upasanayoga	mula	4.2	5	1	इव	w3.p1								linked	Kena:4.2:b14
+kena	bhashya	4.2	b15	एते		upasanayoga	mula	4.2	2	1	एते	w1.p0								linked	Kena:4.2:b15
+kena	bhashya	4.2	b16	देवाः		upasanayoga	mula	4.2	3	1	देवाः	w2.p0								linked	Kena:4.2:b16
+kena	bhashya	4.2	b19	यत्		gemini	mula	4.2	8	1	यत्	w3.p4								linked	Kena:4.2:b19
+kena	bhashya	4.2	b20	अग्निः		gemini,upasanayoga	mula	4.2	9	1	अग्निः	w3.p5								linked	Kena:4.2:b20
+kena	bhashya	4.2	b21	वायुः		gemini,upasanayoga	mula	4.2	10	1	वायुः	w3.p6								linked	Kena:4.2:b21
+kena	bhashya	4.2	b22	इन्द्रः		gemini,mri,upasanayoga	mula	4.2	11	1	इन्द्रः	w3.p7								linked	Kena:4.2:b22
+kena	bhashya	4.2	b23	ते		gemini,mri,upasanayoga	mula	4.2	12	1	ते	w3.p8								linked	Kena:4.2:b23
+kena	bhashya	4.2	b24	हि		gemini,mri,upasanayoga	mula	4.2	13	1	हि	w4.p0								linked	Kena:4.2:b24
+kena	bhashya	4.2	b27	एनत्		gemini	mula	4.2	14	1	एनत्	w4.p1								linked	Kena:4.2:b27
+kena	bhashya	4.2	b29	नेदिष्ठम्		gemini,mri,upasanayoga	mula	4.2	15	1	नेदिष्ठम्	w4.p2								linked	Kena:4.2:b29
+kena	bhashya	4.2	b32	पस्पर्शुः		gemini,matcher,mri	mula	4.2	16	1	पस्पर्शुः	w5.p0								linked	Kena:4.2:b32
+kena	bhashya	4.2	b36	ते		gemini,mri,upasanayoga	mula	4.2	17	2	ते	w5.p1								linked	Kena:4.2:b36
+kena	bhashya	4.2	b37	हि		gemini,mri,upasanayoga	mula	4.2	18	2	हि	w6.p0								linked	Kena:4.2:b37
+kena	bhashya	4.2	b40	एनत्		gemini	mula	4.2	19	2	एनत्	w6.p1								linked	Kena:4.2:b40
+kena	bhashya	4.2	b42	प्रथमः		gemini,mri,upasanayoga	mula	4.2	20	1	प्रथमः	w6.p2								linked	Kena:4.2:b42
+kena	bhashya	4.2	b47	विदाञ्चकार		gemini,matcher,mri	mula	4.2	21	1	विदाञ्चकार	w7.p0								linked	Kena:4.2:b47
+kena	bhashya	4.2	b49	ब्रह्मेति		gemini,matcher,upasanayoga	mula	4.2	22	1	ब्रह्म	w8.p0								linked	Kena:4.2:b49
+kena	bhashya	4.3	b8	ब्रह्मेति		matcher	mula	4.3	17	1	ब्रह्म	w7.p0								linked	Kena:4.3:b8
+kena	bhashya	4.3	b9	तस्माद्वै		matcher,mri,upasanayoga	mula	4.3	0	1	तस्मात्	w0.p0								linked	Kena:4.3:b9
+kena	bhashya	4.3	b10	इन्द्रः		matcher,mri,upasanayoga	mula	4.3	2	1	इन्द्रः	w1.p0								linked	Kena:4.3:b10
+kena	bhashya	4.3	b11	अतितरामिव		matcher,mri,upasanayoga	mula	4.3	3	1	अतितराम्	w1.p1								linked	Kena:4.3:b11
+kena	bhashya	4.3	b14	इव		mri	mula	4.3	4	1	इव	w1.p2								linked	Kena:4.3:b14
+kena	bhashya	4.3	b15	अन्यान्		mri,upasanayoga	mula	4.3	5	1	अन्यान्	w1.p3								linked	Kena:4.3:b15
+kena	bhashya	4.3	b16	देवान्		mri,upasanayoga	mula	4.3	6	1	देवान्	w1.p4								linked	Kena:4.3:b16
+kena	bhashya	4.3	b17	स		gemini,matcher,mri,upasanayoga	mula	4.3	7	1	सः	w1.p5								linked	Kena:4.3:b17
+kena	bhashya	4.3	b18	ह्येनन्नेदिष्ठं		gemini,matcher,mri,upasanayoga														unlinked	Kena:4.3:b18
+kena	bhashya	4.3	b19	पस्पर्श		gemini,matcher,mri,upasanayoga	mula	4.3	11	1	पस्पर्श	w3.p0								linked	Kena:4.3:b19
+kena	bhashya	4.3	b21	स		gemini,mri,upasanayoga	mula	4.3	12	2	सः	w4.p0								linked	Kena:4.3:b21
+kena	bhashya	4.3	b22	ह्येनत्प्रथमो		gemini,matcher,mri,upasanayoga														unlinked	Kena:4.3:b22
+kena	bhashya	4.3	b23	विदाञ्चकार		gemini,matcher,mri,upasanayoga	mula	4.3	16	1	विदाञ्चकार	w6.p0								linked	Kena:4.3:b23
+kena	bhashya	4.3	b24	ब्रह्मे	ब्रह्मेत्युक्तार्थं	gemini;sub-word;hand-pin	mula	4.3	17	1	ब्रह्म	w7.p0								linked	Kena:4.3:b24
+kena	bhashya	4.4	b0	तस्य		gemini,mri,upasanayoga	mula	4.4	0	1	तस्य	w0.p0								linked	Kena:4.4:b0
+kena	bhashya	4.4	b3	एषः		gemini,mri,upasanayoga	mula	4.4	1	1	एषः	w0.p1								linked	Kena:4.4:b3
+kena	bhashya	4.4	b4	आदेशः		gemini,mri,upasanayoga	mula	4.4	2	1	आदेशः	w1.p0								linked	Kena:4.4:b4
+kena	bhashya	4.4	b13	यदेतत्		gemini,mri,upasanayoga	mula	4.4	3	1	यत्	w2.p0								linked	Kena:4.4:b13
+kena	bhashya	4.4	b16	विद्युतः		gemini,mri,upasanayoga	mula	4.4	5	1	विद्युतः	w2.p2								linked	Kena:4.4:b16
+kena	bhashya	4.4	b17	व्यद्युतत्		gemini,mri,upasanayoga	mula	4.4	6	1	व्यद्युतत्	w3.p0								linked	Kena:4.4:b17
+kena	bhashya	4.4	b23	आ३		gemini														unlinked	Kena:4.4:b23
+kena	bhashya	4.4	b41	विद्युतः		mri	mula	4.4	5	1	विद्युतः	w2.p2								linked	Kena:4.4:b41
+kena	bhashya	4.4	b44	व्यद्युतत्		gemini,mri	mula	4.4	6	1	व्यद्युतत्	w3.p0								linked	Kena:4.4:b44
+kena	bhashya	4.4	b46	आ३		gemini	mula	4.4	7	1	आ३	w3.p1								linked	Kena:4.4:b46
+kena	bhashya	4.4	b54	इच्छब्दः		mri														unlinked	Kena:4.4:b54
+kena	bhashya	4.4	b59	न्यमीमिषत्		gemini,mri,upasanayoga	mula	4.4	10	1	न्यमीमिषत्	w4.p2								linked	Kena:4.4:b59
+kena	bhashya	4.4	b62	न्यमीमिषत्		gemini,mri	mula	4.4	10	1	न्यमीमिषत्	w4.p2								linked	Kena:4.4:b62
+kena	bhashya	4.4	b76	इति		gemini,upasanayoga	mula	4.4	12	2	इति	w5.p0								linked	Kena:4.4:b76
+kena	bhashya	4.4	b77	अधिदैवतं		gemini,mri,upasanayoga	mula	4.4	13	1	अधि-दैवतम्	w5.p1								linked	Kena:4.4:b77
+kena	bhashya	4.5	b0	अथ		gemini,mri,upasanayoga	mula	4.5	0	1	अथ	w0.p0								linked	Kena:4.5:b0
+kena	bhashya	4.5	b2	अध्यात्मं		gemini,mri,upasanayoga	mula	4.5	1	1	अधि-आत्मम्	w0								linked	Kena:4.5:b2
+kena	bhashya	4.5	b6	यदेतत्		gemini	mula	4.5	2	1	यत्	w1.p0								linked	Kena:4.5:b6
+kena	bhashya	4.5	b7	गच्छतीव		gemini,matcher,mri,upasanayoga	mula	4.5	4	1	गच्छति	w1.p2								linked	Kena:4.5:b7
+kena	bhashya	4.5	b8	च		gemini,matcher,mri,upasanayoga	mula	4.5	6	1	च	w2.p0								linked	Kena:4.5:b8
+kena	bhashya	4.5	b9	मनः		gemini,mri,upasanayoga	mula	4.5	7	1	मनः	w3.p0								linked	Kena:4.5:b9
+kena	bhashya	4.5	b10	एतद्	एतद्ब्रह्म	adjudicated,adjudicated;sub-word;hand-pin	mula	4.5	3	1	एतत्	w1.p1								linked	Kena:4.5:b10
+kena	bhashya	4.5	b15	अनेन		gemini,mri,upasanayoga	mula	4.5	8	1	अनेन	w3.p1								linked	Kena:4.5:b15
+kena	bhashya	4.5	b17	एतत्		gemini	mula	4.5	10	2	एतत्	w4.p1								linked	Kena:4.5:b17
+kena	bhashya	4.5	b19	उपस्मरति		gemini,matcher,mri,upasanayoga	mula	4.5	11	1	उपस्मरति	w4.p2								linked	Kena:4.5:b19
+kena	bhashya	4.5	b23	अभीक्ष्णं		gemini,mri,upasanayoga	mula	4.5	12	1	अभीक्ष्णम्	w4.p3								linked	Kena:4.5:b23
+kena	bhashya	4.5	b25	सङ्कल्पश्च		mri,upasanayoga	mula	4.5	13	1	सङ्कल्पः	w5.p0								linked	Kena:4.5:b25
+kena	bhashya	4.6	b1	तत्		gemini	mula	4.6	0	1	तत्	w0.p0								linked	Kena:4.6:b1
+kena	bhashya	4.6	b2	ब्रह्म		mri														unlinked	Kena:4.6:b2
+kena	bhashya	4.6	b3	ह		gemini,mri,upasanayoga	mula	4.6	1	1	ह	w0.p1								linked	Kena:4.6:b3
+kena	bhashya	4.6	b5	तद्वनं		gemini,matcher,mri,upasanayoga	mula	4.6	2	1	तद्-वनम्	w1								linked	Kena:4.6:b5
+kena	bhashya	4.6	b6	नाम		gemini,matcher,mri,upasanayoga	mula	4.6	3	1	नाम	w2.p0								linked	Kena:4.6:b6
+kena	bhashya	4.6	b9	तद्वनं		matcher	mula	4.6	4	2	तद्-वनम्	w3.p0								linked	Kena:4.6:b9
+kena	bhashya	4.6	b20	तद्वनमिति		gemini,matcher	mula	4.6	4	2	तद्-वनम्	w3.p0								linked	Kena:4.6:b20
+kena	bhashya	4.6	b23	तद्वनमिति		gemini,matcher,mri,upasanayoga	mula	4.6	4	2	तद्-वनम्	w3.p0								linked	Kena:4.6:b23
+kena	bhashya	4.6	b26	उपासितव्यं		gemini,matcher,mri,upasanayoga	mula	4.6	6	1	उपासितव्यम्	w3.p2								linked	Kena:4.6:b26
+kena	bhashya	4.6	b31	स		gemini,matcher,mri,upasanayoga	mula	4.6	7	1	सः	w4.p0								linked	Kena:4.6:b31
+kena	bhashya	4.6	b32	यः		gemini,mri,upasanayoga	mula	4.6	8	1	यः	w5.p0								linked	Kena:4.6:b32
+kena	bhashya	4.6	b34	एतत्		gemini	mula	4.6	9	1	एतत्	w6.p0								linked	Kena:4.6:b34
+kena	bhashya	4.6	b37	एवं		gemini,mri,upasanayoga	mula	4.6	10	1	एवम्	w6.p1								linked	Kena:4.6:b37
+kena	bhashya	4.6	b39	वेद		gemini,mri,upasanayoga	mula	4.6	11	1	वेद	w7.p0								linked	Kena:4.6:b39
+kena	bhashya	4.6	b41	अभि		gemini,mri,upasanayoga	mula	4.6	12	1	अभि	w7.p1								linked	Kena:4.6:b41
+kena	bhashya	4.6	b42	ह		gemini,mri,upasanayoga	mula	4.6	13	2	ह	w8.p0								linked	Kena:4.6:b42
+kena	bhashya	4.6	b43	एनम्		gemini,mri,upasanayoga	mula	4.6	14	1	एनम्	w8.p1								linked	Kena:4.6:b43
+kena	bhashya	4.6	b45	सर्वाणि		gemini,mri,upasanayoga	mula	4.6	15	1	सर्वाणि	w9.p0								linked	Kena:4.6:b45
+kena	bhashya	4.6	b46	भूतानि		gemini,mri,upasanayoga	mula	4.6	16	1	भूतानि	w10.p0								linked	Kena:4.6:b46
+kena	bhashya	4.6	b47	अभि		gemini	mula	4.6	12	1	अभि	w7.p1								linked	Kena:4.6:b47
+kena	bhashya	4.6	b48	संवाञ्छन्ति		gemini,matcher,mri,upasanayoga	mula	4.6	17	1	संवाञ्छन्ति	w11								linked	Kena:4.6:b48
+kena	bhashya	4.6	b49	ह		gemini														unlinked	Kena:4.6:b49
+kena	bhashya	4.7	b3	उपनिषदं		gemini,matcher,mri,upasanayoga	mula	4.7	0	1	उपनिषदम्	w0.p0								linked	Kena:4.7:b3
+kena	bhashya	4.7	b6	भो		gemini,matcher,mri,upasanayoga	mula	4.7	1	1	भोः	w1.p0								linked	Kena:4.7:b6
+kena	bhashya	4.7	b8	ब्रूहि		gemini,matcher,mri,upasanayoga	mula	4.7	2	1	ब्रूहि	w2.p0								linked	Kena:4.7:b8
+kena	bhashya	4.7	b9	इति		gemini,upasanayoga	mula	4.7	3	1	इति	w2.p1								linked	Kena:4.7:b9
+kena	bhashya	4.7	b13	उक्ता		gemini,mri,upasanayoga	mula	4.7	4	1	उक्ता	w2.p2								linked	Kena:4.7:b13
+kena	bhashya	4.7	b15	ते		gemini,mri,upasanayoga	mula	4.7	5	1	ते	w3.p0								linked	Kena:4.7:b15
+kena	bhashya	4.7	b17	उपनिषत्		gemini,mri,upasanayoga	mula	4.7	6	1	उपनिषत्	w4.p0								linked	Kena:4.7:b17
+kena	bhashya	4.7	b21	ब्राह्मीं		gemini,mri,upasanayoga	mula	4.7	7	1	ब्राह्मीम्	w4.p1								linked	Kena:4.7:b21
+kena	bhashya	4.7	b28	वाव		gemini,matcher,mri,upasanayoga	mula	4.7	8	1	वाव	w5.p0								linked	Kena:4.7:b28
+kena	bhashya	4.7	b29	एव		mri														unlinked	Kena:4.7:b29
+kena	bhashya	4.7	b30	ते		gemini,mri,upasanayoga	mula	4.7	9	2	ते	w6.p0								linked	Kena:4.7:b30
+kena	bhashya	4.7	b31	उपनिषदमब्रूमेति		gemini,matcher,mri,upasanayoga	mula	4.7	10	2	उपनिषदम्	w7.p0								linked	Kena:4.7:b31
+kena	bhashya	4.8	b3	तस्यै		gemini,matcher,mri,upasanayoga	mula	4.8	0	1	तस्यै	w0.p0								linked	Kena:4.8:b3
+kena	bhashya	4.8	b9	तपः		gemini,mri,upasanayoga	mula	4.8	1	1	तपः	w1.p0								linked	Kena:4.8:b9
+kena	bhashya	4.8	b12	दमः		gemini,matcher,mri,upasanayoga	mula	4.8	2	1	दमः	w2.p0								linked	Kena:4.8:b12
+kena	bhashya	4.8	b14	कर्म		gemini,mri,upasanayoga	mula	4.8	3	1	कर्म	w3.p0								linked	Kena:4.8:b14
+kena	bhashya	4.8	b61	प्रतिष्ठा		gemini,matcher,mri,upasanayoga	mula	4.8	5	1	प्रतिष्ठा	w4.p0								linked	Kena:4.8:b61
+kena	bhashya	4.8	b72	वेदा	वेदाश्चत्वारः	adjudicated,adjudicated;sub-word;hand-pin	mula	4.8	6	1	वेदाः	w5.p0								linked	Kena:4.8:b72
+kena	bhashya	4.8	b73	सर्वाणि		gemini	mula	4.8	7	1	सर्व-अङ्गानि	w6							0	linked	Kena:4.8:b73
+kena	bhashya	4.8	b97	सत्यम्		gemini,matcher,mri,upasanayoga	mula	4.8	8	1	सत्यम्	w7.p0								linked	Kena:4.8:b97
+kena	bhashya	4.8	b98	आयतनं		gemini,mri,upasanayoga	mula	4.8	9	1	आयतनम्	w7.p1								linked	Kena:4.8:b98
+kena	bhashya	4.8	b102	सत्यमिति			mula	4.8	8	1	सत्यम्	w7.p0								linked	Kena:4.8:b102
+kena	bhashya	4.9	b0	यो		gemini,matcher,mri,upasanayoga	mula	4.9	0	1	यः	w0.p0								linked	Kena:4.9:b0
+kena	bhashya	4.9	b1	वै		mri,upasanayoga	mula	4.9	1	1	वा	w1								linked	Kena:4.9:b1
+kena	bhashya	4.9	b2	एतां		gemini,mri,upasanayoga	mula	4.9	2	1	एताम्	w2.p0								linked	Kena:4.9:b2
+kena	bhashya	4.9	b7	एवं		gemini,mri,upasanayoga	mula	4.9	3	1	एवम्	w2.p1								linked	Kena:4.9:b7
+kena	bhashya	4.9	b15	वेद		gemini,mri,upasanayoga	mula	4.9	4	1	वेद	w3.p0								linked	Kena:4.9:b15
+kena	bhashya	4.9	b22	अपहत्य		gemini,mri,upasanayoga	mula	4.9	5	1	अपहत्य	w3.p1								linked	Kena:4.9:b22
+kena	bhashya	4.9	b23	पाप्मानम्		gemini,matcher,mri,upasanayoga	mula	4.9	6	1	पाप्मानम्	w4.p0								linked	Kena:4.9:b23
+kena	bhashya	4.9	b27	अनन्ते		gemini,mri,upasanayoga	mula	4.9	7	1	अनन्ते	w4.p1								linked	Kena:4.9:b27
+kena	bhashya	4.9	b29	स्वर्गे		gemini,matcher,mri,upasanayoga	mula	4.9	8	1	स्वर्गे	w5.p0								linked	Kena:4.9:b29
+kena	bhashya	4.9	b30	लोके		gemini,matcher,mri,upasanayoga	mula	4.9	9	1	लोके	w6.p0								linked	Kena:4.9:b30
+kena	bhashya	4.9	b41	ज्येये		gemini,matcher,mri,upasanayoga	mula	4.9	10	1	ज्येये	w7.p0								linked	Kena:4.9:b41
+kena	bhashya	4.9	b42	इति		mri														unlinked	Kena:4.9:b42
+kena	bhashya	4.9	b43	ज्येये		gemini	mula	4.9	10	1	ज्येये	w7.p0								linked	Kena:4.9:b43
+kena	bhashya	4.9	b49	प्रतितिष्ठति		gemini,matcher,upasanayoga	mula	4.9	11	1	प्रतितिष्ठति	w8.p0								linked	Kena:4.9:b49

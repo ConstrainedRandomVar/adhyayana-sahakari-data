@@ -1,0 +1,124 @@
+text	lane	ref	unit	pratika	lemma	mark	target_layer	target_ref	target_ord	target_occ	target_word	target_deposit	target2_layer	target2_ref	target2_ord	target2_occ	target2_word	target2_deposit	member	status	source_key
+kena	anandagiri	intro	ttika_1	केनेषितमित्याद्येति ।	केनेषितम्	as,mri	bhashya	intro	0	1	केनेषितम्									linked	Kena:intro:ttika_1_7
+kena	anandagiri	intro	ttika_2	प्रागेतस्मादित्यादिना ।	प्रागेतस्मात्कर्माण्यशेषतः	as,mri	bhashya	intro	4	1	प्रागेतस्मात्कर्माण्यशेषतः									linked	Kena:intro:ttika_2_8
+kena	anandagiri	intro	ttika_3	सर्वमेतदिति ।	सर्वमेतद्यथोक्तं	as,mri	bhashya	intro	17	1	सर्वमेतद्यथोक्तं									linked	Kena:intro:ttika_3_15
+kena	anandagiri	intro	ttika_4	सकामस्य त्विति ।	सकामस्य तु	as,mri	bhashya	intro	27	1	सकामस्य									linked	Kena:intro:ttika_4_7
+kena	anandagiri	intro	ttika_5	जायस्व म्रियस्वेति ।	जायस्व म्रियस्वेत्येतत्तृतीयं	as,mri	bhashya	intro	52	1	जायस्व									linked	Kena:intro:ttika_5_0
+kena	anandagiri	intro	ttika_5	तिस्रः प्रजा	तिस्रः प्रजा	mri	bhashya	intro	58	1	प्रजा									linked	Kena:intro:ttika_5_8
+kena	anandagiri	intro	ttika_6	विशुद्धसत्त्वस्य त्विति ।	विशुद्धसत्त्वस्य तु	as,mri	bhashya	intro	65	1	विशुद्धसत्त्वस्य									linked	Kena:intro:ttika_6_8
+kena	anandagiri	intro	ttika_7	इह कृतादिति ।	बाह्यादनित्यात्साध्यसाधनसम्बन्धादिहकृतात्पूर्वकृताद्वा	as,mri	bhashya	intro	68	1	बाह्यादनित्यात्साध्यसाधनसम्बन्धादिहकृतात्पूर्वकृताद्वा									linked	Kena:intro:ttika_7_2
+kena	anandagiri	intro	ttika_8	काठके चेति ।	काठके चोक्तम्	as,mri	bhashya	intro	79	1	काठके									linked	Kena:intro:ttika_8_3
+kena	anandagiri	intro	ttika_9	आवृत्तचक्षुरिति ।	प्रत्यगात्मानमैक्षदावृत्तचक्षुरमृतत्वमिच्छन्	as,mri	bhashya	intro	87	1	प्रत्यगात्मानमैक्षदावृत्तचक्षुरमृतत्वमिच्छन्									linked	Kena:intro:ttika_9_0
+kena	anandagiri	intro	ttika_10	एवं हीति ।	एवं हि विरक्तस्य	as	bhashya	intro	103	1	एवं									linked	Kena:intro:ttika_10_2
+kena	anandagiri	intro	ttika_11	नान्यथेति ।	नान्यथा ।	as,mri	bhashya	intro	113	1	नान्यथा									linked	Kena:intro:ttika_11_0
+kena	anandagiri	intro	ttika_12	एतस्माच्चेति ।	एतस्माच्च	as,mri	bhashya	intro	114	1	एतस्माच्च									linked	Kena:intro:ttika_12_6
+kena	anandagiri	intro	ttika_13	कर्मसहितादपीति ।	कर्मसहितादपि ज्ञानादेतत्सिध्यतीति	as,mri	bhashya	intro	140	1	कर्मसहितादपि									linked	Kena:intro:ttika_13_2
+kena	anandagiri	intro	ttika_14	न वाजासनेयक इति ।	न वाजसनेयके तस्यान्यकारणत्ववचनात्	as,mri	bhashya	intro	143	1	न									linked	Kena:intro:ttika_14_7
+kena	anandagiri	intro	ttika_15	तत्रैव चेति ।	तत्रैव च पारिव्राज्यविधाने	as,mri	bhashya	intro	166	1	तत्रैव									linked	Kena:intro:ttika_15_15
+kena	anandagiri	intro	ttika_16	तत्रायमिति ।	तत्रायं हेत्वर्थः	as,mri	bhashya	intro	178	1	तत्रायं									linked	Kena:intro:ttika_16_2
+kena	anandagiri	intro	ttika_16	किं करिष्यामो	किं करिष्यामो	mri	bhashya	intro	181	2	किं									linked	Kena:intro:ttika_16_4
+kena	anandagiri	intro	ttika_17	न चेति ।	न चास्माकं	as,mri	bhashya	intro	183	2	न									linked	Kena:intro:ttika_17_6
+kena	anandagiri	intro	ttika_18	स चेति ।	स च नित्यत्वान्ना	as,mri	bhashya	intro	196	2	स									linked	Kena:intro:ttika_18_7
+kena	anandagiri	intro	ttika_19	कर्मसहभावित्वेति ।	कर्मसहभावित्वविरोधाच्च	as,mri	bhashya	intro	204	1	कर्मसहभावित्वविरोधाच्च									linked	Kena:intro:ttika_19_5
+kena	anandagiri	intro	ttika_20	वस्तुप्राधान्ये सतीति ।	वस्तुप्राधान्ये सति अपुरुषतन्त्रत्वाद्ब्र	as,mri	bhashya	intro	212	1	वस्तुप्राधान्ये									linked	Kena:intro:ttika_20_8
+kena	anandagiri	intro	ttika_21	तस्मादिति ।	तस्माद्दृष्टादृष्टेभ्यो	as,mri	bhashya	intro	215	1	तस्माद्दृष्टादृष्टेभ्यो									linked	Kena:intro:ttika_21_8
+kena	anandagiri	intro	ttika_22	शिष्याचार्येति ।	शिष्याचार्यप्रश्नप्रतिवचनरूपेण	as,mri	bhashya	intro	223	1	शिष्याचार्यप्रश्नप्रतिवचनरूपेण									linked	Kena:intro:ttika_22_3
+kena	anandagiri	intro	ttika_22	आपनेया		mri														unlinked	Kena:intro:ttika_22_5
+kena	anandagiri	intro	ttika_22	साधिष्ठं		mri														unlinked	Kena:intro:ttika_22_12
+kena	anandagiri	1.1	ttika_0	इषेरिति ।	इषेराभीक्ष्ण्यार्थस्य	as,mri	bhashya	1.1	37	1	इषेराभीक्ष्ण्यार्थस्य									linked	Kena:1.1:ttika_0_7
+kena	anandagiri	1.1	ttika_1	तत्र प्रेषितमित्यादिना ।	तत्र प्रेषितमित्येवोक्ते	as,mri	bhashya	1.1	48	1	तत्र									linked	Kena:1.1:ttika_1_3
+kena	anandagiri	1.1	ttika_2	इच्छामात्रेणेति ।	कस्येच्छामात्रेण	as,mri	bhashya	1.1	63	1	कस्येच्छामात्रेण									linked	Kena:1.1:ttika_2_0
+kena	anandagiri	1.1	ttika_3	अपि चेति ।	अपि च शब्दाधिक्यादर्थाधिक्यं	as,mri	bhashya	1.1	71	1	अपि									linked	Kena:1.1:ttika_3_7
+kena	anandagiri	1.1	ttika_4	न प्रश्नेति ।	न प्रश्नसामर्थ्यात्	as,mri	bhashya	1.1	82	2	न									linked	Kena:1.1:ttika_4_6
+kena	anandagiri	1.1	ttika_5	ननु स्वतन्त्रमित्यादिना ।	ननु स्वतन्त्रं मनः	as,mri	bhashya	1.1	126	1	ननु									linked	Kena:1.1:ttika_5_6
+kena	anandagiri	1.1	ttika_6	अत्युग्रदुःखे चेति ।	अभ्यग्रदुःखे च कार्ये	as,mri	bhashya	1.1	151	1	अभ्यग्रदुःखे									linked	Kena:1.1:ttika_6_0
+kena	anandagiri	1.2	ttika_0	असावेवंविशिष्ट इत्यादिना ।	असावेवंविशिष्टः श्रोत्रादीनि	as,mri	bhashya	1.2	38	1	असावेवंविशिष्टः									linked	Kena:1.2:ttika_0_3
+kena	anandagiri	1.2	ttika_0	फलावसानलिङ्गं	फलावसानलिङ्गं	mri														unlinked	Kena:1.2:ttika_0_39
+kena	anandagiri	1.2	ttika_1	श्रोत्राद्येव सर्वस्येति ।	श्रोत्राद्येव सर्वस्यात्मभूतं	as,mri	bhashya	1.2	152	1	श्रोत्राद्येव									linked	Kena:1.2:ttika_1_2
+kena	anandagiri	1.2	ttika_2	न ह्यात्मनाऽनधिष्ठितस्येति ।	न ह्यात्मनानधिष्ठितस्य	as,mri	bhashya	1.2	254	7	न									linked	Kena:1.2:ttika_2_9
+kena	anandagiri	1.2	ttika_3	प्रष्टुः पृष्टस्यार्थस्येति ।	प्रष्टुः पृष्टस्यार्थस्य	as,mri	bhashya	1.2	308	1	प्रष्टुः									linked	Kena:1.2:ttika_3_3
+kena	anandagiri	1.2	ttika_4	सामर्थ्यादिति ।	सामर्थ्यात्	as,mri	bhashya	1.2	326	1	सामर्थ्यात्									linked	Kena:1.2:ttika_4_0
+kena	anandagiri	1.2	ttika_5	श्रोत्रादौ हीत्यादिना ।	श्रोत्रादौ ह्यात्मभावं	as,mri	bhashya	1.2	328	1	श्रोत्रादौ									linked	Kena:1.2:ttika_5_1
+kena	anandagiri	1.2	ttika_6	मृत्वेति ।	मृत्वेत्यर्थः	as,mri	bhashya	1.2	392	1	मृत्वेत्यर्थः									linked	Kena:1.2:ttika_6_0
+kena	anandagiri	1.3	ttika_0	यस्माच्छ्रोत्रादेरपीत्यादिना ।	यस्माच्छ्रोत्रादेरपि	as	bhashya	1.3	0	1	यस्माच्छ्रोत्रादेरपि									linked	Kena:1.3:ttika_0_9
+kena	anandagiri	1.3	ttika_1	इन्द्रियमनोभ्यां हीति ।	इन्द्रियमनोभ्यां हि वस्तुनो	as,mri	bhashya	1.3	55	1	इन्द्रियमनोभ्यां									linked	Kena:1.3:ttika_1_6
+kena	anandagiri	1.4	ttika_0	अत्यन्तमेवेति ।	अत्यन्तमेवोपदेशप्रकारप्रत्याख्याने	as,mri	bhashya	1.4	6	1	अत्यन्तमेवोपदेशप्रकारप्रत्याख्याने									linked	Kena:1.4:ttika_0_10
+kena	anandagiri	1.4	ttika_1	यद्विदितं तदल्पमित्यादिना ।	यद्विदितं तदल्पं मर्त्यं	as,mri	bhashya	1.4	64	1	यद्विदितं									linked	Kena:1.4:ttika_1_4
+kena	anandagiri	1.4	ttika_2	न ह्यन्यस्येति ॥ ३ ॥	न ह्यन्यस्य स्वात्मनो	as	bhashya	1.4	92	4	न									linked	Kena:1.4:ttika_2_11
+kena	anandagiri	1.5	ttika_0	अन्यदेव तद्विदितादित्यादिना ।	अन्यदेव तद्विदितादथो अविदितादधि	as,mri	bhashya	1.5	0	1	अन्यदेव									linked	Kena:1.5:ttika_0_4
+kena	anandagiri	1.5	ttika_1	अष्टसु स्थानेष्विति ।	जिह्वामूलादिष्वष्टसु स्थानेषु	as,mri	bhashya	1.5	64	1	जिह्वामूलादिष्वष्टसु									linked	Kena:1.5:ttika_1_0
+kena	anandagiri	1.5	ttika_2	आग्नेयमिति ।	विषक्तमाग्नेयं	as,mri	bhashya	1.5	66	1	विषक्तमाग्नेयं									linked	Kena:1.5:ttika_2_0
+kena	anandagiri	1.5	ttika_3	वर्णाश्चेति ।	वर्णाश्चार्थसङ्केतपरिच्छिन्ना	as,mri	bhashya	1.5	69	1	वर्णाश्चार्थसङ्केतपरिच्छिन्ना									linked	Kena:1.5:ttika_3_6
+kena	anandagiri	1.5	ttika_4	तदभिव्यङ्ग्य इति ।	तदभिव्यङ्ग्यः शब्दः	as,mri	bhashya	1.5	74	1	तदभिव्यङ्ग्यः									linked	Kena:1.5:ttika_4_1
+kena	anandagiri	1.5	ttika_5	अकार इति ।	अकारो वै	as,mri	bhashya	1.5	78	1	अकारो									linked	Kena:1.5:ttika_5_3
+kena	anandagiri	1.5	ttika_5	स्पर्शा	स्पर्शा	mri	bhashya	1.5	82	1	स्पर्शान्तःस्थोष्मभिर्व्यज्यमाना									linked	Kena:1.5:ttika_5_15
+kena	anandagiri	1.5	ttika_5	अन्तस्थाः	अन्तस्थाः	mri	bhashya	1.5	82	1	स्पर्शान्तःस्थोष्मभिर्व्यज्यमाना									linked	Kena:1.5:ttika_5_17
+kena	anandagiri	1.5	ttika_5	अमितं	अमितं	mri	bhashya	1.5	88	1	मितममितं									linked	Kena:1.5:ttika_5_27
+kena	anandagiri	1.5	ttika_5	स्वरः	स्वरः	mri	bhashya	1.5	89	1	स्वरः									linked	Kena:1.5:ttika_5_30
+kena	anandagiri	1.5	ttika_5	अनृतं	अनृतं	mri														unlinked	Kena:1.5:ttika_5_38
+kena	anandagiri	1.5	ttika_5	करणगुणवती पुरुषेषु	करणगुणवती पुरुषेषु	mri	bhashya	1.5	125	1	पुरुषेषु									linked	Kena:1.5:ttika_5_47
+kena	anandagiri	1.5	ttika_5	या वाक्श		mri														unlinked	Kena:1.5:ttika_5_50
+kena	anandagiri	1.5	ttika_6	यैर्वागाद्युपाधिभिरिति ।	यैर्वागाद्युपाधिभिः वाचो	as,mri	bhashya	1.5	160	1	यैर्वागाद्युपाधिभिः									linked	Kena:1.5:ttika_6_2
+kena	anandagiri	1.5	ttika_7	नियमार्थमिति ।	नियमार्थम् अन्यब्रह्मबुद्धिपरिसङ्ख्यानार्थं	as,mri	bhashya	1.5	205	1	नियमार्थम्									linked	Kena:1.5:ttika_7_0
+kena	anandagiri	2.1	ttika_0	सर्वस्य हीति ।	सर्वस्य हि वेदितुः	as,mri	bhashya	2.1	40	1	सर्वस्य									linked	Kena:2.1:ttika_0_11
+kena	anandagiri	2.1	ttika_1	कदाचिदिति ।	कदाचिद्यथाश्रुतं	as,mri	bhashya	2.1	107	1	कदाचिद्यथाश्रुतं									linked	Kena:2.1:ttika_1_4
+kena	anandagiri	2.1	ttika_2	सकृदिति ।	सकृद्द्विस्त्रिरुक्तं	as,mri	bhashya	2.1	133	1	सकृद्द्विस्त्रिरुक्तं									linked	Kena:2.1:ttika_2_0
+kena	anandagiri	2.1	ttika_3	अर्भकाणि चेति ।	महान्त्यर्भकाणि च	as,mri	bhashya	2.1	177	1	महान्त्यर्भकाणि									linked	Kena:2.1:ttika_3_0
+kena	anandagiri	2.1	ttika_4	ननु येनैवेति ।	ननु येनैव धर्मेण	as,mri	bhashya	2.1	199	1	ननु									linked	Kena:2.1:ttika_4_6
+kena	anandagiri	2.1	ttika_5	चैतन्यमिति ।	चैतन्यम् पृथिव्यादीनामन्यतमस्य	as,mri	bhashya	2.1	216	1	चैतन्यम्									linked	Kena:2.1:ttika_5_6
+kena	anandagiri	2.1	ttika_6	तथा चोक्तमिति ।	तथा चोक्तम् ।	as,mri	bhashya	2.1	235	2	तथा									linked	Kena:2.1:ttika_6_2
+kena	anandagiri	2.1	ttika_7	तदनुकारित्वादित्यादिना ।	तदनुकारित्वाद्देहादिवृद्धिसङ्कोचच्छेदादिषु	as,mri	bhashya	2.1	256	1	तदनुकारित्वाद्देहादिवृद्धिसङ्कोचच्छेदादिषु									linked	Kena:2.1:ttika_7_6
+kena	anandagiri	2.1	ttika_8	स्वतस्त्विति ।	नाशेषु च न स्वतः । स्वतस्तु	as,mri	bhashya	2.1	257	1	नाशेषु									linked	Kena:2.1:ttika_8_9
+kena	anandagiri	2.1	ttika_9	तर्कतश्चेति ।	तर्कतश्च निर्धार्य	as,mri	bhashya	2.1	328	1	तर्कतश्च									linked	Kena:2.1:ttika_9_0
+kena	anandagiri	2.2	ttika_0	यदेवान्यदेवेति ।	च इति । यदेव	as,mri	bhashya	2.2	120	7	च									linked	Kena:2.2:ttika_0_5
+kena	anandagiri	2.2	ttika_1	तथा चेति ।	तथा च गर्जितमुपपन्नं	as,mri	bhashya	2.2	142	1	तथा									linked	Kena:2.2:ttika_1_0
+kena	anandagiri	2.3	ttika_0	अथवा हेत्वर्थ इति ।	अथवा हेत्वर्थ उत्तरार्धोऽ	as,mri	bhashya	2.3	69	1	अथवा									linked	Kena:2.3:ttika_0_0
+kena	anandagiri	2.4	ttika_0	अविज्ञातमित्यादिना ।	अविज्ञातं	as,mri	bhashya	2.4	0	1	अविज्ञातं									linked	Kena:2.4:ttika_0_13
+kena	anandagiri	2.4	ttika_1	प्रतिबोधविदितमिति ।	प्रतिबोधविदितं बोधं बोधं प्रति विदितम् ।	as,mri	bhashya	2.4	19	1	प्रतिबोधविदितं									linked	Kena:2.4:ttika_1_16
+kena	anandagiri	2.4	ttika_1	प्रत्ययेष्वविशिष्टतयाऽ	प्रत्ययेष्वविशिष्टतयाऽ	mri	bhashya	2.4	38	1	प्रत्ययेष्वविशिष्टतया									linked	Kena:2.4:ttika_1_18
+kena	anandagiri	2.4	ttika_2	सर्वप्रत्ययदर्शित्वे चेति ।	सर्वप्रत्ययदर्शित्वे चोपजननापाय	as,mri	bhashya	2.4	51	1	सर्वप्रत्ययदर्शित्वे									linked	Kena:2.4:ttika_2_13
+kena	anandagiri	2.4	ttika_3	विदिताविदिताभ्यामन्यदिति ।	विदिताविदिताभ्यामन्यद्ब्रह्मेत्यागमवाक्यार्थ	as,mri	bhashya	2.4	63	1	विदिताविदिताभ्यामन्यद्ब्रह्मेत्यागमवाक्यार्थ									linked	Kena:2.4:ttika_3_4
+kena	anandagiri	2.4	ttika_4	यदा पुनरित्यादिना ।	यदा पुनर्बोधक्रियाकर्तेति	as,mri	bhashya	2.4	76	2	यदा									linked	Kena:2.4:ttika_4_2
+kena	anandagiri	2.4	ttika_5	आत्मनो निरवयवत्वेनेति ।	आत्मनो निरवयवत्वेन प्रदेशाभावात्	as,mri	bhashya	2.4	152	1	आत्मनो									linked	Kena:2.4:ttika_5_7
+kena	anandagiri	2.4	ttika_6	नित्येति ।	नित्यसंयुक्तत्वाच्च	as,mri	bhashya	2.4	155	1	नित्यसंयुक्तत्वाच्च									linked	Kena:2.4:ttika_6_16
+kena	anandagiri	2.4	ttika_7	संसर्गधर्मित्वं चेति ।	संसर्गधर्मित्वं चात्मनः	as,mri	bhashya	2.4	159	1	संसर्गधर्मित्वं									linked	Kena:2.4:ttika_7_7
+kena	anandagiri	2.4	ttika_8	न्यायश्चेति ।	न्यायश्च गुणवद्गुणवता	as,mri	bhashya	2.4	173	1	न्यायश्च									linked	Kena:2.4:ttika_8_2
+kena	anandagiri	2.4	ttika_9	यत्पुनरित्यादिना ।	यत्पुनः स्वसंवेद्यता प्रतिबोधविदित्यस्य	as,mri	bhashya	2.4	199	1	यत्पुनः									linked	Kena:2.4:ttika_9_2
+kena	anandagiri	2.4	ttika_10	तत्र भवति सोपाधिकत्वमिति ।	तत्र भवति सोपाधिकत्वे आत्मनो	as,mri	bhashya	2.4	204	1	तत्र									linked	Kena:2.4:ttika_10_15
+kena	anandagiri	2.4	ttika_11	संवेदनरूपत्वादिति ।	संवेदनस्वरूपत्वात्संवेदनान्तरापेक्षा	as,mri	bhashya	2.4	228	1	संवेदनस्वरूपत्वात्संवेदनान्तरापेक्षा									linked	Kena:2.4:ttika_11_6
+kena	anandagiri	2.4	ttika_12	बौद्धपक्ष इति ।	बौद्धपक्षे स्वसंवेद्यतायां	as,mri	bhashya	2.4	238	1	बौद्धपक्षे									linked	Kena:2.4:ttika_12_8
+kena	anandagiri	2.4	ttika_13	यत्पुनरिति ।	यत्पुनः प्रतिबोधशब्देन	as,mri	bhashya	2.4	261	2	यत्पुनः									linked	Kena:2.4:ttika_13_2
+kena	anandagiri	2.4	ttika_13	वार्तिककृता		mri														unlinked	Kena:2.4:ttika_13_15
+kena	anandagiri	2.4	ttika_14	निर्निमित्त इति ।	निर्निमित्तो बोधः	as,mri	bhashya	2.4	263	1	निर्निमित्तो									linked	Kena:2.4:ttika_14_1
+kena	anandagiri	2.4	ttika_15	अमृतत्वमिति ।	अमृतत्वम् अमरणभावं	as,mri	bhashya	2.4	280	1	अमृतत्वम्									linked	Kena:2.4:ttika_15_9
+kena	anandagiri	2.4	ttika_16	बोधस्य हीति ।	बोधस्य हि प्रत्यगात्मविषयत्वं	as,mri	bhashya	2.4	291	1	बोधस्य									linked	Kena:2.4:ttika_16_2
+kena	anandagiri	2.4	ttika_17	न हीति ।	न ह्यात्मनोऽनात्मत्वममृतत्वं	as,mri	bhashya	2.4	297	9	न									linked	Kena:2.4:ttika_17_12
+kena	anandagiri	2.4	ttika_18	आत्मत्वादिति ।	आत्मत्वादात्मनोऽमृतत्वं	as,mri	bhashya	2.4	300	1	आत्मत्वादात्मनोऽमृतत्वं									linked	Kena:2.4:ttika_18_6
+kena	anandagiri	2.4	ttika_19	एवं मर्त्यत्वमिति ।	एवं मर्त्यत्वमात्मनो	as,mri	bhashya	2.4	302	2	एवं									linked	Kena:2.4:ttika_19_4
+kena	anandagiri	2.4	ttika_19	वीर्यं	वीर्यं	mri	bhashya	2.4	317	1	वीर्यं		mula	2.4	7	1	वीर्यम्	w6.p0		linked	Kena:2.4:ttika_19_13
+kena	anandagiri	2.5	ttika_0	कष्टा खल्विति ।	कष्टा खलु सुरनरतिर्यक्प्रेतादिषु	as,mri	bhashya	2.5	0	1	कष्टा									linked	Kena:2.5:ttika_0_1
+kena	anandagiri	2.5	ttika_0	सत्यम्	सत्यम्	mri	bhashya	2.5	23	1	सत्यं		mula	2.5	4	1	सत्यम्	w2.p0		linked	Kena:2.5:ttika_0_5
+kena	anandagiri	2.5	ttika_0	सद्भावः	सद्भावः	mri	bhashya	2.5	26	1	सद्भावो									linked	Kena:2.5:ttika_0_11
+kena	anandagiri	3.1	ttika_0	ब्रह्मेत्यादिना ।	ब्रह्म ह देवेभ्यो	as,mri	bhashya	3.1	0	1	ब्रह्म									linked	Kena:3.1:ttika_0_3
+kena	anandagiri	3.1	ttika_1	वक्ष्यमाणेति ।	वक्ष्यमाणोपनिषद्विधिपरं	as,mri	bhashya	3.1	63	1	वक्ष्यमाणोपनिषद्विधिपरं									linked	Kena:3.1:ttika_1_2
+kena	anandagiri	3.1	ttika_1	ईश्वरस्य सेतवो	ईश्वरस्य सेतवो	mri	bhashya	3.1	107	1	ईश्वरस्य									linked	Kena:3.1:ttika_1_22
+kena	anandagiri	3.1	ttika_1	जगतः स्थेम्ने	जगतः स्थेम्ने	mri	bhashya	3.1	93	1	स्थेम्ने									linked	Kena:3.1:ttika_1_27
+kena	anandagiri	3.1	ttika_1	द्विद्योतनं कृतवदित्यनुपपन्नं	द्विद्योतनंकृतवद	mri														unlinked	Kena:3.1:ttika_1_94
+kena	anandagiri	4.4	ttika_0	प्रतिनिर्देशार्थ इति ।	आदेशप्रतिनिर्देशार्थः	as,mri	bhashya	4.4	51	1	आदेशप्रतिनिर्देशार्थः									linked	Kena:4.4:ttika_0_0
+kena	anandagiri	4.5	ttika_0	अथानन्तरमिति ।	अथ अनन्तरम् अध्यात्मं	as,mri	bhashya	4.5	0	1	अथ									linked	Kena:4.5:ttika_0_6
+kena	anandagiri	4.5	ttika_1	मनो	मनो	mri	bhashya	4.5	9	1	मनः									linked	Kena:4.5:ttika_1_5
+kena	anandagiri	4.5	ttika_1	भीक्ष्णं	भीक्ष्णं	mri	bhashya	4.5	23	1	अभीक्ष्णं		mula	4.5	12	1	अभीक्ष्णम्	w4.p3		linked	Kena:4.5:ttika_1_13
+kena	anandagiri	4.5	ttika_1	सङ्कल्पो	सङ्कल्पो	mri	bhashya	4.5	25	1	सङ्कल्पश्च		mula	4.5	13	1	सङ्कल्पः	w5.p0		linked	Kena:4.5:ttika_1_17
+kena	anandagiri	4.5	ttika_1	मनउपाधिकत्वाद्धीति ।	मनउपाधिकत्वाद्धि मनसः	as,mri	bhashya	4.5	28	1	मनउपाधिकत्वाद्धि									linked	Kena:4.5:ttika_1_23
+kena	anandagiri	4.5	ttika_2	विद्युन्निमेषणवदिति ।	विद्युन्निमेषणवदधिदैवतं	as,mri	bhashya	4.5	37	1	विद्युन्निमेषणवदधिदैवतं									linked	Kena:4.5:ttika_2_2
+kena	anandagiri	4.7	ttika_0	एवमनुशिष्ट इति ।	एवमनुशिष्टः शिष्य	as,mri	bhashya	4.7	0	1	एवमनुशिष्टः									linked	Kena:4.7:ttika_0_5
+kena	anandagiri	4.7	ttika_1	परमात्मविषयामित्यादिना ।	परमात्मविषयत्वादतीतविज्ञानस्य	as,mri	bhashya	4.7	27	1	परमात्मविषयत्वादतीतविज्ञानस्य									linked	Kena:4.7:ttika_1_4
+kena	anandagiri	4.7	ttika_2	एतदुपपन्नमिति ।	एतदुपपन्नमाचार्यस्यावधारणवचनम्	as,mri	bhashya	4.7	79	1	एतदुपपन्नमाचार्यस्यावधारणवचनम्									linked	Kena:4.7:ttika_2_3
+kena	anandagiri	4.7	ttika_3	सहपठितानामपीति ।	सहपठितानामपि यथायोगं	as,mri	bhashya	4.7	112	1	सहपठितानामपि									linked	Kena:4.7:ttika_3_12
+kena	anandagiri	4.7	ttika_4	नायुक्तेरिति ।	न अयुक्तेः ।	as,mri	bhashya	4.7	137	4	न									linked	Kena:4.7:ttika_4_8
+kena	anandagiri	4.7	ttika_5	सर्वविषयेति ।	सर्वविषयव्यावृत्तप्रत्यगात्मविषयनिष्ठत्वाच्च	as,mri	bhashya	4.7	152	1	सर्वविषयव्यावृत्तप्रत्यगात्मविषयनिष्ठत्वाच्च									linked	Kena:4.7:ttika_5_15
+kena	anandagiri	4.8	ttika_0	यामिमामिति ।	यामिमां ब्राह्मीमुपनिषदं	as,mri	bhashya	4.8	0	1	यामिमां									linked	Kena:4.8:ttika_0_3
+kena	anandagiri	4.8	ttika_0	प्राप्तिः	प्राप्तिः	mri	bhashya	4.8	7	1	प्राप्त्युपायभूतानि									linked	Kena:4.8:ttika_0_5
+kena	anandagiri	4.8	ttika_1	पादरूपककल्पनेति ।	पादरूपकल्पनार्थत्वाद्वेदास्त्वितराणि	as,mri	bhashya	4.8	82	1	पादरूपकल्पनार्थत्वाद्वेदास्त्वितराणि									linked	Kena:4.8:ttika_1_0
+kena	anandagiri	4.8	ttika_2	तपआदिष्वेवेति ॥ ३३ ८ ॥	तपआदिष्वेव प्रतिष्ठात्वेन	as	bhashya	4.8	124	1	तपआदिष्वेव									linked	Kena:4.8:ttika_2_8
+kena	anandagiri	4.9	ttika_0	यो वा एतामित्यादिना ॥ ३४ ९ ॥	यो वै एतां ब्रह्मविद्याम्	as	bhashya	4.9	0	1	यो									linked	Kena:4.9:ttika_0_7

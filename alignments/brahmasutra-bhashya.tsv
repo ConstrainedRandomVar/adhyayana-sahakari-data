@@ -1,0 +1,1835 @@
+text	lane	ref	unit	pratika	lemma	mark	target_layer	target_ref	target_ord	target_occ	target_word	target_deposit	target2_layer	target2_ref	target2_ord	target2_occ	target2_word	target2_deposit	member	status	source_key
+brahmasutra	bhashya	1.1.1	b76	ब्रह्म		matcher	mula	1.1.1	1	1	ब्रह्म-जिज्ञासा	w1.p0							0	linked	BS:1.1.1:b76
+brahmasutra	bhashya	1.1.1	b156	ब्रह्मजिज्ञासा		gemini,matcher	mula	1.1.1	1	1	ब्रह्म-जिज्ञासा	w1.p0								linked	BS:1.1.1:b156
+brahmasutra	bhashya	1.1.1	b160	ब्रह्मजिज्ञासा		matcher	mula	1.1.1	1	1	ब्रह्म-जिज्ञासा	w1.p0								linked	BS:1.1.1:b160
+brahmasutra	bhashya	1.1.1	b253	जिज्ञासा			mula	1.1.1	1	1	ब्रह्म-जिज्ञासा	w1.p0							1	linked	BS:1.1.1:b253
+brahmasutra	bhashya	1.1.2	b0	जन्म		gemini,matcher	mula	1.1.2	0	1	जन्म-आदि	w0.p0							0	linked	BS:1.1.2:b0
+brahmasutra	bhashya	1.1.2	b28	अस्येति		gemini	mula	1.1.2	0.1	1	अस्य	w0.p1								linked	BS:1.1.2:b28
+brahmasutra	bhashya	1.1.2	b35	यत		gemini														unlinked	BS:1.1.2:b35
+brahmasutra	bhashya	1.1.2	b36	इति		gemini														unlinked	BS:1.1.2:b36
+brahmasutra	bhashya	1.1.2	b38	अस्य		gemini	mula	1.1.2	0.1	1	अस्य	w0.p1								linked	BS:1.1.2:b38
+brahmasutra	bhashya	1.1.2	b46	यतः		gemini,matcher														unlinked	BS:1.1.2:b46
+brahmasutra	bhashya	1.1.3	b6	योनिः		gemini	mula	1.1.3	0	1	शास्त्र-योनि-त्व-आत्	w0.p0							1	linked	BS:1.1.3:b6
+brahmasutra	bhashya	1.1.3	b17	शास्त्रं		matcher	mula	1.1.3	0	1	शास्त्र-योनि-त्व-आत्	w0.p0							0	linked	BS:1.1.3:b17
+brahmasutra	bhashya	1.1.3	b56	योनिः		gemini	mula	1.1.3	0	1	शास्त्र-योनि-त्व-आत्	w0.p0							1	linked	BS:1.1.3:b56
+brahmasutra	bhashya	1.1.3	b83	शास्त्रयोनित्वं		matcher	mula	1.1.3	0	1	शास्त्र-योनि-त्व-आत्	w0.p0							0-2	linked	BS:1.1.3:b83
+brahmasutra	bhashya	1.1.3	b96	शास्त्रयोनित्वात्		gemini,matcher	mula	1.1.3	0	1	शास्त्र-योनि-त्व-आत्	w0.p0								linked	BS:1.1.3:b96
+brahmasutra	bhashya	1.1.4	b8	समन्वयात्		matcher	mula	1.1.4	1	1	समन्वयात्	w1.p0								linked	BS:1.1.4:b8
+brahmasutra	bhashya	1.1.5	b7	अशब्दं		gemini	mula	1.1.5	0.2	1	अशब्दम्	w0.p2								linked	BS:1.1.5:b7
+brahmasutra	bhashya	1.1.5	b11	ईक्षतेः		gemini,matcher	mula	1.1.5	0.0	1	ईक्षतेः	w0.p0								linked	BS:1.1.5:b11
+brahmasutra	bhashya	1.1.6	b7	आत्मशब्दात्		gemini,matcher	mula	1.1.6	0.3	1	आत्म-शब्दात्	w0.p3								linked	BS:1.1.6:b7
+brahmasutra	bhashya	1.1.7	b23	मोक्षोपदेशात्		gemini,matcher	mula	1.1.7	1	1	मोक्ष - उपदेशात्	w1.p0								linked	BS:1.1.7:b23
+brahmasutra	bhashya	1.1.7	b84	मोक्षोपदेश		matcher	mula	1.1.7	1	1	मोक्ष - उपदेशात्	w1.p0								linked	BS:1.1.7:b84
+brahmasutra	bhashya	1.1.7	b94	मोक्षोपदेशो		matcher	mula	1.1.7	1	1	मोक्ष - उपदेशात्	w1.p0								linked	BS:1.1.7:b94
+brahmasutra	bhashya	1.1.7	b185	तन्निष्ठस्य		gemini,matcher														unlinked	BS:1.1.7:b185
+brahmasutra	bhashya	1.1.7	b186	मोक्षोपदेशात्		gemini,matcher	mula	1.1.7	1	1	मोक्ष - उपदेशात्	w1.p0								linked	BS:1.1.7:b186
+brahmasutra	bhashya	1.1.8	b16	हेयत्वं		gemini,matcher	mula	1.1.8	0	1	हेयत्व-अवचनात्	w0.p0							0	linked	BS:1.1.8:b16
+brahmasutra	bhashya	1.1.8	b35	चशब्दः		gemini														unlinked	BS:1.1.8:b35
+brahmasutra	bhashya	1.1.8	b38	हेयत्ववचने		matcher	mula	1.1.8	0	1	हेयत्व-अवचनात्	w0.p0								linked	BS:1.1.8:b38
+brahmasutra	bhashya	1.1.10	b67	गतिसामान्यात्सर्वज्ञं			mula	1.1.10	0	1	गति-सामान्यात्	w0.p0								linked	BS:1.1.10:b67
+brahmasutra	bhashya	1.1.12::pre	b199	आनन्दमयोऽभ्यासात्			mula	1.1.12	0.0	1	आनन्दमयः	w0.p0								linked	BS:1.1.12::pre:b199
+brahmasutra	bhashya	1.1.12	b36	आनन्दमयः		matcher	mula	1.1.12	0.0	1	आनन्दमयः	w0.p0								linked	BS:1.1.12:b36
+brahmasutra	bhashya	1.1.12	b65	आनन्दमय		matcher	mula	1.1.12	0.0	1	आनन्दमयः	w0.p0								linked	BS:1.1.12:b65
+brahmasutra	bhashya	1.1.12	b78	आनन्दमयोऽभ्यासात्		gemini,matcher	mula	1.1.12	0.0	1	आनन्दमयः	w0.p0								linked	BS:1.1.12:b78
+brahmasutra	bhashya	1.1.12	b83	अभ्यासात्		gemini	mula	1.1.12	0.1	1	अभ्यासात्	w0.p1								linked	BS:1.1.12:b83
+brahmasutra	bhashya	1.1.12	b87	आनन्दमयं		matcher	mula	1.1.12	0.0	1	आनन्दमयः	w0.p0								linked	BS:1.1.12:b87
+brahmasutra	bhashya	1.1.13	b6	विकारशब्दात्		gemini	mula	1.1.13	0.0	1	विकारशब्दात्	w0.p0								linked	BS:1.1.13:b6
+brahmasutra	bhashya	1.1.13	b17	इति		gemini	mula	1.1.13	0.2	1	इति	w0.p2								linked	BS:1.1.13:b17
+brahmasutra	bhashya	1.1.13	b18	चेत्		gemini	mula	1.1.13	1.0	1	चेद्	w1.p0								linked	BS:1.1.13:b18
+brahmasutra	bhashya	1.1.13	b19	न		gemini	mula	1.1.13	1.1	2	न	w1.p1								linked	BS:1.1.13:b19
+brahmasutra	bhashya	1.1.14	b9	इति																unlinked	BS:1.1.14:b9
+brahmasutra	bhashya	1.1.15	b34	गीयते		matcher	mula	1.1.15	2	1	गीयते	w2.p0								linked	BS:1.1.15:b34
+brahmasutra	bhashya	1.1.16	b3	नेतरः		gemini,matcher	mula	1.1.16	0.0	1	न	w0.p0								linked	BS:1.1.16:b3
+brahmasutra	bhashya	1.1.16	b4	इतर		gemini	mula	1.1.16	0.1	1	इतरः	w0.p1								linked	BS:1.1.16:b4
+brahmasutra	bhashya	1.1.16	b13	अनुपपत्तेः		gemini,matcher	mula	1.1.16	0.2	1	अनुपपत्तेः	w0.p2								linked	BS:1.1.16:b13
+brahmasutra	bhashya	1.1.17	b13	भेदेन		gemini														unlinked	BS:1.1.17:b13
+brahmasutra	bhashya	1.1.17	b14	व्यपदिशति		gemini														unlinked	BS:1.1.17:b14
+brahmasutra	bhashya	1.1.17	b86	भेदव्यपदेशाच्च		matcher	mula	1.1.17	0.0	1	भेदव्यपदेशात्	w0.p0								linked	BS:1.1.17:b86
+brahmasutra	bhashya	1.1.18	b7	कामयितृत्वनिर्देशात्																unlinked	BS:1.1.18:b7
+brahmasutra	bhashya	1.1.19	b10	तद्योगं		gemini,matcher	mula	1.1.19	2	1	तद्-योगम्	w2.p0								linked	BS:1.1.19:b10
+brahmasutra	bhashya	1.1.19	b11	शास्ति		gemini,matcher	mula	1.1.19	3	1	शास्ति	w3.p0								linked	BS:1.1.19:b11
+brahmasutra	bhashya	1.1.19	b16	तद्योगं		gemini	mula	1.1.19	2	1	तद्-योगम्	w2.p0								linked	BS:1.1.19:b16
+brahmasutra	bhashya	1.1.19	b17	शास्ति		gemini	mula	1.1.19	3	1	शास्ति	w3.p0								linked	BS:1.1.19:b17
+brahmasutra	bhashya	1.1.20	b145	अन्तस्तद्धर्मोपदेशात्		gemini,matcher	mula	1.1.20	0	1	अन्तः	w0.p0								linked	BS:1.1.20:b145
+brahmasutra	bhashya	1.1.20	b160	तद्धर्मोपदेशात्		matcher	mula	1.1.20	0.1	1	तद्-धर्म-उपदेशात्	w0.p1								linked	BS:1.1.20:b160
+brahmasutra	bhashya	1.1.21	b19	भेदव्यपदेशात्			mula	1.1.21	0.0	1	भेद-व्यपदेशात्	w0.p0								linked	BS:1.1.21:b19
+brahmasutra	bhashya	1.1.22	b128	आकाशस्तल्लिङ्गात्		gemini,matcher	mula	1.1.22	0.0	1	आकाशः	w0.p0								linked	BS:1.1.22:b128
+brahmasutra	bhashya	1.1.22	b134	तल्लिङ्गात्		gemini,matcher	mula	1.1.22	0.1	1	तद्-लिङ्गात्	w0.p1								linked	BS:1.1.22:b134
+brahmasutra	bhashya	1.1.23	b42	अत		gemini,matcher														unlinked	BS:1.1.23:b42
+brahmasutra	bhashya	1.1.23	b64	एव		gemini,matcher	mula	1.1.23	1	1	एव	w1.p0								linked	BS:1.1.23:b64
+brahmasutra	bhashya	1.1.23	b130	अत		gemini														unlinked	BS:1.1.23:b130
+brahmasutra	bhashya	1.1.23	b131	एव		gemini	mula	1.1.23	1	1	एव	w1.p0								linked	BS:1.1.23:b131
+brahmasutra	bhashya	1.1.23	b132	प्राणः			mula	1.1.23	2	1	प्राणः	w2.p0								linked	BS:1.1.23:b132
+brahmasutra	bhashya	1.1.23	b137	अत																unlinked	BS:1.1.23:b137
+brahmasutra	bhashya	1.1.23	b138	एव			mula	1.1.23	1	1	एव	w1.p0								linked	BS:1.1.23:b138
+brahmasutra	bhashya	1.1.24	b14	ज्योतिः		matcher	mula	1.1.24	0	1	ज्योतिः-चरण-अभिधानात्	w0.p0							0	linked	BS:1.1.24:b14
+brahmasutra	bhashya	1.1.24	b249	ज्योतिरिह			mula	1.1.24	0	1	ज्योतिः-चरण-अभिधानात्	w0.p0							0	linked	BS:1.1.24:b249
+brahmasutra	bhashya	1.1.24	b253	चरणाभिधानात्		gemini,matcher	mula	1.1.24	0	1	ज्योतिः-चरण-अभिधानात्	w0.p0							1-2	linked	BS:1.1.24:b253
+brahmasutra	bhashya	1.1.25	b67	तस्माच्छन्दोभिधानान्न																unlinked	BS:1.1.25:b67
+brahmasutra	bhashya	1.1.25	b70	चेत्		gemini	mula	1.1.25	1.0	1	चेद्	w1.p0								linked	BS:1.1.25:b70
+brahmasutra	bhashya	1.1.25	b73	तथा		matcher	mula	1.1.25	2	1	तथा	w2.p0								linked	BS:1.1.25:b73
+brahmasutra	bhashya	1.1.25	b74	चेतोर्पणनिगदात्		matcher	mula	1.1.25	3.0	1	चेतस्-अर्पण-निगदात्	w3.p0								linked	BS:1.1.25:b74
+brahmasutra	bhashya	1.1.27	b24	उभयस्मिन्नप्यविरोधात्		gemini,matcher	mula	1.1.27	1.2	1	उभयस्मिन्	w1.p2								linked	BS:1.1.27:b24
+brahmasutra	bhashya	1.1.27	b25	उभयस्मिन्नपि		matcher	mula	1.1.27	1.2	1	उभयस्मिन्	w1.p2								linked	BS:1.1.27:b25
+brahmasutra	bhashya	1.1.28	b25	प्राण		matcher	mula	1.1.28	0.0	1	प्राणः	w0.p0								linked	BS:1.1.28:b25
+brahmasutra	bhashya	1.1.28	b112	तथानुगमात्		gemini,matcher	mula	1.1.28	0.1	1	तथा	w0.p1								linked	BS:1.1.28:b112
+brahmasutra	bhashya	1.1.29	b4	न		matcher	mula	1.1.29	0	1	न	w0.p0								linked	BS:1.1.29:b4
+brahmasutra	bhashya	1.1.29	b10	वक्ता		matcher	mula	1.1.29	1.0	1	वक्तुः	w1.p0								linked	BS:1.1.29:b10
+brahmasutra	bhashya	1.1.29	b85	अध्यात्मसम्बन्धभूमा		gemini,matcher	mula	1.1.29	2.1	1	अध्यात्म-सम्बन्ध-भूमा	w2.p1								linked	BS:1.1.29:b85
+brahmasutra	bhashya	1.1.29	b86	ह्यस्मिन्		gemini,matcher														unlinked	BS:1.1.29:b86
+brahmasutra	bhashya	1.1.29	b88	अध्यात्मसम्बन्धः		gemini,matcher														unlinked	BS:1.1.29:b88
+brahmasutra	bhashya	1.1.29	b91	भूमा		gemini	mula	1.1.29	2.1	1	अध्यात्म-सम्बन्ध-भूमा	w2.p1							2	linked	BS:1.1.29:b91
+brahmasutra	bhashya	1.1.29	b93	अस्मिन्नध्याये			mula	1.1.29	3.1	1	अस्मिन्	w3.p1								linked	BS:1.1.29:b93
+brahmasutra	bhashya	1.1.31	b9	जीवलिङ्गात्		gemini														unlinked	BS:1.1.31:b9
+brahmasutra	bhashya	1.1.31	b10	मुख्यप्राणलिङ्गाच्च		gemini	mula	1.1.31	0.0	1	जीव-मुख्य-प्राण-लिङ्गात्	w0.p0							1-3	linked	BS:1.1.31:b10
+brahmasutra	bhashya	1.1.31	b107	न		gemini	mula	1.1.31	0.1	1	न	w0.p1								linked	BS:1.1.31:b107
+brahmasutra	bhashya	1.1.31	b111	उपासात्रैविध्यात्		gemini	mula	1.1.31	1.2	1	उपासा-त्रैविध्यात्	w1.p2								linked	BS:1.1.31:b111
+brahmasutra	bhashya	1.1.31	b155	आश्रितत्वाच्च		gemini	mula	1.1.31	1.3	1	आश्रितत्वात्	w1.p3								linked	BS:1.1.31:b155
+brahmasutra	bhashya	1.1.31	b160	इहापि		gemini	mula	1.1.31	1.4	1	इह	w1.p4								linked	BS:1.1.31:b160
+brahmasutra	bhashya	1.1.31	b167	मुख्यप्राणलिङ्गं		matcher	mula	1.1.31	0.0	1	जीव-मुख्य-प्राण-लिङ्गात्	w0.p0							1-3	linked	BS:1.1.31:b167
+brahmasutra	bhashya	1.1.31	b273	नोपासात्रैविध्यादाश्रितत्वादिह		gemini,matcher	mula	1.1.31	1.1	2	न	w1.p1								linked	BS:1.1.31:b273
+brahmasutra	bhashya	1.1.31	b274	तद्योगात्		gemini,matcher	mula	1.1.31	2	1	तद्-योगात्	w2.p0								linked	BS:1.1.31:b274
+brahmasutra	bhashya	1.1.31	b278	जीवमुख्यप्राणलिङ्गं		matcher														unlinked	BS:1.1.31:b278
+brahmasutra	bhashya	1.1.31	b281	उपासात्रैविध्यात्		gemini	mula	1.1.31	1.2	1	उपासा-त्रैविध्यात्	w1.p2								linked	BS:1.1.31:b281
+brahmasutra	bhashya	1.2.1	b39	प्रसिद्धो		matcher	mula	1.2.1	1	1	प्रसिद्ध-उपदेशात्	w1.p0							0	linked	BS:1.2.1:b39
+brahmasutra	bhashya	1.2.1	b106	क्रतुः		gemini														unlinked	BS:1.2.1:b106
+brahmasutra	bhashya	1.2.1	b177	सर्वत्र		gemini,matcher	mula	1.2.1	0	1	सर्वत्र	w0.p0								linked	BS:1.2.1:b177
+brahmasutra	bhashya	1.2.1	b178	प्रसिद्धोपदेशात्		gemini,matcher	mula	1.2.1	1	1	प्रसिद्ध-उपदेशात्	w1.p0								linked	BS:1.2.1:b178
+brahmasutra	bhashya	1.2.1	b181	प्रसिद्धं		matcher	mula	1.2.1	1	1	प्रसिद्ध-उपदेशात्	w1.p0							0	linked	BS:1.2.1:b181
+brahmasutra	bhashya	1.2.2	b1	विवक्षिताः		gemini,matcher	mula	1.2.2	0.0	1	विवक्षित-गुण-उपपत्तेः	w0.p0							0	linked	BS:1.2.2:b1
+brahmasutra	bhashya	1.2.2	b17	विवक्षितं		matcher	mula	1.2.2	0.0	1	विवक्षित-गुण-उपपत्तेः	w0.p0							0	linked	BS:1.2.2:b17
+brahmasutra	bhashya	1.2.2	b25	विवक्षिता		matcher	mula	1.2.2	0.0	1	विवक्षित-गुण-उपपत्तेः	w0.p0							0	linked	BS:1.2.2:b25
+brahmasutra	bhashya	1.2.2	b73	विवक्षिता		matcher	mula	1.2.2	0.0	1	विवक्षित-गुण-उपपत्तेः	w0.p0							0	linked	BS:1.2.2:b73
+brahmasutra	bhashya	1.2.2	b139	विवक्षितगुणोपपत्तेः		gemini,matcher	mula	1.2.2	0.0	1	विवक्षित-गुण-उपपत्तेः	w0.p0								linked	BS:1.2.2:b139
+brahmasutra	bhashya	1.2.3	b12	न		matcher	mula	1.2.3	1	1	न	w1.p0								linked	BS:1.2.3:b12
+brahmasutra	bhashya	1.2.3	b13	तु		gemini	mula	1.2.3	0.1	1	तु	w0.p1								linked	BS:1.2.3:b13
+brahmasutra	bhashya	1.2.3	b14	शारीरो			mula	1.2.3	2	1	शारीरः	w2.p0								linked	BS:1.2.3:b14
+brahmasutra	bhashya	1.2.3	b26	न		gemini	mula	1.2.3	1	1	न	w1.p0								linked	BS:1.2.3:b26
+brahmasutra	bhashya	1.2.3	b27	शारीरे			mula	1.2.3	2	1	शारीरः	w2.p0								linked	BS:1.2.3:b27
+brahmasutra	bhashya	1.2.3	b28	आञ्जस्येनोपपद्यन्ते																unlinked	BS:1.2.3:b28
+brahmasutra	bhashya	1.2.3	b29	शारीर			mula	1.2.3	2	1	शारीरः	w2.p0								linked	BS:1.2.3:b29
+brahmasutra	bhashya	1.2.4	b1	न		gemini														unlinked	BS:1.2.4:b1
+brahmasutra	bhashya	1.2.4	b2	शारीरो		gemini	mula	1.2.3	2	1	शारीरः	w2.p0								linked	BS:1.2.4:b2
+brahmasutra	bhashya	1.2.4	b4	यस्मात्कर्मकर्तृव्यपदेशो																unlinked	BS:1.2.4:b4
+brahmasutra	bhashya	1.2.4	b25	कर्मकर्तृव्यपदेशो		gemini,matcher	mula	1.2.4	0.0	1	कर्म-कर्तृ-व्यपदेशात्	w0.p0								linked	BS:1.2.4:b25
+brahmasutra	bhashya	1.2.6	b0	स्मृतिश्च		gemini,matcher	mula	1.2.6	0.0	1	स्मृतेः	w0.p0								linked	BS:1.2.6:b0
+brahmasutra	bhashya	1.2.7	b0	अर्भकमल्पम्																unlinked	BS:1.2.7:b0
+brahmasutra	bhashya	1.2.7	b1	ओको		gemini														unlinked	BS:1.2.7:b1
+brahmasutra	bhashya	1.2.7	b49	निचाय्यत्वादेवमिति			mula	1.2.7	3	1	निचाय्य-त्वात्	w3.p0								linked	BS:1.2.7:b49
+brahmasutra	bhashya	1.2.7	b56	निचाय्यो		gemini,matcher	mula	1.2.7	3	1	निचाय्य-त्वात्	w3.p0							0	linked	BS:1.2.7:b56
+brahmasutra	bhashya	1.2.8	b20	सम्भोगप्राप्तिरिति		matcher	mula	1.2.8	0.0	1	सम्भोग-प्राप्तिः	w0.p0								linked	BS:1.2.8:b20
+brahmasutra	bhashya	1.2.8	b22	न			mula	1.2.8	1.1	1	न	w1.p1								linked	BS:1.2.8:b22
+brahmasutra	bhashya	1.2.8	b23	वैशेष्यात्		gemini,matcher	mula	1.2.8	2	1	वैशेष्यात्	w2.p0								linked	BS:1.2.8:b23
+brahmasutra	bhashya	1.2.8	b28	वैशेष्यात्		matcher	mula	1.2.8	2	1	वैशेष्यात्	w2.p0								linked	BS:1.2.8:b28
+brahmasutra	bhashya	1.2.8	b118	वैशेष्यात्		matcher	mula	1.2.8	2	1	वैशेष्यात्	w2.p0								linked	BS:1.2.8:b118
+brahmasutra	bhashya	1.2.9	b41	अत्ता		gemini,matcher	mula	1.2.9	0	1	अत्ता	w0.p0								linked	BS:1.2.9:b41
+brahmasutra	bhashya	1.2.9	b55	अत्तात्र			mula	1.2.9	0	1	अत्ता	w0.p0								linked	BS:1.2.9:b55
+brahmasutra	bhashya	1.2.9	b59	चराचरग्रहणात्		gemini,matcher	mula	1.2.9	1	1	चर-अचर-ग्रहणात्	w1.p0								linked	BS:1.2.9:b59
+brahmasutra	bhashya	1.2.9	b76	चराचरग्रहणं		matcher														unlinked	BS:1.2.9:b76
+brahmasutra	bhashya	1.2.10	b4	प्रकरणमिदं																unlinked	BS:1.2.10:b4
+brahmasutra	bhashya	1.2.10	b21	च		gemini	mula	1.2.10	0.1	1	च	w0.p1								linked	BS:1.2.10:b21
+brahmasutra	bhashya	1.2.11	b6	गुहां		matcher	mula	1.2.11	0	1	गुहाम्	w0.p0								linked	BS:1.2.11:b6
+brahmasutra	bhashya	1.2.11	b7	प्रविष्टौ		matcher	mula	1.2.11	1.0	1	प्रविष्टौ	w1.p0								linked	BS:1.2.11:b7
+brahmasutra	bhashya	1.2.11	b146	प्रविष्टौ		matcher	mula	1.2.11	1.0	1	प्रविष्टौ	w1.p0								linked	BS:1.2.11:b146
+brahmasutra	bhashya	1.2.11	b201	आत्मानौ		gemini	mula	1.2.11	1.1	1	आत्मानौ	w1.p1								linked	BS:1.2.11:b201
+brahmasutra	bhashya	1.2.11	b202	हि		gemini,matcher	mula	1.2.11	2	1	हि	w2.p0								linked	BS:1.2.11:b202
+brahmasutra	bhashya	1.2.11	b219	तदिह																unlinked	BS:1.2.11:b219
+brahmasutra	bhashya	1.2.11	b273	गुहां		gemini	mula	1.2.11	0	1	गुहाम्	w0.p0								linked	BS:1.2.11:b273
+brahmasutra	bhashya	1.2.11	b274	प्रविष्टौ		gemini,matcher	mula	1.2.11	1.0	1	प्रविष्टौ	w1.p0								linked	BS:1.2.11:b274
+brahmasutra	bhashya	1.2.12	b0	विशेषणं		gemini														unlinked	BS:1.2.12:b0
+brahmasutra	bhashya	1.2.12	b1	च		gemini	mula	1.2.12	0.1	1	च	w0.p1								linked	BS:1.2.12:b1
+brahmasutra	bhashya	1.2.13	b77	उपपत्तेः		gemini,matcher	mula	1.2.13	1	1	उपपत्तेः	w1.p0								linked	BS:1.2.13:b77
+brahmasutra	bhashya	1.2.13	b141	उपपत्तेरन्तरः			mula	1.2.13	1	1	उपपत्तेः	w1.p0								linked	BS:1.2.13:b141
+brahmasutra	bhashya	1.2.15	b1	च		matcher	mula	1.2.15	1	1	च	w1.p0								linked	BS:1.2.15:b1
+brahmasutra	bhashya	1.2.15	b8	सुखविशिष्टाभिधानादेव		gemini,matcher	mula	1.2.15	0.0	1	सुख-विशिष्ट-अभिधानात्	w0.p0								linked	BS:1.2.15:b8
+brahmasutra	bhashya	1.2.15	b11	सुखविशिष्टं		matcher	mula	1.2.15	0.0	1	सुख-विशिष्ट-अभिधानात्	w0.p0							0-1	linked	BS:1.2.15:b11
+brahmasutra	bhashya	1.2.15	b35	सुखविशिष्टं		matcher	mula	1.2.15	0.0	1	सुख-विशिष्ट-अभिधानात्	w0.p0							0-1	linked	BS:1.2.15:b35
+brahmasutra	bhashya	1.2.15	b143	सुखविशिष्टं		matcher	mula	1.2.15	0.0	1	सुख-विशिष्ट-अभिधानात्	w0.p0							0-1	linked	BS:1.2.15:b143
+brahmasutra	bhashya	1.2.16	b3	यस्माच्छ्रुतोपनिषत्कस्य																unlinked	BS:1.2.16:b3
+brahmasutra	bhashya	1.2.16	b9	श्रुतौ		matcher	mula	1.2.16	0.0	1	श्रुत-उपनिषत्क-गति-अभिधानात्	w0.p0							0	linked	BS:1.2.16:b9
+brahmasutra	bhashya	1.2.17	b8	न		gemini	mula	1.2.17	1.0	1	न	w1.p0								linked	BS:1.2.17:b8
+brahmasutra	bhashya	1.2.17	b13	अनवस्थितेः		gemini,matcher	mula	1.2.17	0.0	1	अनवस्थितेः	w0.p0								linked	BS:1.2.17:b13
+brahmasutra	bhashya	1.2.17	b53	असम्भवाच्च		gemini,matcher	mula	1.2.17	0.1	1	असम्भवात्	w0.p1								linked	BS:1.2.17:b53
+brahmasutra	bhashya	1.2.18	b17	अन्तरो		matcher														unlinked	BS:1.2.18:b17
+brahmasutra	bhashya	1.2.18	b95	योऽन्तर्याम्यधिदैवादिषु																unlinked	BS:1.2.18:b95
+brahmasutra	bhashya	1.2.18	b103	तद्धर्मव्यपदेशात्		gemini,matcher	mula	1.2.18	1	1	तद्-धर्म-व्यपदेशात्	w1.p0								linked	BS:1.2.18:b103
+brahmasutra	bhashya	1.2.18	b104	तस्य		gemini														unlinked	BS:1.2.18:b104
+brahmasutra	bhashya	1.2.19	b27	न		gemini,matcher	mula	1.2.19	0	1	न	w0.p0								linked	BS:1.2.19:b27
+brahmasutra	bhashya	1.2.19	b28	च		gemini,matcher	mula	1.2.19	1	1	च	w1.p0								linked	BS:1.2.19:b28
+brahmasutra	bhashya	1.2.19	b29	स्मार्तं		gemini,matcher	mula	1.2.19	2.0	1	स्मार्तम्	w2.p0								linked	BS:1.2.19:b29
+brahmasutra	bhashya	1.2.19	b33	अतद्धर्माभिलापात्		gemini,matcher	mula	1.2.19	2.1	1	अ-तद्-धर्म-अभिलापात्	w2.p1								linked	BS:1.2.19:b33
+brahmasutra	bhashya	1.2.20	b2	शारीरश्च		gemini,matcher	mula	1.2.20	0.0	1	शारीरः	w0.p0								linked	BS:1.2.20:b2
+brahmasutra	bhashya	1.2.20	b17	अपि		gemini	mula	1.2.20	0.3	1	अपि	w0.p3								linked	BS:1.2.20:b17
+brahmasutra	bhashya	1.2.20	b18	चोभयेऽपि		gemini	mula	1.2.20	0.1	1	च	w0.p1								linked	BS:1.2.20:b18
+brahmasutra	bhashya	1.2.20	b19	हि		gemini,matcher	mula	1.2.20	1	1	हि	w1.p0								linked	BS:1.2.20:b19
+brahmasutra	bhashya	1.2.20	b23	भेदेनैनं		gemini,matcher	mula	1.2.20	2	1	भेदेन	w2.p0								linked	BS:1.2.20:b23
+brahmasutra	bhashya	1.2.20	b27	चाधीयते		gemini														unlinked	BS:1.2.20:b27
+brahmasutra	bhashya	1.2.21	b131	योऽयमदृश्यत्वादिगुणको																unlinked	BS:1.2.21:b131
+brahmasutra	bhashya	1.2.21	b140	धर्मोक्तेः		gemini,matcher	mula	1.2.21	1	1	धर्म-उक्तेः	w1.p0								linked	BS:1.2.21:b140
+brahmasutra	bhashya	1.2.22	b4	नेतरौ		gemini,matcher	mula	1.2.22	2.0	1	न	w2.p0								linked	BS:1.2.22:b4
+brahmasutra	bhashya	1.2.22	b9	विशेषणभेदव्यपदेशाभ्याम्		gemini	mula	1.2.22	0	1	विशेषण-भेद-व्यपदेशाभ्याम्	w0.p0								linked	BS:1.2.22:b9
+brahmasutra	bhashya	1.2.23	b0	अपि		gemini														unlinked	BS:1.2.23:b0
+brahmasutra	bhashya	1.2.23	b1	च		gemini	mula	1.2.23	0.1	1	च	w0.p1								linked	BS:1.2.23:b1
+brahmasutra	bhashya	1.2.23	b15	रूपमुपन्यस्यमानं		gemini														unlinked	BS:1.2.23:b15
+brahmasutra	bhashya	1.2.23	b42	रूपोपन्यासः		matcher	mula	1.2.23	0.0	1	रूप-उपन्यासात्	w0.p0								linked	BS:1.2.23:b42
+brahmasutra	bhashya	1.2.23	b52	रूपोपन्यास		matcher	mula	1.2.23	0.0	1	रूप-उपन्यासात्	w0.p0								linked	BS:1.2.23:b52
+brahmasutra	bhashya	1.2.23	b97	रूपोपन्यासः		matcher	mula	1.2.23	0.0	1	रूप-उपन्यासात्	w0.p0								linked	BS:1.2.23:b97
+brahmasutra	bhashya	1.2.24	b7	वैश्वानरं		matcher	mula	1.2.24	0	1	वैश्वानरः	w0.p0								linked	BS:1.2.24:b7
+brahmasutra	bhashya	1.2.24	b17	वैश्वानरं		matcher	mula	1.2.24	0	1	वैश्वानरः	w0.p0								linked	BS:1.2.24:b17
+brahmasutra	bhashya	1.2.24	b68	वैश्वानर		matcher	mula	1.2.24	0	1	वैश्वानरः	w0.p0								linked	BS:1.2.24:b68
+brahmasutra	bhashya	1.2.24	b108	वैश्वानरं		matcher	mula	1.2.24	0	1	वैश्वानरः	w0.p0								linked	BS:1.2.24:b108
+brahmasutra	bhashya	1.2.24	b152	वैश्वानर		matcher	mula	1.2.24	0	1	वैश्वानरः	w0.p0								linked	BS:1.2.24:b152
+brahmasutra	bhashya	1.2.24	b157	वैश्वानरः		gemini,matcher	mula	1.2.24	0	1	वैश्वानरः	w0.p0								linked	BS:1.2.24:b157
+brahmasutra	bhashya	1.2.24	b161	साधारणशब्दविशेषात्		gemini,matcher	mula	1.2.24	1	1	साधारण-शब्द-विशेषात्	w1.p0								linked	BS:1.2.24:b161
+brahmasutra	bhashya	1.2.24	b163	साधारणशब्दविशेषः		matcher	mula	1.2.24	1	1	साधारण-शब्द-विशेषात्	w1.p0								linked	BS:1.2.24:b163
+brahmasutra	bhashya	1.2.24	b165	साधारणशब्दौ		matcher	mula	1.2.24	1	1	साधारण-शब्द-विशेषात्	w1.p0							0-1	linked	BS:1.2.24:b165
+brahmasutra	bhashya	1.2.24	b234	वैश्वानरः		matcher	mula	1.2.24	0	1	वैश्वानरः	w0.p0								linked	BS:1.2.24:b234
+brahmasutra	bhashya	1.2.25	b22	एतत्स्मर्यमाणं																unlinked	BS:1.2.25:b22
+brahmasutra	bhashya	1.2.25	b28	अनुमानं		gemini	mula	1.2.25	0.1	1	अनुमानम्	w0.p1								linked	BS:1.2.25:b28
+brahmasutra	bhashya	1.2.26	b6	शब्दादिभ्योऽन्तःप्रतिष्ठानाच्च		gemini,matcher	mula	1.2.26	0.0	1	शब्द-आदिभ्यः	w0.p0								linked	BS:1.2.26:b6
+brahmasutra	bhashya	1.2.26	b11	सम्भवति		matcher	mula	1.2.26	3.1	1	असम्भवात्	w3.p1								linked	BS:1.2.26:b11
+brahmasutra	bhashya	1.2.26	b40	सम्भवति		matcher	mula	1.2.26	3.1	1	असम्भवात्	w3.p1								linked	BS:1.2.26:b40
+brahmasutra	bhashya	1.2.26	b87	इति			mula	1.2.26	1.1	1	इति	w1.p1								linked	BS:1.2.26:b87
+brahmasutra	bhashya	1.2.26	b89	न		gemini	mula	1.2.26	2.1	2	न	w2.p1								linked	BS:1.2.26:b89
+brahmasutra	bhashya	1.2.26	b90	तथादृष्ट्युपदेशादिति																unlinked	BS:1.2.26:b90
+brahmasutra	bhashya	1.2.26	b92	शब्दादिभ्यः		matcher	mula	1.2.26	0.0	1	शब्द-आदिभ्यः	w0.p0								linked	BS:1.2.26:b92
+brahmasutra	bhashya	1.2.26	b153	पुरुषमपि		gemini,matcher	mula	1.2.26	3.2	1	पुरुषम्	w3.p2								linked	BS:1.2.26:b153
+brahmasutra	bhashya	1.2.26	b154	चैनमधीयते		gemini,matcher	mula	1.2.26	4	2	च	w4.p0								linked	BS:1.2.26:b154
+brahmasutra	bhashya	1.2.26	b176	चैनमधीयते		matcher	mula	1.2.26	4	2	च	w4.p0								linked	BS:1.2.26:b176
+brahmasutra	bhashya	1.2.26	b189	चैनमधीयते		matcher	mula	1.2.26	4	2	च	w4.p0								linked	BS:1.2.26:b189
+brahmasutra	bhashya	1.2.27	b15	अत		gemini,matcher														unlinked	BS:1.2.27:b15
+brahmasutra	bhashya	1.2.27	b18	न		matcher	mula	1.2.27	2	1	न	w2.p0								linked	BS:1.2.27:b18
+brahmasutra	bhashya	1.2.27	b19	देवता		matcher	mula	1.2.27	3	1	देवता	w3.p0								linked	BS:1.2.27:b19
+brahmasutra	bhashya	1.2.27	b22	भूताग्निरपि																unlinked	BS:1.2.27:b22
+brahmasutra	bhashya	1.2.27	b23	न			mula	1.2.27	2	1	न	w2.p0								linked	BS:1.2.27:b23
+brahmasutra	bhashya	1.2.28	b12	साक्षादपि		matcher	mula	1.2.28	0.0	1	साक्षात्	w0.p0								linked	BS:1.2.28:b12
+brahmasutra	bhashya	1.2.28	b13	परमेश्वरोपासनपरिग्रहे																unlinked	BS:1.2.28:b13
+brahmasutra	bhashya	1.2.28	b14	न																unlinked	BS:1.2.28:b14
+brahmasutra	bhashya	1.2.28	b19	ननु		gemini														unlinked	BS:1.2.28:b19
+brahmasutra	bhashya	1.2.29	b17	इत्याश्मरथ्य		gemini,matcher														unlinked	BS:1.2.29:b17
+brahmasutra	bhashya	1.2.31	b0	सम्पत्तिनिमित्ता			mula	1.2.31	0.0	1	सम्पत्तेः	w0.p0								linked	BS:1.2.31:b0
+brahmasutra	bhashya	1.2.31	b4	तथाहि		gemini	mula	1.2.31	1.1	1	तथा	w1.p1								linked	BS:1.2.31:b4
+brahmasutra	bhashya	1.2.31	b13	दर्शयति		gemini,matcher	mula	1.2.31	3	1	दर्शयति	w3.p0								linked	BS:1.2.31:b13
+brahmasutra	bhashya	1.2.31	b84	जैमिनिराचार्यो			mula	1.2.31	1.0	1	जैमिनिः	w1.p0								linked	BS:1.2.31:b84
+brahmasutra	bhashya	1.2.32	b0	आमनन्ति		gemini,matcher	mula	1.2.32	0	1	आमनन्ति	w0.p0								linked	BS:1.2.32:b0
+brahmasutra	bhashya	1.2.32	b1	चैनं			mula	1.2.32	1.0	1	च	w1.p0								linked	BS:1.2.32:b1
+brahmasutra	bhashya	1.3.1	b89	द्युभ्वाद्यायतनमिति																unlinked	BS:1.3.1:b89
+brahmasutra	bhashya	1.3.1	b92	द्युभुवौ		matcher	mula	1.3.1	0	1	द्यु - भू - आदि - आयतनम्	w0.p0							0-1	linked	BS:1.3.1:b92
+brahmasutra	bhashya	1.3.1	b97	द्युभ्वादि		matcher	mula	1.3.1	0	1	द्यु - भू - आदि - आयतनम्	w0.p0							0-1	linked	BS:1.3.1:b97
+brahmasutra	bhashya	1.3.1	b112	स्वशब्दात्		matcher	mula	1.3.1	1	1	स्व - शब्दात्	w1.p0								linked	BS:1.3.1:b112
+brahmasutra	bhashya	1.3.2	b5	व्यपदिश्यमाना																unlinked	BS:1.3.2:b5
+brahmasutra	bhashya	1.3.2	b26	व्यपदेशो		matcher	mula	1.3.2	0	1	मुक्त-उपसृप्य-व्यपदेशात्	w0.p0							2	linked	BS:1.3.2:b26
+brahmasutra	bhashya	1.3.3	b9	नानुमानं		matcher	mula	1.3.3	0.0	1	न	w0.p0								linked	BS:1.3.3:b9
+brahmasutra	bhashya	1.3.3	b16	अतच्छब्दात्		gemini,matcher	mula	1.3.3	0.2	1	अ-तत्-शब्दात्	w0.p2								linked	BS:1.3.3:b16
+brahmasutra	bhashya	1.3.3	b21	तच्छब्दः		matcher	mula	1.3.3	0.2	1	अ-तत्-शब्दात्	w0.p2							1-2	linked	BS:1.3.3:b21
+brahmasutra	bhashya	1.3.3	b23	तच्छब्दः		matcher	mula	1.3.3	0.2	1	अ-तत्-शब्दात्	w0.p2							1-2	linked	BS:1.3.3:b23
+brahmasutra	bhashya	1.3.3	b24	अतच्छब्दः		matcher	mula	1.3.3	0.2	1	अ-तत्-शब्दात्	w0.p2								linked	BS:1.3.3:b24
+brahmasutra	bhashya	1.3.4	b1	प्राणभृतो		gemini	mula	1.3.4	0.0	1	प्राण-भृत्	w0.p0								linked	BS:1.3.4:b1
+brahmasutra	bhashya	1.3.4	b11	प्राणभृदपि		gemini	mula	1.3.4	0.0	1	प्राण-भृत्	w0.p0								linked	BS:1.3.4:b11
+brahmasutra	bhashya	1.3.4	b14	न		gemini														unlinked	BS:1.3.4:b14
+brahmasutra	bhashya	1.3.5	b0	भेदव्यपदेशश्चेह																unlinked	BS:1.3.5:b0
+brahmasutra	bhashya	1.3.6	b0	प्रकरणं		gemini,matcher														unlinked	BS:1.3.6:b0
+brahmasutra	bhashya	1.3.7	b1	च		matcher	mula	1.3.7	1	1	च	w1.p0								linked	BS:1.3.7:b1
+brahmasutra	bhashya	1.3.7	b8	स्थित्यदने		gemini,matcher	mula	1.3.7	0	1	स्थिति	w0.p0								linked	BS:1.3.7:b8
+brahmasutra	bhashya	1.3.8	b2	भूमा		gemini,matcher	mula	1.3.8	0	1	भूमा	w0.p0								linked	BS:1.3.8:b2
+brahmasutra	bhashya	1.3.8	b286	भूमा			mula	1.3.8	0	1	भूमा	w0.p0								linked	BS:1.3.8:b286
+brahmasutra	bhashya	1.3.8	b291	सम्प्रसादादध्युपदेशात्		gemini,matcher	mula	1.3.8	1.0	1	सम्प्रसादात्	w1.p0								linked	BS:1.3.8:b291
+brahmasutra	bhashya	1.3.8	b292	सम्प्रसाद		gemini,matcher	mula	1.3.8	1.0	1	सम्प्रसादात्	w1.p0								linked	BS:1.3.8:b292
+brahmasutra	bhashya	1.3.9	b5	धर्माः		gemini,matcher	mula	1.3.9	0.0	1	धर्म-उपपत्तेः	w0.p0							0	linked	BS:1.3.9:b5
+brahmasutra	bhashya	1.3.10	b43	अम्बरान्तधृतेः		gemini,matcher	mula	1.3.10	0.1	1	अम्बर-अन्त-धृतेः	w0.p1								linked	BS:1.3.10:b43
+brahmasutra	bhashya	1.3.11	b0	सा		gemini,matcher	mula	1.3.11	0	1	सा	w0.p0								linked	BS:1.3.11:b0
+brahmasutra	bhashya	1.3.11	b1	च		gemini,matcher	mula	1.3.11	1	1	च	w1.p0								linked	BS:1.3.11:b1
+brahmasutra	bhashya	1.3.11	b6	प्रशासनात्		gemini,matcher	mula	1.3.11	2	1	प्रशासनात्	w2.p0								linked	BS:1.3.11:b6
+brahmasutra	bhashya	1.3.11	b7	प्रशासनं		matcher														unlinked	BS:1.3.11:b7
+brahmasutra	bhashya	1.3.11	b13	प्रशासने		matcher	mula	1.3.11	2	1	प्रशासनात्	w2.p0								linked	BS:1.3.11:b13
+brahmasutra	bhashya	1.3.11	b19	प्रशासनं		matcher														unlinked	BS:1.3.11:b19
+brahmasutra	bhashya	1.3.11	b25	प्रशासनं		matcher														unlinked	BS:1.3.11:b25
+brahmasutra	bhashya	1.3.12	b0	अन्यभावव्यावृत्तेश्च		gemini,matcher	mula	1.3.12	0.0	1	अन्य-भाव-व्यावृत्तेः	w0.p0								linked	BS:1.3.12:b0
+brahmasutra	bhashya	1.3.13	b61	परमेव		gemini														unlinked	BS:1.3.13:b61
+brahmasutra	bhashya	1.3.13	b62	ब्रह्म		gemini														unlinked	BS:1.3.13:b62
+brahmasutra	bhashya	1.3.13	b66	ईक्षतिकर्मव्यपदेशात्		gemini,matcher	mula	1.3.13	0.0	1	ईक्षति-कर्म-व्यपदेशात्	w0.p0								linked	BS:1.3.13:b66
+brahmasutra	bhashya	1.3.13	b67	ईक्षतिर्दर्शनम्																unlinked	BS:1.3.13:b67
+brahmasutra	bhashya	1.3.13	b72	व्यपदेशो		gemini,matcher	mula	1.3.13	0.0	1	ईक्षति-कर्म-व्यपदेशात्	w0.p0							2	linked	BS:1.3.13:b72
+brahmasutra	bhashya	1.3.13	b92	परमात्मैवायं		gemini														unlinked	BS:1.3.13:b92
+brahmasutra	bhashya	1.3.13	b94	ईक्षतिकर्मत्वेन																unlinked	BS:1.3.13:b94
+brahmasutra	bhashya	1.3.13	b95	व्यपदिष्ट		gemini														unlinked	BS:1.3.13:b95
+brahmasutra	bhashya	1.3.13	b98	स		gemini	mula	1.3.13	0.1	1	सः	w0.p1								linked	BS:1.3.13:b98
+brahmasutra	bhashya	1.3.14	b13	दहरे		gemini	mula	1.3.14	0	1	दहरः	w0.p0								linked	BS:1.3.14:b13
+brahmasutra	bhashya	1.3.14	b15	दहर		gemini,matcher	mula	1.3.14	0	1	दहरः	w0.p0								linked	BS:1.3.14:b15
+brahmasutra	bhashya	1.3.14	b39	दहरः		gemini	mula	1.3.14	0	1	दहरः	w0.p0								linked	BS:1.3.14:b39
+brahmasutra	bhashya	1.3.14	b65	दहराकाशत्वे			mula	1.3.14	0	1	दहरः	w0.p0								linked	BS:1.3.14:b65
+brahmasutra	bhashya	1.3.14	b151	दहराकाशो		gemini	mula	1.3.14	0	1	दहरः	w0.p0								linked	BS:1.3.14:b151
+brahmasutra	bhashya	1.3.14	b158	उत्तरेभ्यः		gemini,matcher	mula	1.3.14	1	1	उत्तरेभ्यः	w1.p0								linked	BS:1.3.14:b158
+brahmasutra	bhashya	1.3.14	b430	दहर		gemini	mula	1.3.14	0	1	दहरः	w0.p0								linked	BS:1.3.14:b430
+brahmasutra	bhashya	1.3.14	b441	स		gemini														unlinked	BS:1.3.14:b441
+brahmasutra	bhashya	1.3.15	b0	दहरः		gemini	mula	1.3.14	0	1	दहरः	w0.p0								linked	BS:1.3.15:b0
+brahmasutra	bhashya	1.3.15	b2	उत्तरेभ्यो		gemini	mula	1.3.14	1	1	उत्तरेभ्यः	w1.p0								linked	BS:1.3.15:b2
+brahmasutra	bhashya	1.3.15	b13	दहरः		gemini	mula	1.3.14	0	1	दहरः	w0.p0								linked	BS:1.3.15:b13
+brahmasutra	bhashya	1.3.15	b17	गतिशब्दौ		gemini,matcher														unlinked	BS:1.3.15:b17
+brahmasutra	bhashya	1.3.15	b30	दहरं		gemini														unlinked	BS:1.3.15:b30
+brahmasutra	bhashya	1.3.15	b33	गतिः		gemini	mula	1.3.15	0	1	गति-शब्दाभ्याम्	w0.p0							0	linked	BS:1.3.15:b33
+brahmasutra	bhashya	1.3.15	b36	दहरस्य		gemini														unlinked	BS:1.3.15:b36
+brahmasutra	bhashya	1.3.15	b39	तथा		gemini,matcher	mula	1.3.15	1	1	तथा	w1.p0								linked	BS:1.3.15:b39
+brahmasutra	bhashya	1.3.15	b44	दृष्टं		gemini,matcher	mula	1.3.15	3	1	दृष्टम्	w3.p0								linked	BS:1.3.15:b44
+brahmasutra	bhashya	1.3.15	b61	ब्रह्मलोकशब्दोऽपि		gemini														unlinked	BS:1.3.15:b61
+brahmasutra	bhashya	1.3.15	b63	दहरे		gemini														unlinked	BS:1.3.15:b63
+brahmasutra	bhashya	1.3.15	b90	दृष्टं		gemini	mula	1.3.15	3	1	दृष्टम्	w3.p0								linked	BS:1.3.15:b90
+brahmasutra	bhashya	1.3.15	b93	लिङ्गम्		gemini	mula	1.3.15	4	1	लिङ्गम्	w4.p0								linked	BS:1.3.15:b93
+brahmasutra	bhashya	1.3.15	b99	गच्छन्तीति		gemini														unlinked	BS:1.3.15:b99
+brahmasutra	bhashya	1.3.16	b0	धृतेश्च		gemini,matcher	mula	1.3.16	0.0	1	धृतेः	w0.p0								linked	BS:1.3.16:b0
+brahmasutra	bhashya	1.3.16	b4	दहरः		gemini														unlinked	BS:1.3.16:b4
+brahmasutra	bhashya	1.3.16	b46	दहरे		gemini														unlinked	BS:1.3.16:b46
+brahmasutra	bhashya	1.3.16	b47	विधारणलक्षणं		gemini														unlinked	BS:1.3.16:b47
+brahmasutra	bhashya	1.3.16	b48	महिमानं		gemini,matcher	mula	1.3.16	1.0	1	महिम्नः	w1.p0								linked	BS:1.3.16:b48
+brahmasutra	bhashya	1.3.16	b52	महिमा		gemini														unlinked	BS:1.3.16:b52
+brahmasutra	bhashya	1.3.16	b53	परमेश्वर		gemini														unlinked	BS:1.3.16:b53
+brahmasutra	bhashya	1.3.16	b80	धृतेश्च		gemini	mula	1.3.16	0.0	1	धृतेः	w0.p0								linked	BS:1.3.16:b80
+brahmasutra	bhashya	1.3.16	b84	दहरः		gemini														unlinked	BS:1.3.16:b84
+brahmasutra	bhashya	1.3.17	b7	प्रसिद्धः		gemini,matcher	mula	1.3.17	0.0	1	प्रसिद्धेः	w0.p0								linked	BS:1.3.17:b7
+brahmasutra	bhashya	1.3.18	b3	इति		matcher	mula	1.3.18	1	1	इति	w1.p0								linked	BS:1.3.18:b3
+brahmasutra	bhashya	1.3.18	b7	इतरस्यापि																unlinked	BS:1.3.18:b7
+brahmasutra	bhashya	1.3.18	b10	परामर्शः		gemini,matcher	mula	1.3.18	0.0	1	इतर-परामर्शात्	w0.p0							1	linked	BS:1.3.18:b10
+brahmasutra	bhashya	1.3.18	b36	सम्भवति		matcher	mula	1.3.18	2.2	1	असम्भवात्	w2.p2								linked	BS:1.3.18:b36
+brahmasutra	bhashya	1.3.18	b55	तस्मादितरपरामर्शात्																unlinked	BS:1.3.18:b55
+brahmasutra	bhashya	1.3.18	b58	स		gemini	mula	1.3.18	0.1	1	सः	w0.p1								linked	BS:1.3.18:b58
+brahmasutra	bhashya	1.3.18	b67	असम्भवात्		gemini,matcher	mula	1.3.18	2.2	1	असम्भवात्	w2.p2								linked	BS:1.3.18:b67
+brahmasutra	bhashya	1.3.18	b87	परामर्शः		matcher	mula	1.3.18	0.0	1	इतर-परामर्शात्	w0.p0							1	linked	BS:1.3.18:b87
+brahmasutra	bhashya	1.3.19	b12	तत्र		matcher														unlinked	BS:1.3.19:b12
+brahmasutra	bhashya	1.3.19	b113	आविर्भूतस्वरूपस्तु		gemini,matcher	mula	1.3.19	0.2	1	आविर्भूत-स्वरूपः	w0.p2								linked	BS:1.3.19:b113
+brahmasutra	bhashya	1.3.19	b126	स्वरूपमस्येत्याविर्भूतस्वरूपः																unlinked	BS:1.3.19:b126
+brahmasutra	bhashya	1.3.20	b21	अन्यार्थोऽयं			mula	1.3.20	0.0	1	अन्यार्थः	w0.p0								linked	BS:1.3.20:b21
+brahmasutra	bhashya	1.3.20	b22	जीवपरामर्शो																unlinked	BS:1.3.20:b22
+brahmasutra	bhashya	1.3.21	b9	इति		gemini	mula	1.3.21	0.1	1	इति	w0.p1								linked	BS:1.3.21:b9
+brahmasutra	bhashya	1.3.21	b13	उक्तो		gemini	mula	1.3.21	1.2	1	उक्तम्	w1.p2								linked	BS:1.3.21:b13
+brahmasutra	bhashya	1.3.21	b24	स		gemini														unlinked	BS:1.3.21:b24
+brahmasutra	bhashya	1.3.21	b27	इति		gemini	mula	1.3.21	0.1	1	इति	w0.p1								linked	BS:1.3.21:b27
+brahmasutra	bhashya	1.3.22	b24	च		matcher	mula	1.3.22	1	1	च	w1.p0								linked	BS:1.3.22:b24
+brahmasutra	bhashya	1.3.22	b79	अनुकृतेः		gemini	mula	1.3.22	0.0	1	अनुकृतेः	w0.p0								linked	BS:1.3.22:b79
+brahmasutra	bhashya	1.3.22	b128	तस्य		gemini	mula	1.3.22	0.1	1	तस्य	w0.p1								linked	BS:1.3.22:b128
+brahmasutra	bhashya	1.3.22	b129	च		gemini	mula	1.3.22	1	1	च	w1.p0								linked	BS:1.3.22:b129
+brahmasutra	bhashya	1.3.23	b0	अपि		gemini,matcher	mula	1.3.23	0	1	अपि	w0.p0								linked	BS:1.3.23:b0
+brahmasutra	bhashya	1.3.23	b3	स्मर्यते		matcher	mula	1.3.23	2	1	स्मर्यते	w2.p0								linked	BS:1.3.23:b3
+brahmasutra	bhashya	1.3.24	b73	शब्दात्		gemini	mula	1.3.24	0.0	1	शब्दात्	w0.p0								linked	BS:1.3.24:b73
+brahmasutra	bhashya	1.3.24	b102	शब्दादेवेति			mula	1.3.24	0.0	1	शब्दात्	w0.p0								linked	BS:1.3.24:b102
+brahmasutra	bhashya	1.3.25	b22	मनुष्याधिकारत्वादिति			mula	1.3.25	2	1	मनुष्य-अधिकार-त्वात्	w2.p0								linked	BS:1.3.25:b22
+brahmasutra	bhashya	1.3.25	b79	हृदये		matcher														unlinked	BS:1.3.25:b79
+brahmasutra	bhashya	1.3.26	b14	उपरिष्टाद्ये			mula	1.3.26	0.1	1	उपरि	w0.p1								linked	BS:1.3.26:b14
+brahmasutra	bhashya	1.3.26	b18	बादरायण		gemini,matcher	mula	1.3.26	1	1	बादरायणः	w1.p0								linked	BS:1.3.26:b18
+brahmasutra	bhashya	1.3.26	b22	सम्भवात्		gemini,matcher	mula	1.3.26	2	1	सम्भवात्	w2.p0								linked	BS:1.3.26:b22
+brahmasutra	bhashya	1.3.26	b23	सम्भवति		matcher	mula	1.3.26	2	1	सम्भवात्	w2.p0								linked	BS:1.3.26:b23
+brahmasutra	bhashya	1.3.26	b29	सम्भवति		matcher	mula	1.3.26	2	1	सम्भवात्	w2.p0								linked	BS:1.3.26:b29
+brahmasutra	bhashya	1.3.26	b34	सम्भवति		matcher	mula	1.3.26	2	1	सम्भवात्	w2.p0								linked	BS:1.3.26:b34
+brahmasutra	bhashya	1.3.27	b12	विरोधः		gemini,matcher	mula	1.3.27	0	1	विरोधः	w0.p0								linked	BS:1.3.27:b12
+brahmasutra	bhashya	1.3.27	b13	कर्मणि		gemini	mula	1.3.27	1.0	1	कर्मणि	w1.p0								linked	BS:1.3.27:b13
+brahmasutra	bhashya	1.3.27	b27	चेत्		gemini	mula	1.3.27	2.0	1	चेत्	w2.p0								linked	BS:1.3.27:b27
+brahmasutra	bhashya	1.3.27	b31	अनेकप्रतिपत्तेः		matcher	mula	1.3.27	2.2	1	अनेक-प्रतिपत्तेः	w2.p2								linked	BS:1.3.27:b31
+brahmasutra	bhashya	1.3.27	b37	दर्शनात्		matcher	mula	1.3.27	2.3	1	दर्शनात्	w2.p3								linked	BS:1.3.27:b37
+brahmasutra	bhashya	1.3.27	b126	अनेकप्रतिपत्तेर्दर्शनात्		gemini,matcher	mula	1.3.27	2.2	1	अनेक-प्रतिपत्तेः	w2.p2								linked	BS:1.3.27:b126
+brahmasutra	bhashya	1.3.28	b7	शब्दे		gemini	mula	1.3.28	0	1	शब्दे	w0.p0								linked	BS:1.3.28:b7
+brahmasutra	bhashya	1.3.28	b17	इति		matcher	mula	1.3.28	1	1	इति	w1.p0								linked	BS:1.3.28:b17
+brahmasutra	bhashya	1.3.28	b48	अतः		gemini	mula	1.3.28	2.2	1	अतः	w2.p2								linked	BS:1.3.28:b48
+brahmasutra	bhashya	1.3.28	b49	प्रभवात्		gemini,matcher	mula	1.3.28	3.0	1	प्रभवात्	w3.p0								linked	BS:1.3.28:b49
+brahmasutra	bhashya	1.3.28	b107	न		gemini	mula	1.3.28	2.1	1	न	w2.p1								linked	BS:1.3.28:b107
+brahmasutra	bhashya	1.3.28	b174	प्रत्यक्षानुमानाभ्याम्		gemini,matcher	mula	1.3.28	3.1	1	प्रत्यक्ष-अनुमानाभ्याम्	w3.p1								linked	BS:1.3.28:b174
+brahmasutra	bhashya	1.3.28	b175	प्रत्यक्षं		gemini,matcher	mula	1.3.28	3.1	1	प्रत्यक्ष-अनुमानाभ्याम्	w3.p1							0	linked	BS:1.3.28:b175
+brahmasutra	bhashya	1.3.28	b179	अनुमानं		gemini														unlinked	BS:1.3.28:b179
+brahmasutra	bhashya	1.3.29	b4	नित्यत्वे		matcher	mula	1.3.29	3	1	नित्यत्वम्	w3.p0								linked	BS:1.3.29:b4
+brahmasutra	bhashya	1.3.29	b17	अत		gemini,matcher														unlinked	BS:1.3.29:b17
+brahmasutra	bhashya	1.3.29	b18	एव		gemini,matcher	mula	1.3.29	1	1	एव	w1.p0								linked	BS:1.3.29:b18
+brahmasutra	bhashya	1.3.29	b19	च		gemini,matcher	mula	1.3.29	2	1	च	w2.p0								linked	BS:1.3.29:b19
+brahmasutra	bhashya	1.3.29	b20	नित्यत्वमिति			mula	1.3.29	3	1	नित्यत्वम्	w3.p0								linked	BS:1.3.29:b20
+brahmasutra	bhashya	1.3.29	b21	अत		gemini														unlinked	BS:1.3.29:b21
+brahmasutra	bhashya	1.3.29	b22	एव		gemini	mula	1.3.29	1	1	एव	w1.p0								linked	BS:1.3.29:b22
+brahmasutra	bhashya	1.3.30	b26	समाननामरूपत्वादिति			mula	1.3.30	0.0	1	समान-नाम-रूप-त्वात्	w0.p0								linked	BS:1.3.30:b26
+brahmasutra	bhashya	1.3.30	b218	स्मृतिश्च		matcher	mula	1.3.30	1.1	1	स्मृतेः	w1.p1								linked	BS:1.3.30:b218
+brahmasutra	bhashya	1.3.30	b274	समाननामरूपा		matcher														unlinked	BS:1.3.30:b274
+brahmasutra	bhashya	1.3.30	b279	समाननामरूपत्वाच्चावृत्तावपि		matcher	mula	1.3.30	0.0	1	समान-नाम-रूप-त्वात्	w0.p0								linked	BS:1.3.30:b279
+brahmasutra	bhashya	1.3.30	b284	समाननामरूपतां		matcher	mula	1.3.30	0.0	1	समान-नाम-रूप-त्वात्	w0.p0							0-2	linked	BS:1.3.30:b284
+brahmasutra	bhashya	1.3.30	b286	श्रुतिस्मृती		gemini														unlinked	BS:1.3.30:b286
+brahmasutra	bhashya	1.3.30	b322	समाननामरूपतां		matcher	mula	1.3.30	0.0	1	समान-नाम-रूप-त्वात्	w0.p0							0-2	linked	BS:1.3.30:b322
+brahmasutra	bhashya	1.3.31	b7	जैमिनिराचार्यो			mula	1.3.31	1	1	जैमिनिः	w1.p0								linked	BS:1.3.31:b7
+brahmasutra	bhashya	1.3.31	b10	मध्वादिष्वसम्भवात्		gemini														unlinked	BS:1.3.31:b10
+brahmasutra	bhashya	1.3.32	b11	ज्योतिर्मण्डलस्य																unlinked	BS:1.3.32:b11
+brahmasutra	bhashya	1.3.32	b16	वा																unlinked	BS:1.3.32:b16
+brahmasutra	bhashya	1.3.33	b0	तुशब्दः		gemini														unlinked	BS:1.3.33:b0
+brahmasutra	bhashya	1.3.33	b3	बादरायणस्त्वाचार्यो		gemini	mula	1.3.33	2.0	1	बादरायणः	w2.p0								linked	BS:1.3.33:b3
+brahmasutra	bhashya	1.3.33	b4	भावमधिकारस्य		gemini	mula	1.3.33	0	1	भावम्	w0.p0								linked	BS:1.3.33:b4
+brahmasutra	bhashya	1.3.33	b11	हि		gemini,matcher	mula	1.3.33	3	1	हि	w3.p0								linked	BS:1.3.33:b11
+brahmasutra	bhashya	1.3.34	b41	हि		matcher	mula	1.3.34	2	1	हि	w2.p0								linked	BS:1.3.34:b41
+brahmasutra	bhashya	1.3.34	b149	शुक्		gemini	mula	1.3.34	0.0	1	शुक्	w0.p0								linked	BS:1.3.34:b149
+brahmasutra	bhashya	1.3.34	b154	सूचयांबभूव		gemini														unlinked	BS:1.3.34:b154
+brahmasutra	bhashya	1.3.34	b166	तदाद्रवणात्		gemini,matcher	mula	1.3.34	1.1	1	तत्-आद्रवणात्	w1.p1								linked	BS:1.3.34:b166
+brahmasutra	bhashya	1.3.35	b6	क्षत्रियत्वमस्योत्तरत्र																unlinked	BS:1.3.35:b6
+brahmasutra	bhashya	1.3.35	b10	उत्तरत्र		matcher	mula	1.3.35	0.2	1	उत्तरत्र	w0.p2								linked	BS:1.3.35:b10
+brahmasutra	bhashya	1.3.35	b14	क्षत्रियः		matcher														unlinked	BS:1.3.35:b14
+brahmasutra	bhashya	1.3.35	b35	चित्ररथं		matcher														unlinked	BS:1.3.35:b35
+brahmasutra	bhashya	1.3.35	b57	क्षत्रियत्वं		matcher	mula	1.3.35	0.0	1	क्षत्रियत्व-गतेः	w0.p0							0	linked	BS:1.3.35:b57
+brahmasutra	bhashya	1.3.36	b4	संस्काराः		gemini,matcher	mula	1.3.36	0.0	1	संस्कार-परामर्शात्	w0.p0							0	linked	BS:1.3.36:b4
+brahmasutra	bhashya	1.3.36	b5	परामृश्यन्ते		gemini														unlinked	BS:1.3.36:b5
+brahmasutra	bhashya	1.3.36	b33	संस्काराभावोऽभिलप्यते		gemini														unlinked	BS:1.3.36:b33
+brahmasutra	bhashya	1.3.37	b5	निर्धारिते																unlinked	BS:1.3.37:b5
+brahmasutra	bhashya	1.3.37	b9	च		matcher	mula	1.3.37	1	1	च	w1.p0								linked	BS:1.3.37:b9
+brahmasutra	bhashya	1.3.37	b10	प्रववृते		gemini														unlinked	BS:1.3.37:b10
+brahmasutra	bhashya	1.3.38	b4	स्मृतेः		gemini	mula	1.3.38	0.1	1	स्मृतेः	w0.p1								linked	BS:1.3.38:b4
+brahmasutra	bhashya	1.3.38	b5	श्रवणाध्ययनार्थप्रतिषेधो		gemini,matcher	mula	1.3.38	0.0	1	श्रवण-अध्ययन-अर्थ-प्रतिषेधात्	w0.p0								linked	BS:1.3.38:b5
+brahmasutra	bhashya	1.3.38	b10	प्रतिषेधः		matcher	mula	1.3.38	0.0	1	श्रवण-अध्ययन-अर्थ-प्रतिषेधात्	w0.p0							3	linked	BS:1.3.38:b10
+brahmasutra	bhashya	1.3.38	b46	प्रतिषेधो		matcher	mula	1.3.38	0.0	1	श्रवण-अध्ययन-अर्थ-प्रतिषेधात्	w0.p0							3	linked	BS:1.3.38:b46
+brahmasutra	bhashya	1.3.40	b56	ज्योतिःशब्दम्			mula	1.3.40	0.0	1	ज्योतिः	w0.p0								linked	BS:1.3.40:b56
+brahmasutra	bhashya	1.3.40	b58	दर्शनात्		matcher	mula	1.3.40	0.1	1	दर्शनात्	w0.p1								linked	BS:1.3.40:b58
+brahmasutra	bhashya	1.3.40	b87	ज्योतिः		gemini,matcher	mula	1.3.40	0.0	1	ज्योतिः	w0.p0								linked	BS:1.3.40:b87
+brahmasutra	bhashya	1.3.41	b39	अर्थान्तरत्वादि		gemini,matcher	mula	1.3.41	0.1	1	अर्थान्तरत्व-आदि-व्यपदेशात्	w0.p1							0	linked	BS:1.3.41:b39
+brahmasutra	bhashya	1.3.41	b40	व्यपदेशात्		gemini,matcher	mula	1.3.41	0.1	1	अर्थान्तरत्व-आदि-व्यपदेशात्	w0.p1							2	linked	BS:1.3.41:b40
+brahmasutra	bhashya	1.3.41	b47	व्यपदिशति		matcher	mula	1.3.41	0.1	1	अर्थान्तरत्व-आदि-व्यपदेशात्	w0.p1							2	linked	BS:1.3.41:b47
+brahmasutra	bhashya	1.3.42	b59	सुषुप्तौ		matcher	mula	1.3.42	0.0	1	सुषुप्ति-उत्क्रान्त्योः	w0.p0							0	linked	BS:1.3.42:b59
+brahmasutra	bhashya	1.3.42	b107	तस्मात्सुषुप्त्युत्क्रान्त्योर्भेदेन																unlinked	BS:1.3.42:b107
+brahmasutra	bhashya	1.3.43	b2	पत्यादयः		gemini														unlinked	BS:1.3.43:b2
+brahmasutra	bhashya	1.3.43	b3	शब्दा		gemini	mula	1.3.43	0	1	पति-आदि-शब्देभ्यः	w0.p0							2	linked	BS:1.3.43:b3
+brahmasutra	bhashya	1.4.1	b0	आनुमानिकमपि		gemini,matcher	mula	1.4.1	0.0	1	आनुमानिकम्	w0.p0								linked	BS:1.4.1:b0
+brahmasutra	bhashya	1.4.1	b3	एकेषां		gemini	mula	1.4.1	0.2	1	एकेषाम्	w0.p2								linked	BS:1.4.1:b3
+brahmasutra	bhashya	1.4.1	b34	च		matcher	mula	1.4.1	3	1	च	w3.p0								linked	BS:1.4.1:b34
+brahmasutra	bhashya	1.4.1	b38	इति			mula	1.4.1	0.3	1	इति	w0.p3								linked	BS:1.4.1:b38
+brahmasutra	bhashya	1.4.1	b39	चेत्		gemini	mula	1.4.1	1.0	1	चेद्	w1.p0								linked	BS:1.4.1:b39
+brahmasutra	bhashya	1.4.1	b40	नैतदेवम्		gemini														unlinked	BS:1.4.1:b40
+brahmasutra	bhashya	1.4.1	b98	शरीररूपकविन्यस्तगृहीतेः		gemini,matcher	mula	1.4.1	2.0	1	शरीर-रूपक-विन्यस्त-गृहीतेः	w2.p0								linked	BS:1.4.1:b98
+brahmasutra	bhashya	1.4.1	b111	दर्शयति		gemini,matcher	mula	1.4.1	2.1	1	दर्शयति	w2.p1								linked	BS:1.4.1:b111
+brahmasutra	bhashya	1.4.1	b156	दर्शयति		matcher	mula	1.4.1	2.1	1	दर्शयति	w2.p1								linked	BS:1.4.1:b156
+brahmasutra	bhashya	1.4.1	b331	दर्शयति		matcher	mula	1.4.1	2.1	1	दर्शयति	w2.p1								linked	BS:1.4.1:b331
+brahmasutra	bhashya	1.4.2	b16	सूक्ष्मं		gemini,matcher	mula	1.4.2	0	1	सूक्ष्मम्	w0.p0								linked	BS:1.4.2:b16
+brahmasutra	bhashya	1.4.2	b17	तु		gemini,matcher	mula	1.4.2	1	1	तु	w1.p0								linked	BS:1.4.2:b17
+brahmasutra	bhashya	1.4.2	b22	सूक्ष्मस्याव्यक्तशब्दार्हत्वात्																unlinked	BS:1.4.2:b22
+brahmasutra	bhashya	1.4.3	b37	अर्थवती		gemini	mula	1.4.3	0.1	1	अर्थवत्	w0.p1								linked	BS:1.4.3:b37
+brahmasutra	bhashya	1.4.3	b164	तदधीनत्वाच्च		gemini	mula	1.4.3	0	1	तदधीनत्वात्	w0.p0								linked	BS:1.4.3:b164
+brahmasutra	bhashya	1.4.4	b0	ज्ञेयत्वेन		gemini	mula	1.4.4	0.0	1	ज्ञेयत्व-अवचनात्	w0.p0							0	linked	BS:1.4.4:b0
+brahmasutra	bhashya	1.4.4	b1	च		gemini	mula	1.4.4	0.1	1	च	w0.p1								linked	BS:1.4.4:b1
+brahmasutra	bhashya	1.4.4	b21	ज्ञेयत्वेनोच्यते		gemini														unlinked	BS:1.4.4:b21
+brahmasutra	bhashya	1.4.5	b22	हि		matcher	mula	1.4.5	3	1	हि	w3.p0								linked	BS:1.4.5:b22
+brahmasutra	bhashya	1.4.5	b42	प्राज्ञो		gemini	mula	1.4.5	2	1	प्राज्ञः	w2.p0								linked	BS:1.4.5:b42
+brahmasutra	bhashya	1.4.5	b50	प्रकरणात्		matcher	mula	1.4.5	4	1	प्रकरणात्	w4.p0								linked	BS:1.4.5:b50
+brahmasutra	bhashya	1.4.5	b53	प्रकरणं		matcher														unlinked	BS:1.4.5:b53
+brahmasutra	bhashya	1.4.6	b5	यस्मात्त्रयाणामेव																unlinked	BS:1.4.6:b5
+brahmasutra	bhashya	1.4.6	b13	प्रश्नः			mula	1.4.6	2.0	1	प्रश्नः	w2.p0								linked	BS:1.4.6:b13
+brahmasutra	bhashya	1.4.8	b109	विशेषावधारणकारणाभावात्																unlinked	BS:1.4.8:b109
+brahmasutra	bhashya	1.4.8	b110	चमसवत्		gemini	mula	1.4.8	0	1	चमसवत्	w0.p0								linked	BS:1.4.8:b110
+brahmasutra	bhashya	1.4.9	b1	ज्योतिःप्रमुखा																unlinked	BS:1.4.9:b1
+brahmasutra	bhashya	1.4.9	b13	तथा		matcher	mula	1.4.9	2	1	तथा	w2.p0								linked	BS:1.4.9:b13
+brahmasutra	bhashya	1.4.9	b14	ह्येके																unlinked	BS:1.4.9:b14
+brahmasutra	bhashya	1.4.10	b5	कल्पनोपदेशोऽयम्																unlinked	BS:1.4.10:b5
+brahmasutra	bhashya	1.4.10	b70	मध्वादिवत्		gemini	mula	1.4.10	1.0	1	मधु-आदि-वत्	w1.p0								linked	BS:1.4.10:b70
+brahmasutra	bhashya	1.4.11	b44	न		gemini,matcher	mula	1.4.11	0	1	न	w0.p0								linked	BS:1.4.11:b44
+brahmasutra	bhashya	1.4.11	b60	न			mula	1.4.11	0	1	न	w0.p0								linked	BS:1.4.11:b60
+brahmasutra	bhashya	1.4.11	b61	संख्योपसङ्ग्रहादपि		gemini,matcher	mula	1.4.11	1.0	1	संख्या-उपसङ्ग्रहात्	w1.p0								linked	BS:1.4.11:b61
+brahmasutra	bhashya	1.4.11	b67	नानाभावात्		gemini	mula	1.4.11	2.0	1	नाना-भावात्	w2.p0								linked	BS:1.4.11:b67
+brahmasutra	bhashya	1.4.11	b202	अतिरेकाच्च		gemini,matcher	mula	1.4.11	2.1	1	अतिरेकात्	w2.p1								linked	BS:1.4.11:b202
+brahmasutra	bhashya	1.4.12	b5	प्राणादयः		gemini,matcher	mula	1.4.12	0	1	प्राण-आदयः	w0.p0								linked	BS:1.4.12:b5
+brahmasutra	bhashya	1.4.12	b19	वाक्यशेषगताः																unlinked	BS:1.4.12:b19
+brahmasutra	bhashya	1.4.12	b38	प्राणादयो		gemini,matcher	mula	1.4.12	0	1	प्राण-आदयः	w0.p0								linked	BS:1.4.12:b38
+brahmasutra	bhashya	1.4.12	b121	प्राणादयो		matcher	mula	1.4.12	0	1	प्राण-आदयः	w0.p0								linked	BS:1.4.12:b121
+brahmasutra	bhashya	1.4.12	b122	वाक्यशेषात्		gemini,matcher	mula	1.4.12	1	1	वाक्य-शेषात्	w1.p0								linked	BS:1.4.12:b122
+brahmasutra	bhashya	1.4.13	b0	असत्यपि			mula	1.4.13	0.2	1	असति	w0.p2								linked	BS:1.4.13:b0
+brahmasutra	bhashya	1.4.13	b2	ज्योतिषा		gemini,matcher	mula	1.4.13	0.0	1	ज्योतिषा	w0.p0								linked	BS:1.4.13:b2
+brahmasutra	bhashya	1.4.14	b113	यथाव्यपदिष्टोक्तेः		gemini,matcher	mula	1.4.14	2	1	यथा-व्यपदिष्ट-उक्तेः	w2.p0								linked	BS:1.4.14:b113
+brahmasutra	bhashya	1.4.14	b119	कारणत्वेन		gemini,matcher	mula	1.4.14	0	1	कारणत्वेन	w0.p0								linked	BS:1.4.14:b119
+brahmasutra	bhashya	1.4.14	b120	व्यपदिष्टः		matcher	mula	1.4.14	2	1	यथा-व्यपदिष्ट-उक्तेः	w2.p0							1	linked	BS:1.4.14:b120
+brahmasutra	bhashya	1.4.14	b170	कारणत्वेन		matcher	mula	1.4.14	0	1	कारणत्वेन	w0.p0								linked	BS:1.4.14:b170
+brahmasutra	bhashya	1.4.15	b103	समाकर्षात्		matcher	mula	1.4.15	0	1	समाकर्षात्	w0.p0								linked	BS:1.4.15:b103
+brahmasutra	bhashya	1.4.15	b145	व्याक्रियत		gemini														unlinked	BS:1.4.15:b145
+brahmasutra	bhashya	1.4.17	b11	चैतत्		matcher	mula	1.4.17	1	1	चेत्	w1.p0								linked	BS:1.4.17:b11
+brahmasutra	bhashya	1.4.18	b16	प्रश्नव्याख्यानाभ्याम्		matcher	mula	1.4.18	3.0	1	प्रश्न-व्याख्यानाभ्याम्	w3.p0								linked	BS:1.4.18:b16
+brahmasutra	bhashya	1.4.18	b95	प्रश्ने		matcher	mula	1.4.18	3.0	1	प्रश्न-व्याख्यानाभ्याम्	w3.p0							0	linked	BS:1.4.18:b95
+brahmasutra	bhashya	1.4.19	b110	वाक्यान्वयात्		matcher	mula	1.4.19	0	1	वाक्य-अन्वयात्	w0.p0								linked	BS:1.4.19:b110
+brahmasutra	bhashya	1.4.20	b1	प्रतिज्ञा		matcher	mula	1.4.20	0.0	1	प्रतिज्ञा-सिद्धेः	w0.p0							0	linked	BS:1.4.20:b1
+brahmasutra	bhashya	1.4.20	b31	तस्मात्प्रतिज्ञासिद्ध्यर्थं																unlinked	BS:1.4.20:b31
+brahmasutra	bhashya	1.4.22	b3	काशकृत्स्न		matcher	mula	1.4.22	1	1	काशकृत्स्नः	w1.p0								linked	BS:1.4.22:b3
+brahmasutra	bhashya	1.4.22	b106	प्रतिज्ञासिद्धेर्लिङ्गमाश्मरथ्यः		gemini														unlinked	BS:1.4.22:b106
+brahmasutra	bhashya	1.4.22	b145	उत्क्रमिष्यत		gemini	mula	1.4.21	0	1	उत्क्रमिष्यतः	w0.p0								linked	BS:1.4.22:b145
+brahmasutra	bhashya	1.4.22	b146	एवंभावादित्यौडुलोमिः		gemini														unlinked	BS:1.4.22:b146
+brahmasutra	bhashya	1.4.22	b152	अवस्थितेरिति		gemini,matcher	mula	1.4.22	0.0	1	अवस्थितेः	w0.p0								linked	BS:1.4.22:b152
+brahmasutra	bhashya	1.4.22	b153	काशकृत्स्नः		gemini,matcher	mula	1.4.22	1	1	काशकृत्स्नः	w1.p0								linked	BS:1.4.22:b153
+brahmasutra	bhashya	1.4.22	b157	काशकृत्स्न		matcher	mula	1.4.22	1	1	काशकृत्स्नः	w1.p0								linked	BS:1.4.22:b157
+brahmasutra	bhashya	1.4.23	b102	प्रतिज्ञादृष्टान्तानुपरोधात्		gemini,matcher	mula	1.4.23	1	1	प्रतिज्ञा-दृष्टान्त-अनुपरोधात्	w1.p0								linked	BS:1.4.23:b102
+brahmasutra	bhashya	1.4.23	b105	प्रतिज्ञादृष्टान्तौ		matcher	mula	1.4.23	1	1	प्रतिज्ञा-दृष्टान्त-अनुपरोधात्	w1.p0							0-1	linked	BS:1.4.23:b105
+brahmasutra	bhashya	1.4.23	b108	प्रतिज्ञा		matcher	mula	1.4.23	1	1	प्रतिज्ञा-दृष्टान्त-अनुपरोधात्	w1.p0							0	linked	BS:1.4.23:b108
+brahmasutra	bhashya	1.4.23	b171	प्रतिज्ञा		matcher	mula	1.4.23	1	1	प्रतिज्ञा-दृष्टान्त-अनुपरोधात्	w1.p0							0	linked	BS:1.4.23:b171
+brahmasutra	bhashya	1.4.23	b176	दृष्टान्तः		matcher	mula	1.4.23	1	1	प्रतिज्ञा-दृष्टान्त-अनुपरोधात्	w1.p0							1	linked	BS:1.4.23:b176
+brahmasutra	bhashya	1.4.23	b187	प्रतिज्ञा		matcher	mula	1.4.23	1	1	प्रतिज्ञा-दृष्टान्त-अनुपरोधात्	w1.p0							0	linked	BS:1.4.23:b187
+brahmasutra	bhashya	1.4.23	b200	दृष्टान्तः		matcher	mula	1.4.23	1	1	प्रतिज्ञा-दृष्टान्त-अनुपरोधात्	w1.p0							1	linked	BS:1.4.23:b200
+brahmasutra	bhashya	1.4.23	b204	प्रतिज्ञादृष्टान्तौ		matcher	mula	1.4.23	1	1	प्रतिज्ञा-दृष्टान्त-अनुपरोधात्	w1.p0							0-1	linked	BS:1.4.23:b204
+brahmasutra	bhashya	1.4.25	b4	साक्षाद्ब्रह्मैव			mula	1.4.25	0.0	1	साक्षात्	w0.p0								linked	BS:1.4.25:b4
+brahmasutra	bhashya	1.4.25	b6	उभौ		gemini														unlinked	BS:1.4.25:b6
+brahmasutra	bhashya	1.4.25	b27	साक्षात्		gemini	mula	1.4.25	0.0	1	साक्षात्	w0.p0								linked	BS:1.4.25:b27
+brahmasutra	bhashya	1.4.25	b29	च		gemini	mula	1.4.25	0.1	1	च	w0.p1								linked	BS:1.4.25:b29
+brahmasutra	bhashya	1.4.26	b11	आत्मानमिति																unlinked	BS:1.4.26:b11
+brahmasutra	bhashya	1.4.26	b13	स्वयमकुरुतेति																unlinked	BS:1.4.26:b13
+brahmasutra	bhashya	1.4.26	b24	परिणामादिति			mula	1.4.26	1	1	परिणामात्	w1.p0								linked	BS:1.4.26:b24
+brahmasutra	bhashya	1.4.26	b41	परिणामात्		gemini,matcher	mula	1.4.26	1	1	परिणामात्	w1.p0								linked	BS:1.4.26:b41
+brahmasutra	bhashya	1.4.27	b4	योनिरित्यपि		gemini														unlinked	BS:1.4.27:b4
+brahmasutra	bhashya	1.4.27	b15	च		gemini	mula	1.4.27	0.1	1	च	w0.p1								linked	BS:1.4.27:b15
+brahmasutra	bhashya	1.4.27	b16	योनिशब्दश्च		gemini														unlinked	BS:1.4.27:b16
+brahmasutra	bhashya	1.4.28	b37	एतेन		gemini,matcher	mula	1.4.28	0	1	एतेन	w0.p0								linked	BS:1.4.28:b37
+brahmasutra	bhashya	1.4.28	b42	व्याख्याता		gemini,matcher	mula	1.4.28	2	1	व्याख्याताः	w2.p0								linked	BS:1.4.28:b42
+brahmasutra	bhashya	1.4.28	b46	व्याख्याता		gemini,matcher	mula	1.4.28	3	2	व्याख्याताः	w3.p0								linked	BS:1.4.28:b46
+brahmasutra	bhashya	1.4.28	b47	व्याख्याता		gemini,matcher	mula	1.4.28	3	2	व्याख्याताः	w3.p0								linked	BS:1.4.28:b47
+brahmasutra	bhashya	1.4.28	b48	इति		gemini														unlinked	BS:1.4.28:b48
+brahmasutra	bhashya	2.1.1	b5	इति		matcher	mula	2.1.1	1	1	इति	w1.p0								linked	BS:2.1.1:b5
+brahmasutra	bhashya	2.1.1	b8	स्मृत्यनवकाशदोषप्रसङ्गात्		gemini,matcher	mula	2.1.1	2.2	1	अन्य-स्मृति-अनवकाश-दोष-प्रसङ्गात्	w2.p2							1-4	linked	BS:2.1.1:b8
+brahmasutra	bhashya	2.1.1	b9	स्मृतिश्च		gemini														unlinked	BS:2.1.1:b9
+brahmasutra	bhashya	2.1.1	b122	नान्यस्मृत्यनवकाशदोषप्रसङ्गात्		gemini,matcher														unlinked	BS:2.1.1:b122
+brahmasutra	bhashya	2.1.1	b129	स्मृतयोऽनवकाशाः		matcher														unlinked	BS:2.1.1:b129
+brahmasutra	bhashya	2.1.2	b0	प्रधानादितराणि		gemini														unlinked	BS:2.1.2:b0
+brahmasutra	bhashya	2.1.2	b6	न		gemini														unlinked	BS:2.1.2:b6
+brahmasutra	bhashya	2.1.2	b8	वेदे		gemini														unlinked	BS:2.1.2:b8
+brahmasutra	bhashya	2.1.2	b9	लोके		gemini														unlinked	BS:2.1.2:b9
+brahmasutra	bhashya	2.1.3	b0	एतेन		gemini,matcher	mula	2.1.3	0	1	एतेन	w0.p0								linked	BS:2.1.3:b0
+brahmasutra	bhashya	2.1.3	b2	योगस्मृतिरपि		gemini														unlinked	BS:2.1.3:b2
+brahmasutra	bhashya	2.1.3	b3	प्रत्याख्याता		gemini														unlinked	BS:2.1.3:b3
+brahmasutra	bhashya	2.1.3	b60	योगः		matcher	mula	2.1.3	1	1	योगः	w1.p0								linked	BS:2.1.3:b60
+brahmasutra	bhashya	2.1.4	b31	च		matcher	mula	2.1.4	3	1	च	w3.p0								linked	BS:2.1.4:b31
+brahmasutra	bhashya	2.1.4	b75	न		gemini	mula	2.1.4	0	1	न	w0.p0								linked	BS:2.1.4:b75
+brahmasutra	bhashya	2.1.4	b76	विलक्षणत्वादस्य		gemini,matcher	mula	2.1.4	1.0	1	विलक्षणत्वात्	w1.p0								linked	BS:2.1.4:b76
+brahmasutra	bhashya	2.1.4	b87	विलक्षणत्वादस्य		matcher	mula	2.1.4	1.0	1	विलक्षणत्वात्	w1.p0								linked	BS:2.1.4:b87
+brahmasutra	bhashya	2.1.4	b105	विलक्षणत्वे		matcher	mula	2.1.4	1.0	1	विलक्षणत्वात्	w1.p0								linked	BS:2.1.4:b105
+brahmasutra	bhashya	2.1.4	b249	विलक्षणत्वं		matcher														unlinked	BS:2.1.4:b249
+brahmasutra	bhashya	2.1.4	b253	विलक्षणत्वं		matcher														unlinked	BS:2.1.4:b253
+brahmasutra	bhashya	2.1.4	b258	विलक्षणत्वं		matcher														unlinked	BS:2.1.4:b258
+brahmasutra	bhashya	2.1.4	b262	तथात्वं		gemini	mula	2.1.4	2	1	तथात्वम्	w2.p0								linked	BS:2.1.4:b262
+brahmasutra	bhashya	2.1.4	b263	च		gemini	mula	2.1.4	3	1	च	w3.p0								linked	BS:2.1.4:b263
+brahmasutra	bhashya	2.1.4	b264	शब्दादिति			mula	2.1.4	4	1	शब्दात्	w4.p0								linked	BS:2.1.4:b264
+brahmasutra	bhashya	2.1.4	b276	शब्दादपि		gemini	mula	2.1.4	4	1	शब्दात्	w4.p0								linked	BS:2.1.4:b276
+brahmasutra	bhashya	2.1.4	b277	तथात्वमवगम्यते		gemini	mula	2.1.4	2	1	तथात्वम्	w2.p0								linked	BS:2.1.4:b277
+brahmasutra	bhashya	2.1.4	b278	तथात्वमिति		gemini	mula	2.1.4	2	1	तथात्वम्	w2.p0								linked	BS:2.1.4:b278
+brahmasutra	bhashya	2.1.5	b0	तुशब्द		gemini														unlinked	BS:2.1.5:b0
+brahmasutra	bhashya	2.1.5	b22	विशेषानुगतिभ्याम्		gemini,matcher	mula	2.1.5	1	1	विशेष-अनुगतिभ्याम्	w1.p0								linked	BS:2.1.5:b22
+brahmasutra	bhashya	2.1.6	b0	तुशब्दः		gemini														unlinked	BS:2.1.6:b0
+brahmasutra	bhashya	2.1.6	b8	दृश्यते		gemini,matcher	mula	2.1.6	0	1	दृश्यते	w0.p0								linked	BS:2.1.6:b8
+brahmasutra	bhashya	2.1.6	b98	तु		matcher	mula	2.1.6	1	1	तु	w1.p0								linked	BS:2.1.6:b98
+brahmasutra	bhashya	2.1.7	b17	नैष		gemini														unlinked	BS:2.1.7:b17
+brahmasutra	bhashya	2.1.7	b18	दोषः		gemini														unlinked	BS:2.1.7:b18
+brahmasutra	bhashya	2.1.7	b19	प्रतिषेधमात्रत्वात्		gemini,matcher	mula	2.1.7	2	1	प्रतिषेध-मात्र-त्वात्	w2.p0								linked	BS:2.1.7:b19
+brahmasutra	bhashya	2.1.7	b20	प्रतिषेधमात्रं		matcher	mula	2.1.7	2	1	प्रतिषेध-मात्र-त्वात्	w2.p0							0-1	linked	BS:2.1.7:b20
+brahmasutra	bhashya	2.1.7	b27	प्रतिषेधः		matcher	mula	2.1.7	2	1	प्रतिषेध-मात्र-त्वात्	w2.p0							0	linked	BS:2.1.7:b27
+brahmasutra	bhashya	2.1.8	b5	तदापीतौ																unlinked	BS:2.1.8:b5
+brahmasutra	bhashya	2.1.8	b13	अपीतौ		gemini,matcher	mula	2.1.8	0	1	अपीतौ	w0.p0								linked	BS:2.1.8:b13
+brahmasutra	bhashya	2.1.9	b10	दृष्टान्तभावात्		matcher	mula	2.1.9	2	1	दृष्टान्त-भावात्	w2.p0								linked	BS:2.1.9:b10
+brahmasutra	bhashya	2.1.9	b13	दृष्टान्ताः		matcher	mula	2.1.9	2	1	दृष्टान्त-भावात्	w2.p0							0	linked	BS:2.1.9:b13
+brahmasutra	bhashya	2.1.9	b46	तु		gemini	mula	2.1.9	1	1	तु	w1.p0								linked	BS:2.1.9:b46
+brahmasutra	bhashya	2.1.9	b110	दृष्टान्तः		matcher	mula	2.1.9	2	1	दृष्टान्त-भावात्	w2.p0							0	linked	BS:2.1.9:b110
+brahmasutra	bhashya	2.1.9	b170	दृष्टान्तभावादेव			mula	2.1.9	2	1	दृष्टान्त-भावात्	w2.p0								linked	BS:2.1.9:b170
+brahmasutra	bhashya	2.1.10	b0	स्वपक्षे		gemini,matcher	mula	2.1.10	0.0	1	स्व-पक्ष-दोषात्	w0.p0							0-1	linked	BS:2.1.10:b0
+brahmasutra	bhashya	2.1.10	b4	दोषाः		gemini														unlinked	BS:2.1.10:b4
+brahmasutra	bhashya	2.1.11	b7	अप्रतिष्ठिता		gemini														unlinked	BS:2.1.11:b7
+brahmasutra	bhashya	2.1.11	b21	तर्काणां		gemini	mula	2.1.11	0.0	1	तर्क-अप्रतिष्ठानात्	w0.p0							0	linked	BS:2.1.11:b21
+brahmasutra	bhashya	2.1.11	b38	अन्यथा		gemini	mula	2.1.11	0.2	1	अन्यथा	w0.p2								linked	BS:2.1.11:b38
+brahmasutra	bhashya	2.1.11	b39	वयमनुमास्यामहे																unlinked	BS:2.1.11:b39
+brahmasutra	bhashya	2.1.11	b119	तर्काप्रतिष्ठानं		matcher														unlinked	BS:2.1.11:b119
+brahmasutra	bhashya	2.1.11	b123	एवमप्यविमोक्षप्रसङ्गः		gemini,matcher	mula	2.1.11	1.1	1	एवम्	w1.p1								linked	BS:2.1.11:b123
+brahmasutra	bhashya	2.1.12	b21	परिग्रहाः		matcher														unlinked	BS:2.1.12:b21
+brahmasutra	bhashya	2.1.12	b23	परिग्रहाः		matcher														unlinked	BS:2.1.12:b23
+brahmasutra	bhashya	2.1.12	b24	अपरिग्रहाः		matcher	mula	2.1.12	1	1	शिष्ट-अपरिग्रहाः	w1.p0							1	linked	BS:2.1.12:b24
+brahmasutra	bhashya	2.1.12	b26	शिष्टापरिग्रहाः		matcher	mula	2.1.12	1	1	शिष्ट-अपरिग्रहाः	w1.p0								linked	BS:2.1.12:b26
+brahmasutra	bhashya	2.1.12	b27	एतेन		gemini,matcher	mula	2.1.12	0	1	एतेन	w0.p0								linked	BS:2.1.12:b27
+brahmasutra	bhashya	2.1.12	b33	तेऽपि		gemini														unlinked	BS:2.1.12:b33
+brahmasutra	bhashya	2.1.12	b35	व्याख्याता		gemini,matcher	mula	2.1.12	3	1	व्याख्याताः	w3.p0								linked	BS:2.1.12:b35
+brahmasutra	bhashya	2.1.13	b35	भोक्ता		gemini,matcher	mula	2.1.13	0.0	1	भोक्तृ-आपत्तेः	w0.p0							0	linked	BS:2.1.13:b35
+brahmasutra	bhashya	2.1.13	b79	स्याल्लोकवदिति			mula	2.1.13	0.3	1	स्यात्	w0.p3								linked	BS:2.1.13:b79
+brahmasutra	bhashya	2.1.14	b24	आरम्भणशब्दादिभ्यः		gemini,matcher	mula	2.1.14	0.2	1	आरम्भण-शब्द-आदिभ्यः	w0.p2								linked	BS:2.1.14:b24
+brahmasutra	bhashya	2.1.14	b99	आरम्भणशब्दादिभ्य		matcher	mula	2.1.14	0.2	1	आरम्भण-शब्द-आदिभ्यः	w0.p2								linked	BS:2.1.14:b99
+brahmasutra	bhashya	2.1.14	b802	तदनन्यत्वम्		gemini,matcher	mula	2.1.14	0.0	1	तत्	w0.p0								linked	BS:2.1.14:b802
+brahmasutra	bhashya	2.1.15	b63	भावाच्चोपलब्धेः		gemini	mula	2.1.15	0	1	भावे	w0.p0								linked	BS:2.1.15:b63
+brahmasutra	bhashya	2.1.16	b39	सत्त्वं		matcher														unlinked	BS:2.1.16:b39
+brahmasutra	bhashya	2.1.17	b9	असद्वा		matcher	mula	2.1.17	0.0	1	असत् - व्यपदेशात्	w0.p0							0	linked	BS:2.1.17:b9
+brahmasutra	bhashya	2.1.17	b28	धर्मान्तरम्		gemini														unlinked	BS:2.1.17:b28
+brahmasutra	bhashya	2.1.17	b37	वाक्यशेषात्		gemini,matcher	mula	2.1.17	3	1	वाक्य - शेषात्	w3.p0								linked	BS:2.1.17:b37
+brahmasutra	bhashya	2.1.17	b67	वाक्यशेषे		matcher	mula	2.1.17	3	1	वाक्य - शेषात्	w3.p0								linked	BS:2.1.17:b67
+brahmasutra	bhashya	2.1.18	b0	युक्तेश्च		gemini	mula	2.1.18	0	1	युक्तेः	w0.p0								linked	BS:2.1.18:b0
+brahmasutra	bhashya	2.1.18	b6	शब्दान्तराच्च		gemini,matcher	mula	2.1.18	1.0	1	शब्द-अन्तरात्	w1.p0								linked	BS:2.1.18:b6
+brahmasutra	bhashya	2.1.18	b460	शब्दान्तराच्चैतदवगम्यते			mula	2.1.18	1.0	1	शब्द-अन्तरात्	w1.p0								linked	BS:2.1.18:b460
+brahmasutra	bhashya	2.1.18	b465	शब्दान्तरम्		gemini														unlinked	BS:2.1.18:b465
+brahmasutra	bhashya	2.1.19	b3	पटो		gemini														unlinked	BS:2.1.19:b3
+brahmasutra	bhashya	2.1.20	b0	यथा		gemini,matcher	mula	2.1.20	0	1	यथा	w0.p0								linked	BS:2.1.20:b0
+brahmasutra	bhashya	2.1.20	b1	च		gemini,matcher	mula	2.1.20	1	1	च	w1.p0								linked	BS:2.1.20:b1
+brahmasutra	bhashya	2.1.21	b5	हिताकरणादयो																unlinked	BS:2.1.21:b5
+brahmasutra	bhashya	2.1.21	b6	दोषाः			mula	2.1.21	0.1	1	हित-अकरण-आदि-दोष-प्रसक्तिः	w0.p1							3	linked	BS:2.1.21:b6
+brahmasutra	bhashya	2.1.21	b7	प्रसज्यन्ते																unlinked	BS:2.1.21:b7
+brahmasutra	bhashya	2.1.21	b9	इतरव्यपदेशात्		gemini	mula	2.1.21	0.0	1	इतर-व्यपदेशात्	w0.p0								linked	BS:2.1.21:b9
+brahmasutra	bhashya	2.1.21	b10	इतरस्य		gemini	mula	2.1.21	0.0	1	इतर-व्यपदेशात्	w0.p0							0	linked	BS:2.1.21:b10
+brahmasutra	bhashya	2.1.22	b0	तुशब्दः		gemini														unlinked	BS:2.1.22:b0
+brahmasutra	bhashya	2.1.22	b39	तु		matcher	mula	2.1.22	1	1	तु	w1.p0								linked	BS:2.1.22:b39
+brahmasutra	bhashya	2.1.22	b47	भेदनिर्देशात्		gemini,matcher	mula	2.1.22	2	1	भेद-निर्देशात्	w2.p0								linked	BS:2.1.22:b47
+brahmasutra	bhashya	2.1.23	b37	तदनुपपत्तिः		gemini,matcher	mula	2.1.23	1	1	तद्-अनुपपत्तिः	w1.p0								linked	BS:2.1.23:b37
+brahmasutra	bhashya	2.1.24	b7	उपसंहारदर्शनात्		gemini	mula	2.1.24	0.0	1	उपसंहार-दर्शनात्	w0.p0								linked	BS:2.1.24:b7
+brahmasutra	bhashya	2.1.24	b27	तस्मान्न		gemini														unlinked	BS:2.1.24:b27
+brahmasutra	bhashya	2.1.24	b38	क्षीरं		matcher														unlinked	BS:2.1.24:b38
+brahmasutra	bhashya	2.1.24	b56	क्षीरवद्धि		gemini,matcher	mula	2.1.24	2	1	क्षीरवत्	w2.p0								linked	BS:2.1.24:b56
+brahmasutra	bhashya	2.1.25	b22	देवादिवदिति		gemini	mula	2.1.25	0.0	1	देव-आदि-वत्	w0.p0								linked	BS:2.1.25:b22
+brahmasutra	bhashya	2.1.25	b25	लोके		matcher	mula	2.1.25	1	1	लोके	w1.p0								linked	BS:2.1.25:b25
+brahmasutra	bhashya	2.1.26	b13	कृत्स्नप्रसक्तिः		gemini,matcher	mula	2.1.26	0.0	1	कृत्स्न-प्रसक्तिः	w0.p0								linked	BS:2.1.26:b13
+brahmasutra	bhashya	2.1.26	b19	निरवयवत्वात्		gemini	mula	2.1.26	0.1	1	निरवयवत्व-शब्द-कोपः	w0.p1							0	linked	BS:2.1.26:b19
+brahmasutra	bhashya	2.1.26	b26	निरवयवं		matcher														unlinked	BS:2.1.26:b26
+brahmasutra	bhashya	2.1.26	b68	निरवयवत्वस्य		gemini	mula	2.1.26	0.1	1	निरवयवत्व-शब्द-कोपः	w0.p1							0	linked	BS:2.1.26:b68
+brahmasutra	bhashya	2.1.26	b70	शब्दा		gemini														unlinked	BS:2.1.26:b70
+brahmasutra	bhashya	2.1.26	b72	प्रकुप्येयुः		gemini														unlinked	BS:2.1.26:b72
+brahmasutra	bhashya	2.1.27	b9	श्रुतेः			mula	2.1.27	0.0	1	श्रुतेः	w0.p0								linked	BS:2.1.27:b9
+brahmasutra	bhashya	2.1.27	b76	शब्दमूलं		matcher	mula	2.1.27	1	1	शब्द-मूल-त्वात्	w1.p0							0-1	linked	BS:2.1.27:b76
+brahmasutra	bhashya	2.1.28	b27	च		gemini	mula	2.1.28	1.0	1	च	w1.p0								linked	BS:2.1.28:b27
+brahmasutra	bhashya	2.1.28	b29	विचित्रा		gemini	mula	2.1.28	2.0	1	विचित्राः	w2.p0								linked	BS:2.1.28:b29
+brahmasutra	bhashya	2.1.29	b2	स्वपक्षे		gemini,matcher														unlinked	BS:2.1.29:b2
+brahmasutra	bhashya	2.1.29	b3	दोषः		gemini														unlinked	BS:2.1.29:b3
+brahmasutra	bhashya	2.1.29	b14	स्वपक्षः		matcher														unlinked	BS:2.1.29:b14
+brahmasutra	bhashya	2.1.29	b82	स्वपक्षे		matcher														unlinked	BS:2.1.29:b82
+brahmasutra	bhashya	2.1.30	b12	सर्वोपेता		gemini,matcher	mula	2.1.30	0	1	सर्व-उपेता	w0.p0								linked	BS:2.1.30:b12
+brahmasutra	bhashya	2.1.30	b13	च		gemini,matcher	mula	2.1.30	1	1	च	w1.p0								linked	BS:2.1.30:b13
+brahmasutra	bhashya	2.1.30	b14	तद्दर्शनात्		gemini,matcher	mula	2.1.30	2	1	तद्-दर्शनात्	w2.p0								linked	BS:2.1.30:b14
+brahmasutra	bhashya	2.1.30	b16	च		gemini	mula	2.1.30	1	1	च	w1.p0								linked	BS:2.1.30:b16
+brahmasutra	bhashya	2.1.30	b20	तद्दर्शनात्		gemini,matcher	mula	2.1.30	2	1	तद्-दर्शनात्	w2.p0								linked	BS:2.1.30:b20
+brahmasutra	bhashya	2.1.31	b1	विकरणां		matcher														unlinked	BS:2.1.31:b1
+brahmasutra	bhashya	2.1.32	b4	न		gemini,matcher	mula	2.1.32	0	1	न	w0.p0								linked	BS:2.1.32:b4
+brahmasutra	bhashya	2.1.32	b11	प्रयोजनवत्त्वात्प्रवृत्तीनाम्			mula	2.1.32	1	1	प्रयोजनवत्त्वात्	w1.p0								linked	BS:2.1.32:b11
+brahmasutra	bhashya	2.1.32	b34	प्रियं		matcher														unlinked	BS:2.1.32:b34
+brahmasutra	bhashya	2.1.33	b3	लोके		gemini														unlinked	BS:2.1.33:b3
+brahmasutra	bhashya	2.1.33	b46	केवलेयम्		matcher	mula	2.1.33	1	1	लीला-कैवल्यम्	w1.p0							1	linked	BS:2.1.33:b46
+brahmasutra	bhashya	2.1.34	b9	वैषम्यनैर्घृण्यप्रसङ्गात्			mula	2.1.34	0	1	वैषम्य-नैर्घृण्ये	w0.p0								linked	BS:2.1.34:b9
+brahmasutra	bhashya	2.1.34	b18	विषमां		matcher														unlinked	BS:2.1.34:b18
+brahmasutra	bhashya	2.1.34	b35	वैषम्यनैर्घृण्ये		gemini,matcher	mula	2.1.34	0	1	वैषम्य-नैर्घृण्ये	w0.p0								linked	BS:2.1.34:b35
+brahmasutra	bhashya	2.1.34	b39	सापेक्षत्वात्		matcher	mula	2.1.34	2.0	1	सापेक्षत्वात्	w2.p0								linked	BS:2.1.34:b39
+brahmasutra	bhashya	2.1.34	b51	नैर्घृण्यं		matcher	mula	2.1.34	0	1	वैषम्य-नैर्घृण्ये	w0.p0							1	linked	BS:2.1.34:b51
+brahmasutra	bhashya	2.1.34	b111	तथा		gemini	mula	2.1.34	2.1	1	तथा	w2.p1								linked	BS:2.1.34:b111
+brahmasutra	bhashya	2.1.34	b112	हि		gemini	mula	2.1.34	2.2	1	हि	w2.p2								linked	BS:2.1.34:b112
+brahmasutra	bhashya	2.1.34	b113	दर्शयति		gemini,matcher	mula	2.1.34	3	1	दर्शयति	w3.p0								linked	BS:2.1.34:b113
+brahmasutra	bhashya	2.1.34	b146	दर्शयति		matcher	mula	2.1.34	3	1	दर्शयति	w3.p0								linked	BS:2.1.34:b146
+brahmasutra	bhashya	2.1.35	b5	कर्म		gemini,matcher	mula	2.1.35	1.0	1	कर्म	w1.p0								linked	BS:2.1.35:b5
+brahmasutra	bhashya	2.1.35	b28	चेत्		gemini	mula	2.1.35	2.0	1	चेत्	w2.p0								linked	BS:2.1.35:b28
+brahmasutra	bhashya	2.1.35	b29	नैष		gemini														unlinked	BS:2.1.35:b29
+brahmasutra	bhashya	2.1.35	b30	दोषः		gemini														unlinked	BS:2.1.35:b30
+brahmasutra	bhashya	2.1.35	b31	अनादित्वात्संसारस्य			mula	2.1.35	2.2	1	अनादित्वात्	w2.p2								linked	BS:2.1.35:b31
+brahmasutra	bhashya	2.1.36	b0	उपपद्यते		gemini,matcher	mula	2.1.36	0	1	उपपद्यते	w0.p0								linked	BS:2.1.36:b0
+brahmasutra	bhashya	2.1.36	b1	च		gemini,matcher	mula	2.1.36	1	1	च	w1.p0								linked	BS:2.1.36:b1
+brahmasutra	bhashya	2.1.36	b41	उपलभ्यते		gemini,matcher	mula	2.1.36	1.2	1	उपलभ्यते	w1.p2								linked	BS:2.1.36:b41
+brahmasutra	bhashya	2.1.36	b42	च		gemini	mula	2.1.36	2	2	च	w2.p0								linked	BS:2.1.36:b42
+brahmasutra	bhashya	2.1.37	b18	सर्वे		gemini,matcher	mula	2.1.37	0.0	1	सर्व-धर्म-उपपत्तेः	w0.p0							0	linked	BS:2.1.37:b18
+brahmasutra	bhashya	2.1.37	b20	उपपद्यन्ते		gemini														unlinked	BS:2.1.37:b20
+brahmasutra	bhashya	2.2.1	b73	रचना		matcher	mula	2.2.1	0.0	1	रचना-अनुपपत्तेः	w0.p0							0	linked	BS:2.2.1:b73
+brahmasutra	bhashya	2.2.1	b94	रचनानुपपत्तेश्च		gemini,matcher	mula	2.2.1	0.0	1	रचना-अनुपपत्तेः	w0.p0								linked	BS:2.2.1:b94
+brahmasutra	bhashya	2.2.2	b5	प्रवृत्तिः		gemini,matcher	mula	2.2.2	0.0	1	प्रवृत्तेः	w0.p0								linked	BS:2.2.2:b5
+brahmasutra	bhashya	2.2.2	b33	प्रवृत्तिः		matcher	mula	2.2.2	0.0	1	प्रवृत्तेः	w0.p0								linked	BS:2.2.2:b33
+brahmasutra	bhashya	2.2.2	b173	प्रवृत्तिः		matcher	mula	2.2.2	0.0	1	प्रवृत्तेः	w0.p0								linked	BS:2.2.2:b173
+brahmasutra	bhashya	2.2.4	b20	अनपेक्षत्वाच्च		gemini	mula	2.2.4	0.2	1	अनपेक्षत्वात्	w0.p2								linked	BS:2.2.4:b20
+brahmasutra	bhashya	2.2.5	b28	न		matcher	mula	2.2.5	1	1	न	w1.p0								linked	BS:2.2.5:b28
+brahmasutra	bhashya	2.2.5	b49	अन्यत्राभावात्		gemini	mula	2.2.5	0.0	1	अन्यत्र	w0.p0								linked	BS:2.2.5:b49
+brahmasutra	bhashya	2.2.6	b15	अर्थाभावात्		gemini,matcher	mula	2.2.6	0.2	1	अर्थ-अभावात्	w0.p2								linked	BS:2.2.6:b15
+brahmasutra	bhashya	2.2.7	b7	पुरुषं		matcher	mula	2.2.7	0.0	1	पुरुष-अश्म-वत्	w0.p0							0	linked	BS:2.2.7:b7
+brahmasutra	bhashya	2.2.7	b25	तथापि		gemini	mula	2.2.7	1.1	1	तथा	w1.p1								linked	BS:2.2.7:b25
+brahmasutra	bhashya	2.2.7	b63	पुरुषाश्मवदिति		matcher	mula	2.2.7	0.0	1	पुरुष-अश्म-वत्	w0.p0								linked	BS:2.2.7:b63
+brahmasutra	bhashya	2.2.9	b2	अन्यथा		gemini,matcher	mula	2.2.9	0.0	1	अन्यथा	w0.p0								linked	BS:2.2.9:b2
+brahmasutra	bhashya	2.2.9	b3	वयमनुमिमीमहे																unlinked	BS:2.2.9:b3
+brahmasutra	bhashya	2.2.11	b75	ह्रस्वं		matcher	mula	2.2.11	1	1	ह्रस्व-परिमण्डलाभ्याम्	w1.p0							0	linked	BS:2.2.11:b75
+brahmasutra	bhashya	2.2.11	b79	महद्दीर्घं		matcher	mula	2.2.11	0.0	1	महद्दीर्घ-वत्	w0.p0							0	linked	BS:2.2.11:b79
+brahmasutra	bhashya	2.2.11	b88	महद्दीर्घं		matcher	mula	2.2.11	0.0	1	महद्दीर्घ-वत्	w0.p0							0	linked	BS:2.2.11:b88
+brahmasutra	bhashya	2.2.12	b33	न		matcher	mula	2.2.12	1	1	न	w1.p0								linked	BS:2.2.12:b33
+brahmasutra	bhashya	2.2.12	b106	कर्म		matcher	mula	2.2.12	2.0	1	कर्म	w2.p0								linked	BS:2.2.12:b106
+brahmasutra	bhashya	2.2.13	b0	समवायाभ्युपगमाच्च		gemini,matcher	mula	2.2.13	0.0	1	समवाय-अभ्युपगमात्	w0.p0								linked	BS:2.2.13:b0
+brahmasutra	bhashya	2.2.13	b15	साम्यादनवस्थितेः		gemini,matcher	mula	2.2.13	1.0	1	साम्यात्	w1.p0								linked	BS:2.2.13:b15
+brahmasutra	bhashya	2.2.13	b30	समवायिभिः		matcher	mula	2.2.13	0.0	1	समवाय-अभ्युपगमात्	w0.p0							0	linked	BS:2.2.13:b30
+brahmasutra	bhashya	2.2.14	b15	नित्यमेव		gemini,matcher	mula	2.2.14	0.0	1	नित्यम्	w0.p0								linked	BS:2.2.14:b15
+brahmasutra	bhashya	2.2.14	b18	नित्यमेव		gemini,matcher	mula	2.2.14	0.0	1	नित्यम्	w0.p0								linked	BS:2.2.14:b18
+brahmasutra	bhashya	2.2.14	b21	च		matcher	mula	2.2.14	1	1	च	w1.p0								linked	BS:2.2.14:b21
+brahmasutra	bhashya	2.2.15	b12	रूपादिमतो		matcher														unlinked	BS:2.2.15:b12
+brahmasutra	bhashya	2.2.15	b22	रूपादिमत्त्वात्परमाणूनामणुत्वनित्यत्वविपर्ययः			mula	2.2.15	0	1	रूप-आदि-मत्त्वात्	w0.p0								linked	BS:2.2.15:b22
+brahmasutra	bhashya	2.2.16	b16	च		gemini,matcher	mula	2.2.16	1	1	च	w1.p0								linked	BS:2.2.16:b16
+brahmasutra	bhashya	2.2.16	b23	उभयथापि			mula	2.2.16	0	1	उभयथा	w0.p0								linked	BS:2.2.16:b23
+brahmasutra	bhashya	2.2.16	b24	च			mula	2.2.16	1	1	च	w1.p0								linked	BS:2.2.16:b24
+brahmasutra	bhashya	2.2.17	b11	परिगृहीत		gemini														unlinked	BS:2.2.17:b11
+brahmasutra	bhashya	2.2.18	b67	तस्मिन्नुभयहेतुकेऽपि																unlinked	BS:2.2.18:b67
+brahmasutra	bhashya	2.2.18	b69	तदप्राप्तिः		gemini,matcher	mula	2.2.18	2	1	तद्-अप्राप्तिः	w2.p0								linked	BS:2.2.18:b69
+brahmasutra	bhashya	2.2.19	b49	तन्न		gemini														unlinked	BS:2.2.19:b49
+brahmasutra	bhashya	2.2.19	b51	उत्पत्तिमात्रनिमित्तत्वात्		gemini,matcher	mula	2.2.19	1.2	1	उत्पत्ति-मात्र-निमित्त-त्वात्	w1.p2								linked	BS:2.2.19:b51
+brahmasutra	bhashya	2.2.19	b60	इतरेतरप्रत्ययत्वेऽप्यविद्यादीनां																unlinked	BS:2.2.19:b60
+brahmasutra	bhashya	2.2.20	b11	पूर्वः		matcher	mula	2.2.20	2	1	पूर्व-निरोधात्	w2.p0							0	linked	BS:2.2.20:b11
+brahmasutra	bhashya	2.2.21	b10	प्रतिज्ञोपरोधः		matcher	mula	2.2.21	1	1	प्रतिज्ञा-उपरोधः	w1.p0								linked	BS:2.2.21:b10
+brahmasutra	bhashya	2.2.21	b16	प्रतिज्ञा		matcher	mula	2.2.21	1	1	प्रतिज्ञा-उपरोधः	w1.p0							0	linked	BS:2.2.21:b16
+brahmasutra	bhashya	2.2.21	b26	यौगपद्यं		matcher	mula	2.2.21	2.0	1	यौगपद्यम्	w2.p0								linked	BS:2.2.21:b26
+brahmasutra	bhashya	2.2.21	b30	प्रतिज्ञोपरोध		matcher	mula	2.2.21	1	1	प्रतिज्ञा-उपरोधः	w1.p0								linked	BS:2.2.21:b30
+brahmasutra	bhashya	2.2.22	b11	प्रतिसंख्याप्रतिसंख्यानिरोधौ		matcher														unlinked	BS:2.2.22:b11
+brahmasutra	bhashya	2.2.22	b24	प्रतिसंख्यानिरोधो		matcher														unlinked	BS:2.2.22:b24
+brahmasutra	bhashya	2.2.22	b34	अप्राप्तिरसम्भव																unlinked	BS:2.2.22:b34
+brahmasutra	bhashya	2.2.22	b37	अविच्छेदात्		gemini,matcher	mula	2.2.22	0.1	1	अविच्छेदात्	w0.p1								linked	BS:2.2.22:b37
+brahmasutra	bhashya	2.2.22	b40	प्रतिसंख्याप्रतिसंख्यानिरोधौ		matcher														unlinked	BS:2.2.22:b40
+brahmasutra	bhashya	2.2.24	b11	आकाशे		matcher	mula	2.2.24	0	1	आकाशे	w0.p0								linked	BS:2.2.24:b11
+brahmasutra	bhashya	2.2.25	b12	अनुस्मृतेः		gemini	mula	2.2.25	0.0	1	अनुस्मृतेः	w0.p0								linked	BS:2.2.25:b12
+brahmasutra	bhashya	2.2.26	b27	नासतोऽदृष्टत्वात्		gemini,matcher	mula	2.2.26	0.0	1	न	w0.p0								linked	BS:2.2.26:b27
+brahmasutra	bhashya	2.2.27	b2	एवं		gemini	mula	2.2.27	1.1	1	एवम्	w1.p1								linked	BS:2.2.27:b2
+brahmasutra	bhashya	2.2.27	b4	जनानामभिमतसिद्धिः																unlinked	BS:2.2.27:b4
+brahmasutra	bhashya	2.2.27	b5	स्यात्		gemini														unlinked	BS:2.2.27:b5
+brahmasutra	bhashya	2.2.28	b150	नाभाव		gemini,matcher	mula	2.2.28	0.0	1	न	w0.p0								linked	BS:2.2.28:b150
+brahmasutra	bhashya	2.2.28	b151	उपलब्धेरि			mula	2.2.28	1	1	उपलब्धेः	w1.p0								linked	BS:2.2.28:b151
+brahmasutra	bhashya	2.2.28	b158	उपलब्धेः		gemini,matcher	mula	2.2.28	1	1	उपलब्धेः	w1.p0								linked	BS:2.2.28:b158
+brahmasutra	bhashya	2.2.29	b11	न		gemini,matcher	mula	2.2.29	1	1	न	w1.p0								linked	BS:2.2.29:b11
+brahmasutra	bhashya	2.2.29	b15	वैधर्म्यात्		gemini	mula	2.2.29	0.0	1	वैधर्म्यात्	w0.p0								linked	BS:2.2.29:b15
+brahmasutra	bhashya	2.2.29	b16	वैधर्म्यं		gemini,matcher														unlinked	BS:2.2.29:b16
+brahmasutra	bhashya	2.2.29	b110	वैधर्म्यं		matcher														unlinked	BS:2.2.29:b110
+brahmasutra	bhashya	2.2.30	b7	न		gemini,matcher	mula	2.2.30	0	1	न	w0.p0								linked	BS:2.2.30:b7
+brahmasutra	bhashya	2.2.30	b8	भावो		gemini	mula	2.2.30	1.0	1	भावः	w1.p0								linked	BS:2.2.30:b8
+brahmasutra	bhashya	2.2.32	b15	अतश्चानुपपन्नो																unlinked	BS:2.2.32:b15
+brahmasutra	bhashya	2.2.33	b56	एकस्मिन्नसम्भवात्		gemini,matcher	mula	2.2.33	0.1	1	एकस्मिन्	w0.p1								linked	BS:2.2.33:b56
+brahmasutra	bhashya	2.2.33	b60	सम्भवति		matcher	mula	2.2.33	0.2	1	असम्भवात्	w0.p2								linked	BS:2.2.33:b60
+brahmasutra	bhashya	2.2.33	b157	सम्भवति		matcher	mula	2.2.33	0.2	1	असम्भवात्	w0.p2								linked	BS:2.2.33:b157
+brahmasutra	bhashya	2.2.35	b0	न		gemini,matcher	mula	2.2.35	0	1	न	w0.p0								linked	BS:2.2.35:b0
+brahmasutra	bhashya	2.2.35	b1	च		gemini,matcher	mula	2.2.35	1	1	च	w1.p0								linked	BS:2.2.35:b1
+brahmasutra	bhashya	2.2.35	b6	विकारादिदोषप्रसङ्गात्			mula	2.2.35	3	1	विकार-आदि	w3.p0								linked	BS:2.2.35:b6
+brahmasutra	bhashya	2.2.36	b2	अन्त्यस्य			mula	2.2.36	0.0	1	अन्त्य-अवस्थितेः	w0.p0							0	linked	BS:2.2.36:b2
+brahmasutra	bhashya	2.2.36	b5	नित्यत्वमिष्यते																unlinked	BS:2.2.36:b5
+brahmasutra	bhashya	2.2.36	b14	अन्त्यस्य			mula	2.2.36	0.0	1	अन्त्य-अवस्थितेः	w0.p0							0	linked	BS:2.2.36:b14
+brahmasutra	bhashya	2.2.36	b16	अवस्थितत्वात्		gemini														unlinked	BS:2.2.36:b16
+brahmasutra	bhashya	2.2.37	b58	पत्युरसामञ्जस्यादिति			mula	2.2.37	0.0	1	पत्युः	w0.p0								linked	BS:2.2.37:b58
+brahmasutra	bhashya	2.2.37	b64	असामञ्जस्यात्		gemini,matcher	mula	2.2.37	0.1	1	असामञ्जस्यात्	w0.p1								linked	BS:2.2.37:b64
+brahmasutra	bhashya	2.2.38	b5	सम्बन्धं		gemini,matcher	mula	2.2.38	0.0	1	सम्बन्ध-अनुपपत्तेः	w0.p0							0	linked	BS:2.2.38:b5
+brahmasutra	bhashya	2.2.38	b9	सम्बन्धः		gemini,matcher	mula	2.2.38	0.0	1	सम्बन्ध-अनुपपत्तेः	w0.p0							0	linked	BS:2.2.38:b9
+brahmasutra	bhashya	2.2.38	b15	सम्बन्धः		matcher	mula	2.2.38	0.0	1	सम्बन्ध-अनुपपत्तेः	w0.p0							0	linked	BS:2.2.38:b15
+brahmasutra	bhashya	2.2.38	b19	सम्बन्धः		matcher	mula	2.2.38	0.0	1	सम्बन्ध-अनुपपत्तेः	w0.p0							0	linked	BS:2.2.38:b19
+brahmasutra	bhashya	2.2.40	b61	करणवच्चेन्न		gemini,matcher	mula	2.2.40	0	1	करणवत्	w0.p0								linked	BS:2.2.40:b61
+brahmasutra	bhashya	2.2.40	b62	भोगादिभ्यः		gemini,matcher	mula	2.2.40	1	1	भोग-आदिभ्यः	w1.p0								linked	BS:2.2.40:b62
+brahmasutra	bhashya	2.2.41	b17	वा		matcher	mula	2.2.41	1	1	वा	w1.p0								linked	BS:2.2.41:b17
+brahmasutra	bhashya	2.2.41	b62	अन्तवत्त्वं		matcher	mula	2.2.41	0	1	अन्तवत्त्वम्	w0.p0								linked	BS:2.2.41:b62
+brahmasutra	bhashya	2.2.42	b122	सम्भवति		matcher														unlinked	BS:2.2.42:b122
+brahmasutra	bhashya	2.2.43	b10	च		matcher	mula	2.2.43	1	1	च	w1.p0								linked	BS:2.2.43:b10
+brahmasutra	bhashya	2.2.44	b26	तदप्रतिषेधः		gemini,matcher	mula	2.2.44	2	1	तद्-अप्रतिषेधः	w2.p0								linked	BS:2.2.44:b26
+brahmasutra	bhashya	2.2.45	b0	विप्रतिषेधश्च		gemini														unlinked	BS:2.2.45:b0
+brahmasutra	bhashya	2.3.1	b5	न		gemini,matcher	mula	2.3.1	0	1	न	w0.p0								linked	BS:2.3.1:b5
+brahmasutra	bhashya	2.3.1	b6	वियदश्रुते		gemini,matcher	mula	2.3.1	1.0	1	वियत्	w1.p0								linked	BS:2.3.1:b6
+brahmasutra	bhashya	2.3.1	b7	रिति																unlinked	BS:2.3.1:b7
+brahmasutra	bhashya	2.3.1	b11	अश्रुतेः		gemini	mula	2.3.1	1.1	1	अश्रुतेः	w1.p1								linked	BS:2.3.1:b11
+brahmasutra	bhashya	2.3.2	b7	त्वस्ति																unlinked	BS:2.3.2:b7
+brahmasutra	bhashya	2.3.2	b33	तु		gemini,matcher	mula	2.3.2	1	1	तु	w1.p0								linked	BS:2.3.2:b33
+brahmasutra	bhashya	2.3.3	b9	गौणी		gemini	mula	2.3.3	0.0	1	गौणी	w0.p0								linked	BS:2.3.3:b9
+brahmasutra	bhashya	2.3.3	b12	असम्भवात्		gemini,matcher	mula	2.3.3	0.1	1	असम्भवात्	w0.p1								linked	BS:2.3.3:b12
+brahmasutra	bhashya	2.3.5	b21	स्याच्चैकस्यापि			mula	2.3.5	0.0	1	स्यात्	w0.p0								linked	BS:2.3.5:b21
+brahmasutra	bhashya	2.3.5	b26	ब्रह्मशब्दवत्		gemini,matcher	mula	2.3.5	1	1	ब्रह्म-शब्द-वत्	w1.p0								linked	BS:2.3.5:b26
+brahmasutra	bhashya	2.3.5	b44	ब्रह्मशब्दो		matcher														unlinked	BS:2.3.5:b44
+brahmasutra	bhashya	2.3.6	b28	प्रतिज्ञा		gemini,matcher	mula	2.3.6	0.0	1	प्रतिज्ञा-अहानिः	w0.p0							0	linked	BS:2.3.6:b28
+brahmasutra	bhashya	2.3.6	b39	व्यतिरेके		matcher														unlinked	BS:2.3.6:b39
+brahmasutra	bhashya	2.3.6	b46	प्रतिज्ञा		matcher	mula	2.3.6	0.0	1	प्रतिज्ञा-अहानिः	w0.p0							0	linked	BS:2.3.6:b46
+brahmasutra	bhashya	2.3.6	b55	शब्देभ्यश्च		gemini	mula	2.3.6	0.2	1	शब्देभ्यः	w0.p2								linked	BS:2.3.6:b55
+brahmasutra	bhashya	2.3.6	b81	अव्यतिरेकं		matcher														unlinked	BS:2.3.6:b81
+brahmasutra	bhashya	2.3.6	b97	प्रतिज्ञाहानिः		matcher	mula	2.3.6	0.0	1	प्रतिज्ञा-अहानिः	w0.p0								linked	BS:2.3.6:b97
+brahmasutra	bhashya	2.3.6	b114	प्रतिज्ञां		matcher	mula	2.3.6	0.0	1	प्रतिज्ञा-अहानिः	w0.p0							0	linked	BS:2.3.6:b114
+brahmasutra	bhashya	2.3.6	b287	प्रतिज्ञां		matcher	mula	2.3.6	0.0	1	प्रतिज्ञा-अहानिः	w0.p0							0	linked	BS:2.3.6:b287
+brahmasutra	bhashya	2.3.6	b308	प्रतिज्ञा		matcher	mula	2.3.6	0.0	1	प्रतिज्ञा-अहानिः	w0.p0							0	linked	BS:2.3.6:b308
+brahmasutra	bhashya	2.3.7	b5	यावत्किञ्चिद्विकारजातं																unlinked	BS:2.3.7:b5
+brahmasutra	bhashya	2.3.7	b14	विभागो		gemini,matcher	mula	2.3.7	2	1	विभागः	w2.p0								linked	BS:2.3.7:b14
+brahmasutra	bhashya	2.3.7	b15	लोके		gemini														unlinked	BS:2.3.7:b15
+brahmasutra	bhashya	2.3.8	b1	एतेन		gemini,matcher	mula	2.3.8	0	1	एतेन	w0.p0								linked	BS:2.3.8:b1
+brahmasutra	bhashya	2.3.8	b3	मातरिश्वापि			mula	2.3.8	1	1	मातरिश्वा	w1.p0								linked	BS:2.3.8:b3
+brahmasutra	bhashya	2.3.8	b6	ख्यातः																unlinked	BS:2.3.8:b6
+brahmasutra	bhashya	2.3.9	b23	सम्भव		gemini	mula	2.3.9	0.0	1	असम्भवः	w0.p0								linked	BS:2.3.9:b23
+brahmasutra	bhashya	2.3.9	b26	अनुपपत्तेः		gemini,matcher	mula	2.3.9	1.1	1	अनुपपत्तेः	w1.p1								linked	BS:2.3.9:b26
+brahmasutra	bhashya	2.3.10	b56	तेजः		gemini	mula	2.3.10	0.0	1	तेजः	w0.p0								linked	BS:2.3.10:b56
+brahmasutra	bhashya	2.3.10	b57	अतः		gemini	mula	2.3.10	0.1	1	अतः	w0.p1								linked	BS:2.3.10:b57
+brahmasutra	bhashya	2.3.10	b62	तथा		gemini	mula	2.3.10	0.2	1	तथा	w0.p2								linked	BS:2.3.10:b62
+brahmasutra	bhashya	2.3.10	b63	ह्याह		gemini														unlinked	BS:2.3.10:b63
+brahmasutra	bhashya	2.3.11	b3	आपः		gemini,matcher	mula	2.3.11	0	1	आपः	w0.p0								linked	BS:2.3.11:b3
+brahmasutra	bhashya	2.3.12	b55	अधिकारात्		gemini	mula	2.3.12	0	1	पृथिवी-अधिकार-रूप-शब्दान्तरेभ्यः	w0.p0							1	linked	BS:2.3.12:b55
+brahmasutra	bhashya	2.3.12	b56	रूपात्		gemini														unlinked	BS:2.3.12:b56
+brahmasutra	bhashya	2.3.12	b57	शब्दान्तराच्च		gemini														unlinked	BS:2.3.12:b57
+brahmasutra	bhashya	2.3.12	b58	अधिकारस्तावत्		gemini														unlinked	BS:2.3.12:b58
+brahmasutra	bhashya	2.3.12	b66	पृथिवीं		matcher	mula	2.3.12	0	1	पृथिवी-अधिकार-रूप-शब्दान्तरेभ्यः	w0.p0							0	linked	BS:2.3.12:b66
+brahmasutra	bhashya	2.3.12	b72	रूपमपि		gemini														unlinked	BS:2.3.12:b72
+brahmasutra	bhashya	2.3.12	b117	श्रुत्यन्तरमपि		gemini														unlinked	BS:2.3.12:b117
+brahmasutra	bhashya	2.3.12	b154	तस्मात्पृथिवीयमन्नशब्देति																unlinked	BS:2.3.12:b154
+brahmasutra	bhashya	2.3.13	b42	स		gemini	mula	2.3.13	2.1	1	सः	w2.p1								linked	BS:2.3.13:b42
+brahmasutra	bhashya	2.3.13	b53	तल्लिङ्गात्		gemini,matcher	mula	2.3.13	2.0	1	तद्-लिङ्गात्	w2.p0								linked	BS:2.3.13:b53
+brahmasutra	bhashya	2.3.14	b40	विपर्ययेण		gemini,matcher	mula	2.3.14	0	1	विपर्ययेण	w0.p0								linked	BS:2.3.14:b40
+brahmasutra	bhashya	2.3.14	b41	तु		gemini,matcher	mula	2.3.14	1	1	तु	w1.p0								linked	BS:2.3.14:b41
+brahmasutra	bhashya	2.3.14	b43	अतः		gemini	mula	2.3.14	2.1	1	अतः	w2.p1								linked	BS:2.3.14:b43
+brahmasutra	bhashya	2.3.14	b57	च		matcher	mula	2.3.14	4	1	च	w4.p0								linked	BS:2.3.14:b57
+brahmasutra	bhashya	2.3.14	b68	अतश्चोपपद्यत		gemini														unlinked	BS:2.3.14:b68
+brahmasutra	bhashya	2.3.14	b69	एतत्		gemini														unlinked	BS:2.3.14:b69
+brahmasutra	bhashya	2.3.15	b49	न		gemini	mula	2.3.15	4.1	1	न	w4.p1								linked	BS:2.3.15:b49
+brahmasutra	bhashya	2.3.15	b50	अविशेषात्		gemini	mula	2.3.15	4.2	1	अविशेषात्	w4.p2								linked	BS:2.3.15:b50
+brahmasutra	bhashya	2.3.16	b38	भाक्तस्त्वेष		gemini	mula	2.3.16	2.0	1	भाक्तः	w2.p0								linked	BS:2.3.16:b38
+brahmasutra	bhashya	2.3.16	b45	भाक्त		matcher	mula	2.3.16	2.0	1	भाक्तः	w2.p0								linked	BS:2.3.16:b45
+brahmasutra	bhashya	2.3.16	b48	चराचरव्यपाश्रयः		gemini,matcher	mula	2.3.16	0.0	1	चर-अचर-व्यपाश्रयः	w0.p0								linked	BS:2.3.16:b48
+brahmasutra	bhashya	2.3.16	b64	तद्भावभावित्वात्		gemini,matcher	mula	2.3.16	2.1	1	तत्-भाव-भावित्वात्	w2.p1								linked	BS:2.3.16:b64
+brahmasutra	bhashya	2.3.17	b147	नात्मा		gemini,matcher	mula	2.3.17	0.0	1	न	w0.p0								linked	BS:2.3.17:b147
+brahmasutra	bhashya	2.3.17	b152	अश्रुतेः		gemini	mula	2.3.17	0.2	1	अश्रुतेः	w0.p2								linked	BS:2.3.17:b152
+brahmasutra	bhashya	2.3.17	b170	नित्यत्वाच्च		gemini,matcher	mula	2.3.17	0.3	1	नित्यत्वात्	w0.p3								linked	BS:2.3.17:b170
+brahmasutra	bhashya	2.3.17	b171	ताभ्यः		gemini,matcher	mula	2.3.17	1	1	ताभ्यः	w1.p0								linked	BS:2.3.17:b171
+brahmasutra	bhashya	2.3.17	b173	नित्यत्वं		matcher														unlinked	BS:2.3.17:b173
+brahmasutra	bhashya	2.3.18	b6	एव		matcher	mula	2.3.18	1	1	एव	w1.p0								linked	BS:2.3.18:b6
+brahmasutra	bhashya	2.3.18	b36	ज्ञः		gemini	mula	2.3.18	0.0	1	ज्ञः	w0.p0								linked	BS:2.3.18:b36
+brahmasutra	bhashya	2.3.18	b38	अत		gemini	mula	2.3.18	0.1	1	अतः	w0.p1								linked	BS:2.3.18:b38
+brahmasutra	bhashya	2.3.18	b39	एव		gemini	mula	2.3.18	1	1	एव	w1.p0								linked	BS:2.3.18:b39
+brahmasutra	bhashya	2.3.19	b45	उत्क्रान्तिगत्यागतीनां		matcher	mula	2.3.19	0	1	उत्क्रान्ति-गति-आगतीनाम्	w0.p0								linked	BS:2.3.19:b45
+brahmasutra	bhashya	2.3.20	b4	उत्तरे		gemini														unlinked	BS:2.3.20:b4
+brahmasutra	bhashya	2.3.20	b9	स्वात्मना		gemini,matcher	mula	2.3.20	0	1	स्व-आत्मना	w0.p0								linked	BS:2.3.20:b9
+brahmasutra	bhashya	2.3.20	b17	च		gemini	mula	2.3.20	1.0	1	च	w1.p0								linked	BS:2.3.20:b17
+brahmasutra	bhashya	2.3.21	b4	अतच्छ्रुतेः		gemini,matcher	mula	2.3.21	0.2	1	अतत्-श्रुतेः	w0.p2								linked	BS:2.3.21:b4
+brahmasutra	bhashya	2.3.21	b24	नैष		gemini														unlinked	BS:2.3.21:b24
+brahmasutra	bhashya	2.3.21	b25	दोषः		gemini														unlinked	BS:2.3.21:b25
+brahmasutra	bhashya	2.3.21	b27	इतराधिकारात्		gemini,matcher	mula	2.3.21	1.2	1	इतर-अधिकारात्	w1.p2								linked	BS:2.3.21:b27
+brahmasutra	bhashya	2.3.22	b3	शब्दः		gemini														unlinked	BS:2.3.22:b3
+brahmasutra	bhashya	2.3.22	b17	तथोन्मानमपि																unlinked	BS:2.3.22:b17
+brahmasutra	bhashya	2.3.22	b23	च		gemini,matcher	mula	2.3.22	1	1	च	w1.p0								linked	BS:2.3.22:b23
+brahmasutra	bhashya	2.3.22	b33	च			mula	2.3.22	1	1	च	w1.p0								linked	BS:2.3.22:b33
+brahmasutra	bhashya	2.3.24	b5	हि		matcher	mula	2.3.24	2	1	हि	w2.p0								linked	BS:2.3.24:b5
+brahmasutra	bhashya	2.3.24	b12	चन्दनस्यावस्थितिवैशेष्यमेकदेशस्थत्वं																unlinked	BS:2.3.24:b12
+brahmasutra	bhashya	2.3.24	b41	अत्रोच्यते		gemini														unlinked	BS:2.3.24:b41
+brahmasutra	bhashya	2.3.24	b42	नायं																unlinked	BS:2.3.24:b42
+brahmasutra	bhashya	2.3.24	b43	दोषः		gemini														unlinked	BS:2.3.24:b43
+brahmasutra	bhashya	2.3.24	b45	अभ्युपगमात्		gemini	mula	2.3.24	1.2	1	अभ्युपगमात्	w1.p2								linked	BS:2.3.24:b45
+brahmasutra	bhashya	2.3.24	b53	हृदि		gemini	mula	2.3.24	1.3	1	हृदि	w1.p3								linked	BS:2.3.24:b53
+brahmasutra	bhashya	2.3.24	b54	ह्येष																unlinked	BS:2.3.24:b54
+brahmasutra	bhashya	2.3.25	b30	गुणाद्वा		gemini,matcher	mula	2.3.25	0.0	1	गुणात्	w0.p0								linked	BS:2.3.25:b30
+brahmasutra	bhashya	2.3.25	b31	लोकवत्		gemini,matcher	mula	2.3.25	1	1	लोकवत्	w1.p0								linked	BS:2.3.25:b31
+brahmasutra	bhashya	2.3.26	b4	गन्धवद्द्रव्यव्यतिरेकेण		gemini	mula	2.3.26	1	1	गन्धवत्	w1.p0								linked	BS:2.3.26:b4
+brahmasutra	bhashya	2.3.27	b1	च		matcher	mula	2.3.27	1	1	च	w1.p0								linked	BS:2.3.27:b1
+brahmasutra	bhashya	2.3.27	b13	दर्शयति		gemini,matcher	mula	2.3.27	2	1	दर्शयति	w2.p0								linked	BS:2.3.27:b13
+brahmasutra	bhashya	2.3.28	b7	पृथगुपदेशात्		gemini,matcher	mula	2.3.28	0	1	पृथक् - उपदेशात्	w0.p0								linked	BS:2.3.28:b7
+brahmasutra	bhashya	2.3.29	b0	तुशब्दः		gemini														unlinked	BS:2.3.29:b0
+brahmasutra	bhashya	2.3.29	b129	तद्गुणसारत्वात्तु		gemini,matcher	mula	2.3.29	0.0	1	तद्-गुण-सारत्वात्	w0.p0								linked	BS:2.3.29:b129
+brahmasutra	bhashya	2.3.29	b130	तद्व्यपदेश		gemini,matcher	mula	2.3.29	1	1	तद्-व्यपदेशः	w1.p0								linked	BS:2.3.29:b130
+brahmasutra	bhashya	2.3.29	b140	सारः		gemini														unlinked	BS:2.3.29:b140
+brahmasutra	bhashya	2.3.29	b146	तद्गुणसारः		matcher	mula	2.3.29	0.0	1	तद्-गुण-सारत्वात्	w0.p0							0-1	linked	BS:2.3.29:b146
+brahmasutra	bhashya	2.3.29	b286	प्राज्ञवत्		gemini,matcher	mula	2.3.29	2	1	प्राज्ञवत्	w2.p0								linked	BS:2.3.29:b286
+brahmasutra	bhashya	2.3.30	b2	यावदात्मभावित्वाद्बुद्धिसंयोगस्य			mula	2.3.30	0.0	1	यावदात्मभावित्वात्	w0.p0								linked	BS:2.3.30:b2
+brahmasutra	bhashya	2.3.30	b9	न		matcher	mula	2.3.30	1	1	न	w1.p0								linked	BS:2.3.30:b9
+brahmasutra	bhashya	2.3.30	b49	यावदात्मभावी		matcher														unlinked	BS:2.3.30:b49
+brahmasutra	bhashya	2.3.30	b52	तद्दर्शनादित्याह			mula	2.3.30	2.1	1	तद्-दर्शनात्	w2.p1								linked	BS:2.3.30:b52
+brahmasutra	bhashya	2.3.31	b2	पुंस्त्वादीनि		gemini	mula	2.3.31	0	1	पुंस्त्व-आदि-वत्-त्वस्य	w0.p0							0	linked	BS:2.3.31:b2
+brahmasutra	bhashya	2.3.32	b18	अन्यथा		gemini	mula	2.3.32	1.1	1	अन्यथा	w1.p1								linked	BS:2.3.32:b18
+brahmasutra	bhashya	2.3.32	b20	तस्मिन्नित्योपलब्ध्यनुपलब्धिप्रसङ्गः																unlinked	BS:2.3.32:b20
+brahmasutra	bhashya	2.3.33	b3	कर्ता		gemini,matcher	mula	2.3.33	0	1	कर्ता	w0.p0								linked	BS:2.3.33:b3
+brahmasutra	bhashya	2.3.33	b9	शास्त्रार्थवत्त्वात्		gemini,matcher	mula	2.3.33	1	1	शास्त्र-अर्थवत्त्वात्	w1.p0								linked	BS:2.3.33:b9
+brahmasutra	bhashya	2.3.34	b6	विहारमुपदिशति																unlinked	BS:2.3.34:b6
+brahmasutra	bhashya	2.3.36	b7	क्रियासु																unlinked	BS:2.3.36:b7
+brahmasutra	bhashya	2.3.36	b9	व्यपदिशति		gemini	mula	2.3.36	0.0	1	व्यपदेशात्	w0.p0								linked	BS:2.3.36:b9
+brahmasutra	bhashya	2.3.36	b30	न		gemini,matcher	mula	2.3.36	2	1	न	w2.p0								linked	BS:2.3.36:b30
+brahmasutra	bhashya	2.3.36	b32	न			mula	2.3.36	2	1	न	w2.p0								linked	BS:2.3.36:b32
+brahmasutra	bhashya	2.3.36	b35	निर्देशविपर्ययः		gemini,matcher	mula	2.3.36	3.1	1	निर्देश-विपर्ययः	w3.p1								linked	BS:2.3.36:b35
+brahmasutra	bhashya	2.3.37	b1	प्रति																unlinked	BS:2.3.37:b1
+brahmasutra	bhashya	2.3.37	b14	उपलब्धौ		matcher														unlinked	BS:2.3.37:b14
+brahmasutra	bhashya	2.3.38	b11	शक्तिविपर्ययः		matcher	mula	2.3.38	0	1	शक्ति-विपर्ययात्	w0.p0								linked	BS:2.3.38:b11
+brahmasutra	bhashya	2.3.38	b12	स्यात्																unlinked	BS:2.3.38:b12
+brahmasutra	bhashya	2.3.40	b32	च		matcher	mula	2.3.40	1	1	च	w1.p0								linked	BS:2.3.40:b32
+brahmasutra	bhashya	2.3.40	b166	यथा		gemini	mula	2.3.40	0	1	यथा	w0.p0								linked	BS:2.3.40:b166
+brahmasutra	bhashya	2.3.40	b167	च		gemini	mula	2.3.40	1	1	च	w1.p0								linked	BS:2.3.40:b167
+brahmasutra	bhashya	2.3.40	b168	तक्षोभयथा		gemini,matcher	mula	2.3.40	2.0	1	तक्षा	w2.p0								linked	BS:2.3.40:b168
+brahmasutra	bhashya	2.3.41	b86	परादिति			mula	2.3.41	0.0	1	परात्	w0.p0								linked	BS:2.3.41:b86
+brahmasutra	bhashya	2.3.41	b101	तच्छ्रुतेः		gemini,matcher	mula	2.3.41	1	1	तत् - श्रुतेः	w1.p0								linked	BS:2.3.41:b101
+brahmasutra	bhashya	2.3.42	b3	प्रयत्नो		matcher	mula	2.3.42	0.0	1	कृत-प्रयत्न-अपेक्षः	w0.p0							1	linked	BS:2.3.42:b3
+brahmasutra	bhashya	2.3.42	b81	कृतप्रयत्नापेक्ष		matcher	mula	2.3.42	0.0	1	कृत-प्रयत्न-अपेक्षः	w0.p0								linked	BS:2.3.42:b81
+brahmasutra	bhashya	2.3.42	b84	विहितप्रतिषिद्धावैयर्थ्यादिभ्यः		gemini,matcher	mula	2.3.42	1	1	विहित-प्रतिषिद्ध-अवैयर्थ्य-आदिभ्यः	w1.p0								linked	BS:2.3.42:b84
+brahmasutra	bhashya	2.3.42	b97	अवैयर्थ्यं		matcher	mula	2.3.42	1	1	विहित-प्रतिषिद्ध-अवैयर्थ्य-आदिभ्यः	w1.p0							2	linked	BS:2.3.42:b97
+brahmasutra	bhashya	2.3.43	b32	अंश		gemini	mula	2.3.43	0	1	अंशः	w0.p0								linked	BS:2.3.43:b32
+brahmasutra	bhashya	2.3.43	b51	नानाव्यपदेशात्		gemini	mula	2.3.43	1.0	1	नाना-व्यपदेशात्	w1.p0								linked	BS:2.3.43:b51
+brahmasutra	bhashya	2.3.43	b72	नानाव्यपदेशः		matcher	mula	2.3.43	1.0	1	नाना-व्यपदेशात्	w1.p0								linked	BS:2.3.43:b72
+brahmasutra	bhashya	2.3.43	b79	अन्यथा		gemini	mula	2.3.43	1.1	1	अन्यथा	w1.p1								linked	BS:2.3.43:b79
+brahmasutra	bhashya	2.3.43	b80	चापीति																unlinked	BS:2.3.43:b80
+brahmasutra	bhashya	2.3.43	b88	चापि		gemini,matcher	mula	2.3.43	2.0	1	च	w2.p0								linked	BS:2.3.43:b88
+brahmasutra	bhashya	2.3.43	b89	व्यपदेशो		matcher	mula	2.3.43	1.0	1	नाना-व्यपदेशात्	w1.p0							1	linked	BS:2.3.43:b89
+brahmasutra	bhashya	2.3.44	b21	अंशः		gemini	mula	2.3.43	0	1	अंशः	w0.p0								linked	BS:2.3.44:b21
+brahmasutra	bhashya	2.3.45	b1	च		gemini,matcher	mula	2.3.45	1	1	च	w1.p0								linked	BS:2.3.45:b1
+brahmasutra	bhashya	2.3.45	b4	स्मर्यते		gemini,matcher	mula	2.3.45	2	1	स्मर्यते	w2.p0								linked	BS:2.3.45:b4
+brahmasutra	bhashya	2.3.46	b3	नैवं		gemini	mula	2.3.46	0.1	1	न	w0.p1								linked	BS:2.3.46:b3
+brahmasutra	bhashya	2.3.46	b4	पर			mula	2.3.46	1	1	परः	w1.p0								linked	BS:2.3.46:b4
+brahmasutra	bhashya	2.3.46	b84	प्रकाशादिवदिति			mula	2.3.46	0.0	1	प्रकाश-आदि-वत्	w0.p0								linked	BS:2.3.46:b84
+brahmasutra	bhashya	2.3.46	b87	प्रकाशः		matcher	mula	2.3.46	0.0	1	प्रकाश-आदि-वत्	w0.p0							0	linked	BS:2.3.46:b87
+brahmasutra	bhashya	2.3.47	b0	स्मरन्ति		gemini,matcher	mula	2.3.47	0	1	स्मरन्ति	w0.p0								linked	BS:2.3.47:b0
+brahmasutra	bhashya	2.3.47	b1	च		gemini,matcher	mula	2.3.47	1	1	च	w1.p0								linked	BS:2.3.47:b1
+brahmasutra	bhashya	2.3.48	b24	एवंप्रकारावनुज्ञापरिहारौ																unlinked	BS:2.3.48:b24
+brahmasutra	bhashya	2.3.48	b26	देहसम्बन्धात्		gemini	mula	2.3.48	1.0	1	देह-सम्बन्धात्	w1.p0								linked	BS:2.3.48:b26
+brahmasutra	bhashya	2.3.48	b29	सम्बन्धो		matcher	mula	2.3.48	1.0	1	देह-सम्बन्धात्	w1.p0							1	linked	BS:2.3.48:b29
+brahmasutra	bhashya	2.3.48	b30	देहसम्बन्धः		matcher	mula	2.3.48	1.0	1	देह-सम्बन्धात्	w1.p0								linked	BS:2.3.48:b30
+brahmasutra	bhashya	2.3.48	b111	ज्योतिरादिवत्		gemini,matcher	mula	2.3.48	1.1	1	ज्योतिस्-आदि-वत्	w1.p1								linked	BS:2.3.48:b111
+brahmasutra	bhashya	2.3.49	b13	असन्ततेः		gemini,matcher	mula	2.3.49	0.0	1	असन्ततेः	w0.p0								linked	BS:2.3.49:b13
+brahmasutra	bhashya	2.3.50	b0	आभास		gemini,matcher	mula	2.3.50	0	1	आभासः	w0.p0								linked	BS:2.3.50:b0
+brahmasutra	bhashya	2.3.50	b1	एव		gemini,matcher	mula	2.3.50	1	1	एव	w1.p0								linked	BS:2.3.50:b1
+brahmasutra	bhashya	2.3.50	b2	च		gemini,matcher	mula	2.3.50	2	1	च	w2.p0								linked	BS:2.3.50:b2
+brahmasutra	bhashya	2.3.52	b0	अभिसन्ध्यादीनामपि																unlinked	BS:2.3.52:b0
+brahmasutra	bhashya	2.3.52	b5	एव		gemini														unlinked	BS:2.3.52:b5
+brahmasutra	bhashya	2.3.53	b18	अन्तर्भावात्		gemini,matcher	mula	2.3.53	1.2	1	अन्तर्भावात्	w1.p2								linked	BS:2.3.53:b18
+brahmasutra	bhashya	2.4.1	b0	तथा		gemini,matcher	mula	2.4.1	0	1	तथा	w0.p0								linked	BS:2.4.1:b0
+brahmasutra	bhashya	2.4.1	b1	प्राणा		gemini	mula	2.4.1	1	1	प्राणाः	w1.p0								linked	BS:2.4.1:b1
+brahmasutra	bhashya	2.4.1	b56	प्राणाः		matcher	mula	2.4.1	1	1	प्राणाः	w1.p0								linked	BS:2.4.1:b56
+brahmasutra	bhashya	2.4.1	b70	तथा		gemini	mula	2.4.1	0	1	तथा	w0.p0								linked	BS:2.4.1:b70
+brahmasutra	bhashya	2.4.1	b71	प्राणा		gemini	mula	2.4.1	1	1	प्राणाः	w1.p0								linked	BS:2.4.1:b71
+brahmasutra	bhashya	2.4.1	b99	तथा			mula	2.4.1	0	1	तथा	w0.p0								linked	BS:2.4.1:b99
+brahmasutra	bhashya	2.4.1	b100	प्राणा			mula	2.4.1	1	1	प्राणाः	w1.p0								linked	BS:2.4.1:b100
+brahmasutra	bhashya	2.4.2	b5	गौण्यसम्भवादिति			mula	2.4.2	0	1	गौण्या-असम्भवात्	w0.p0								linked	BS:2.4.2:b5
+brahmasutra	bhashya	2.4.2	b6	गौण्या		matcher	mula	2.4.2	0	1	गौण्या-असम्भवात्	w0.p0							0	linked	BS:2.4.2:b6
+brahmasutra	bhashya	2.4.2	b8	गौण्यसम्भवः		matcher	mula	2.4.2	0	1	गौण्या-असम्भवात्	w0.p0								linked	BS:2.4.2:b8
+brahmasutra	bhashya	2.4.2	b12	सम्भवति		matcher														unlinked	BS:2.4.2:b12
+brahmasutra	bhashya	2.4.2	b102	गौण्यसम्भवात्		gemini,matcher	mula	2.4.2	0	1	गौण्या-असम्भवात्	w0.p0								linked	BS:2.4.2:b102
+brahmasutra	bhashya	2.4.2	b107	असम्भवात्		matcher	mula	2.4.2	0	1	गौण्या-असम्भवात्	w0.p0							1	linked	BS:2.4.2:b107
+brahmasutra	bhashya	2.4.2	b126	असम्भवात्		matcher	mula	2.4.2	0	1	गौण्या-असम्भवात्	w0.p0							1	linked	BS:2.4.2:b126
+brahmasutra	bhashya	2.4.3	b6	जायते		gemini														unlinked	BS:2.4.3:b6
+brahmasutra	bhashya	2.4.3	b10	प्राक्श्रुतं		gemini,matcher	mula	2.4.3	0.0	1	तत्-प्राक्-श्रुतेः	w0.p0							1-2	linked	BS:2.4.3:b10
+brahmasutra	bhashya	2.4.5	b22	सप्त		gemini,matcher	mula	2.4.5	0	1	सप्त	w0.p0								linked	BS:2.4.5:b22
+brahmasutra	bhashya	2.4.5	b73	सप्तैव			mula	2.4.5	0	1	सप्त	w0.p0								linked	BS:2.4.5:b73
+brahmasutra	bhashya	2.4.5	b77	गतेः		gemini	mula	2.4.5	1.0	1	गतेः	w1.p0								linked	BS:2.4.5:b77
+brahmasutra	bhashya	2.4.5	b85	विशेषिताश्चैते																unlinked	BS:2.4.5:b85
+brahmasutra	bhashya	2.4.6	b0	हस्तादयस्त्वपरे			mula	2.4.6	0.0	1	हस्त-आदयः	w0.p0								linked	BS:2.4.6:b0
+brahmasutra	bhashya	2.4.6	b4	हस्तौ		matcher	mula	2.4.6	0.0	1	हस्त-आदयः	w0.p0							0	linked	BS:2.4.6:b4
+brahmasutra	bhashya	2.4.6	b16	स्थिते		gemini	mula	2.4.6	1.0	1	स्थिते	w1.p0								linked	BS:2.4.6:b16
+brahmasutra	bhashya	2.4.6	b33	अतश्च		gemini														unlinked	BS:2.4.6:b33
+brahmasutra	bhashya	2.4.6	b34	नैवं		gemini	mula	2.4.6	2.0	1	न	w2.p0								linked	BS:2.4.6:b34
+brahmasutra	bhashya	2.4.7	b3	अणवश्चैते		gemini	mula	2.4.7	0.0	1	अणवः	w0.p0								linked	BS:2.4.7:b3
+brahmasutra	bhashya	2.4.8	b76	श्रेष्ठः		gemini	mula	2.4.8	0.0	1	श्रेष्ठः	w0.p0								linked	BS:2.4.8:b76
+brahmasutra	bhashya	2.4.8	b84	श्रेष्ठश्च		matcher	mula	2.4.8	0.0	1	श्रेष्ठः	w0.p0								linked	BS:2.4.8:b84
+brahmasutra	bhashya	2.4.8	b108	श्रेष्ठश्च		matcher	mula	2.4.8	0.0	1	श्रेष्ठः	w0.p0								linked	BS:2.4.8:b108
+brahmasutra	bhashya	2.4.9	b47	न		gemini,matcher	mula	2.4.9	0	1	न	w0.p0								linked	BS:2.4.9:b47
+brahmasutra	bhashya	2.4.9	b48	वायुः		gemini	mula	2.4.9	1	1	वायु-क्रिये	w1.p0							0	linked	BS:2.4.9:b48
+brahmasutra	bhashya	2.4.9	b50	नापि		gemini	mula	2.4.9	0	1	न	w0.p0								linked	BS:2.4.9:b50
+brahmasutra	bhashya	2.4.9	b51	करणव्यापारः																unlinked	BS:2.4.9:b51
+brahmasutra	bhashya	2.4.9	b53	पृथगुपदेशात्		gemini,matcher	mula	2.4.9	2.0	1	पृथक्	w2.p0								linked	BS:2.4.9:b53
+brahmasutra	bhashya	2.4.9	b56	पृथगुपदेशो		matcher	mula	2.4.9	2.0	1	पृथक्	w2.p0								linked	BS:2.4.9:b56
+brahmasutra	bhashya	2.4.9	b78	पृथगुपदेशो		matcher	mula	2.4.9	2.0	1	पृथक्	w2.p0								linked	BS:2.4.9:b78
+brahmasutra	bhashya	2.4.9	b105	पृथगुपदेशा		matcher	mula	2.4.9	2.0	1	पृथक्	w2.p0								linked	BS:2.4.9:b105
+brahmasutra	bhashya	2.4.10	b0	तुशब्दः		gemini														unlinked	BS:2.4.10:b0
+brahmasutra	bhashya	2.4.10	b5	यथा		gemini														unlinked	BS:2.4.10:b5
+brahmasutra	bhashya	2.4.10	b6	चक्षुरादीनि		gemini														unlinked	BS:2.4.10:b6
+brahmasutra	bhashya	2.4.10	b26	तत्सहशिष्ट्यादिभ्यः		gemini,matcher	mula	2.4.10	1	1	तत्-सह-शिष्टि-आदिभ्यः	w1.p0								linked	BS:2.4.10:b26
+brahmasutra	bhashya	2.4.11	b0	न		matcher	mula	2.4.11	1	1	न	w1.p0								linked	BS:2.4.11:b0
+brahmasutra	bhashya	2.4.11	b3	अकरणत्वात्प्राणस्य			mula	2.4.11	0.0	1	अकरणत्वात्	w0.p0								linked	BS:2.4.11:b3
+brahmasutra	bhashya	2.4.11	b17	तथा		gemini	mula	2.4.11	2.1	1	तथा	w2.p1								linked	BS:2.4.11:b17
+brahmasutra	bhashya	2.4.11	b18	हि		gemini	mula	2.4.11	2.2	1	हि	w2.p2								linked	BS:2.4.11:b18
+brahmasutra	bhashya	2.4.11	b24	दर्शयति		gemini,matcher	mula	2.4.11	3	1	दर्शयति	w3.p0								linked	BS:2.4.11:b24
+brahmasutra	bhashya	2.4.11	b58	दर्शयति		matcher	mula	2.4.11	3	1	दर्शयति	w3.p0								linked	BS:2.4.11:b58
+brahmasutra	bhashya	2.4.11	b79	दर्शयति		matcher	mula	2.4.11	3	1	दर्शयति	w3.p0								linked	BS:2.4.11:b79
+brahmasutra	bhashya	2.4.11	b93	दर्शयति		matcher	mula	2.4.11	3	1	दर्शयति	w3.p0								linked	BS:2.4.11:b93
+brahmasutra	bhashya	2.4.11	b106	दर्शयति		matcher	mula	2.4.11	3	1	दर्शयति	w3.p0								linked	BS:2.4.11:b106
+brahmasutra	bhashya	2.4.12	b6	पञ्चवृत्तिरयं			mula	2.4.12	0	1	पञ्चवृत्तिः	w0.p0								linked	BS:2.4.12:b6
+brahmasutra	bhashya	2.4.12	b7	व्यपदिश्यते		matcher	mula	2.4.12	0.2	1	व्यपदिश्यते	w0.p2								linked	BS:2.4.12:b7
+brahmasutra	bhashya	2.4.12	b33	पञ्चवृत्तिः		gemini,matcher	mula	2.4.12	0	1	पञ्चवृत्तिः	w0.p0								linked	BS:2.4.12:b33
+brahmasutra	bhashya	2.4.12	b35	मनोवत्		gemini	mula	2.4.12	0.1	1	मनोवत्	w0.p1								linked	BS:2.4.12:b35
+brahmasutra	bhashya	2.4.12	b87	मनोवत्		gemini	mula	2.4.12	0.1	1	मनोवत्	w0.p1								linked	BS:2.4.12:b87
+brahmasutra	bhashya	2.4.13	b0	अणुश्चायं			mula	2.4.13	0.0	1	अणुः	w0.p0								linked	BS:2.4.13:b0
+brahmasutra	bhashya	2.4.14	b40	ज्योतिराद्यधिष्ठानं		gemini,matcher	mula	2.4.14	0	1	ज्योतिस्-आदि-अधिष्ठानम्	w0.p0								linked	BS:2.4.14:b40
+brahmasutra	bhashya	2.4.14	b41	तु		gemini,matcher	mula	2.4.14	1	1	तु	w1.p0								linked	BS:2.4.14:b41
+brahmasutra	bhashya	2.4.14	b54	तदामननादिति			mula	2.4.14	2	1	तत्-आमननात्	w2.p0								linked	BS:2.4.14:b54
+brahmasutra	bhashya	2.4.15	b3	प्राणवता		gemini,matcher	mula	2.4.15	0	1	प्राणवता	w0.p0								linked	BS:2.4.15:b3
+brahmasutra	bhashya	2.4.16	b0	तस्य		gemini,matcher	mula	2.4.16	0	1	तस्य	w0.p0								linked	BS:2.4.16:b0
+brahmasutra	bhashya	2.4.16	b1	च		gemini,matcher	mula	2.4.16	1	1	च	w1.p0								linked	BS:2.4.16:b1
+brahmasutra	bhashya	2.4.16	b5	नित्यत्वम्			mula	2.4.16	2	1	नित्य-त्व	w2.p0								linked	BS:2.4.16:b5
+brahmasutra	bhashya	2.4.16	b31	नित्यः		matcher														unlinked	BS:2.4.16:b31
+brahmasutra	bhashya	2.4.17	b32	त		matcher	mula	2.4.17	0	1	ते	w0.p0								linked	BS:2.4.17:b32
+brahmasutra	bhashya	2.4.17	b61	व्यपदेशभेदात्		gemini														unlinked	BS:2.4.17:b61
+brahmasutra	bhashya	2.4.17	b64	ते		gemini	mula	2.4.17	0	1	ते	w0.p0								linked	BS:2.4.17:b64
+brahmasutra	bhashya	2.4.17	b67	श्रेष्ठं		gemini														unlinked	BS:2.4.17:b67
+brahmasutra	bhashya	2.4.17	b85	इन्द्रियाणि		matcher	mula	2.4.17	1	1	इन्द्रियाणि	w1.p0								linked	BS:2.4.17:b85
+brahmasutra	bhashya	2.4.18	b0	भेदेन		gemini														unlinked	BS:2.4.18:b0
+brahmasutra	bhashya	2.4.18	b4	श्रूयते		gemini														unlinked	BS:2.4.18:b4
+brahmasutra	bhashya	2.4.19	b0	वैलक्षण्यं		gemini,matcher														unlinked	BS:2.4.19:b0
+brahmasutra	bhashya	2.4.19	b1	च		gemini	mula	2.4.19	0.1	1	च	w0.p1								linked	BS:2.4.19:b1
+brahmasutra	bhashya	2.4.20	b12	त्रिवृतं		matcher	mula	2.4.20	1.0	1	त्रिवृत्	w1.p0								linked	BS:2.4.20:b12
+brahmasutra	bhashya	2.4.20	b67	संज्ञामूर्तिकॢप्तिस्त्विति			mula	2.4.20	0.0	1	संज्ञा-मूर्ति-कॢप्तिः	w0.p0								linked	BS:2.4.20:b67
+brahmasutra	bhashya	2.4.20	b71	संज्ञामूर्तिकॢप्तिरिति			mula	2.4.20	0.0	1	संज्ञा-मूर्ति-कॢप्तिः	w0.p0								linked	BS:2.4.20:b71
+brahmasutra	bhashya	2.4.20	b73	त्रिवृत्कुर्वत		matcher	mula	2.4.20	1.0	1	त्रिवृत्	w1.p0								linked	BS:2.4.20:b73
+brahmasutra	bhashya	2.4.20	b102	उपदेशात्		matcher	mula	2.4.20	2	1	उपदेशात्	w2.p0								linked	BS:2.4.20:b102
+brahmasutra	bhashya	2.4.20	b183	त्रिवृत्कुर्वतः		gemini,matcher	mula	2.4.20	1.0	1	त्रिवृत्	w1.p0								linked	BS:2.4.20:b183
+brahmasutra	bhashya	2.4.21	b2	मांसादिकार्यं			mula	2.4.21	0	1	मांस-आदि	w0.p0								linked	BS:2.4.21:b2
+brahmasutra	bhashya	2.4.21	b3	यथाशब्दं		gemini,matcher	mula	2.4.21	2.0	1	यथाशब्दम्	w2.p0								linked	BS:2.4.21:b3
+brahmasutra	bhashya	2.4.21	b36	एवमितरयोरप्तेजसोर्यथाशब्दं																unlinked	BS:2.4.21:b36
+brahmasutra	bhashya	2.4.22	b33	तद्वादस्तद्वादः		gemini,matcher	mula	2.4.22	1.0	1	तद्-वादः	w1.p0								linked	BS:2.4.22:b33
+brahmasutra	bhashya	3.1.1	b0	तदन्तरप्रतिपत्तौ		gemini,matcher	mula	3.1.1	0	1	तत्-अन्तर-प्रतिपत्तौ	w0.p0								linked	BS:3.1.1:b0
+brahmasutra	bhashya	3.1.1	b1	रंहति		gemini,matcher	mula	3.1.1	1	1	रंहति	w1.p0								linked	BS:3.1.1:b1
+brahmasutra	bhashya	3.1.1	b2	सम्परिष्वक्त		gemini,matcher	mula	3.1.1	2	1	सम्परिष्वक्तः	w2.p0								linked	BS:3.1.1:b2
+brahmasutra	bhashya	3.1.1	b4	तदन्तरप्रतिपत्तौ		gemini,matcher	mula	3.1.1	0	1	तत्-अन्तर-प्रतिपत्तौ	w0.p0								linked	BS:3.1.1:b4
+brahmasutra	bhashya	3.1.1	b7	सम्परिष्वक्तः		gemini,matcher	mula	3.1.1	2	1	सम्परिष्वक्तः	w2.p0								linked	BS:3.1.1:b7
+brahmasutra	bhashya	3.1.1	b8	रंहति		gemini	mula	3.1.1	1	1	रंहति	w1.p0								linked	BS:3.1.1:b8
+brahmasutra	bhashya	3.1.1	b12	प्रश्ननिरूपणाभ्याम्		gemini,matcher	mula	3.1.1	3	1	प्रश्न-निरूपणाभ्याम्	w3.p0								linked	BS:3.1.1:b12
+brahmasutra	bhashya	3.1.1	b22	निरूपणं		gemini														unlinked	BS:3.1.1:b22
+brahmasutra	bhashya	3.1.2	b2	त्र्यात्मिका		matcher														unlinked	BS:3.1.2:b2
+brahmasutra	bhashya	3.1.2	b15	त्र्यात्मकः		matcher														unlinked	BS:3.1.2:b15
+brahmasutra	bhashya	3.1.3	b8	प्राणा		matcher														unlinked	BS:3.1.3:b8
+brahmasutra	bhashya	3.1.3	b16	प्राणगतिप्रयुक्ता			mula	3.1.3	0.0	1	प्राणगतेः	w0.p0								linked	BS:3.1.3:b16
+brahmasutra	bhashya	3.1.4	b7	अग्न्यादि		matcher	mula	3.1.4	0.0	1	अग्नि-आदि-गति-श्रुतेः	w0.p0							0	linked	BS:3.1.4:b7
+brahmasutra	bhashya	3.1.4	b8	गतिश्रुतेः		matcher	mula	3.1.4	0.0	1	अग्नि-आदि-गति-श्रुतेः	w0.p0							2-3	linked	BS:3.1.4:b8
+brahmasutra	bhashya	3.1.4	b24	इति		gemini	mula	3.1.4	0.1	1	इति	w0.p1								linked	BS:3.1.4:b24
+brahmasutra	bhashya	3.1.4	b25	चेत्		gemini	mula	3.1.4	1.0	1	चेत्	w1.p0								linked	BS:3.1.4:b25
+brahmasutra	bhashya	3.1.4	b26	न		gemini	mula	3.1.4	1.1	1	न	w1.p1								linked	BS:3.1.4:b26
+brahmasutra	bhashya	3.1.4	b27	भाक्तत्वात्		gemini,matcher	mula	3.1.4	2	1	भाक्तत्वात्	w2.p0								linked	BS:3.1.4:b27
+brahmasutra	bhashya	3.1.5	b11	प्रथमे		matcher	mula	3.1.5	0.0	1	प्रथमे	w0.p0								linked	BS:3.1.5:b11
+brahmasutra	bhashya	3.1.5	b73	हि		gemini	mula	3.1.5	4.0	1	हि	w4.p0								linked	BS:3.1.5:b73
+brahmasutra	bhashya	3.1.5	b77	ता		gemini,matcher	mula	3.1.5	2	1	ताः	w2.p0								linked	BS:3.1.5:b77
+brahmasutra	bhashya	3.1.5	b78	एवापः		gemini	mula	3.1.5	3	1	एव	w3.p0								linked	BS:3.1.5:b78
+brahmasutra	bhashya	3.1.5	b81	उपपत्तेः		gemini	mula	3.1.5	4.1	1	उपपत्तेः	w4.p1								linked	BS:3.1.5:b81
+brahmasutra	bhashya	3.1.5	b145	एव		matcher	mula	3.1.5	3	1	एव	w3.p0								linked	BS:3.1.5:b145
+brahmasutra	bhashya	3.1.6	b14	अश्रुतत्वात्		gemini	mula	3.1.6	0.0	1	अश्रुतत्वात्	w0.p0								linked	BS:3.1.6:b14
+brahmasutra	bhashya	3.1.6	b27	नैष																unlinked	BS:3.1.6:b27
+brahmasutra	bhashya	3.1.6	b30	इष्टादिकारिणां		gemini,matcher	mula	3.1.6	1.2	1	इष्ट-आदि-कारिणाम्	w1.p2								linked	BS:3.1.6:b30
+brahmasutra	bhashya	3.1.6	b31	प्रतीतेः		gemini,matcher	mula	3.1.6	2	1	प्रतीतेः	w2.p0								linked	BS:3.1.6:b31
+brahmasutra	bhashya	3.1.6	b41	इष्टादिकारिणां		matcher	mula	3.1.6	1.2	1	इष्ट-आदि-कारिणाम्	w1.p2								linked	BS:3.1.6:b41
+brahmasutra	bhashya	3.1.7	b57	अनात्म		gemini	mula	3.1.7	1.1	1	अनात्म-वित्त्वात्	w1.p1							0	linked	BS:3.1.7:b57
+brahmasutra	bhashya	3.1.7	b58	वित्त्वाच्च		gemini														unlinked	BS:3.1.7:b58
+brahmasutra	bhashya	3.1.7	b62	तथा		gemini	mula	3.1.7	1.2	1	तथा	w1.p2								linked	BS:3.1.7:b62
+brahmasutra	bhashya	3.1.7	b63	हि		gemini	mula	3.1.7	1.3	1	हि	w1.p3								linked	BS:3.1.7:b63
+brahmasutra	bhashya	3.1.7	b66	दर्शयति		gemini,matcher	mula	3.1.7	2	1	दर्शयति	w2.p0								linked	BS:3.1.7:b66
+brahmasutra	bhashya	3.1.7	b91	अनात्मवित्त्वात्		gemini,matcher	mula	3.1.7	1.1	1	अनात्म-वित्त्वात्	w1.p1								linked	BS:3.1.7:b91
+brahmasutra	bhashya	3.1.7	b92	तथा		gemini	mula	3.1.7	1.2	1	तथा	w1.p2								linked	BS:3.1.7:b92
+brahmasutra	bhashya	3.1.7	b93	हि		gemini	mula	3.1.7	1.3	1	हि	w1.p3								linked	BS:3.1.7:b93
+brahmasutra	bhashya	3.1.7	b94	दर्शयति		gemini,matcher	mula	3.1.7	2	1	दर्शयति	w2.p0								linked	BS:3.1.7:b94
+brahmasutra	bhashya	3.1.7	b119	दर्शयति		matcher	mula	3.1.7	2	1	दर्शयति	w2.p0								linked	BS:3.1.7:b119
+brahmasutra	bhashya	3.1.7	b145	दर्शयति		matcher	mula	3.1.7	2	1	दर्शयति	w2.p0								linked	BS:3.1.7:b145
+brahmasutra	bhashya	3.1.8	b44	च		matcher	mula	3.1.8	2	1	च	w2.p0								linked	BS:3.1.8:b44
+brahmasutra	bhashya	3.1.8	b120	कृतात्ययेऽनुशयवानिति		gemini	mula	3.1.8	0.0	1	कृत-अत्यये	w0.p0								linked	BS:3.1.8:b120
+brahmasutra	bhashya	3.1.8	b139	कृतात्यये		gemini,matcher	mula	3.1.8	0.0	1	कृत-अत्यये	w0.p0								linked	BS:3.1.8:b139
+brahmasutra	bhashya	3.1.8	b148	दृष्टस्मृतिभ्यामित्याह		gemini	mula	3.1.8	0.2	1	दृष्ट-स्मृतिभ्याम्	w0.p2								linked	BS:3.1.8:b148
+brahmasutra	bhashya	3.1.8	b554	यथेतमनेवं		gemini,matcher	mula	3.1.8	1	1	यथा	w1.p0								linked	BS:3.1.8:b554
+brahmasutra	bhashya	3.1.8	b555	च		gemini	mula	3.1.8	2	1	च	w2.p0								linked	BS:3.1.8:b555
+brahmasutra	bhashya	3.1.8	b557	यथेतमिति		gemini	mula	3.1.8	1	1	यथा	w1.p0								linked	BS:3.1.8:b557
+brahmasutra	bhashya	3.1.8	b559	अनेवमिति		gemini	mula	3.1.8	1.2	1	अनेवम्	w1.p2								linked	BS:3.1.8:b559
+brahmasutra	bhashya	3.1.9	b10	चरणात्		gemini	mula	3.1.9	0.0	1	चरणात्	w0.p0								linked	BS:3.1.9:b10
+brahmasutra	bhashya	3.1.9	b47	इति		gemini	mula	3.1.9	0.1	1	इति	w0.p1								linked	BS:3.1.9:b47
+brahmasutra	bhashya	3.1.9	b48	चेत्		gemini	mula	3.1.9	1.0	1	चेत्	w1.p0								linked	BS:3.1.9:b48
+brahmasutra	bhashya	3.1.9	b54	कार्ष्णाजिनिराचार्यो			mula	3.1.9	2	1	कार्ष्णाजिनिः	w2.p0								linked	BS:3.1.9:b54
+brahmasutra	bhashya	3.1.10	b21	ह्यानर्थक्यमेव																unlinked	BS:3.1.10:b21
+brahmasutra	bhashya	3.1.10	b29	तदपेक्षत्वात्		matcher	mula	3.1.10	2	1	तद्-अपेक्ष-त्व	w2.p0								linked	BS:3.1.10:b29
+brahmasutra	bhashya	3.1.10	b47	आनर्थक्यम्		gemini,matcher	mula	3.1.10	0.0	1	आनर्थक्यम्	w0.p0								linked	BS:3.1.10:b47
+brahmasutra	bhashya	3.1.10	b52	तदपेक्ष		matcher	mula	3.1.10	2	1	तद्-अपेक्ष-त्व	w2.p0							0-1	linked	BS:3.1.10:b52
+brahmasutra	bhashya	3.1.11	b0	बादरिस्त्वाचार्यः			mula	3.1.11	3	1	बादरिः	w3.p0								linked	BS:3.1.11:b0
+brahmasutra	bhashya	3.1.11	b1	सुकृतदुष्कृते		gemini,matcher	mula	3.1.11	0	1	सुकृत-दुष्कृते	w0.p0								linked	BS:3.1.11:b1
+brahmasutra	bhashya	3.1.11	b2	एव		gemini	mula	3.1.11	1.0	1	एव	w1.p0								linked	BS:3.1.11:b2
+brahmasutra	bhashya	3.1.11	b5	इति		gemini	mula	3.1.11	1.1	1	इति	w1.p1								linked	BS:3.1.11:b5
+brahmasutra	bhashya	3.1.12	b14	इष्टादिकारिण		matcher														unlinked	BS:3.1.12:b14
+brahmasutra	bhashya	3.1.12	b20	यतोऽनिष्टादिकारिणामपि																unlinked	BS:3.1.12:b20
+brahmasutra	bhashya	3.1.12	b23	श्रुतम्		gemini,matcher	mula	3.1.12	2	1	श्रुतम्	w2.p0								linked	BS:3.1.12:b23
+brahmasutra	bhashya	3.1.12	b40	च		gemini	mula	3.1.12	1	1	च	w1.p0								linked	BS:3.1.12:b40
+brahmasutra	bhashya	3.1.13	b32	संयमनं			mula	3.1.13	0	1	संयमने	w0.p0								linked	BS:3.1.13:b32
+brahmasutra	bhashya	3.1.13	b36	अनुभूय		gemini	mula	3.1.13	1.1	1	अनुभूय	w1.p1								linked	BS:3.1.13:b36
+brahmasutra	bhashya	3.1.13	b42	तेषामारोहावरोहौ																unlinked	BS:3.1.13:b42
+brahmasutra	bhashya	3.1.13	b45	तद्गतिदर्शनात्		gemini,matcher	mula	3.1.13	2	1	तद्-गति-दर्शनात्	w2.p0								linked	BS:3.1.13:b45
+brahmasutra	bhashya	3.1.14	b1	च		gemini,matcher	mula	3.1.14	1	1	च	w1.p0								linked	BS:3.1.14:b1
+brahmasutra	bhashya	3.1.14	b8	स्मरन्ति		gemini,matcher	mula	3.1.14	0	1	स्मरन्ति	w0.p0								linked	BS:3.1.14:b8
+brahmasutra	bhashya	3.1.15	b0	अपि		gemini,matcher	mula	3.1.15	0	1	अपि	w0.p0								linked	BS:3.1.15:b0
+brahmasutra	bhashya	3.1.15	b1	च		gemini,matcher	mula	3.1.15	1	1	च	w1.p0								linked	BS:3.1.15:b1
+brahmasutra	bhashya	3.1.15	b2	सप्त		gemini,matcher	mula	3.1.15	2	1	सप्त	w2.p0								linked	BS:3.1.15:b2
+brahmasutra	bhashya	3.1.16	b0	तेष्वपि		gemini														unlinked	BS:3.1.16:b0
+brahmasutra	bhashya	3.1.16	b3	तस्यैव		gemini														unlinked	BS:3.1.16:b3
+brahmasutra	bhashya	3.1.16	b4	यमस्याधिष्ठातृत्वव्यापाराभ्युपगमादविरोधः																unlinked	BS:3.1.16:b4
+brahmasutra	bhashya	3.1.17	b25	एतयोः		gemini														unlinked	BS:3.1.17:b25
+brahmasutra	bhashya	3.1.17	b26	पथोरिति		gemini														unlinked	BS:3.1.17:b26
+brahmasutra	bhashya	3.1.17	b27	विद्याकर्मणोरित्येतत्			mula	3.1.17	0.0	1	विद्या-कर्मणोः	w0.p0								linked	BS:3.1.17:b27
+brahmasutra	bhashya	3.1.17	b29	प्रकृतत्वात्		gemini,matcher	mula	3.1.17	2	1	प्रकृतत्वात्	w2.p0								linked	BS:3.1.17:b29
+brahmasutra	bhashya	3.1.17	b30	विद्याकर्मणी		matcher	mula	3.1.17	0.0	1	विद्या-कर्मणोः	w0.p0								linked	BS:3.1.17:b30
+brahmasutra	bhashya	3.1.18	b0	न		gemini,matcher	mula	3.1.18	0	1	न	w0.p0								linked	BS:3.1.18:b0
+brahmasutra	bhashya	3.1.18	b1	तृतीये		gemini,matcher	mula	3.1.18	1	1	तृतीये	w1.p0								linked	BS:3.1.18:b1
+brahmasutra	bhashya	3.1.18	b7	तथोपलब्धेः		gemini,matcher	mula	3.1.18	2.0	1	तथा	w2.p0								linked	BS:3.1.18:b7
+brahmasutra	bhashya	3.1.19	b0	अपि		gemini	mula	3.1.19	0.1	1	अपि	w0.p1								linked	BS:3.1.19:b0
+brahmasutra	bhashya	3.1.19	b1	च		gemini,matcher	mula	3.1.19	1	1	च	w1.p0								linked	BS:3.1.19:b1
+brahmasutra	bhashya	3.1.19	b2	स्मर्यते		gemini,matcher	mula	3.1.19	0.0	1	स्मर्यते	w0.p0								linked	BS:3.1.19:b2
+brahmasutra	bhashya	3.1.19	b3	लोके		gemini,matcher	mula	3.1.19	2	1	लोके	w2.p0								linked	BS:3.1.19:b3
+brahmasutra	bhashya	3.1.22	b86	उपपत्तेः		gemini	mula	3.1.22	0.1	1	उपपत्तेः	w0.p1								linked	BS:3.1.22:b86
+brahmasutra	bhashya	3.1.23	b17	नातिचिरेणेति			mula	3.1.23	0.0	1	न	w0.p0								linked	BS:3.1.23:b17
+brahmasutra	bhashya	3.1.24	b63	पूर्ववत्		gemini	mula	3.1.24	1.0	1	पूर्ववत्	w1.p0								linked	BS:3.1.24:b63
+brahmasutra	bhashya	3.1.25	b14	न		gemini	mula	3.1.25	1.1	1	न	w1.p1								linked	BS:3.1.25:b14
+brahmasutra	bhashya	3.1.26	b5	रेतःसिग्भाव																unlinked	BS:3.1.26:b5
+brahmasutra	bhashya	3.1.26	b33	रेतःसिग्योग		gemini,matcher														unlinked	BS:3.1.26:b33
+brahmasutra	bhashya	3.1.27	b0	अथ		gemini														unlinked	BS:3.1.27:b0
+brahmasutra	bhashya	3.1.27	b5	योनेरधि		gemini														unlinked	BS:3.1.27:b5
+brahmasutra	bhashya	3.1.27	b6	शरीरम्		gemini,matcher	mula	3.1.27	1	1	शरीरम्	w1.p0								linked	BS:3.1.27:b6
+brahmasutra	bhashya	3.2.1	b0	सन्ध्ये		gemini,matcher	mula	3.2.1	0	1	सन्ध्ये	w0.p0								linked	BS:3.2.1:b0
+brahmasutra	bhashya	3.2.1	b2	सृष्टिरिति			mula	3.2.1	1.0	1	सृष्टिः	w1.p0								linked	BS:3.2.1:b2
+brahmasutra	bhashya	3.2.1	b3	सन्ध्यमिति			mula	3.2.1	0	1	सन्ध्ये	w0.p0								linked	BS:3.2.1:b3
+brahmasutra	bhashya	3.2.1	b22	श्रुतिरेवमाह																unlinked	BS:3.2.1:b22
+brahmasutra	bhashya	3.2.1	b27	स		gemini														unlinked	BS:3.2.1:b27
+brahmasutra	bhashya	3.2.1	b28	हि		gemini,matcher	mula	3.2.1	2	1	हि	w2.p0								linked	BS:3.2.1:b28
+brahmasutra	bhashya	3.2.1	b29	कर्ता		gemini														unlinked	BS:3.2.1:b29
+brahmasutra	bhashya	3.2.2	b2	एके		gemini	mula	3.2.2	1.1	1	एके	w1.p1								linked	BS:3.2.2:b2
+brahmasutra	bhashya	3.2.2	b18	पुत्रादयश्च		gemini,matcher	mula	3.2.2	2.0	1	पुत्र-आदयः	w2.p0								linked	BS:3.2.2:b18
+brahmasutra	bhashya	3.2.2	b45	निर्मातारं		matcher	mula	3.2.2	0	1	निर्मातारम्	w0.p0								linked	BS:3.2.2:b45
+brahmasutra	bhashya	3.2.3	b8	मायैव																unlinked	BS:3.2.3:b8
+brahmasutra	bhashya	3.2.3	b14	कार्त्स्न्येनानभिव्यक्तस्वरूपत्वात्		matcher	mula	3.2.3	2	1	कार्त्स्न्येन	w2.p0								linked	BS:3.2.3:b14
+brahmasutra	bhashya	3.2.3	b17	कार्त्स्न्येन		matcher	mula	3.2.3	2	1	कार्त्स्न्येन	w2.p0								linked	BS:3.2.3:b17
+brahmasutra	bhashya	3.2.3	b19	अभिव्यक्तस्वरूपः		matcher														unlinked	BS:3.2.3:b19
+brahmasutra	bhashya	3.2.4	b6	सूचकश्च		gemini,matcher	mula	3.2.4	0.0	1	सूचकः	w0.p0								linked	BS:3.2.4:b6
+brahmasutra	bhashya	3.2.4	b7	हि		gemini,matcher	mula	3.2.4	1	1	हि	w1.p0								linked	BS:3.2.4:b7
+brahmasutra	bhashya	3.2.4	b37	आचक्षते		gemini	mula	3.2.4	2.1	1	आचक्षते	w2.p1								linked	BS:3.2.4:b37
+brahmasutra	bhashya	3.2.4	b38	च		gemini,matcher	mula	3.2.4	3	2	च	w3.p0								linked	BS:3.2.4:b38
+brahmasutra	bhashya	3.2.5	b37	तिरोहितम्		gemini	mula	3.2.5	1	1	तिरोहितम्	w1.p0								linked	BS:3.2.5:b37
+brahmasutra	bhashya	3.2.5	b41	परमेश्वरमभिध्यायतो																unlinked	BS:3.2.5:b41
+brahmasutra	bhashya	3.2.5	b56	ततो		gemini,matcher	mula	3.2.5	0.1	1	तु	w0.p1								linked	BS:3.2.5:b56
+brahmasutra	bhashya	3.2.5	b57	हि		gemini	mula	3.2.5	3.0	1	हि	w3.p0								linked	BS:3.2.5:b57
+brahmasutra	bhashya	3.2.5	b59	अस्य		gemini	mula	3.2.5	3.1	1	अस्य	w3.p1								linked	BS:3.2.5:b59
+brahmasutra	bhashya	3.2.5	b64	बन्धः		matcher	mula	3.2.5	4	1	बन्ध-विपर्ययौ	w4.p0							0	linked	BS:3.2.5:b64
+brahmasutra	bhashya	3.2.6	b15	सोऽपि		gemini,matcher	mula	3.2.6	1.0	1	सः	w1.p0								linked	BS:3.2.6:b15
+brahmasutra	bhashya	3.2.6	b16	तु		gemini														unlinked	BS:3.2.6:b16
+brahmasutra	bhashya	3.2.6	b19	देहयोगात्		gemini	mula	3.2.6	0.0	1	देहयोगात्	w0.p0								linked	BS:3.2.6:b19
+brahmasutra	bhashya	3.2.7	b16	नाडीषु		matcher	mula	3.2.7	1	1	नाडीषु	w1.p0								linked	BS:3.2.7:b16
+brahmasutra	bhashya	3.2.7	b66	च		matcher	mula	3.2.7	3	1	च	w3.p0								linked	BS:3.2.7:b66
+brahmasutra	bhashya	3.2.7	b165	तदभावो		gemini	mula	3.2.7	0	1	तद्-अभावः	w0.p0								linked	BS:3.2.7:b165
+brahmasutra	bhashya	3.2.7	b166	नाडीष्वात्मनि		gemini	mula	3.2.7	1	1	नाडीषु	w1.p0								linked	BS:3.2.7:b166
+brahmasutra	bhashya	3.2.7	b168	तदभाव			mula	3.2.7	0	1	तद्-अभावः	w0.p0								linked	BS:3.2.7:b168
+brahmasutra	bhashya	3.2.7	b175	नाडीष्वात्मनि			mula	3.2.7	1	1	नाडीषु	w1.p0								linked	BS:3.2.7:b175
+brahmasutra	bhashya	3.2.7	b185	तच्छ्रुतेः		matcher	mula	3.2.7	2.0	1	तद्-श्रुतेः	w2.p0								linked	BS:3.2.7:b185
+brahmasutra	bhashya	3.2.8	b8	अस्मादात्मनः			mula	3.2.8	1.1	1	अस्मात्	w1.p1								linked	BS:3.2.8:b8
+brahmasutra	bhashya	3.2.8	b9	प्रबोधः		gemini,matcher	mula	3.2.8	1.0	1	प्रबोधः	w1.p0								linked	BS:3.2.8:b9
+brahmasutra	bhashya	3.2.9	b6	एव		matcher	mula	3.2.9	1	1	एव	w1.p0								linked	BS:3.2.9:b6
+brahmasutra	bhashya	3.2.9	b61	स		gemini	mula	3.2.9	0	1	सः	w0.p0								linked	BS:3.2.9:b61
+brahmasutra	bhashya	3.2.9	b62	एव		gemini	mula	3.2.9	1	1	एव	w1.p0								linked	BS:3.2.9:b62
+brahmasutra	bhashya	3.2.9	b63	तु		gemini,matcher	mula	3.2.9	2	1	तु	w2.p0								linked	BS:3.2.9:b63
+brahmasutra	bhashya	3.2.9	b71	कर्मानुस्मृतिशब्दविधिभ्यः		gemini,matcher	mula	3.2.9	3	1	कर्म-अनुस्मृति-शब्द-विधिभ्यः	w3.p0								linked	BS:3.2.9:b71
+brahmasutra	bhashya	3.2.10	b1	मुग्धो		gemini,matcher	mula	3.2.10	0.0	1	मुग्धे	w0.p0								linked	BS:3.2.10:b1
+brahmasutra	bhashya	3.2.10	b190	परिशेषादर्धसम्पत्तिर्मुग्धतेत्यवगच्छामः			mula	3.2.10	1	1	परिशेषात्	w1.p0								linked	BS:3.2.10:b190
+brahmasutra	bhashya	3.2.11	b23	उभयलिङ्गं		matcher	mula	3.2.11	2.1	1	उभयलिङ्गम्	w2.p1								linked	BS:3.2.11:b23
+brahmasutra	bhashya	3.2.11	b42	न		matcher	mula	3.2.11	0	1	न	w0.p0								linked	BS:3.2.11:b42
+brahmasutra	bhashya	3.2.11	b45	परस्य		gemini,matcher	mula	3.2.11	2.0	1	परस्य	w2.p0								linked	BS:3.2.11:b45
+brahmasutra	bhashya	3.2.11	b49	हि		matcher	mula	3.2.11	4	1	हि	w4.p0								linked	BS:3.2.11:b49
+brahmasutra	bhashya	3.2.11	b91	सर्वत्र		gemini,matcher	mula	3.2.11	3	1	सर्वत्र	w3.p0								linked	BS:3.2.11:b91
+brahmasutra	bhashya	3.2.11	b92	हि		gemini	mula	3.2.11	4	1	हि	w4.p0								linked	BS:3.2.11:b92
+brahmasutra	bhashya	3.2.12	b12	भेदात्		gemini	mula	3.2.12	1.0	1	भेदात्	w1.p0								linked	BS:3.2.12:b12
+brahmasutra	bhashya	3.2.12	b45	नेति		gemini	mula	3.2.12	2.1	2	न	w2.p1								linked	BS:3.2.12:b45
+brahmasutra	bhashya	3.2.12	b48	प्रत्येकमतद्वचनात्		gemini,matcher	mula	3.2.12	3.0	1	प्रत्येकम्	w3.p0								linked	BS:3.2.12:b48
+brahmasutra	bhashya	3.2.13	b0	अपि		gemini,matcher	mula	3.2.13	0	1	अपि	w0.p0								linked	BS:3.2.13:b0
+brahmasutra	bhashya	3.2.13	b1	चै			mula	3.2.13	1.0	1	च	w1.p0								linked	BS:3.2.13:b1
+brahmasutra	bhashya	3.2.13	b2	वं																unlinked	BS:3.2.13:b2
+brahmasutra	bhashya	3.2.13	b5	एके			mula	3.2.13	1.2	1	एके	w1.p2								linked	BS:3.2.13:b5
+brahmasutra	bhashya	3.2.14	b0	रूपाद्याकाररहितमेव		gemini														unlinked	BS:3.2.14:b0
+brahmasutra	bhashya	3.2.14	b6	तत्प्रधानत्वात्		gemini,matcher	mula	3.2.14	2	1	तत्-प्रधान-त्वात्	w2.p0								linked	BS:3.2.14:b6
+brahmasutra	bhashya	3.2.15	b7	प्रकाशः		gemini,matcher														unlinked	BS:3.2.15:b7
+brahmasutra	bhashya	3.2.15	b18	एवं		gemini														unlinked	BS:3.2.15:b18
+brahmasutra	bhashya	3.2.15	b30	अवैयर्थ्यम्		gemini														unlinked	BS:3.2.15:b30
+brahmasutra	bhashya	3.2.16	b0	आह		gemini,matcher	mula	3.2.16	0	1	आह	w0.p0								linked	BS:3.2.16:b0
+brahmasutra	bhashya	3.2.16	b1	च		gemini,matcher	mula	3.2.16	1	1	च	w1.p0								linked	BS:3.2.16:b1
+brahmasutra	bhashya	3.2.17	b0	दर्शयति		gemini,matcher	mula	3.2.17	0	1	दर्शयति	w0.p0								linked	BS:3.2.17:b0
+brahmasutra	bhashya	3.2.17	b1	च		gemini	mula	3.2.17	1	1	च	w1.p0								linked	BS:3.2.17:b1
+brahmasutra	bhashya	3.2.17	b52	स्मृतिष्वपि		gemini														unlinked	BS:3.2.17:b52
+brahmasutra	bhashya	3.2.17	b66	स्मर्यते		gemini,matcher	mula	3.2.17	3	1	स्मर्यते	w3.p0								linked	BS:3.2.17:b66
+brahmasutra	bhashya	3.2.18	b0	यत		gemini														unlinked	BS:3.2.18:b0
+brahmasutra	bhashya	3.2.18	b1	एव		gemini,matcher	mula	3.2.18	1	1	एव	w1.p0								linked	BS:3.2.18:b1
+brahmasutra	bhashya	3.2.18	b2	च		gemini	mula	3.2.18	2.0	1	च	w2.p0								linked	BS:3.2.18:b2
+brahmasutra	bhashya	3.2.18	b8	अत		gemini														unlinked	BS:3.2.18:b8
+brahmasutra	bhashya	3.2.18	b9	एव		gemini	mula	3.2.18	1	1	एव	w1.p0								linked	BS:3.2.18:b9
+brahmasutra	bhashya	3.2.18	b10	च		gemini	mula	3.2.18	2.0	1	च	w2.p0								linked	BS:3.2.18:b10
+brahmasutra	bhashya	3.2.18	b13	जलसूर्यकादिवदित्युपमा		gemini														unlinked	BS:3.2.18:b13
+brahmasutra	bhashya	3.2.19	b0	न		gemini,matcher	mula	3.2.19	1	1	न	w1.p0								linked	BS:3.2.19:b0
+brahmasutra	bhashya	3.2.19	b1	जलसूर्यकादितुल्यत्वमिहोपपद्यते																unlinked	BS:3.2.19:b1
+brahmasutra	bhashya	3.2.19	b2	तद्वदग्रहणात्		gemini														unlinked	BS:3.2.19:b2
+brahmasutra	bhashya	3.2.19	b9	जलं		gemini														unlinked	BS:3.2.19:b9
+brahmasutra	bhashya	3.2.19	b14	न		gemini	mula	3.2.19	1	1	न	w1.p0								linked	BS:3.2.19:b14
+brahmasutra	bhashya	3.2.19	b15	तु		gemini	mula	3.2.19	0.1	1	तु	w0.p1								linked	BS:3.2.19:b15
+brahmasutra	bhashya	3.2.20	b36	वृद्धिह्रासभाक्त्वमिति			mula	3.2.20	0.0	1	वृद्धि-ह्रास-भाक्त्वम्	w0.p0								linked	BS:3.2.20:b36
+brahmasutra	bhashya	3.2.20	b56	एवं			mula	3.2.20	0.3	1	एवम्	w0.p3								linked	BS:3.2.20:b56
+brahmasutra	bhashya	3.2.20	b64	सामञ्जस्यादविरोधः																unlinked	BS:3.2.20:b64
+brahmasutra	bhashya	3.2.21	b0	दर्शयति		gemini														unlinked	BS:3.2.21:b0
+brahmasutra	bhashya	3.2.21	b1	च		gemini	mula	3.2.21	0.1	1	च	w0.p1								linked	BS:3.2.21:b1
+brahmasutra	bhashya	3.2.22	b77	प्रतिषेधो		matcher														unlinked	BS:3.2.22:b77
+brahmasutra	bhashya	3.2.22	b81	प्रतिषेधति		matcher	mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b81
+brahmasutra	bhashya	3.2.22	b87	प्रतिषेधति		matcher	mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b87
+brahmasutra	bhashya	3.2.22	b91	प्रतिषेधति		matcher	mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b91
+brahmasutra	bhashya	3.2.22	b96	प्रकृतत्वा		matcher	mula	3.2.22	0	1	प्रकृत-एतावत्त्वम्	w0.p0							0	linked	BS:3.2.22:b96
+brahmasutra	bhashya	3.2.22	b101	प्रतिषेधौ		matcher														unlinked	BS:3.2.22:b101
+brahmasutra	bhashya	3.2.22	b226	प्रतिषेधति		matcher	mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b226
+brahmasutra	bhashya	3.2.22	b232	प्रकृतैतावत्त्वं		gemini,matcher	mula	3.2.22	0	1	प्रकृत-एतावत्त्वम्	w0.p0								linked	BS:3.2.22:b232
+brahmasutra	bhashya	3.2.22	b233	हि		gemini	mula	3.2.22	1	1	हि	w1.p0								linked	BS:3.2.22:b233
+brahmasutra	bhashya	3.2.22	b234	प्रतिषेधतीति		matcher	mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b234
+brahmasutra	bhashya	3.2.22	b235	प्रकृतं		gemini	mula	3.2.22	0	1	प्रकृत-एतावत्त्वम्	w0.p0							0	linked	BS:3.2.22:b235
+brahmasutra	bhashya	3.2.22	b236	यदेतावत्																unlinked	BS:3.2.22:b236
+brahmasutra	bhashya	3.2.22	b241	तदेष																unlinked	BS:3.2.22:b241
+brahmasutra	bhashya	3.2.22	b243	प्रतिषेधति		gemini,matcher	mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b243
+brahmasutra	bhashya	3.2.22	b244	तद्धि																unlinked	BS:3.2.22:b244
+brahmasutra	bhashya	3.2.22	b247	च		gemini	mula	3.2.22	5	1	च	w5.p0								linked	BS:3.2.22:b247
+brahmasutra	bhashya	3.2.22	b334	प्रतिषेधति			mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b334
+brahmasutra	bhashya	3.2.22	b362	प्रतिषेधौ																unlinked	BS:3.2.22:b362
+brahmasutra	bhashya	3.2.22	b367	प्रतिषेधतः			mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b367
+brahmasutra	bhashya	3.2.22	b370	प्रतिषेधो																unlinked	BS:3.2.22:b370
+brahmasutra	bhashya	3.2.22	b372	प्रतिषेधति			mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b372
+brahmasutra	bhashya	3.2.22	b389	प्रतिषेधे		matcher														unlinked	BS:3.2.22:b389
+brahmasutra	bhashya	3.2.22	b403	प्रतिषेधात्			mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b403
+brahmasutra	bhashya	3.2.22	b413	प्रतिषेधति			mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b413
+brahmasutra	bhashya	3.2.22	b423	ततः																unlinked	BS:3.2.22:b423
+brahmasutra	bhashya	3.2.22	b424	प्रतिषेधात्			mula	3.2.22	2	1	प्रतिषेधति	w2.p0								linked	BS:3.2.22:b424
+brahmasutra	bhashya	3.2.22	b425	भूयो																unlinked	BS:3.2.22:b425
+brahmasutra	bhashya	3.2.22	b427	ब्रवीति			mula	3.2.22	4	1	ब्रवीति	w4.p0								linked	BS:3.2.22:b427
+brahmasutra	bhashya	3.2.22	b432	प्रतिषेधे		matcher														unlinked	BS:3.2.22:b432
+brahmasutra	bhashya	3.2.22	b488	भूयः																unlinked	BS:3.2.22:b488
+brahmasutra	bhashya	3.2.22	b507	प्रतिषेधे																unlinked	BS:3.2.22:b507
+brahmasutra	bhashya	3.2.22	b512	प्रतिषेधे																unlinked	BS:3.2.22:b512
+brahmasutra	bhashya	3.2.22	b519	प्रतिषेधः		matcher														unlinked	BS:3.2.22:b519
+brahmasutra	bhashya	3.2.23	b11	तत्		gemini	mula	3.2.23	0.0	1	तत्	w0.p0								linked	BS:3.2.23:b11
+brahmasutra	bhashya	3.2.23	b14	आह		gemini	mula	3.2.23	0.2	1	आह	w0.p2								linked	BS:3.2.23:b14
+brahmasutra	bhashya	3.2.23	b15	हि		gemini,matcher	mula	3.2.23	1	1	हि	w1.p0								linked	BS:3.2.23:b15
+brahmasutra	bhashya	3.2.24	b0	अपि		gemini,matcher	mula	3.2.24	0	1	अपि	w0.p0								linked	BS:3.2.24:b0
+brahmasutra	bhashya	3.2.24	b1	च		gemini,matcher	mula	3.2.24	1	1	च	w1.p0								linked	BS:3.2.24:b1
+brahmasutra	bhashya	3.2.24	b8	संराधनं		gemini	mula	3.2.24	2	1	संराधने	w2.p0								linked	BS:3.2.24:b8
+brahmasutra	bhashya	3.2.24	b15	प्रत्यक्षानुमानाभ्याम्		gemini,matcher	mula	3.2.24	3	1	प्रत्यक्ष-अनुमानाभ्याम्	w3.p0								linked	BS:3.2.24:b15
+brahmasutra	bhashya	3.2.25	b1	प्रकाशाकाशसवितृप्रभृतयः			mula	3.2.25	1.0	1	प्रकाशः	w1.p0								linked	BS:3.2.25:b1
+brahmasutra	bhashya	3.2.25	b3	कर्मसु		gemini														unlinked	BS:3.2.25:b3
+brahmasutra	bhashya	3.2.25	b18	अभ्यासेन		gemini														unlinked	BS:3.2.25:b18
+brahmasutra	bhashya	3.2.26	b0	अतश्च		gemini														unlinked	BS:3.2.26:b0
+brahmasutra	bhashya	3.2.26	b9	अनन्तेन		gemini	mula	3.2.26	0.1	1	अनन्तेन	w0.p1								linked	BS:3.2.26:b9
+brahmasutra	bhashya	3.2.26	b14	तथा		gemini,matcher	mula	3.2.26	1	1	तथा	w1.p0								linked	BS:3.2.26:b14
+brahmasutra	bhashya	3.2.26	b15	हि		gemini,matcher	mula	3.2.26	2	1	हि	w2.p0								linked	BS:3.2.26:b15
+brahmasutra	bhashya	3.2.26	b16	लिङ्गम्		gemini,matcher	mula	3.2.26	3	1	लिङ्गम्	w3.p0								linked	BS:3.2.26:b16
+brahmasutra	bhashya	3.2.27	b53	उभयव्यपदेशदर्शनात्			mula	3.2.27	0	1	उभय-व्यपदेशात्	w0.p0								linked	BS:3.2.27:b53
+brahmasutra	bhashya	3.2.27	b54	अहिकुण्डलवदत्र			mula	3.2.27	0.2	1	अहि-कुण्डल-वत्	w0.p2								linked	BS:3.2.27:b54
+brahmasutra	bhashya	3.2.28	b3	प्रकाशः		matcher	mula	3.2.28	0.0	1	प्रकाश-आश्रय-वत्	w0.p0							0	linked	BS:3.2.28:b3
+brahmasutra	bhashya	3.2.28	b9	तेजस्त्वाविशेषात्																unlinked	BS:3.2.28:b9
+brahmasutra	bhashya	3.2.29	b1	वा		gemini	mula	3.2.29	0.1	1	वा	w0.p1								linked	BS:3.2.29:b1
+brahmasutra	bhashya	3.2.30	b0	इतश्च																unlinked	BS:3.2.30:b0
+brahmasutra	bhashya	3.2.30	b7	प्रतिषेधति		gemini	mula	3.2.30	0.0	1	प्रतिषेधात्	w0.p0								linked	BS:3.2.30:b7
+brahmasutra	bhashya	3.2.31	b0	परम्		gemini	mula	3.2.31	0.0	1	परम्	w0.p0								linked	BS:3.2.31:b0
+brahmasutra	bhashya	3.2.31	b1	अतो			mula	3.2.31	0.1	1	अतः	w0.p1								linked	BS:3.2.31:b1
+brahmasutra	bhashya	3.2.31	b9	भेदव्यपदेशाच्च																unlinked	BS:3.2.31:b9
+brahmasutra	bhashya	3.2.31	b10	सेतुव्यपदेशस्तावत्																unlinked	BS:3.2.31:b10
+brahmasutra	bhashya	3.2.31	b53	उन्मानव्यपदेशश्च																unlinked	BS:3.2.31:b53
+brahmasutra	bhashya	3.2.31	b74	सम्बन्ध		matcher	mula	3.2.31	1	1	सेतु-उन्मान-सम्बन्ध-भेद-व्यपदेशेभ्यः	w1.p0							2	linked	BS:3.2.31:b74
+brahmasutra	bhashya	3.2.31	b92	सम्बन्धो		matcher	mula	3.2.31	1	1	सेतु-उन्मान-सम्बन्ध-भेद-व्यपदेशेभ्यः	w1.p0							2	linked	BS:3.2.31:b92
+brahmasutra	bhashya	3.2.31	b100	सम्बन्धं		matcher	mula	3.2.31	1	1	सेतु-उन्मान-सम्बन्ध-भेद-व्यपदेशेभ्यः	w1.p0							2	linked	BS:3.2.31:b100
+brahmasutra	bhashya	3.2.31	b107	भेदव्यपदेशश्च																unlinked	BS:3.2.31:b107
+brahmasutra	bhashya	3.2.32	b85	सेतुसामान्यात्तु																unlinked	BS:3.2.32:b85
+brahmasutra	bhashya	3.2.33	b8	बुद्ध्यर्थः		gemini,matcher	mula	3.2.33	0	1	बुद्धि-अर्थः	w0.p0								linked	BS:3.2.33:b8
+brahmasutra	bhashya	3.2.33	b36	पादवत्		gemini,matcher	mula	3.2.33	1	1	पादवत्	w1.p0								linked	BS:3.2.33:b36
+brahmasutra	bhashya	3.2.33	b52	पादवदिति			mula	3.2.33	1	1	पादवत्	w1.p0								linked	BS:3.2.33:b52
+brahmasutra	bhashya	3.2.34	b13	स्थानविशेषापेक्षया																unlinked	BS:3.2.34:b13
+brahmasutra	bhashya	3.2.34	b37	प्रकाशादिवदिति			mula	3.2.34	0.1	1	प्रकाश-आदि-वत्	w0.p1								linked	BS:3.2.34:b37
+brahmasutra	bhashya	3.2.35	b0	उपपद्यते		gemini														unlinked	BS:3.2.35:b0
+brahmasutra	bhashya	3.2.35	b1	च		gemini	mula	3.2.35	0.1	1	च	w0.p1								linked	BS:3.2.35:b1
+brahmasutra	bhashya	3.2.36	b6	तथाऽन्यप्रतिषेधादपि			mula	3.2.36	0.0	1	तथा	w0.p0								linked	BS:3.2.36:b6
+brahmasutra	bhashya	3.2.37	b0	अनेन		gemini,matcher	mula	3.2.37	0	1	अनेन	w0.p0								linked	BS:3.2.37:b0
+brahmasutra	bhashya	3.2.37	b4	सर्वगतत्वम		matcher	mula	3.2.37	1.0	1	सर्व-गत-त्वम्	w1.p0								linked	BS:3.2.37:b4
+brahmasutra	bhashya	3.2.37	b28	सर्वगतत्वं		gemini,matcher	mula	3.2.37	1.0	1	सर्व-गत-त्वम्	w1.p0								linked	BS:3.2.37:b28
+brahmasutra	bhashya	3.2.37	b31	आयामशब्दादिभ्यो		gemini,matcher	mula	3.2.37	1.1	1	आयाम-शब्द-आदिभ्यः	w1.p1								linked	BS:3.2.37:b31
+brahmasutra	bhashya	3.2.37	b33	आयामशब्दः		gemini,matcher	mula	3.2.37	1.1	1	आयाम-शब्द-आदिभ्यः	w1.p1							0-1	linked	BS:3.2.37:b33
+brahmasutra	bhashya	3.2.37	b44	सर्वगतः		matcher														unlinked	BS:3.2.37:b44
+brahmasutra	bhashya	3.2.38	b24	फलम्		gemini	mula	3.2.38	0.0	1	फलम्	w0.p0								linked	BS:3.2.38:b24
+brahmasutra	bhashya	3.2.38	b25	अतः		gemini	mula	3.2.38	0.1	1	अतः	w0.p1								linked	BS:3.2.38:b25
+brahmasutra	bhashya	3.2.38	b29	उपपत्तेः		gemini,matcher	mula	3.2.38	1	1	उपपत्तेः	w1.p0								linked	BS:3.2.38:b29
+brahmasutra	bhashya	3.2.40	b0	जैमिनिस्त्वाचार्यो		gemini	mula	3.2.40	1.0	1	जैमिनिः	w1.p0								linked	BS:3.2.40:b0
+brahmasutra	bhashya	3.2.40	b1	धर्मं		gemini,matcher	mula	3.2.40	0	1	धर्मम्	w0.p0								linked	BS:3.2.40:b1
+brahmasutra	bhashya	3.2.40	b5	अत		gemini	mula	3.2.40	1.1	1	अतः	w1.p1								linked	BS:3.2.40:b5
+brahmasutra	bhashya	3.2.40	b6	एव		gemini,matcher	mula	3.2.40	2	1	एव	w2.p0								linked	BS:3.2.40:b6
+brahmasutra	bhashya	3.2.41	b0	बादरायणस्त्वाचार्यः		gemini	mula	3.2.41	2	1	बादरायणः	w2.p0								linked	BS:3.2.41:b0
+brahmasutra	bhashya	3.2.41	b1	पूर्वोक्तमेव		gemini														unlinked	BS:3.2.41:b1
+brahmasutra	bhashya	3.2.41	b10	तुशब्देन		gemini														unlinked	BS:3.2.41:b10
+brahmasutra	bhashya	3.2.41	b19	हेतुव्यपदेशात्		gemini,matcher	mula	3.2.41	3	1	हेतु-व्यपदेशात्	w3.p0								linked	BS:3.2.41:b19
+brahmasutra	bhashya	3.3.1	b0	सर्ववेदान्तप्रत्ययानि		gemini														unlinked	BS:3.3.1:b0
+brahmasutra	bhashya	3.3.1	b9	चोदनाद्यविशेषात्		gemini,matcher	mula	3.3.1	1	1	चोदना-आदि-अविशेषात्	w1.p0								linked	BS:3.3.1:b9
+brahmasutra	bhashya	3.3.2	b70	विद्याभेदः		gemini														unlinked	BS:3.3.2:b70
+brahmasutra	bhashya	3.3.2	b73	चेत्			mula	3.3.2	1.0	1	चेत्	w1.p0								linked	BS:3.3.2:b73
+brahmasutra	bhashya	3.3.2	b77	एकस्यामपि		matcher	mula	3.3.2	1.2	1	एकस्याम्	w1.p2								linked	BS:3.3.2:b77
+brahmasutra	bhashya	3.3.2	b90	न		gemini														unlinked	BS:3.3.2:b90
+brahmasutra	bhashya	3.3.2	b91	विद्याभेदो																unlinked	BS:3.3.2:b91
+brahmasutra	bhashya	3.3.3	b11	स्वाध्यायस्य		gemini,matcher	mula	3.3.3	0	1	स्वाध्यायस्य	w0.p0								linked	BS:3.3.3:b11
+brahmasutra	bhashya	3.3.3	b18	तथात्वेन		gemini,matcher	mula	3.3.3	1	1	तथात्वेन	w1.p0								linked	BS:3.3.3:b18
+brahmasutra	bhashya	3.3.3	b20	समाचारे		gemini,matcher	mula	3.3.3	3.0	1	समाचारे	w3.p0								linked	BS:3.3.3:b20
+brahmasutra	bhashya	3.3.3	b32	च			mula	3.3.3	3.2	1	च	w3.p2								linked	BS:3.3.3:b32
+brahmasutra	bhashya	3.3.3	b67	सववच्च		gemini,matcher	mula	3.3.3	4.0	1	सववत्	w4.p0								linked	BS:3.3.3:b67
+brahmasutra	bhashya	3.3.3	b68	तन्नियम		matcher														unlinked	BS:3.3.3:b68
+brahmasutra	bhashya	3.3.4	b0	दर्शयति		gemini,matcher	mula	3.3.4	0	1	दर्शयति	w0.p0								linked	BS:3.3.4:b0
+brahmasutra	bhashya	3.3.4	b1	च		gemini,matcher	mula	3.3.4	1	1	च	w1.p0								linked	BS:3.3.4:b1
+brahmasutra	bhashya	3.3.5	b10	समाने		gemini	mula	3.3.5	0.3	1	समाने	w0.p3								linked	BS:3.3.5:b10
+brahmasutra	bhashya	3.3.5	b12	उपसंहारो		gemini,matcher	mula	3.3.5	0	1	उपसंहारः	w0.p0								linked	BS:3.3.5:b12
+brahmasutra	bhashya	3.3.5	b14	अर्थाभेदात्		gemini	mula	3.3.5	0.1	1	अर्थ-अभेदात्	w0.p1								linked	BS:3.3.5:b14
+brahmasutra	bhashya	3.3.5	b30	विधिशेषवत्		gemini,matcher	mula	3.3.5	0.2	1	विधि-शेष-वत्	w0.p2								linked	BS:3.3.5:b30
+brahmasutra	bhashya	3.3.6	b71	अन्यथा																unlinked	BS:3.3.6:b71
+brahmasutra	bhashya	3.3.6	b95	न		gemini	mula	3.3.6	2.1	1	न	w2.p1								linked	BS:3.3.6:b95
+brahmasutra	bhashya	3.3.7	b0	न		gemini,matcher	mula	3.3.7	0	1	न	w0.p0								linked	BS:3.3.7:b0
+brahmasutra	bhashya	3.3.7	b1	वा		gemini,matcher	mula	3.3.7	1	1	वा	w1.p0								linked	BS:3.3.7:b1
+brahmasutra	bhashya	3.3.7	b9	प्रकरणभेदात्		gemini,matcher	mula	3.3.7	2.0	1	प्रकरण-भेदात्	w2.p0								linked	BS:3.3.7:b9
+brahmasutra	bhashya	3.3.7	b162	परोवरीयस्त्वादिवत्		gemini,matcher	mula	3.3.7	2.1	1	परोवरीयस्त्व-आदि-वत्	w2.p1								linked	BS:3.3.7:b162
+brahmasutra	bhashya	3.3.8	b7	संज्ञेति		matcher	mula	3.3.8	0.0	1	संज्ञातः	w0.p0								linked	BS:3.3.8:b7
+brahmasutra	bhashya	3.3.8	b8	तदपि		matcher	mula	3.3.8	2.0	2	तत्	w2.p0								linked	BS:3.3.8:b8
+brahmasutra	bhashya	3.3.8	b10	उक्तं		gemini	mula	3.3.8	0.3	1	उक्तम्	w0.p3								linked	BS:3.3.8:b10
+brahmasutra	bhashya	3.3.9	b114	व्याप्तेश्च		gemini,matcher	mula	3.3.9	0.0	1	व्याप्तेः	w0.p0								linked	BS:3.3.9:b114
+brahmasutra	bhashya	3.3.9	b115	समञ्जसमिति			mula	3.3.9	1	1	समञ्जसम्	w1.p0								linked	BS:3.3.9:b115
+brahmasutra	bhashya	3.3.9	b211	व्याप्तेः		gemini	mula	3.3.9	0.0	1	व्याप्तेः	w0.p0								linked	BS:3.3.9:b211
+brahmasutra	bhashya	3.3.9	b266	समञ्जसमेतत्			mula	3.3.9	1	1	समञ्जसम्	w1.p0								linked	BS:3.3.9:b266
+brahmasutra	bhashya	3.3.10	b88	इमे		gemini	mula	3.3.10	0.2	1	इमे	w0.p2								linked	BS:3.3.10:b88
+brahmasutra	bhashya	3.3.10	b92	अन्यत्रापि			mula	3.3.10	0.1	1	अन्यत्र	w0.p1								linked	BS:3.3.10:b92
+brahmasutra	bhashya	3.3.10	b94	सर्वाभेदात्		gemini	mula	3.3.10	0.0	1	सर्व-अभेदात्	w0.p0								linked	BS:3.3.10:b94
+brahmasutra	bhashya	3.3.11	b32	आनन्दादयः		gemini,matcher	mula	3.3.11	0	1	आनन्द-आदयः	w0.p0								linked	BS:3.3.11:b32
+brahmasutra	bhashya	3.3.11	b33	प्रधानस्य		gemini,matcher	mula	3.3.11	1	1	प्रधानस्य	w1.p0								linked	BS:3.3.11:b33
+brahmasutra	bhashya	3.3.12	b8	प्रियं		matcher	mula	3.3.12	0.0	1	प्रिय-शिरस्-त्व-आदि-अप्राप्तिः	w0.p0							0	linked	BS:3.3.12:b8
+brahmasutra	bhashya	3.3.12	b18	उपचयापचयौ		gemini,matcher	mula	3.3.12	0.1	1	उपचय-अपचयौ	w0.p1								linked	BS:3.3.12:b18
+brahmasutra	bhashya	3.3.12	b20	सति		gemini														unlinked	BS:3.3.12:b20
+brahmasutra	bhashya	3.3.12	b21	भेदे		gemini,matcher	mula	3.3.12	2	1	भेदे	w2.p0								linked	BS:3.3.12:b21
+brahmasutra	bhashya	3.3.12	b31	प्रियशिरस्त्वादयो		matcher	mula	3.3.12	0.0	1	प्रिय-शिरस्-त्व-आदि-अप्राप्तिः	w0.p0							0-2	linked	BS:3.3.12:b31
+brahmasutra	bhashya	3.3.13	b0	इतरे		gemini,matcher	mula	3.3.13	0	1	इतरे	w0.p0								linked	BS:3.3.13:b0
+brahmasutra	bhashya	3.3.13	b1	तु		gemini	mula	3.3.13	1.0	1	तु	w1.p0								linked	BS:3.3.13:b1
+brahmasutra	bhashya	3.3.13	b6	अर्थसामान्यात्		gemini,matcher	mula	3.3.13	1.1	1	अर्थ-सामान्यात्	w1.p1								linked	BS:3.3.13:b6
+brahmasutra	bhashya	3.3.14	b84	प्रयोजनाभावात्		gemini,matcher	mula	3.3.14	1	1	प्रयोजन-अभावात्	w1.p0								linked	BS:3.3.14:b84
+brahmasutra	bhashya	3.3.14	b120	आध्यानायेति			mula	3.3.14	0	1	आध्यानाय	w0.p0								linked	BS:3.3.14:b120
+brahmasutra	bhashya	3.3.15	b18	आत्मेत्याह		gemini														unlinked	BS:3.3.15:b18
+brahmasutra	bhashya	3.3.16	b151	गृह्यते																unlinked	BS:3.3.16:b151
+brahmasutra	bhashya	3.3.16	b152	इतरवत्		gemini	mula	3.3.16	0.1	1	इतरवत्	w0.p1								linked	BS:3.3.16:b152
+brahmasutra	bhashya	3.3.16	b192	उत्तरम्																unlinked	BS:3.3.16:b192
+brahmasutra	bhashya	3.3.17	b7	स्यादवधारणादिति			mula	3.3.17	1.1	1	स्यात्	w1.p1								linked	BS:3.3.17:b7
+brahmasutra	bhashya	3.3.17	b12	अवधारणात्		gemini,matcher	mula	3.3.17	1.2	1	अवधारणात्	w1.p2								linked	BS:3.3.17:b12
+brahmasutra	bhashya	3.3.17	b234	अन्वयादिति		gemini,matcher	mula	3.3.17	0.0	1	अन्वयात्	w0.p0								linked	BS:3.3.17:b234
+brahmasutra	bhashya	3.3.17	b235	चेत्स्यादवधारणात्		matcher	mula	3.3.17	1.0	1	चेत्	w1.p0								linked	BS:3.3.17:b235
+brahmasutra	bhashya	3.3.17	b249	स्यादवधारणादिति			mula	3.3.17	1.1	1	स्यात्	w1.p1								linked	BS:3.3.17:b249
+brahmasutra	bhashya	3.3.17	b253	अवधारणात्		matcher	mula	3.3.17	1.2	1	अवधारणात्	w1.p2								linked	BS:3.3.17:b253
+brahmasutra	bhashya	3.3.18	b79	कार्याख्यानात्		gemini	mula	3.3.18	0.0	1	कार्य-आख्यानात्	w0.p0								linked	BS:3.3.18:b79
+brahmasutra	bhashya	3.3.18	b153	अपूर्व		gemini	mula	3.3.18	0.1	1	अपूर्वम्	w0.p1								linked	BS:3.3.18:b153
+brahmasutra	bhashya	3.3.19	b115	एवमेकस्यामपि			mula	3.3.19	1	1	एवम्	w1.p0								linked	BS:3.3.19:b115
+brahmasutra	bhashya	3.3.19	b155	एवं		matcher	mula	3.3.19	1	1	एवम्	w1.p0								linked	BS:3.3.19:b155
+brahmasutra	bhashya	3.3.20	b50	एवमन्यत्रापि		gemini,matcher	mula	3.3.20	0.1	1	एवम्	w0.p1								linked	BS:3.3.20:b50
+brahmasutra	bhashya	3.3.21	b0	न		gemini,matcher	mula	3.3.21	0	1	न	w0.p0								linked	BS:3.3.21:b0
+brahmasutra	bhashya	3.3.21	b1	वा		gemini,matcher	mula	3.3.21	1	1	वा	w1.p0								linked	BS:3.3.21:b1
+brahmasutra	bhashya	3.3.21	b6	विशेषात्		gemini,matcher	mula	3.3.21	2	1	विशेषात्	w2.p0								linked	BS:3.3.21:b6
+brahmasutra	bhashya	3.3.22	b1	च		matcher	mula	3.3.22	1	1	च	w1.p0								linked	BS:3.3.22:b1
+brahmasutra	bhashya	3.3.23	b30	सम्भृति		gemini,matcher	mula	3.3.23	0.0	1	सम्भृति-द्युव्याप्ति	w0.p0							0	linked	BS:3.3.23:b30
+brahmasutra	bhashya	3.3.23	b31	द्युव्याप्तिप्रभृतयो																unlinked	BS:3.3.23:b31
+brahmasutra	bhashya	3.3.23	b35	अत		gemini	mula	3.3.23	1.1	1	अतः	w1.p1								linked	BS:3.3.23:b35
+brahmasutra	bhashya	3.3.23	b36	एव		gemini														unlinked	BS:3.3.23:b36
+brahmasutra	bhashya	3.3.23	b37	च		gemini	mula	3.3.23	1.0	1	च	w1.p0								linked	BS:3.3.23:b37
+brahmasutra	bhashya	3.3.24	b5	पुरुषविद्या		matcher														unlinked	BS:3.3.24:b5
+brahmasutra	bhashya	3.3.24	b56	पुरुषविद्यायामिवेति			mula	3.3.24	0.0	1	पुरुषविद्यायाम्	w0.p0								linked	BS:3.3.24:b56
+brahmasutra	bhashya	3.3.24	b65	इतरेषां			mula	3.3.24	1.1	1	इतरेषाम्	w1.p1								linked	BS:3.3.24:b65
+brahmasutra	bhashya	3.3.25	b163	वेधाद्यर्थभेदात्		gemini,matcher	mula	3.3.25	0	1	वेध-आदि-अर्थ-भेदात्	w0.p0								linked	BS:3.3.25:b163
+brahmasutra	bhashya	3.3.26	b103	हानाविति		gemini														unlinked	BS:3.3.26:b103
+brahmasutra	bhashya	3.3.26	b104	हानौ		gemini,matcher	mula	3.3.26	0	1	हानौ	w0.p0								linked	BS:3.3.26:b104
+brahmasutra	bhashya	3.3.26	b105	तु		gemini	mula	3.3.26	1.0	1	तु	w1.p0								linked	BS:3.3.26:b105
+brahmasutra	bhashya	3.3.26	b111	तच्छेषत्वात्		gemini														unlinked	BS:3.3.26:b111
+brahmasutra	bhashya	3.3.26	b112	हानशब्दशेषो																unlinked	BS:3.3.26:b112
+brahmasutra	bhashya	3.3.26	b114	उपायनशब्दः		matcher	mula	3.3.26	1.1	1	उपायन-शब्द-शेषत्वात्	w1.p1							0-1	linked	BS:3.3.26:b114
+brahmasutra	bhashya	3.3.26	b205	उपायन			mula	3.3.26	1.1	1	उपायन-शब्द-शेषत्वात्	w1.p1							0	linked	BS:3.3.26:b205
+brahmasutra	bhashya	3.3.26	b206	शब्दशेषत्वादिति			mula	3.3.26	1.1	1	उपायन-शब्द-शेषत्वात्	w1.p1							1-2	linked	BS:3.3.26:b206
+brahmasutra	bhashya	3.3.26	b222	कुशा			mula	3.3.26	1.2	1	कुशा-छन्दस्-स्तुति-उपगान-वत्	w1.p2							0	linked	BS:3.3.26:b222
+brahmasutra	bhashya	3.3.26	b223	च्छन्दस्तुत्युपगानवदिति																unlinked	BS:3.3.26:b223
+brahmasutra	bhashya	3.3.26	b287	तदुक्तं			mula	3.3.26	1.3	1	तत्	w1.p3								linked	BS:3.3.26:b287
+brahmasutra	bhashya	3.3.26	b343	उपायनशब्दशेषत्वात्		gemini,matcher	mula	3.3.26	1.1	1	उपायन-शब्द-शेषत्वात्	w1.p1								linked	BS:3.3.26:b343
+brahmasutra	bhashya	3.3.26	b372	कुशाच्छन्दस्तुत्युपगानवत्		gemini,matcher														unlinked	BS:3.3.26:b372
+brahmasutra	bhashya	3.3.26	b408	तदुक्तमिति			mula	3.3.26	1.3	1	तत्	w1.p3								linked	BS:3.3.26:b408
+brahmasutra	bhashya	3.3.27	b38	साम्पराय		gemini,matcher	mula	3.3.27	0	1	साम्पराये	w0.p0								linked	BS:3.3.27:b38
+brahmasutra	bhashya	3.3.27	b40	साम्पराये		gemini,matcher	mula	3.3.27	0	1	साम्पराये	w0.p0								linked	BS:3.3.27:b40
+brahmasutra	bhashya	3.3.27	b52	तर्तव्याभावादिति			mula	3.3.27	1.0	1	तर्तव्य-अभावात्	w1.p0								linked	BS:3.3.27:b52
+brahmasutra	bhashya	3.3.27	b85	तथा		gemini	mula	3.3.27	1.1	1	तथा	w1.p1								linked	BS:3.3.27:b85
+brahmasutra	bhashya	3.3.27	b86	हि		gemini	mula	3.3.27	2.0	1	हि	w2.p0								linked	BS:3.3.27:b86
+brahmasutra	bhashya	3.3.27	b87	अन्येऽपि			mula	3.3.27	2.1	1	अन्ये	w2.p1								linked	BS:3.3.27:b87
+brahmasutra	bhashya	3.3.28	b33	सङ्गतिरिति																unlinked	BS:3.3.28:b33
+brahmasutra	bhashya	3.3.29	b26	गतेः		gemini	mula	3.3.29	0.0	1	गतेः	w0.p0								linked	BS:3.3.29:b26
+brahmasutra	bhashya	3.3.29	b29	अर्थवत्त्वम्		gemini,matcher	mula	3.3.29	0.1	1	अर्थवत्त्वम्	w0.p1								linked	BS:3.3.29:b29
+brahmasutra	bhashya	3.3.29	b30	उभयथा		gemini	mula	3.3.29	0.2	1	उभयथा	w0.p2								linked	BS:3.3.29:b30
+brahmasutra	bhashya	3.3.29	b38	अन्यथा		gemini	mula	3.3.29	0.3	1	अन्यथा	w0.p3								linked	BS:3.3.29:b38
+brahmasutra	bhashya	3.3.29	b39	हि		gemini,matcher	mula	3.3.29	1	1	हि	w1.p0								linked	BS:3.3.29:b39
+brahmasutra	bhashya	3.3.29	b43	विरोधः		gemini,matcher	mula	3.3.29	2	1	विरोधः	w2.p0								linked	BS:3.3.29:b43
+brahmasutra	bhashya	3.3.30	b0	उपपन्न		gemini,matcher	mula	3.3.30	0	1	उपपन्नः	w0.p0								linked	BS:3.3.30:b0
+brahmasutra	bhashya	3.3.30	b6	तल्लक्षणार्थोपलब्धेः		gemini,matcher	mula	3.3.30	0.1	1	तत्-लक्षण-अर्थ-उपलब्धेः	w0.p1								linked	BS:3.3.30:b6
+brahmasutra	bhashya	3.3.30	b42	लोकवच्च			mula	3.3.30	0.2	1	लोकवत्	w0.p2								linked	BS:3.3.30:b42
+brahmasutra	bhashya	3.3.31	b73	अनियम		gemini	mula	3.3.31	0	1	अनियमः	w0.p0								linked	BS:3.3.31:b73
+brahmasutra	bhashya	3.3.31	b75	सर्वासामे		matcher	mula	3.3.31	1.0	1	सर्वासाम्	w1.p0								linked	BS:3.3.31:b75
+brahmasutra	bhashya	3.3.31	b80	अविशेषेण																unlinked	BS:3.3.31:b80
+brahmasutra	bhashya	3.3.31	b91	शब्दानुमानाभ्यां		gemini,matcher	mula	3.3.31	2	1	शब्द-अनुमानाभ्याम्	w2.p0								linked	BS:3.3.31:b91
+brahmasutra	bhashya	3.3.32	b169	यावदधिकारमवतिष्ठन्ते		gemini	mula	3.3.32	0	1	यावत्-अधिकारम्	w0.p0								linked	BS:3.3.32:b169
+brahmasutra	bhashya	3.3.32	b312	यावदधिकारम्		gemini,matcher	mula	3.3.32	0	1	यावत्-अधिकारम्	w0.p0								linked	BS:3.3.32:b312
+brahmasutra	bhashya	3.3.32	b313	आधिकारिकाणामवस्थितिः		gemini	mula	3.3.32	0.2	1	आधिकारिकाणाम्	w0.p2								linked	BS:3.3.32:b313
+brahmasutra	bhashya	3.3.33	b20	अक्षरं		gemini	mula	3.3.33	0	1	अक्षर-धियाम्	w0.p0							0	linked	BS:3.3.33:b20
+brahmasutra	bhashya	3.3.33	b46	सर्वत्रावरोद्धव्याः																unlinked	BS:3.3.33:b46
+brahmasutra	bhashya	3.3.33	b47	सामान्यतद्भावाभ्याम्		gemini,matcher	mula	3.3.33	2	1	सामान्य-तद्भावाभ्याम्	w2.p0								linked	BS:3.3.33:b47
+brahmasutra	bhashya	3.3.33	b84	औपसदवदिति			mula	3.3.33	2.1	1	औपसदवत्	w2.p1								linked	BS:3.3.33:b84
+brahmasutra	bhashya	3.3.33	b108	तदुक्तं		gemini	mula	3.3.33	2.2	1	तत्	w2.p2								linked	BS:3.3.33:b108
+brahmasutra	bhashya	3.3.34	b76	आमनन्ति		gemini	mula	3.3.34	0	1	इयत्-आमननात्	w0.p0							1	linked	BS:3.3.34:b76
+brahmasutra	bhashya	3.3.35	b33	अन्तरा		gemini,matcher	mula	3.3.35	0	1	अन्तरा	w0.p0								linked	BS:3.3.35:b33
+brahmasutra	bhashya	3.3.35	b35	स्वात्मनः		gemini,matcher	mula	3.3.35	1.1	1	स्व-आत्मनः	w1.p1								linked	BS:3.3.35:b35
+brahmasutra	bhashya	3.3.35	b58	भूतग्रामवत्		gemini,matcher	mula	3.3.35	1.0	1	भूत-ग्राम-वत्	w1.p0								linked	BS:3.3.35:b58
+brahmasutra	bhashya	3.3.36	b4	आम्नानभेदानुपपत्तिरिति		gemini														unlinked	BS:3.3.36:b4
+brahmasutra	bhashya	3.3.37	b63	व्यतिहारोऽयम्			mula	3.3.37	0	1	व्यतिहारः	w0.p0								linked	BS:3.3.37:b63
+brahmasutra	bhashya	3.3.37	b65	इतरवत्		gemini	mula	3.3.37	2.1	1	इतरवत्	w2.p1								linked	BS:3.3.37:b65
+brahmasutra	bhashya	3.3.37	b74	हि		gemini	mula	3.3.37	2	1	हि	w2.p0								linked	BS:3.3.37:b74
+brahmasutra	bhashya	3.3.37	b75	विशिंषन्ति		gemini,matcher	mula	3.3.37	1	1	विशिंषन्ति	w1.p0								linked	BS:3.3.37:b75
+brahmasutra	bhashya	3.3.37	b141	व्यतिहारः		matcher	mula	3.3.37	0	1	व्यतिहारः	w0.p0								linked	BS:3.3.37:b141
+brahmasutra	bhashya	3.3.38	b37	हि		matcher	mula	3.3.38	1	1	हि	w1.p0								linked	BS:3.3.38:b37
+brahmasutra	bhashya	3.3.38	b126	सत्यादयो		gemini,matcher	mula	3.3.38	2	1	सत्य-आदयः	w2.p0								linked	BS:3.3.38:b126
+brahmasutra	bhashya	3.3.39	b34	तत्र		matcher	mula	3.3.39	1	1	तत्र	w1.p0								linked	BS:3.3.39:b34
+brahmasutra	bhashya	3.3.39	b43	च्यते		matcher														unlinked	BS:3.3.39:b43
+brahmasutra	bhashya	3.3.39	b44	कामादीति			mula	3.3.39	0.0	1	कामादि	w0.p0								linked	BS:3.3.39:b44
+brahmasutra	bhashya	3.3.39	b55	तदितरत्र																unlinked	BS:3.3.39:b55
+brahmasutra	bhashya	3.3.39	b69	इतरत्र		gemini	mula	3.3.39	0.1	1	इतरत्र	w0.p1								linked	BS:3.3.39:b69
+brahmasutra	bhashya	3.3.40	b56	न		gemini														unlinked	BS:3.3.40:b56
+brahmasutra	bhashya	3.3.40	b57	लुप्येतेति																unlinked	BS:3.3.40:b57
+brahmasutra	bhashya	3.3.40	b60	आदरात्		gemini	mula	3.3.40	0.0	1	आदरात्	w0.p0								linked	BS:3.3.40:b60
+brahmasutra	bhashya	3.3.41	b0	उपस्थिते		gemini,matcher	mula	3.3.41	0.0	1	उपस्थिते	w0.p0								linked	BS:3.3.41:b0
+brahmasutra	bhashya	3.3.41	b2	अतः		gemini	mula	3.3.41	0.1	1	अतः	w0.p1								linked	BS:3.3.41:b2
+brahmasutra	bhashya	3.3.41	b9	तद्वचनात्		gemini,matcher	mula	3.3.41	0.2	1	तद्-वचनात्	w0.p2								linked	BS:3.3.41:b9
+brahmasutra	bhashya	3.3.42	b62	तन्निर्धारणानियम		gemini,matcher														unlinked	BS:3.3.42:b62
+brahmasutra	bhashya	3.3.42	b78	तद्दृष्टेः		gemini,matcher	mula	3.3.42	0.1	1	तत् - दृष्टेः	w0.p1								linked	BS:3.3.42:b78
+brahmasutra	bhashya	3.3.42	b113	पृथगेव			mula	3.3.42	1.0	1	पृथक्	w1.p0								linked	BS:3.3.42:b113
+brahmasutra	bhashya	3.3.42	b115	फलम्		gemini,matcher	mula	3.3.42	2	1	फलम्	w2.p0								linked	BS:3.3.42:b115
+brahmasutra	bhashya	3.3.43	b262	प्रदानवत्		gemini	mula	3.3.43	0.0	1	प्रदानवत्	w0.p0								linked	BS:3.3.43:b262
+brahmasutra	bhashya	3.3.43	b288	तदुक्तं			mula	3.3.43	1.0	1	तत्	w1.p0								linked	BS:3.3.43:b288
+brahmasutra	bhashya	3.3.44	b34	लिङ्गभूयस्त्वादिति			mula	3.3.44	0.0	1	लिङ्ग-भूयस्त्वात्	w0.p0								linked	BS:3.3.44:b34
+brahmasutra	bhashya	3.3.44	b59	तद्धि		gemini	mula	3.3.44	0.1	1	तत्	w0.p1								linked	BS:3.3.44:b59
+brahmasutra	bhashya	3.3.44	b60	लिङ्गं		matcher	mula	3.3.44	0.0	1	लिङ्ग-भूयस्त्वात्	w0.p0							0	linked	BS:3.3.44:b60
+brahmasutra	bhashya	3.3.45	b0	नैतद्युक्तम्		gemini														unlinked	BS:3.3.45:b0
+brahmasutra	bhashya	3.3.45	b5	पूर्वस्य			mula	3.3.45	0	1	पूर्व-विकल्पः	w0.p0							0	linked	BS:3.3.45:b5
+brahmasutra	bhashya	3.3.45	b8	प्रकरणात्		gemini,matcher	mula	3.3.45	1.0	1	प्रकरणात्	w1.p0								linked	BS:3.3.45:b8
+brahmasutra	bhashya	3.3.45	b13	स्यात्		gemini	mula	3.3.45	1.1	1	स्यात्	w1.p1								linked	BS:3.3.45:b13
+brahmasutra	bhashya	3.3.45	b38	प्रकरणं		matcher														unlinked	BS:3.3.45:b38
+brahmasutra	bhashya	3.3.45	b46	मानसवत्		gemini,matcher	mula	3.3.45	2	1	मानसवत्	w2.p0								linked	BS:3.3.45:b46
+brahmasutra	bhashya	3.3.46	b0	अतिदेशश्च																unlinked	BS:3.3.46:b0
+brahmasutra	bhashya	3.3.47	b3	विद्यात्मका			mula	3.3.47	0.0	1	विद्या	w0.p0								linked	BS:3.3.47:b3
+brahmasutra	bhashya	3.3.47	b4	एव		gemini	mula	3.3.47	0.1	1	एव	w0.p1								linked	BS:3.3.47:b4
+brahmasutra	bhashya	3.3.47	b13	निर्धारयति		gemini														unlinked	BS:3.3.47:b13
+brahmasutra	bhashya	3.3.48	b0	दृश्यते		gemini														unlinked	BS:3.3.48:b0
+brahmasutra	bhashya	3.3.48	b1	च		gemini	mula	3.3.48	0.1	1	च	w0.p1								linked	BS:3.3.48:b1
+brahmasutra	bhashya	3.3.49	b4	श्रुत्यादेर्बलीयस्त्वात्		gemini														unlinked	BS:3.3.49:b4
+brahmasutra	bhashya	3.3.49	b25	लिङ्गम्		gemini														unlinked	BS:3.3.49:b25
+brahmasutra	bhashya	3.3.49	b33	वाक्यमपि																unlinked	BS:3.3.49:b33
+brahmasutra	bhashya	3.3.49	b45	श्रुतिः		matcher	mula	3.3.49	0.0	1	श्रुति-आदि-बलीयस्त्वात्	w0.p0							0	linked	BS:3.3.49:b45
+brahmasutra	bhashya	3.3.49	b115	न		matcher	mula	3.3.49	1	1	न	w1.p0								linked	BS:3.3.49:b115
+brahmasutra	bhashya	3.3.50	b75	आदिशब्दात्		gemini														unlinked	BS:3.3.50:b75
+brahmasutra	bhashya	3.3.50	b129	नुबन्धादिभ्यः		matcher	mula	3.3.50	0	1	अनुबन्ध-आदिभ्यः	w0.p0								linked	BS:3.3.50:b129
+brahmasutra	bhashya	3.3.50	b133	प्रज्ञान्तरपृथक्त्ववत्		gemini	mula	3.3.50	1	1	प्रज्ञान्तर-पृथक्त्ववत्	w1.p0								linked	BS:3.3.50:b133
+brahmasutra	bhashya	3.3.50	b147	दृष्टश्च		gemini,matcher	mula	3.3.50	1.1	1	दृष्टः	w1.p1								linked	BS:3.3.50:b147
+brahmasutra	bhashya	3.3.50	b154	तदुक्तं			mula	3.3.50	2.0	1	तत्	w2.p0								linked	BS:3.3.50:b154
+brahmasutra	bhashya	3.3.51	b3	न		gemini,matcher	mula	3.3.51	0	1	न	w0.p0								linked	BS:3.3.51:b3
+brahmasutra	bhashya	3.3.51	b4	मानसग्रहसामान्यादपि																unlinked	BS:3.3.51:b4
+brahmasutra	bhashya	3.3.51	b12	हि		matcher	mula	3.3.51	2	1	हि	w2.p0								linked	BS:3.3.51:b12
+brahmasutra	bhashya	3.3.51	b25	मृत्युवत्		gemini	mula	3.3.51	1.3	1	मृत्युवत्	w1.p3								linked	BS:3.3.51:b25
+brahmasutra	bhashya	3.3.51	b54	न		gemini	mula	3.3.51	1.4	2	न	w1.p4								linked	BS:3.3.51:b54
+brahmasutra	bhashya	3.3.51	b56	लोकस्याग्निभावापत्तिः		gemini														unlinked	BS:3.3.51:b56
+brahmasutra	bhashya	3.3.52	b8	ताद्विध्यं		gemini,matcher	mula	3.3.52	3	1	ताद्विध्यम्	w3.p0								linked	BS:3.3.52:b8
+brahmasutra	bhashya	3.3.52	b10	शब्दस्य		gemini,matcher	mula	3.3.52	2	1	शब्दस्य	w2.p0								linked	BS:3.3.52:b10
+brahmasutra	bhashya	3.3.52	b56	भूयांसस्तु		gemini														unlinked	BS:3.3.52:b56
+brahmasutra	bhashya	3.3.52	b62	अनुबध्यते		gemini														unlinked	BS:3.3.52:b62
+brahmasutra	bhashya	3.3.53	b2	आत्मनः		matcher	mula	3.3.53	1	1	आत्मनः	w1.p0								linked	BS:3.3.53:b2
+brahmasutra	bhashya	3.3.53	b96	एके		gemini	mula	3.3.53	0	1	एके	w0.p0								linked	BS:3.3.53:b96
+brahmasutra	bhashya	3.3.53	b100	आत्मनोऽभावं			mula	3.3.53	1	1	आत्मनः	w1.p0								linked	BS:3.3.53:b100
+brahmasutra	bhashya	3.3.53	b142	शरीरे		gemini,matcher	mula	3.3.53	2	1	शरीरे	w2.p0								linked	BS:3.3.53:b142
+brahmasutra	bhashya	3.3.53	b143	भावादिति			mula	3.3.53	3	1	भावात्	w3.p0								linked	BS:3.3.53:b143
+brahmasutra	bhashya	3.3.54	b0	न		gemini	mula	3.3.54	0.2	1	न	w0.p2								linked	BS:3.3.54:b0
+brahmasutra	bhashya	3.3.54	b6	व्यतिरेक		matcher	mula	3.3.54	0.0	1	व्यतिरेकः	w0.p0								linked	BS:3.3.54:b6
+brahmasutra	bhashya	3.3.54	b10	तद्भावाभावित्वात्			mula	3.3.54	0.1	1	तद्-भाव-अभावित्वात्	w0.p1								linked	BS:3.3.54:b10
+brahmasutra	bhashya	3.3.54	b135	उपलब्धिस्वरूप																unlinked	BS:3.3.54:b135
+brahmasutra	bhashya	3.3.54	b167	उपलब्धिर्भवति		gemini														unlinked	BS:3.3.54:b167
+brahmasutra	bhashya	3.3.55	b24	प्रतिवेदं		gemini,matcher	mula	3.3.55	4	1	प्रतिवेदम्	w4.p0								linked	BS:3.3.55:b24
+brahmasutra	bhashya	3.3.55	b50	हि		matcher	mula	3.3.55	3	1	हि	w3.p0								linked	BS:3.3.55:b50
+brahmasutra	bhashya	3.3.55	b65	अङ्गावबद्धास्त्विति		gemini	mula	3.3.55	0.0	1	अङ्ग-अवबद्धाः	w0.p0								linked	BS:3.3.55:b65
+brahmasutra	bhashya	3.3.55	b69	नैते			mula	3.3.55	1	1	न	w1.p0								linked	BS:3.3.55:b69
+brahmasutra	bhashya	3.3.55	b70	प्रतिवेदं		matcher	mula	3.3.55	4	1	प्रतिवेदम्	w4.p0								linked	BS:3.3.55:b70
+brahmasutra	bhashya	3.3.55	b74	तु		gemini	mula	3.3.55	0.1	1	तु	w0.p1								linked	BS:3.3.55:b74
+brahmasutra	bhashya	3.3.55	b79	हि		gemini	mula	3.3.55	3	1	हि	w3.p0								linked	BS:3.3.55:b79
+brahmasutra	bhashya	3.3.56	b9	मन्त्रादिवत्		gemini	mula	3.3.56	0	1	मन्त्र-आदि-वत्	w0.p0								linked	BS:3.3.56:b9
+brahmasutra	bhashya	3.3.57	b26	तथा		matcher	mula	3.3.57	2	1	तथा	w2.p0								linked	BS:3.3.57:b26
+brahmasutra	bhashya	3.3.57	b73	भूम्नः		gemini	mula	3.3.57	0	1	भूम्नः	w0.p0								linked	BS:3.3.57:b73
+brahmasutra	bhashya	3.3.57	b77	ज्यायस्त्वं		gemini,matcher	mula	3.3.57	1.1	1	ज्यायस्त्वम्	w1.p1								linked	BS:3.3.57:b77
+brahmasutra	bhashya	3.3.57	b85	क्रतुवत्		gemini	mula	3.3.57	1.0	1	क्रतुवत्	w1.p0								linked	BS:3.3.57:b85
+brahmasutra	bhashya	3.3.57	b105	तथा		gemini	mula	3.3.57	2	1	तथा	w2.p0								linked	BS:3.3.57:b105
+brahmasutra	bhashya	3.3.57	b106	हि		gemini,matcher	mula	3.3.57	3	1	हि	w3.p0								linked	BS:3.3.57:b106
+brahmasutra	bhashya	3.3.57	b109	ज्यायस्त्वं		matcher	mula	3.3.57	1.1	1	ज्यायस्त्वम्	w1.p1								linked	BS:3.3.57:b109
+brahmasutra	bhashya	3.3.57	b110	दर्शयति		gemini,matcher	mula	3.3.57	4	1	दर्शयति	w4.p0								linked	BS:3.3.57:b110
+brahmasutra	bhashya	3.3.57	b163	दर्शयति		matcher	mula	3.3.57	4	1	दर्शयति	w4.p0								linked	BS:3.3.57:b163
+brahmasutra	bhashya	3.3.58	b74	नानेति		gemini	mula	3.3.58	0	1	नाना	w0.p0								linked	BS:3.3.58:b74
+brahmasutra	bhashya	3.3.58	b81	शब्दादिभेदात्		gemini,matcher	mula	3.3.58	1	1	शब्द-आदि-भेदात्	w1.p0								linked	BS:3.3.58:b81
+brahmasutra	bhashya	3.3.59	b6	विकल्पो		matcher	mula	3.3.59	0.0	1	विकल्पः	w0.p0								linked	BS:3.3.59:b6
+brahmasutra	bhashya	3.3.59	b66	विकल्प		gemini	mula	3.3.59	0.0	1	विकल्पः	w0.p0								linked	BS:3.3.59:b66
+brahmasutra	bhashya	3.3.59	b73	अविशिष्टफलत्वात्		gemini,matcher	mula	3.3.59	0.1	1	अविशिष्ट-फल-त्वात्	w0.p1								linked	BS:3.3.59:b73
+brahmasutra	bhashya	3.3.60	b35	यथाकामं		gemini,matcher	mula	3.3.60	1	1	यथाकामम्	w1.p0								linked	BS:3.3.60:b35
+brahmasutra	bhashya	3.3.60	b36	समुच्चीयेरन्		gemini,matcher	mula	3.3.60	2.0	1	समुच्चीयेरन्	w2.p0								linked	BS:3.3.60:b36
+brahmasutra	bhashya	3.3.60	b37	न		gemini	mula	3.3.60	2.1	1	न	w2.p1								linked	BS:3.3.60:b37
+brahmasutra	bhashya	3.3.60	b38	वा		gemini,matcher	mula	3.3.60	3	1	वा	w3.p0								linked	BS:3.3.60:b38
+brahmasutra	bhashya	3.3.60	b39	समुच्चीयेरन्		matcher	mula	3.3.60	2.0	1	समुच्चीयेरन्	w2.p0								linked	BS:3.3.60:b39
+brahmasutra	bhashya	3.3.60	b40	पूर्वहेत्वभावात्		gemini,matcher	mula	3.3.60	4	1	पूर्व-हेतु-अभावात्	w4.p0								linked	BS:3.3.60:b40
+brahmasutra	bhashya	3.3.61	b14	यथाश्रयभाव		matcher	mula	3.3.61	1	1	यथा - आश्रय - भावः	w1.p0								linked	BS:3.3.61:b14
+brahmasutra	bhashya	3.3.62	b6	शिष्यन्ते		gemini														unlinked	BS:3.3.62:b6
+brahmasutra	bhashya	3.3.64	b20	गुणसाधारण्यश्रुतेश्चेति		gemini	mula	3.3.64	0.0	1	गुण-साधारण्य-श्रुतेः	w0.p0								linked	BS:3.3.64:b20
+brahmasutra	bhashya	3.3.65	b0	न		gemini,matcher	mula	3.3.65	0	1	न	w0.p0								linked	BS:3.3.65:b0
+brahmasutra	bhashya	3.3.65	b8	तत्सहभावाश्रुतेः		matcher	mula	3.3.65	2	1	तत् - सहभाव - अश्रुतेः	w2.p0								linked	BS:3.3.65:b8
+brahmasutra	bhashya	3.3.66	b0	दर्शयति		gemini														unlinked	BS:3.3.66:b0
+brahmasutra	bhashya	3.3.66	b1	च		gemini	mula	3.3.66	0.1	1	च	w0.p1								linked	BS:3.3.66:b1
+brahmasutra	bhashya	3.4.1	b0	पुरुषार्थोऽत		matcher	mula	3.4.1	0.0	1	पुरुषार्थः	w0.p0								linked	BS:3.4.1:b0
+brahmasutra	bhashya	3.4.1	b1	इति			mula	3.4.1	1.1	1	इति	w1.p1								linked	BS:3.4.1:b1
+brahmasutra	bhashya	3.4.1	b4	पुरुषार्थः		matcher	mula	3.4.1	0.0	1	पुरुषार्थः	w0.p0								linked	BS:3.4.1:b4
+brahmasutra	bhashya	3.4.1	b6	बादरायण		gemini,matcher	mula	3.4.1	2	1	बादरायणः	w2.p0								linked	BS:3.4.1:b6
+brahmasutra	bhashya	3.4.1	b11	शब्दादित्याह		gemini	mula	3.4.1	1.0	1	शब्दात्	w1.p0								linked	BS:3.4.1:b11
+brahmasutra	bhashya	3.4.8	b9	अधिकोपदेशात्		matcher	mula	3.4.8	0.0	1	अधिक-उपदेशात्	w0.p0								linked	BS:3.4.8:b9
+brahmasutra	bhashya	3.4.8	b53	बादरायणस्य		matcher	mula	3.4.8	1.0	1	बादरायणस्य	w1.p0								linked	BS:3.4.8:b53
+brahmasutra	bhashya	3.4.8	b55	तथैव																unlinked	BS:3.4.8:b55
+brahmasutra	bhashya	3.4.8	b65	दर्शयन्ति																unlinked	BS:3.4.8:b65
+brahmasutra	bhashya	3.4.9	b65	तु		matcher	mula	3.4.9	1	1	तु	w1.p0								linked	BS:3.4.9:b65
+brahmasutra	bhashya	3.4.11	b11	विभागोऽत्र			mula	3.4.11	0	1	विभागः	w0.p0								linked	BS:3.4.11:b11
+brahmasutra	bhashya	3.4.11	b18	शतवत्		gemini,matcher	mula	3.4.11	1	1	शतवत्	w1.p0								linked	BS:3.4.11:b18
+brahmasutra	bhashya	3.4.12	b2	अध्ययनमात्रस्य		gemini	mula	3.4.12	0	1	अध्ययन-मात्र-वतः	w0.p0							0-1	linked	BS:3.4.12:b2
+brahmasutra	bhashya	3.4.12	b4	अध्ययनमात्रवत		gemini,matcher	mula	3.4.12	0	1	अध्ययन-मात्र-वतः	w0.p0								linked	BS:3.4.12:b4
+brahmasutra	bhashya	3.4.13	b5	न		gemini	mula	3.4.13	0.0	1	न	w0.p0								linked	BS:3.4.13:b5
+brahmasutra	bhashya	3.4.14	b14	विद्यास्तुतये		gemini														unlinked	BS:3.4.14:b14
+brahmasutra	bhashya	3.4.15	b2	एके		gemini	mula	3.4.15	1.1	1	एके	w1.p1								linked	BS:3.4.15:b2
+brahmasutra	bhashya	3.4.15	b11	कामकारेण		gemini,matcher	mula	3.4.15	0	1	काम-कारेण	w0.p0								linked	BS:3.4.15:b11
+brahmasutra	bhashya	3.4.16	b1	च		gemini,matcher	mula	3.4.16	1	1	च	w1.p0								linked	BS:3.4.16:b1
+brahmasutra	bhashya	3.4.17	b0	ऊर्ध्व		matcher	mula	3.4.17	0	1	ऊर्ध्व-रेतःसु	w0.p0							0	linked	BS:3.4.17:b0
+brahmasutra	bhashya	3.4.17	b1	रेतःसु			mula	3.4.17	0	1	ऊर्ध्व-रेतःसु	w0.p0							1	linked	BS:3.4.17:b1
+brahmasutra	bhashya	3.4.17	b2	च		gemini,matcher	mula	3.4.17	1	1	च	w1.p0								linked	BS:3.4.17:b2
+brahmasutra	bhashya	3.4.17	b14	हि		gemini,matcher	mula	3.4.17	3	1	हि	w3.p0								linked	BS:3.4.17:b14
+brahmasutra	bhashya	3.4.17	b21	ऊर्ध्वरेतस		matcher	mula	3.4.17	0	1	ऊर्ध्व-रेतःसु	w0.p0								linked	BS:3.4.17:b21
+brahmasutra	bhashya	3.4.17	b30	हि			mula	3.4.17	3	1	हि	w3.p0								linked	BS:3.4.17:b30
+brahmasutra	bhashya	3.4.18	b13	परामर्शम्		gemini	mula	3.4.18	0	1	परामर्शम्	w0.p0								linked	BS:3.4.18:b13
+brahmasutra	bhashya	3.4.18	b16	जैमिनिराचार्यो			mula	3.4.18	1.0	1	जैमिनिः	w1.p0								linked	BS:3.4.18:b16
+brahmasutra	bhashya	3.4.18	b22	हि		matcher	mula	3.4.18	3	1	हि	w3.p0								linked	BS:3.4.18:b22
+brahmasutra	bhashya	3.4.18	b94	परामर्शः		matcher	mula	3.4.18	0	1	परामर्शम्	w0.p0								linked	BS:3.4.18:b94
+brahmasutra	bhashya	3.4.18	b97	अपि		gemini														unlinked	BS:3.4.18:b97
+brahmasutra	bhashya	3.4.18	b98	च		gemini	mula	3.4.18	2.0	1	च	w2.p0								linked	BS:3.4.18:b98
+brahmasutra	bhashya	3.4.18	b99	अपवदति		gemini	mula	3.4.18	2.1	1	अपवदति	w2.p1								linked	BS:3.4.18:b99
+brahmasutra	bhashya	3.4.18	b100	हि		gemini	mula	3.4.18	3	1	हि	w3.p0								linked	BS:3.4.18:b100
+brahmasutra	bhashya	3.4.19	b0	अनुष्ठेयम्		gemini	mula	3.4.19	0	1	अनुष्ठेयम्	w0.p0								linked	BS:3.4.19:b0
+brahmasutra	bhashya	3.4.19	b2	बादरायण		matcher	mula	3.4.19	1	1	बादरायणः	w1.p0								linked	BS:3.4.19:b2
+brahmasutra	bhashya	3.4.19	b20	साम्यश्रुतेः		gemini,matcher	mula	3.4.19	2	1	साम्य-श्रुतेः	w2.p0								linked	BS:3.4.19:b20
+brahmasutra	bhashya	3.4.20	b0	विधिर्वा		gemini,matcher	mula	3.4.20	0.0	1	विधिः	w0.p0								linked	BS:3.4.20:b0
+brahmasutra	bhashya	3.4.20	b27	धारणवत्		gemini,matcher	mula	3.4.20	1	1	धारणवत्	w1.p0								linked	BS:3.4.20:b27
+brahmasutra	bhashya	3.4.21	b23	स्तुत्यर्था		gemini														unlinked	BS:3.4.21:b23
+brahmasutra	bhashya	3.4.21	b41	नेत्याह		gemini														unlinked	BS:3.4.21:b41
+brahmasutra	bhashya	3.4.21	b44	स्तुति		matcher	mula	3.4.21	0.0	1	स्तुति-मात्रम्	w0.p0							0	linked	BS:3.4.21:b44
+brahmasutra	bhashya	3.4.21	b45	मात्रमासां			mula	3.4.21	0.0	1	स्तुति-मात्रम्	w0.p0							1	linked	BS:3.4.21:b45
+brahmasutra	bhashya	3.4.21	b49	अपूर्वत्वात्		gemini,matcher	mula	3.4.21	1.2	1	अपूर्वत्वात्	w1.p2								linked	BS:3.4.21:b49
+brahmasutra	bhashya	3.4.23	b28	पारिप्लवार्था		gemini,matcher	mula	3.4.23	0	1	पारिप्लव-अर्थाः	w0.p0								linked	BS:3.4.23:b28
+brahmasutra	bhashya	3.4.23	b34	पारिप्लवे		matcher	mula	3.4.23	0	1	पारिप्लव-अर्थाः	w0.p0							0	linked	BS:3.4.23:b34
+brahmasutra	bhashya	3.4.23	b44	तन्न		gemini														unlinked	BS:3.4.23:b44
+brahmasutra	bhashya	3.4.23	b46	विशेषितत्वात्		gemini,matcher	mula	3.4.23	3	1	विशेषितत्वात्	w3.p0								linked	BS:3.4.23:b46
+brahmasutra	bhashya	3.4.23	b66	पारिप्लवार्था		matcher	mula	3.4.23	0	1	पारिप्लव-अर्थाः	w0.p0								linked	BS:3.4.23:b66
+brahmasutra	bhashya	3.4.24	b6	एकवाक्यतोपबन्धात्		gemini,matcher	mula	3.4.24	1.1	1	एकवाक्यता-उपबन्धात्	w1.p1								linked	BS:3.4.24:b6
+brahmasutra	bhashya	3.4.24	b7	तथा		gemini,matcher	mula	3.4.24	0	1	तथा	w0.p0								linked	BS:3.4.24:b7
+brahmasutra	bhashya	3.4.24	b23	एकवाक्यता		matcher	mula	3.4.24	1.1	1	एकवाक्यता-उपबन्धात्	w1.p1							0	linked	BS:3.4.24:b23
+brahmasutra	bhashya	3.4.25	b5	अतः		gemini														unlinked	BS:3.4.25:b5
+brahmasutra	bhashya	3.4.25	b8	अत		gemini,matcher														unlinked	BS:3.4.25:b8
+brahmasutra	bhashya	3.4.25	b9	एव		gemini,matcher	mula	3.4.25	1	1	एव	w1.p0								linked	BS:3.4.25:b9
+brahmasutra	bhashya	3.4.25	b10	च		gemini	mula	3.4.25	2.0	1	च	w2.p0								linked	BS:3.4.25:b10
+brahmasutra	bhashya	3.4.25	b14	अग्नीन्धनादीन्याश्रमकर्माणि																unlinked	BS:3.4.25:b14
+brahmasutra	bhashya	3.4.25	b17	नापेक्षितव्यानीति																unlinked	BS:3.4.25:b17
+brahmasutra	bhashya	3.4.26	b19	सर्वापेक्षा		gemini,matcher	mula	3.4.26	0	1	सर्व-अपेक्षा	w0.p0								linked	BS:3.4.26:b19
+brahmasutra	bhashya	3.4.26	b22	च		gemini,matcher	mula	3.4.26	1	1	च	w1.p0								linked	BS:3.4.26:b22
+brahmasutra	bhashya	3.4.26	b49	यज्ञादिश्रुतेः		gemini,matcher	mula	3.4.26	2.0	1	यज्ञादिश्रुतेः	w2.p0								linked	BS:3.4.26:b49
+brahmasutra	bhashya	3.4.26	b115	अश्ववदिति			mula	3.4.26	2.1	1	अश्ववत्	w2.p1								linked	BS:3.4.26:b115
+brahmasutra	bhashya	3.4.27	b22	तु		matcher	mula	3.4.27	2	1	तु	w2.p0								linked	BS:3.4.27:b22
+brahmasutra	bhashya	3.4.27	b23	शमदमाद्युपेतः		gemini,matcher	mula	3.4.27	0	1	शम-दम-आदि-उपेतः	w0.p0								linked	BS:3.4.27:b23
+brahmasutra	bhashya	3.4.27	b24	स्यात्		gemini	mula	3.4.27	1.0	1	स्यात्	w1.p0								linked	BS:3.4.27:b24
+brahmasutra	bhashya	3.4.27	b38	अवश्यानुष्ठेयत्वात्		gemini,matcher	mula	3.4.27	4.1	1	अवश्य-अनुष्ठेय-त्वात्	w4.p1								linked	BS:3.4.27:b38
+brahmasutra	bhashya	3.4.28	b125	तद्दर्शयति		gemini														unlinked	BS:3.4.28:b125
+brahmasutra	bhashya	3.4.28	b126	सर्वान्नानुमतिश्च		gemini,matcher	mula	3.4.28	0.0	1	सर्व-अन्न-अनुमतिः	w0.p0								linked	BS:3.4.28:b126
+brahmasutra	bhashya	3.4.28	b127	प्राणात्यये		gemini,matcher	mula	3.4.28	1	1	प्राण-अत्यये	w1.p0								linked	BS:3.4.28:b127
+brahmasutra	bhashya	3.4.28	b131	प्राणात्यय		gemini,matcher	mula	3.4.28	1	1	प्राण-अत्यये	w1.p0								linked	BS:3.4.28:b131
+brahmasutra	bhashya	3.4.28	b136	तद्दर्शनात्		gemini,matcher	mula	3.4.28	2	1	तद्-दर्शनात्	w2.p0								linked	BS:3.4.28:b136
+brahmasutra	bhashya	3.4.29	b7	अबाधितं		gemini	mula	3.4.29	0.0	1	अबाधात्	w0.p0								linked	BS:3.4.29:b7
+brahmasutra	bhashya	3.4.30	b0	अपि		gemini,matcher	mula	3.4.30	0	1	अपि	w0.p0								linked	BS:3.4.30:b0
+brahmasutra	bhashya	3.4.30	b1	च		gemini,matcher	mula	3.4.30	1	1	च	w1.p0								linked	BS:3.4.30:b1
+brahmasutra	bhashya	3.4.30	b4	स्मर्यते		gemini,matcher	mula	3.4.30	2	1	स्मर्यते	w2.p0								linked	BS:3.4.30:b4
+brahmasutra	bhashya	3.4.30	b27	स्मर्यते		matcher	mula	3.4.30	2	1	स्मर्यते	w2.p0								linked	BS:3.4.30:b27
+brahmasutra	bhashya	3.4.31	b0	शब्दश्च		gemini,matcher	mula	3.4.31	0.0	1	शब्दः	w0.p0								linked	BS:3.4.31:b0
+brahmasutra	bhashya	3.4.32	b38	नित्यानि		gemini														unlinked	BS:3.4.32:b38
+brahmasutra	bhashya	3.4.32	b43	विहितत्वात्		gemini	mula	3.4.32	0	1	विहितत्वात्	w0.p0								linked	BS:3.4.32:b43
+brahmasutra	bhashya	3.4.33	b1	च		gemini,matcher	mula	3.4.33	1	1	च	w1.p0								linked	BS:3.4.33:b1
+brahmasutra	bhashya	3.4.34	b0	सर्वथापि		gemini,matcher	mula	3.4.34	0.0	1	सर्वथा	w0.p0								linked	BS:3.4.34:b0
+brahmasutra	bhashya	3.4.34	b4	त		gemini,matcher	mula	3.4.34	1	1	ते	w1.p0								linked	BS:3.4.34:b4
+brahmasutra	bhashya	3.4.34	b5	एव		gemini	mula	3.4.34	2.0	1	एव	w2.p0								linked	BS:3.4.34:b5
+brahmasutra	bhashya	3.4.34	b25	उभयलिङ्गात्		gemini,matcher	mula	3.4.34	2.1	1	उभय-लिङ्गात्	w2.p1								linked	BS:3.4.34:b25
+brahmasutra	bhashya	3.4.35	b3	अनभिभवं		gemini,matcher	mula	3.4.35	0	1	अन्-अभिभवम्	w0.p0								linked	BS:3.4.35:b3
+brahmasutra	bhashya	3.4.35	b4	च		gemini,matcher	mula	3.4.35	1	1	च	w1.p0								linked	BS:3.4.35:b4
+brahmasutra	bhashya	3.4.35	b5	दर्शयति		gemini,matcher	mula	3.4.35	2	1	दर्शयति	w2.p0								linked	BS:3.4.35:b5
+brahmasutra	bhashya	3.4.36	b19	अन्तरा		gemini,matcher	mula	3.4.36	0	1	अन्तरा	w0.p0								linked	BS:3.4.36:b19
+brahmasutra	bhashya	3.4.36	b20	चापि		gemini,matcher	mula	3.4.36	1.0	1	च	w1.p0								linked	BS:3.4.36:b20
+brahmasutra	bhashya	3.4.36	b21	तु		gemini,matcher	mula	3.4.36	2	1	तु	w2.p0								linked	BS:3.4.36:b21
+brahmasutra	bhashya	3.4.36	b26	तद्दृष्टेः		gemini,matcher	mula	3.4.36	3	1	तद्-दृष्टेः	w3.p0								linked	BS:3.4.36:b26
+brahmasutra	bhashya	3.4.37	b1	च		matcher	mula	3.4.37	1	1	च	w1.p0								linked	BS:3.4.37:b1
+brahmasutra	bhashya	3.4.37	b5	स्मर्यत		matcher	mula	3.4.37	2	1	स्मर्यते	w2.p0								linked	BS:3.4.37:b5
+brahmasutra	bhashya	3.4.39	b0	अतस्तु		gemini,matcher	mula	3.4.39	0.0	1	अतः	w0.p0								linked	BS:3.4.39:b0
+brahmasutra	bhashya	3.4.39	b2	इतरत्		gemini	mula	3.4.39	0.2	1	इतरत्	w0.p2								linked	BS:3.4.39:b2
+brahmasutra	bhashya	3.4.39	b4	ज्यायो		gemini	mula	3.4.39	0.3	1	ज्यायः	w0.p3								linked	BS:3.4.39:b4
+brahmasutra	bhashya	3.4.40	b22	तद्भूतस्य		gemini,matcher	mula	3.4.40	0	1	तद्भूतस्य	w0.p0								linked	BS:3.4.40:b22
+brahmasutra	bhashya	3.4.40	b23	तु		gemini,matcher	mula	3.4.40	1	1	तु	w1.p0								linked	BS:3.4.40:b23
+brahmasutra	bhashya	3.4.40	b27	अतद्भावः			mula	3.4.40	2.1	1	अतद्भावः	w2.p1								linked	BS:3.4.40:b27
+brahmasutra	bhashya	3.4.40	b33	नियमातद्रूपाभावेभ्यः		gemini,matcher	mula	3.4.40	4	1	नियम	w4.p0								linked	BS:3.4.40:b33
+brahmasutra	bhashya	3.4.40	b104	जैमिनेरपीति			mula	3.4.40	3.0	1	जैमिनेः	w3.p0								linked	BS:3.4.40:b104
+brahmasutra	bhashya	3.4.41	b21	न		gemini,matcher	mula	3.4.41	0	1	न	w0.p0								linked	BS:3.4.41:b21
+brahmasutra	bhashya	3.4.41	b39	अप्रतिसमाधेयपतनस्मरणात्		gemini														unlinked	BS:3.4.41:b39
+brahmasutra	bhashya	3.4.42	b0	अपि		gemini	mula	3.4.42	0.1	1	अपि	w0.p1								linked	BS:3.4.42:b0
+brahmasutra	bhashya	3.4.42	b1	तु		gemini	mula	3.4.42	1.0	1	तु	w1.p0								linked	BS:3.4.42:b1
+brahmasutra	bhashya	3.4.42	b2	एके		gemini	mula	3.4.42	1.1	1	एके	w1.p1								linked	BS:3.4.42:b2
+brahmasutra	bhashya	3.4.42	b24	अशनवत्		gemini	mula	3.4.42	2.1	1	अशनवत्	w2.p1								linked	BS:3.4.42:b24
+brahmasutra	bhashya	3.4.42	b48	तदुक्तं			mula	3.4.42	2.2	1	तत्	w2.p2								linked	BS:3.4.42:b48
+brahmasutra	bhashya	3.4.43	b9	उभयथापि		gemini	mula	3.4.43	0.2	1	उभयथा	w0.p2								linked	BS:3.4.43:b9
+brahmasutra	bhashya	3.4.43	b38	शिष्टाचाराच्च																unlinked	BS:3.4.43:b38
+brahmasutra	bhashya	3.4.44	b11	फलश्रुतेः		gemini,matcher	mula	3.4.44	1.0	1	फल-श्रुतेः	w1.p0								linked	BS:3.4.44:b11
+brahmasutra	bhashya	3.4.44	b26	स्वामिगामि																unlinked	BS:3.4.44:b26
+brahmasutra	bhashya	3.4.44	b64	इत्यात्रेय		gemini,matcher														unlinked	BS:3.4.44:b64
+brahmasutra	bhashya	3.4.45	b2	ऋत्विक्कर्माण्येतानि																unlinked	BS:3.4.45:b2
+brahmasutra	bhashya	3.4.45	b4	इत्यौडुलोमिराचार्यो																unlinked	BS:3.4.45:b4
+brahmasutra	bhashya	3.4.45	b8	तस्मै		gemini	mula	3.4.45	0.3	1	तस्मै	w0.p3								linked	BS:3.4.45:b8
+brahmasutra	bhashya	3.4.45	b9	हि		gemini,matcher	mula	3.4.45	1	1	हि	w1.p0								linked	BS:3.4.45:b9
+brahmasutra	bhashya	3.4.45	b14	परिक्रीयते		gemini,matcher	mula	3.4.45	2	1	परिक्रीयते	w2.p0								linked	BS:3.4.45:b14
+brahmasutra	bhashya	3.4.47	b79	सहकार्यन्तरविधिरिति																unlinked	BS:3.4.47:b79
+brahmasutra	bhashya	3.4.47	b120	तृतीयमिदं			mula	3.4.47	2	1	तृतीयम्	w2.p0								linked	BS:3.4.47:b120
+brahmasutra	bhashya	3.4.47	b138	तद्वतः		gemini	mula	3.4.47	3	1	तद्वतः	w3.p0								linked	BS:3.4.47:b138
+brahmasutra	bhashya	3.4.47	b164	पक्षेणेति		matcher	mula	3.4.47	1	1	पक्षेण	w1.p0								linked	BS:3.4.47:b164
+brahmasutra	bhashya	3.4.47	b174	विध्यादिवत्		gemini,matcher	mula	3.4.47	4	1	विधि-आदि-वत्	w4.p0								linked	BS:3.4.47:b174
+brahmasutra	bhashya	3.4.48	b2	कृत्स्नभावोऽस्य																unlinked	BS:3.4.48:b2
+brahmasutra	bhashya	3.4.48	b17	गृहमेधिना		gemini														unlinked	BS:3.4.48:b17
+brahmasutra	bhashya	3.4.48	b18	उपसंहारो		gemini	mula	3.4.48	1.1	1	उपसंहारः	w1.p1								linked	BS:3.4.48:b18
+brahmasutra	bhashya	3.4.49	b1	मौनं		gemini														unlinked	BS:3.4.49:b1
+brahmasutra	bhashya	3.4.49	b6	एवमितरावपि																unlinked	BS:3.4.49:b6
+brahmasutra	bhashya	3.4.49	b23	इतरेषामिति			mula	3.4.49	0.1	1	इतरेषाम्	w0.p1								linked	BS:3.4.49:b23
+brahmasutra	bhashya	3.4.50	b88	अनाविष्कुर्वन्निति			mula	3.4.50	0	1	अनाविष्कुर्वन्	w0.p0								linked	BS:3.4.50:b88
+brahmasutra	bhashya	3.4.51	b55	ऐहिकं			mula	3.4.51	0.0	1	ऐहिकम्	w0.p0								linked	BS:3.4.51:b55
+brahmasutra	bhashya	3.4.51	b59	प्रस्तुतप्रतिबन्ध		matcher	mula	3.4.51	0.3	1	प्रस्तुत-प्रतिबन्धे	w0.p3								linked	BS:3.4.51:b59
+brahmasutra	bhashya	3.4.51	b78	तत्प्रतिबन्धः		matcher														unlinked	BS:3.4.51:b78
+brahmasutra	bhashya	3.4.51	b211	ऐहिकम्		gemini,matcher	mula	3.4.51	0.0	1	ऐहिकम्	w0.p0								linked	BS:3.4.51:b211
+brahmasutra	bhashya	3.4.52	b7	एवं		gemini,matcher	mula	3.4.52	0	1	एवम्	w0.p0								linked	BS:3.4.52:b7
+brahmasutra	bhashya	3.4.52	b14	एवं			mula	3.4.52	0	1	एवम्	w0.p0								linked	BS:3.4.52:b14
+brahmasutra	bhashya	3.4.52	b15	मुक्तिफलानियम		gemini,matcher	mula	3.4.52	1.0	1	मुक्ति-फल-अनियमः	w1.p0								linked	BS:3.4.52:b15
+brahmasutra	bhashya	3.4.52	b19	मुक्तिफले		matcher														unlinked	BS:3.4.52:b19
+brahmasutra	bhashya	3.4.52	b25	तदवस्थावधृतेः		gemini,matcher	mula	3.4.52	1.1	1	तत्-अवस्था-अवधृतेः	w1.p1								linked	BS:3.4.52:b25
+brahmasutra	bhashya	3.4.52	b143	तदवस्थावधृतेस्तदवस्थावधृतेरिति			mula	3.4.52	1.1	1	तत्-अवस्था-अवधृतेः	w1.p1								linked	BS:3.4.52:b143
+brahmasutra	bhashya	4.1.1	b35	आवृत्तौ		matcher	mula	4.1.1	0.0	1	आवृत्तिः	w0.p0								linked	BS:4.1.1:b35
+brahmasutra	bhashya	4.1.1	b64	प्रत्ययावृत्तिः		gemini														unlinked	BS:4.1.1:b64
+brahmasutra	bhashya	4.1.1	b67	असकृदुपदेशात्		gemini,matcher	mula	4.1.1	0.1	1	असकृत्	w0.p1								linked	BS:4.1.1:b67
+brahmasutra	bhashya	4.1.1	b73	असकृदुपदेशः		matcher	mula	4.1.1	0.1	1	असकृत्	w0.p1								linked	BS:4.1.1:b73
+brahmasutra	bhashya	4.1.3	b49	च		matcher	mula	4.1.3	3	1	च	w3.p0								linked	BS:4.1.3:b49
+brahmasutra	bhashya	4.1.3	b81	आत्मेत्येव			mula	4.1.3	0.0	1	आत्मा	w0.p0								linked	BS:4.1.3:b81
+brahmasutra	bhashya	4.1.3	b88	आत्मत्वेनैव			mula	4.1.3	0.0	1	आत्मा	w0.p0								linked	BS:4.1.3:b88
+brahmasutra	bhashya	4.1.3	b89	एतमुपगच्छन्ति																unlinked	BS:4.1.3:b89
+brahmasutra	bhashya	4.1.3	b107	ग्राहयन्ति		gemini,matcher	mula	4.1.3	2	1	ग्राहयन्ति	w2.p0								linked	BS:4.1.3:b107
+brahmasutra	bhashya	4.1.3	b108	च		gemini	mula	4.1.3	3	1	च	w3.p0								linked	BS:4.1.3:b108
+brahmasutra	bhashya	4.1.4	b17	न		gemini,matcher	mula	4.1.4	0	1	न	w0.p0								linked	BS:4.1.4:b17
+brahmasutra	bhashya	4.1.4	b37	न		gemini,matcher	mula	4.1.4	2	2	न	w2.p0								linked	BS:4.1.4:b37
+brahmasutra	bhashya	4.1.4	b40	न			mula	4.1.4	2	2	न	w2.p0								linked	BS:4.1.4:b40
+brahmasutra	bhashya	4.1.4	b41	हि		gemini,matcher	mula	4.1.4	3	1	हि	w3.p0								linked	BS:4.1.4:b41
+brahmasutra	bhashya	4.1.4	b42	स		gemini	mula	4.1.4	4	1	सः	w4.p0								linked	BS:4.1.4:b42
+brahmasutra	bhashya	4.1.4	b44	प्रतीकानि		matcher	mula	4.1.4	1	1	प्रतीके	w1.p0								linked	BS:4.1.4:b44
+brahmasutra	bhashya	4.1.5	b18	ब्रह्म		matcher														unlinked	BS:4.1.5:b18
+brahmasutra	bhashya	4.1.5	b89	ब्रह्मदृष्टिरेव			mula	4.1.5	0.0	1	ब्रह्मदृष्टिः	w0.p0								linked	BS:4.1.5:b89
+brahmasutra	bhashya	4.1.5	b93	उत्कर्षात्		gemini,matcher	mula	4.1.5	0.1	1	उत्कर्षात्	w0.p1								linked	BS:4.1.5:b93
+brahmasutra	bhashya	4.1.6	b112	आदित्यो		matcher	mula	4.1.6	0.0	1	आदित्य-आदि-मतयः	w0.p0							0	linked	BS:4.1.6:b112
+brahmasutra	bhashya	4.1.6	b129	आदित्यादिमतय		gemini,matcher	mula	4.1.6	0.0	1	आदित्य-आदि-मतयः	w0.p0								linked	BS:4.1.6:b129
+brahmasutra	bhashya	4.1.6	b130	एव																unlinked	BS:4.1.6:b130
+brahmasutra	bhashya	4.1.6	b131	अङ्गेषु			mula	4.1.6	0.2	1	अङ्ग	w0.p2								linked	BS:4.1.6:b131
+brahmasutra	bhashya	4.1.6	b135	उपपत्तेः		gemini,matcher	mula	4.1.6	1	1	उपपत्तेः	w1.p0								linked	BS:4.1.6:b135
+brahmasutra	bhashya	4.1.6	b337	आदित्यादिमतयः		matcher	mula	4.1.6	0.0	1	आदित्य-आदि-मतयः	w0.p0								linked	BS:4.1.6:b337
+brahmasutra	bhashya	4.1.7	b15	आसीनः		matcher	mula	4.1.7	0	1	आसीनः	w0.p0								linked	BS:4.1.7:b15
+brahmasutra	bhashya	4.1.7	b30	आसीन		gemini	mula	4.1.7	0	1	आसीनः	w0.p0								linked	BS:4.1.7:b30
+brahmasutra	bhashya	4.1.7	b33	सम्भवात्		gemini,matcher	mula	4.1.7	1	1	सम्भवात्	w1.p0								linked	BS:4.1.7:b33
+brahmasutra	bhashya	4.1.7	b43	सम्भवति		matcher	mula	4.1.7	1	1	सम्भवात्	w1.p0								linked	BS:4.1.7:b43
+brahmasutra	bhashya	4.1.7	b63	सम्भवति		matcher	mula	4.1.7	1	1	सम्भवात्	w1.p0								linked	BS:4.1.7:b63
+brahmasutra	bhashya	4.1.8	b1	च		gemini	mula	4.1.8	0.1	1	च	w0.p1								linked	BS:4.1.8:b1
+brahmasutra	bhashya	4.1.10	b0	स्मरन्त्यपि			mula	4.1.10	0	1	स्मरन्ति	w0.p0								linked	BS:4.1.10:b0
+brahmasutra	bhashya	4.1.10	b1	च		gemini,matcher	mula	4.1.10	1	1	च	w1.p0								linked	BS:4.1.10:b1
+brahmasutra	bhashya	4.1.11	b20	यत्रैव			mula	4.1.11	0.0	1	यत्र	w0.p0								linked	BS:4.1.11:b20
+brahmasutra	bhashya	4.1.11	b66	यत्रैकाग्रता		gemini,matcher	mula	4.1.11	0.0	1	यत्र	w0.p0								linked	BS:4.1.11:b66
+brahmasutra	bhashya	4.1.11	b67	तत्रैव		matcher	mula	4.1.11	1.0	1	तत्र	w1.p0								linked	BS:4.1.11:b67
+brahmasutra	bhashya	4.1.12	b13	हि		matcher	mula	4.1.12	2	1	हि	w2.p0								linked	BS:4.1.12:b13
+brahmasutra	bhashya	4.1.12	b43	आ		gemini	mula	4.1.12	0	1	आ	w0.p0								linked	BS:4.1.12:b43
+brahmasutra	bhashya	4.1.12	b44	प्रायणादेव			mula	4.1.12	1.0	1	प्रायणात्	w1.p0								linked	BS:4.1.12:b44
+brahmasutra	bhashya	4.1.12	b81	आ			mula	4.1.12	0	1	आ	w0.p0								linked	BS:4.1.12:b81
+brahmasutra	bhashya	4.1.12	b82	प्रायणात्		gemini,matcher	mula	4.1.12	1.0	1	प्रायणात्	w1.p0								linked	BS:4.1.12:b82
+brahmasutra	bhashya	4.1.13	b78	तदधिगमे		gemini,matcher	mula	4.1.13	0	1	तद्-अधिगमे	w0.p0								linked	BS:4.1.13:b78
+brahmasutra	bhashya	4.1.13	b81	उत्तरपूर्वयोरघयोरश्लेषविनाशौ		gemini														unlinked	BS:4.1.13:b81
+brahmasutra	bhashya	4.1.13	b88	तद्व्यपदेशात्		gemini,matcher	mula	4.1.13	2	1	तद्-व्यपदेशात्	w2.p0								linked	BS:4.1.13:b88
+brahmasutra	bhashya	4.1.13	b96	व्यपदिशति		matcher	mula	4.1.13	2	1	तद्-व्यपदेशात्	w2.p0							1	linked	BS:4.1.13:b96
+brahmasutra	bhashya	4.1.13	b112	व्यपदिशति		matcher	mula	4.1.13	2	1	तद्-व्यपदेशात्	w2.p0							1	linked	BS:4.1.13:b112
+brahmasutra	bhashya	4.1.13	b238	अश्लेष		gemini	mula	4.1.13	1.1	1	अश्लेष-विनाशौ	w1.p1							0	linked	BS:4.1.13:b238
+brahmasutra	bhashya	4.1.13	b259	विनाश		gemini	mula	4.1.13	1.1	1	अश्लेष-विनाशौ	w1.p1							1	linked	BS:4.1.13:b259
+brahmasutra	bhashya	4.1.14	b16	इतरस्यापि		gemini,matcher	mula	4.1.14	0	1	इतरस्य	w0.p0								linked	BS:4.1.14:b16
+brahmasutra	bhashya	4.1.14	b19	एवम्		gemini	mula	4.1.14	0.2	1	एवम्	w0.p2								linked	BS:4.1.14:b19
+brahmasutra	bhashya	4.1.14	b21	असंश्लेषो		gemini	mula	4.1.14	0.3	1	असंश्लेषः	w0.p3								linked	BS:4.1.14:b21
+brahmasutra	bhashya	4.1.14	b78	पाते		gemini,matcher	mula	4.1.14	1	1	पाते	w1.p0								linked	BS:4.1.14:b78
+brahmasutra	bhashya	4.1.14	b79	तु		gemini,matcher	mula	4.1.14	2	1	तु	w2.p0								linked	BS:4.1.14:b79
+brahmasutra	bhashya	4.1.15	b22	अनारब्धकार्ये		gemini,matcher	mula	4.1.15	0	1	अनारब्ध-कार्ये	w0.p0								linked	BS:4.1.15:b22
+brahmasutra	bhashya	4.1.15	b23	एव		gemini,matcher	mula	4.1.15	1	1	एव	w1.p0								linked	BS:4.1.15:b23
+brahmasutra	bhashya	4.1.15	b27	पूर्वे		matcher	mula	4.1.15	3	1	पूर्वे	w3.p0								linked	BS:4.1.15:b27
+brahmasutra	bhashya	4.1.15	b39	आरब्धकार्ये		matcher														unlinked	BS:4.1.15:b39
+brahmasutra	bhashya	4.1.15	b47	तस्य		gemini														unlinked	BS:4.1.15:b47
+brahmasutra	bhashya	4.1.15	b48	तावदेव		gemini														unlinked	BS:4.1.15:b48
+brahmasutra	bhashya	4.1.15	b49	चिरं		gemini														unlinked	BS:4.1.15:b49
+brahmasutra	bhashya	4.1.15	b50	यावन्न		gemini														unlinked	BS:4.1.15:b50
+brahmasutra	bhashya	4.1.15	b51	विमोक्ष्येऽथ		gemini														unlinked	BS:4.1.15:b51
+brahmasutra	bhashya	4.1.15	b52	सम्पत्स्ये		gemini														unlinked	BS:4.1.15:b52
+brahmasutra	bhashya	4.1.15	b54	शरीरपातावधिकरणात्क्षेमप्राप्तेः																unlinked	BS:4.1.15:b54
+brahmasutra	bhashya	4.1.15	b87	आरब्धकार्यं		matcher														unlinked	BS:4.1.15:b87
+brahmasutra	bhashya	4.1.16	b6	अग्निहोत्रादि		gemini,matcher	mula	4.1.16	0	1	अग्निहोत्र-आदि	w0.p0								linked	BS:4.1.16:b6
+brahmasutra	bhashya	4.1.16	b14	तत्कार्यायैव		matcher	mula	4.1.16	2.0	1	तत्-कार्याय	w2.p0								linked	BS:4.1.16:b14
+brahmasutra	bhashya	4.1.16	b72	अग्निहोत्रादि		matcher	mula	4.1.16	0	1	अग्निहोत्र-आदि	w0.p0								linked	BS:4.1.16:b72
+brahmasutra	bhashya	4.1.17	b1	अन्यापि			mula	4.1.17	0.1	1	अन्या	w0.p1								linked	BS:4.1.17:b1
+brahmasutra	bhashya	4.1.17	b2	ह्यस्ति		gemini														unlinked	BS:4.1.17:b2
+brahmasutra	bhashya	4.1.17	b11	एकेषां		gemini	mula	4.1.17	1.1	1	एकेषाम्	w1.p1								linked	BS:4.1.17:b11
+brahmasutra	bhashya	4.1.17	b29	उभयोरपि		gemini	mula	4.1.17	1.2	1	उभयोः	w1.p2								linked	BS:4.1.17:b29
+brahmasutra	bhashya	4.1.18	b105	यदेव		gemini,matcher	mula	4.1.18	0.0	1	यद्	w0.p0								linked	BS:4.1.18:b105
+brahmasutra	bhashya	4.1.18	b106	विद्ययेति		gemini,matcher	mula	4.1.18	1.0	1	विद्यया	w1.p0								linked	BS:4.1.18:b106
+brahmasutra	bhashya	4.1.18	b107	हि		gemini,matcher	mula	4.1.18	2	1	हि	w2.p0								linked	BS:4.1.18:b107
+brahmasutra	bhashya	4.1.19	b4	इतरे		gemini	mula	4.1.19	1.1	1	इतरे	w1.p1								linked	BS:4.1.19:b4
+brahmasutra	bhashya	4.1.19	b8	उपभोगेन																unlinked	BS:4.1.19:b8
+brahmasutra	bhashya	4.1.19	b9	क्षपयित्वा		gemini,matcher	mula	4.1.19	2	1	क्षपयित्वा	w2.p0								linked	BS:4.1.19:b9
+brahmasutra	bhashya	4.1.19	b11	सम्पद्यते		gemini,matcher	mula	4.1.19	3.0	1	सम्	w3.p0								linked	BS:4.1.19:b11
+brahmasutra	bhashya	4.2.1	b7	वाङ्मनसि		matcher														unlinked	BS:4.2.1:b7
+brahmasutra	bhashya	4.2.1	b61	वाङ्मनसि		matcher														unlinked	BS:4.2.1:b61
+brahmasutra	bhashya	4.2.1	b91	दर्शनात्		gemini	mula	4.2.1	1.0	1	दर्शनात्	w1.p0								linked	BS:4.2.1:b91
+brahmasutra	bhashya	4.2.1	b148	वाङ्मनसि		matcher														unlinked	BS:4.2.1:b148
+brahmasutra	bhashya	4.2.1	b153	शब्दाच्चेति			mula	4.2.1	1.1	1	शब्दात्	w1.p1								linked	BS:4.2.1:b153
+brahmasutra	bhashya	4.2.2	b10	अत		gemini,matcher														unlinked	BS:4.2.2:b10
+brahmasutra	bhashya	4.2.2	b11	एव		gemini,matcher	mula	4.2.2	1	1	एव	w1.p0								linked	BS:4.2.2:b11
+brahmasutra	bhashya	4.2.3	b57	तदपि			mula	4.2.3	0.0	1	तत्	w0.p0								linked	BS:4.2.3:b57
+brahmasutra	bhashya	4.2.3	b59	मनो			mula	4.2.3	0.1	1	मनः	w0.p1								linked	BS:4.2.3:b59
+brahmasutra	bhashya	4.2.3	b61	प्राणे		gemini	mula	4.2.3	1	1	प्राणे	w1.p0								linked	BS:4.2.3:b61
+brahmasutra	bhashya	4.2.4	b35	सोऽध्यक्ष		matcher	mula	4.2.4	0.0	1	सः	w0.p0								linked	BS:4.2.4:b35
+brahmasutra	bhashya	4.2.4	b37	स		gemini	mula	4.2.4	0.0	1	सः	w0.p0								linked	BS:4.2.4:b37
+brahmasutra	bhashya	4.2.4	b40	अध्यक्षे		gemini	mula	4.2.4	0.1	1	अध्यक्षे	w0.p1								linked	BS:4.2.4:b40
+brahmasutra	bhashya	4.2.4	b47	तदुपगमादिभ्यः		gemini,matcher	mula	4.2.4	1	1	तद्-उपगम-आदिभ्यः	w1.p0								linked	BS:4.2.4:b47
+brahmasutra	bhashya	4.2.5	b2	तेजःसहचरितेषु		gemini														unlinked	BS:4.2.5:b2
+brahmasutra	bhashya	4.2.5	b3	भूतेषु		gemini,matcher	mula	4.2.5	0	1	भूतेषु	w0.p0								linked	BS:4.2.5:b3
+brahmasutra	bhashya	4.2.5	b10	श्रुतेः		gemini	mula	4.2.5	1	1	तत्-श्रुतेः	w1.p0							1	linked	BS:4.2.5:b10
+brahmasutra	bhashya	4.2.6	b0	न		gemini	mula	4.2.6	0.0	1	न	w0.p0								linked	BS:4.2.6:b0
+brahmasutra	bhashya	4.2.6	b1	एकस्मिन्नेव			mula	4.2.6	0.1	1	एकस्मिन्	w0.p1								linked	BS:4.2.6:b1
+brahmasutra	bhashya	4.2.6	b7	दर्शयतश्च		gemini	mula	4.2.6	0.2	1	दर्शयतः	w0.p2								linked	BS:4.2.6:b7
+brahmasutra	bhashya	4.2.6	b20	दर्शयतः		gemini,matcher	mula	4.2.6	0.2	1	दर्शयतः	w0.p2								linked	BS:4.2.6:b20
+brahmasutra	bhashya	4.2.7	b4	समाना		gemini,matcher	mula	4.2.7	0	1	समाना	w0.p0								linked	BS:4.2.7:b4
+brahmasutra	bhashya	4.2.7	b93	समाना			mula	4.2.7	0	1	समाना	w0.p0								linked	BS:4.2.7:b93
+brahmasutra	bhashya	4.2.7	b99	आसृत्युपक्रमात्		gemini														unlinked	BS:4.2.7:b99
+brahmasutra	bhashya	4.2.7	b112	आसृत्युपक्रमात्		gemini														unlinked	BS:4.2.7:b112
+brahmasutra	bhashya	4.2.7	b124	सृत्युपक्रमो		matcher														unlinked	BS:4.2.7:b124
+brahmasutra	bhashya	4.2.7	b127	अनुपोष्य		gemini	mula	4.2.7	2.1	1	अनुपोष्य	w2.p1								linked	BS:4.2.7:b127
+brahmasutra	bhashya	4.2.7	b128	च		gemini														unlinked	BS:4.2.7:b128
+brahmasutra	bhashya	4.2.7	b137	सृत्युपक्रमः		matcher														unlinked	BS:4.2.7:b137
+brahmasutra	bhashya	4.2.8	b50	आपीतेः		gemini	mula	4.2.8	0.1	1	आपीतेः	w0.p1								linked	BS:4.2.8:b50
+brahmasutra	bhashya	4.2.8	b61	इत्यादिसंसारव्यपदेशात्																unlinked	BS:4.2.8:b61
+brahmasutra	bhashya	4.2.9	b7	परिमाणतश्च		gemini,matcher	mula	4.2.9	1.0	1	प्रमाणतः	w1.p0								linked	BS:4.2.9:b7
+brahmasutra	bhashya	4.2.9	b8	सूक्ष्मं		gemini,matcher	mula	4.2.9	0	1	सूक्ष्मम्	w0.p0								linked	BS:4.2.9:b8
+brahmasutra	bhashya	4.2.10	b0	अत		gemini	mula	4.2.10	0.2	1	अतः	w0.p2								linked	BS:4.2.10:b0
+brahmasutra	bhashya	4.2.10	b1	एव		gemini														unlinked	BS:4.2.10:b1
+brahmasutra	bhashya	4.2.10	b4	नास्य		gemini														unlinked	BS:4.2.10:b4
+brahmasutra	bhashya	4.2.10	b6	शरीरस्योपमर्देन																unlinked	BS:4.2.10:b6
+brahmasutra	bhashya	4.2.11	b0	अस्यैव		gemini,matcher	mula	4.2.11	0.0	1	अस्य	w0.p0								linked	BS:4.2.11:b0
+brahmasutra	bhashya	4.2.11	b1	च		gemini	mula	4.2.11	1.0	1	च	w1.p0								linked	BS:4.2.11:b1
+brahmasutra	bhashya	4.2.11	b4	एष		gemini	mula	4.2.11	1.2	1	एषः	w1.p2								linked	BS:4.2.11:b4
+brahmasutra	bhashya	4.2.11	b5	ऊष्मा		gemini,matcher	mula	4.2.11	2	1	ऊष्मा	w2.p0								linked	BS:4.2.11:b5
+brahmasutra	bhashya	4.2.11	b25	उपपद्यते		gemini														unlinked	BS:4.2.11:b25
+brahmasutra	bhashya	4.2.12	b30	ने		gemini	mula	4.2.12	1.1	1	न	w1.p1								linked	BS:4.2.12:b30
+brahmasutra	bhashya	4.2.12	b33	शारीरादात्मन			mula	4.2.12	2	1	शारीरात्	w2.p0								linked	BS:4.2.12:b33
+brahmasutra	bhashya	4.2.13	b11	एकेषां		gemini	mula	4.2.13	1.1	1	एकेषाम्	w1.p1								linked	BS:4.2.13:b11
+brahmasutra	bhashya	4.2.13	b13	स्पष्ट		gemini	mula	4.2.13	0	1	स्पष्टः	w0.p0								linked	BS:4.2.13:b13
+brahmasutra	bhashya	4.2.13	b16	हि		gemini	mula	4.2.13	1.0	1	हि	w1.p0								linked	BS:4.2.13:b16
+brahmasutra	bhashya	4.2.14	b0	स्मर्यतेऽपि			mula	4.2.14	0	1	स्मर्यते	w0.p0								linked	BS:4.2.14:b0
+brahmasutra	bhashya	4.2.14	b1	च		matcher	mula	4.2.14	1	1	च	w1.p0								linked	BS:4.2.14:b1
+brahmasutra	bhashya	4.2.14	b17	स्मर्यते		gemini,matcher	mula	4.2.14	0	1	स्मर्यते	w0.p0								linked	BS:4.2.14:b17
+brahmasutra	bhashya	4.2.15	b0	तानि		gemini,matcher	mula	4.2.15	0	1	तानि	w0.p0								linked	BS:4.2.15:b0
+brahmasutra	bhashya	4.2.15	b11	तथा		gemini,matcher	mula	4.2.15	2	1	तथा	w2.p0								linked	BS:4.2.15:b11
+brahmasutra	bhashya	4.2.15	b12	हि		gemini	mula	4.2.15	3.0	1	हि	w3.p0								linked	BS:4.2.15:b12
+brahmasutra	bhashya	4.2.15	b13	आह		gemini	mula	4.2.15	3.1	1	आह	w3.p1								linked	BS:4.2.15:b13
+brahmasutra	bhashya	4.2.16	b16	वचनात्		gemini,matcher	mula	4.2.16	1	1	वचनात्	w1.p0								linked	BS:4.2.16:b16
+brahmasutra	bhashya	4.2.17	b20	ओकः		gemini	mula	4.2.17	0.1	1	ओकः-अग्र-ज्वलनम्	w0.p1							0	linked	BS:4.2.17:b20
+brahmasutra	bhashya	4.2.17	b61	विद्वदविदुषोर्हृदयाग्रप्रद्योतने																unlinked	BS:4.2.17:b61
+brahmasutra	bhashya	4.2.17	b62	तत्प्रकाशितद्वारत्वे			mula	4.2.17	1	1	तत्-प्रकाशित-द्वारः	w1.p0								linked	BS:4.2.17:b62
+brahmasutra	bhashya	4.2.17	b69	विद्यासामर्थ्यात्		gemini,matcher	mula	4.2.17	2.0	1	विद्या-सामर्थ्यात्	w2.p0								linked	BS:4.2.17:b69
+brahmasutra	bhashya	4.2.17	b84	तच्छेषगत्यनुस्मृतियोगाच्च		gemini,matcher														unlinked	BS:4.2.17:b84
+brahmasutra	bhashya	4.2.17	b101	अनुगृहीतः			mula	4.2.17	3	1	हार्द-अनुगृहीतः	w3.p0							1	linked	BS:4.2.17:b101
+brahmasutra	bhashya	4.2.17	b106	शताधिकया		gemini,matcher	mula	4.2.17	4	1	शत-अधिकया	w4.p0								linked	BS:4.2.17:b106
+brahmasutra	bhashya	4.2.18	b30	रश्म्यनुसारी		gemini,matcher	mula	4.2.18	0	1	रश्मि-अनुसारी	w0.p0								linked	BS:4.2.18:b30
+brahmasutra	bhashya	4.2.19	b11	न		gemini	mula	4.2.19	1.0	1	न	w1.p0								linked	BS:4.2.19:b11
+brahmasutra	bhashya	4.2.19	b14	इति		gemini	mula	4.2.19	1.1	1	इति	w1.p1								linked	BS:4.2.19:b14
+brahmasutra	bhashya	4.2.19	b15	चेत्		gemini	mula	4.2.19	2.0	1	चेद्	w2.p0								linked	BS:4.2.19:b15
+brahmasutra	bhashya	4.2.19	b16	न		gemini	mula	4.2.19	2.1	2	न	w2.p1								linked	BS:4.2.19:b16
+brahmasutra	bhashya	4.2.19	b17	नाडीरश्मिसम्बन्धस्य		gemini														unlinked	BS:4.2.19:b17
+brahmasutra	bhashya	4.2.19	b18	यावद्देहभावित्वात्		gemini														unlinked	BS:4.2.19:b18
+brahmasutra	bhashya	4.2.19	b19	यावद्देहभावी		matcher	mula	4.2.19	4.0	1	यावद्-देह-भाविन्-त्व	w4.p0							0-1	linked	BS:4.2.19:b19
+brahmasutra	bhashya	4.2.19	b22	दर्शयति		gemini,matcher	mula	4.2.19	4.1	1	दर्शयति	w4.p1								linked	BS:4.2.19:b22
+brahmasutra	bhashya	4.2.19	b53	दर्शयति		matcher	mula	4.2.19	4.1	1	दर्शयति	w4.p1								linked	BS:4.2.19:b53
+brahmasutra	bhashya	4.2.19	b102	दर्शयति		matcher	mula	4.2.19	4.1	1	दर्शयति	w4.p1								linked	BS:4.2.19:b102
+brahmasutra	bhashya	4.2.21	b0	योगिनः		gemini,matcher	mula	4.2.21	0	1	योगिनः	w0.p0								linked	BS:4.2.21:b0
+brahmasutra	bhashya	4.2.21	b1	प्रति		gemini,matcher	mula	4.2.21	1	1	प्रति	w1.p0								linked	BS:4.2.21:b1
+brahmasutra	bhashya	4.2.21	b2	च		gemini,matcher	mula	4.2.21	2	1	च	w2.p0								linked	BS:4.2.21:b2
+brahmasutra	bhashya	4.2.21	b6	स्मर्यते		gemini,matcher	mula	4.2.21	3	1	स्मर्यते	w3.p0								linked	BS:4.2.21:b6
+brahmasutra	bhashya	4.2.21	b7	स्मार्ते		gemini,matcher	mula	4.2.21	4	1	स्मार्ते	w4.p0								linked	BS:4.2.21:b7
+brahmasutra	bhashya	4.2.21	b8	चै		gemini	mula	4.2.21	5.0	2	च	w5.p0								linked	BS:4.2.21:b8
+brahmasutra	bhashya	4.2.21	b9	ते		gemini														unlinked	BS:4.2.21:b9
+brahmasutra	bhashya	4.3.1	b0	अर्चिरादिनेति		gemini,matcher														unlinked	BS:4.3.1:b0
+brahmasutra	bhashya	4.3.1	b8	तत्प्रथितेः		gemini,matcher	mula	4.3.1	1	1	तत् - प्रथिति	w1.p0								linked	BS:4.3.1:b8
+brahmasutra	bhashya	4.3.1	b162	अर्चिरादिना		gemini,matcher														unlinked	BS:4.3.1:b162
+brahmasutra	bhashya	4.3.1	b163	तत्प्रथितेरित्युक्तम्		gemini	mula	4.3.1	1	1	तत् - प्रथिति	w1.p0								linked	BS:4.3.1:b163
+brahmasutra	bhashya	4.3.2	b58	अविशेषविशेषाभ्याम्		gemini,matcher	mula	4.3.2	0.2	1	अविशेष-विशेषाभ्याम्	w0.p2								linked	BS:4.3.2:b58
+brahmasutra	bhashya	4.3.2	b139	अविशेषविशेषाभ्यामिति		gemini	mula	4.3.2	0.2	1	अविशेष-विशेषाभ्याम्	w0.p2								linked	BS:4.3.2:b139
+brahmasutra	bhashya	4.3.2	b150	वायुमब्दात्		gemini	mula	4.3.2	0.0	1	वायुम्	w0.p0								linked	BS:4.3.2:b150
+brahmasutra	bhashya	4.3.3	b5	विद्युत		gemini														unlinked	BS:4.3.3:b5
+brahmasutra	bhashya	4.3.3	b10	वरुणः		gemini,matcher	mula	4.3.3	1	1	वरुणः	w1.p0								linked	BS:4.3.3:b10
+brahmasutra	bhashya	4.3.3	b11	सम्बध्यते		gemini														unlinked	BS:4.3.3:b11
+brahmasutra	bhashya	4.3.3	b14	सम्बन्धो		gemini,matcher	mula	4.3.3	2	1	सम्बन्धात्	w2.p0								linked	BS:4.3.3:b14
+brahmasutra	bhashya	4.3.3	b34	अधिपतिर्वरुण																unlinked	BS:4.3.3:b34
+brahmasutra	bhashya	4.3.3	b37	वरुणादधि		gemini	mula	4.3.3	1	1	वरुणः	w1.p0								linked	BS:4.3.3:b37
+brahmasutra	bhashya	4.3.4	b79	आतिवाहिका		gemini,matcher	mula	4.3.4	0	1	आतिवाहिकाः	w0.p0								linked	BS:4.3.4:b79
+brahmasutra	bhashya	4.3.4	b83	तल्लिङ्गात्		gemini,matcher	mula	4.3.4	0.1	1	तत्-लिङ्गात्	w0.p1								linked	BS:4.3.4:b83
+brahmasutra	bhashya	4.3.7	b17	कार्यमेव			mula	4.3.7	0	1	कार्यम्	w0.p0								linked	BS:4.3.7:b17
+brahmasutra	bhashya	4.3.7	b26	अस्य		gemini	mula	4.3.7	1.1	1	अस्य	w1.p1								linked	BS:4.3.7:b26
+brahmasutra	bhashya	4.3.7	b27	गत्युपपत्तेः		gemini,matcher	mula	4.3.7	2	1	गति-उपपत्तेः	w2.p0								linked	BS:4.3.7:b27
+brahmasutra	bhashya	4.3.8	b10	विशेषितत्वात्		gemini	mula	4.3.8	0	1	विशेषितत्वात्	w0.p0								linked	BS:4.3.8:b10
+brahmasutra	bhashya	4.3.9	b2	परब्रह्मसामीप्यात्		gemini														unlinked	BS:4.3.9:b2
+brahmasutra	bhashya	4.3.9	b6	ब्रह्मशब्दप्रयोगो		gemini														unlinked	BS:4.3.9:b6
+brahmasutra	bhashya	4.3.10	b5	तदध्यक्षेण		gemini,matcher	mula	4.3.10	1	1	तद्-अध्यक्षेण	w1.p0								linked	BS:4.3.10:b5
+brahmasutra	bhashya	4.3.10	b7	सह		gemini	mula	4.3.10	2.0	1	सह	w2.p0								linked	BS:4.3.10:b7
+brahmasutra	bhashya	4.3.10	b8	अतः		gemini	mula	4.3.10	2.1	1	अतः	w2.p1								linked	BS:4.3.10:b8
+brahmasutra	bhashya	4.3.10	b9	परं		gemini	mula	4.3.10	3.0	1	परम्	w3.p0								linked	BS:4.3.10:b9
+brahmasutra	bhashya	4.3.10	b12	परमं		matcher	mula	4.3.10	3.0	1	परम्	w3.p0								linked	BS:4.3.10:b12
+brahmasutra	bhashya	4.3.12	b0	जैमिनिस्त्वाचार्यः			mula	4.3.12	1.0	1	जैमिनिः	w1.p0								linked	BS:4.3.12:b0
+brahmasutra	bhashya	4.3.12	b10	मुख्यत्वात्		gemini,matcher	mula	4.3.12	1.1	1	मुख्यत्वात्	w1.p1								linked	BS:4.3.12:b10
+brahmasutra	bhashya	4.3.12	b11	परं		matcher	mula	4.3.12	0	1	परम्	w0.p0								linked	BS:4.3.12:b11
+brahmasutra	bhashya	4.3.13	b2	च		gemini	mula	4.3.13	0.1	1	च	w0.p1								linked	BS:4.3.13:b2
+brahmasutra	bhashya	4.3.13	b4	दर्शयति		gemini														unlinked	BS:4.3.13:b4
+brahmasutra	bhashya	4.3.14	b1	च		matcher	mula	4.3.14	1	1	च	w1.p0								linked	BS:4.3.14:b1
+brahmasutra	bhashya	4.3.14	b8	कार्यविषयः			mula	4.3.14	2	1	कार्ये	w2.p0								linked	BS:4.3.14:b8
+brahmasutra	bhashya	4.3.14	b9	प्रतिपत्त्यभिसन्धिः		matcher	mula	4.3.14	3	1	प्रतिपत्ति-अभिसन्धिः	w3.p0								linked	BS:4.3.14:b9
+brahmasutra	bhashya	4.3.15	b37	अप्रतीकालम्बनानिति			mula	4.3.15	0.0	1	अप्रतीक-आलम्बनान्	w0.p0								linked	BS:4.3.15:b37
+brahmasutra	bhashya	4.3.15	b40	नयति		gemini	mula	4.3.15	0.1	1	नयति	w0.p1								linked	BS:4.3.15:b40
+brahmasutra	bhashya	4.3.15	b42	इति		gemini	mula	4.3.15	0.2	1	इति	w0.p2								linked	BS:4.3.15:b42
+brahmasutra	bhashya	4.3.15	b43	बादरायण		gemini,matcher	mula	4.3.15	1	1	बादरायणः	w1.p0								linked	BS:4.3.15:b43
+brahmasutra	bhashya	4.3.15	b46	न		gemini														unlinked	BS:4.3.15:b46
+brahmasutra	bhashya	4.3.15	b53	तत्क्रतुश्च		gemini,matcher	mula	4.3.15	2.2	1	तत्क्रतुः	w2.p2								linked	BS:4.3.15:b53
+brahmasutra	bhashya	4.3.16	b3	फलविशेषम्																unlinked	BS:4.3.16:b3
+brahmasutra	bhashya	4.3.16	b6	दर्शयति		gemini,matcher	mula	4.3.16	2	1	दर्शयति	w2.p0								linked	BS:4.3.16:b6
+brahmasutra	bhashya	4.3.16	b26	च		gemini	mula	4.3.16	1	1	च	w1.p0								linked	BS:4.3.16:b26
+brahmasutra	bhashya	4.4.1	b6	स्वेन		matcher	mula	4.4.1	1.0	1	स्वेन	w1.p0								linked	BS:4.4.1:b6
+brahmasutra	bhashya	4.4.2	b26	प्रतिज्ञानादित्याह			mula	4.4.2	1	1	प्रतिज्ञानात्	w1.p0								linked	BS:4.4.2:b26
+brahmasutra	bhashya	4.4.3	b26	आत्मैवात्र			mula	4.4.3	0	1	आत्मा	w0.p0								linked	BS:4.4.3:b26
+brahmasutra	bhashya	4.4.3	b29	प्रकरणात्		gemini,matcher	mula	4.4.3	1	1	प्रकरणात्	w1.p0								linked	BS:4.4.3:b29
+brahmasutra	bhashya	4.4.4	b27	अविभक्त																unlinked	BS:4.4.4:b27
+brahmasutra	bhashya	4.4.4	b33	दृष्टत्वात्		gemini,matcher	mula	4.4.4	1	1	दृष्टत्वात्	w1.p0								linked	BS:4.4.4:b33
+brahmasutra	bhashya	4.4.5	b13	ब्राह्मम्		gemini														unlinked	BS:4.4.5:b13
+brahmasutra	bhashya	4.4.5	b23	जैमिनिराचार्यो			mula	4.4.5	1.0	1	जैमिनिः	w1.p0								linked	BS:4.4.5:b23
+brahmasutra	bhashya	4.4.5	b26	उपन्यासादिभ्यस्तथात्वावगमात्			mula	4.4.5	1.1	1	उपन्यास-आदिभ्यः	w1.p1								linked	BS:4.4.5:b26
+brahmasutra	bhashya	4.4.6	b19	तन्मात्रेण		matcher	mula	4.4.6	0	1	चिति-तद्-मात्रेण	w0.p0							1-2	linked	BS:4.4.6:b19
+brahmasutra	bhashya	4.4.7	b0	एवमपि		gemini,matcher	mula	4.4.7	0.0	1	एवम्	w0.p0								linked	BS:4.4.7:b0
+brahmasutra	bhashya	4.4.7	b3	पूर्वस्यापि																unlinked	BS:4.4.7:b3
+brahmasutra	bhashya	4.4.7	b8	बादरायण		matcher	mula	4.4.7	1	1	बादरायणः	w1.p0								linked	BS:4.4.7:b8
+brahmasutra	bhashya	4.4.8	b13	सङ्कल्प		matcher	mula	4.4.8	0.0	1	सङ्कल्पात्	w0.p0								linked	BS:4.4.8:b13
+brahmasutra	bhashya	4.4.8	b23	सङ्कल्पादेव		gemini,matcher	mula	4.4.8	0.0	1	सङ्कल्पात्	w0.p0								linked	BS:4.4.8:b23
+brahmasutra	bhashya	4.4.8	b44	सङ्कल्पादेव		matcher	mula	4.4.8	0.0	1	सङ्कल्पात्	w0.p0								linked	BS:4.4.8:b44
+brahmasutra	bhashya	4.4.8	b46	तु		gemini,matcher	mula	4.4.8	1	1	तु	w1.p0								linked	BS:4.4.8:b46
+brahmasutra	bhashya	4.4.8	b67	सङ्कल्पादेव		matcher	mula	4.4.8	0.0	1	सङ्कल्पात्	w0.p0								linked	BS:4.4.8:b67
+brahmasutra	bhashya	4.4.8	b68	तु			mula	4.4.8	1	1	तु	w1.p0								linked	BS:4.4.8:b68
+brahmasutra	bhashya	4.4.8	b72	तच्छ्रुतेः		gemini,matcher	mula	4.4.8	2	1	तत् - श्रुतेः	w2.p0								linked	BS:4.4.8:b72
+brahmasutra	bhashya	4.4.9	b0	अत		gemini,matcher														unlinked	BS:4.4.9:b0
+brahmasutra	bhashya	4.4.9	b1	एव		gemini,matcher	mula	4.4.9	1	1	एव	w1.p0								linked	BS:4.4.9:b1
+brahmasutra	bhashya	4.4.9	b2	च		gemini	mula	4.4.9	2.0	1	च	w2.p0								linked	BS:4.4.9:b2
+brahmasutra	bhashya	4.4.10	b21	अभावं		gemini,matcher	mula	4.4.10	0	1	अभावम्	w0.p0								linked	BS:4.4.10:b21
+brahmasutra	bhashya	4.4.10	b26	एवं		gemini	mula	4.4.10	2.1	1	एवम्	w2.p1								linked	BS:4.4.10:b26
+brahmasutra	bhashya	4.4.10	b27	हि		gemini	mula	4.4.10	2.0	1	हि	w2.p0								linked	BS:4.4.10:b27
+brahmasutra	bhashya	4.4.10	b28	आह		gemini	mula	4.4.10	1.1	1	आह	w1.p1								linked	BS:4.4.10:b28
+brahmasutra	bhashya	4.4.11	b0	जैमिनिस्त्वाचार्यः			mula	4.4.11	1.0	1	जैमिनिः	w1.p0								linked	BS:4.4.11:b0
+brahmasutra	bhashya	4.4.11	b4	भावं		gemini,matcher	mula	4.4.11	0	1	भावम्	w0.p0								linked	BS:4.4.11:b4
+brahmasutra	bhashya	4.4.11	b15	अनेकधाभावविकल्पमामनन्ति																unlinked	BS:4.4.11:b15
+brahmasutra	bhashya	4.4.12	b0	बादरायणः		gemini,matcher	mula	4.4.12	1.0	1	बादरायणः	w1.p0								linked	BS:4.4.12:b0
+brahmasutra	bhashya	4.4.12	b2	अत			mula	4.4.12	1.1	1	अतः	w1.p1								linked	BS:4.4.12:b2
+brahmasutra	bhashya	4.4.12	b5	उभयविधत्वं																unlinked	BS:4.4.12:b5
+brahmasutra	bhashya	4.4.12	b22	द्वादशाहवत्		gemini	mula	4.4.12	0.0	1	द्वादशाह-वत्	w0.p0								linked	BS:4.4.12:b22
+brahmasutra	bhashya	4.4.12	b24	द्वादशाहः		matcher														unlinked	BS:4.4.12:b24
+brahmasutra	bhashya	4.4.13	b7	सन्ध्ये		matcher														unlinked	BS:4.4.13:b7
+brahmasutra	bhashya	4.4.13	b19	एतदुपपद्यते		gemini														unlinked	BS:4.4.13:b19
+brahmasutra	bhashya	4.4.14	b0	भावे		gemini,matcher	mula	4.4.14	0	1	भावे	w0.p0								linked	BS:4.4.14:b0
+brahmasutra	bhashya	4.4.15	b31	प्रदीपवदावेश		gemini,matcher	mula	4.4.15	0.0	1	प्रदीपवत्	w0.p0								linked	BS:4.4.15:b31
+brahmasutra	bhashya	4.4.15	b45	तथा		gemini	mula	4.4.15	0.2	1	तथा	w0.p2								linked	BS:4.4.15:b45
+brahmasutra	bhashya	4.4.15	b46	हि		gemini,matcher	mula	4.4.15	1	1	हि	w1.p0								linked	BS:4.4.15:b46
+brahmasutra	bhashya	4.4.15	b47	दर्शयति		gemini,matcher	mula	4.4.15	2	1	दर्शयति	w2.p0								linked	BS:4.4.15:b47
+brahmasutra	bhashya	4.4.16	b0	स्वाप्ययः		gemini,matcher	mula	4.4.16	0	1	स्वाप्यय-सम्पत्त्योः	w0.p0							0	linked	BS:4.4.16:b0
+brahmasutra	bhashya	4.4.16	b7	सम्पत्तिः		gemini,matcher	mula	4.4.16	0	1	स्वाप्यय-सम्पत्त्योः	w0.p0							1	linked	BS:4.4.16:b7
+brahmasutra	bhashya	4.4.16	b22	आविष्कृतम्		gemini	mula	4.4.16	0.2	1	आविष्कृतम्	w0.p2								linked	BS:4.4.16:b22
+brahmasutra	bhashya	4.4.17	b32	जगद्व्यापारवर्जमिति		gemini	mula	4.4.17	0	1	जगत् - व्यापार - वर्जम्	w0.p0								linked	BS:4.4.17:b32
+brahmasutra	bhashya	4.4.17	b43	तस्य		gemini														unlinked	BS:4.4.17:b43
+brahmasutra	bhashya	4.4.17	b44	तत्र		gemini														unlinked	BS:4.4.17:b44
+brahmasutra	bhashya	4.4.17	b45	प्रकृतत्वात्		gemini														unlinked	BS:4.4.17:b45
+brahmasutra	bhashya	4.4.17	b46	असन्निहितत्वाच्चेतरेषाम्		gemini	mula	4.4.17	1.1	1	असन्निहितत्वात्	w1.p1								linked	BS:4.4.17:b46
+brahmasutra	bhashya	4.4.17	b61	जगद्व्यापारे		matcher	mula	4.4.17	0	1	जगत् - व्यापार - वर्जम्	w0.p0							0-1	linked	BS:4.4.17:b61
+brahmasutra	bhashya	4.4.18	b4	इत्यादिप्रत्यक्षोपदेशात्																unlinked	BS:4.4.18:b4
+brahmasutra	bhashya	4.4.18	b12	आधिकारिकमण्डलस्थोक्तेः		gemini,matcher	mula	4.4.18	1.2	1	आधिकारिक-मण्डल-स्थ-उक्तेः	w1.p2								linked	BS:4.4.18:b12
+brahmasutra	bhashya	4.4.19	b2	च		matcher	mula	4.4.19	1	1	च	w1.p0								linked	BS:4.4.19:b2
+brahmasutra	bhashya	4.4.19	b10	तथा		gemini,matcher	mula	4.4.19	2	1	तथा	w2.p0								linked	BS:4.4.19:b10
+brahmasutra	bhashya	4.4.19	b11	हि		gemini,matcher	mula	4.4.19	3	1	हि	w3.p0								linked	BS:4.4.19:b11
+brahmasutra	bhashya	4.4.19	b14	स्थितिमाह		gemini,matcher	mula	4.4.19	4.0	1	स्थितिम्	w4.p0								linked	BS:4.4.19:b14
+brahmasutra	bhashya	4.4.20	b0	दर्शयतश्च		gemini,matcher	mula	4.4.20	0.0	1	दर्शयतः	w0.p0								linked	BS:4.4.20:b0
+brahmasutra	bhashya	4.4.21	b5	भोगमात्रमेव			mula	4.4.21	0.0	1	भोग-मात्र-साम्य-लिङ्गात्	w0.p0							0-1	linked	BS:4.4.21:b5
+brahmasutra	bhashya	4.4.21	b8	समानमिति																unlinked	BS:4.4.21:b8
+brahmasutra	bhashya	4.4.22	b56	अनावृत्तिः		gemini,matcher	mula	4.4.22	0	1	अनावृत्तिः	w0.p0								linked	BS:4.4.22:b56
+brahmasutra	bhashya	4.4.22	b74	अनावृत्तिः		gemini	mula	4.4.22	0	1	अनावृत्तिः	w0.p0								linked	BS:4.4.22:b74
+brahmasutra	bhashya	4.4.22	b75	शब्दाद		gemini,matcher	mula	4.4.22	1.0	1	शब्दात्	w1.p0								linked	BS:4.4.22:b75
+brahmasutra	bhashya	4.4.22	b76	नावृत्तिः		gemini	mula	4.4.22	1.1	2	अनावृत्तिः	w1.p1								linked	BS:4.4.22:b76
+brahmasutra	bhashya	4.4.22	b77	शब्दात्		gemini,matcher	mula	4.4.22	2	2	शब्दात्	w2.p0								linked	BS:4.4.22:b77

@@ -1,0 +1,143 @@
+text	lane	ref	unit	pratika	lemma	mark	target_layer	target_ref	target_ord	target_occ	target_word	target_deposit	target2_layer	target2_ref	target2_ord	target2_occ	target2_word	target2_deposit	member	status	source_key
+mundaka	anandagiri	intro	ttika_1	ब्रह्मादेवानामित्याद्याथर्वणोपनिषदिति ।	ब्रह्मा देवानाम् इत्याद्याथर्वणोपनिषत्	as,mri	bhashya	intro	0	1	ब्रह्मा									linked	Mundaka:intro:ttika_1_15
+mundaka	anandagiri	intro	ttika_2	अस्याश्चेति ।	अस्याश्च विद्यासम्प्रदायकर्तृपारम्पर्यलक्षणं	as,mri	bhashya	intro	3	1	अस्याश्च									linked	Mundaka:intro:ttika_2_7
+mundaka	anandagiri	intro	ttika_3	स्वयमेव स्तुत्यर्थमिति ।	स्वयमेव स्तुत्यर्थम्	as,mri	bhashya	intro	6	1	स्वयमेव									linked	Mundaka:intro:ttika_3_16
+mundaka	anandagiri	intro	ttika_4	श्रोतृबुद्धीति ।	श्रोतृबुद्धिप्ररोचनाय	as,mri	bhashya	intro	15	1	श्रोतृबुद्धिप्ररोचनाय									linked	Mundaka:intro:ttika_4_7
+mundaka	anandagiri	intro	ttika_5	प्रयोजनेन त्विति ।	प्रयोजनेन तु विद्यायाः	as,mri	bhashya	intro	24	1	प्रयोजनेन									linked	Mundaka:intro:ttika_5_8
+mundaka	anandagiri	intro	ttika_6	अत्र चेति ।	अत्र चापरशब्दवाच्याया	as,mri	bhashya	intro	34	1	अत्र									linked	Mundaka:intro:ttika_6_6
+mundaka	anandagiri	intro	ttika_7	परापरेति ।	परापरेति विद्याभेदकरणपूर्वकम्	as,mri	bhashya	intro	42	1	परापरेति									linked	Mundaka:intro:ttika_7_13
+mundaka	anandagiri	intro	ttika_8	यच्चाऽऽहुः कर्मजडाः		mri														unlinked	Mundaka:intro:ttika_8_0
+mundaka	anandagiri	intro	ttika_8	तथा परप्राप्तिसाधनमिति ।	तथा परप्राप्तिसाधनं सर्वसाधनसाध्यविषयवैराग्यपूर्वकं	as,mri	bhashya	intro	48	1	तथा									linked	Mundaka:intro:ttika_8_9
+mundaka	anandagiri	intro	ttika_9	गुरुप्रसादलभ्यामिति ।	गुरुप्रसादलभ्यां ब्रह्मविद्यामाह	as,mri	bhashya	intro	51	1	गुरुप्रसादलभ्यां									linked	Mundaka:intro:ttika_9_9
+mundaka	anandagiri	intro	ttika_10	प्रयोजनं चेति ।	प्रयोजनं चासकृद्ब्रवीति	as,mri	bhashya	intro	57	1	प्रयोजनं									linked	Mundaka:intro:ttika_10_9
+mundaka	anandagiri	intro	ttika_11	यच्चाऽऽहुरेकदेशिनः		mri														unlinked	Mundaka:intro:ttika_11_0
+mundaka	anandagiri	intro	ttika_11	ज्ञानमात्र इति।	ज्ञानमात्रे यद्यपि	as,mri	bhashya	intro	71	1	ज्ञानमात्रे									linked	Mundaka:intro:ttika_11_11
+mundaka	anandagiri	intro	ttika_12	विद्याकर्मविरोधाच्चेति ।	विद्याकर्मविरोधाच्च	as,mri	bhashya	intro	88	1	विद्याकर्मविरोधाच्च									linked	Mundaka:intro:ttika_12_5
+mundaka	anandagiri	intro	ttika_13	विद्याया इति ।	विद्यायाः कालविशेषाभावादनियतनिमित्तत्वाच्च	as,mri	bhashya	intro	97	3	विद्यायाः									linked	Mundaka:intro:ttika_13_11
+mundaka	anandagiri	intro	ttika_14	यत्त्विति ।	यत्तु गृहस्थेषु ब्रह्मविद्यासम्प्रदायकर्तृत्वादि	as,mri	bhashya	intro	100	1	यत्तु									linked	Mundaka:intro:ttika_14_6
+mundaka	anandagiri	intro	ttika_15	एवमिति ।	एवमुक्तसम्बन्धप्रयोजनाया	as	bhashya	intro	118	1	एवमुक्तसम्बन्धप्रयोजनाया									linked	Mundaka:intro:ttika_15_2
+mundaka	anandagiri	intro	ttika_16	य इमामिति ।	य इमां ब्रह्मविद्यामुपयन्त्यात्मभावेन	as,mri	bhashya	intro	121	1	य									linked	Mundaka:intro:ttika_16_8
+mundaka	anandagiri	intro	ttika_16	आत्मभावेनेति	आत्मभावेन	mri	bhashya	intro	123	1	ब्रह्मविद्यामुपयन्त्यात्मभावेन									linked	Mundaka:intro:ttika_16_11
+mundaka	anandagiri	intro	ttika_16	अनर्थंपूगं		mri														unlinked	Mundaka:intro:ttika_16_15
+mundaka	anandagiri	intro	ttika_16	निशातयति	निशातयति	mri	bhashya	intro	128	1	निशातयति									linked	Mundaka:intro:ttika_16_17
+mundaka	anandagiri	intro	ttika_17	सर्वविद्यावेद्यं वेति ॥१ १ १॥१ १ २॥	सर्वविद्यावेद्यं वेति ॥१११॥११२॥	as														unlinked	Mundaka:intro:ttika_17_14
+mundaka	anandagiri	1.1.3	ttika_0	एकस्मिन्निति ।	एकस्मिन्विज्ञाते सर्वविद्भवति	as,mri	bhashya	1.1.3	41	1	एकस्मिन्विज्ञाते									linked	Mundaka:1.1.3:ttika_0_1
+mundaka	anandagiri	1.1.3	ttika_1	अथवेति ।	अथवा लोकसामान्यदृष्ट्या	as,mri	bhashya	1.1.3	50	1	अथवा									linked	Mundaka:1.1.3:ttika_1_10
+mundaka	anandagiri	1.1.3	ttika_2	नन्वविदिते हीत्यादिना ।	नन्वविदिते हि कस्मिन्निति	as,mri	bhashya	1.1.3	71	1	नन्वविदिते									linked	Mundaka:1.1.3:ttika_2_2
+mundaka	anandagiri	1.1.5	ttika_0	कल्पः	कल्पः	mri	bhashya	1.1.5	10	1	कल्पो		mula	1.1.5	7	1	कल्पः	w5.p0		linked	Mundaka:1.1.5:ttika_0_0
+mundaka	anandagiri	1.1.5	ttika_0	न च परप्राप्तेरिति ।	न च परप्राप्तेरवगमार्थस्य	as,mri	bhashya	1.1.5	35	1	न									linked	Mundaka:1.1.5:ttika_0_19
+mundaka	anandagiri	1.1.5	ttika_1	नन्विति ।	ननु ऋग्वेदादिबाह्या	as,mri	bhashya	1.1.5	45	1	ननु									linked	Mundaka:1.1.5:ttika_1_7
+mundaka	anandagiri	1.1.5	ttika_2	न वेद्यविषयेति ॥१ १ ५॥	न वेद्यविषयविज्ञानस्य	as	bhashya	1.1.5	75	2	न									linked	Mundaka:1.1.5:ttika_2_5
+mundaka	anandagiri	1.1.6	ttika_0	यथा विधिविषय इति ।	यथा विधिविषये कर्त्राद्यनेककारकोपसंहारद्वारेण	as,mri	bhashya	1.1.6	0	1	यथा									linked	Mundaka:1.1.6:ttika_0_3
+mundaka	anandagiri	1.1.6	ttika_1	यः सर्वज्ञ इपि ।	यः सर्वज्ञः सर्ववित्	as,mri	bhashya	1.1.6	67	1	यः									linked	Mundaka:1.1.6:ttika_1_4
+mundaka	anandagiri	1.1.6	ttika_2	अगुणत्वादिति ।	अगुणत्वात्सर्वात्मकत्वाच्च	as,mri	bhashya	1.1.6	124	1	अगुणत्वात्सर्वात्मकत्वाच्च									linked	Mundaka:1.1.6:ttika_2_0
+mundaka	anandagiri	1.1.6	ttika_2	सर्वात्मकत्वाच्चेति	सर्वात्मकत्वाच्च	mri														unlinked	Mundaka:1.1.6:ttika_2_4
+mundaka	anandagiri	1.1.7	ttika_0	यथा च पृथिव्यामिति ।	यथा च पृथिव्याम् ओषधयः	as,mri	bhashya	1.1.7	20	2	यथा									linked	Mundaka:1.1.7:ttika_0_9
+mundaka	anandagiri	1.1.7	ttika_1	यथा च सत इति ।	यथा च सतः विद्यमानाज्जीवतः	as,mri	bhashya	1.1.7	29	3	यथा									linked	Mundaka:1.1.7:ttika_1_2
+mundaka	anandagiri	1.1.7	ttika_2	अनेकदृष्टान्तेति ॥१ १ ७॥	अनेकदृष्टान्तोपादानं	as	bhashya	1.1.7	55	1	अनेकदृष्टान्तोपादानं									linked	Mundaka:1.1.7:ttika_2_7
+mundaka	anandagiri	1.1.8	ttika_0	व्याचिकीर्षितेति ।	व्याचिकीर्षितावस्थारूपेण अभिजायते	as,mri	bhashya	1.1.8	37	1	व्याचिकीर्षितावस्थारूपेण									linked	Mundaka:1.1.8:ttika_0_8
+mundaka	anandagiri	1.1.8	ttika_1	ब्रह्मण इति ।	हिरण्यगर्भो ब्रह्मणो ज्ञानक्रियाशक्त्यधिष्ठितो	as,mri	bhashya	1.1.8	44	1	हिरण्यगर्भो									linked	Mundaka:1.1.8:ttika_1_32
+mundaka	anandagiri	1.1.8	ttika_1	मनआख्यमिति	मनआख्यम	mri	bhashya	1.1.8	54	1	मनआख्यं									linked	Mundaka:1.1.8:ttika_1_45
+mundaka	anandagiri	1.1.9	ttika_0	वक्ष्यमाणार्थमिति ।	वक्ष्यमाणार्थमाह	as,mri	bhashya	1.1.9	1	1	वक्ष्यमाणार्थमाह									linked	Mundaka:1.1.9:ttika_0_0
+mundaka	anandagiri	1.1.9	ttika_1	सामान्येनेति ।	सामान्येन सर्वं जानातीति	as,mri	bhashya	1.1.9	5	1	सामान्येन									linked	Mundaka:1.1.9:ttika_1_0
+mundaka	anandagiri	1.1.9	ttika_2	विशेषेणेति ।	विशेषेण सर्वं वेत्तीति	as,mri	bhashya	1.1.9	9	1	विशेषेण									linked	Mundaka:1.1.9:ttika_2_0
+mundaka	anandagiri	1.1.9	ttika_3	यस्यज्ञानमयमिति ।	यस्य ज्ञानमयं ज्ञानविकारमेव	as,mri	bhashya	1.1.9	13	1	यस्य									linked	Mundaka:1.1.9:ttika_3_3
+mundaka	anandagiri	1.2.1	ttika_0	र्हातव्यो		mri														unlinked	Mundaka:1.2.1:ttika_0_3
+mundaka	anandagiri	1.2.1	ttika_0	सामस्त्येनेति ।	सामस्त्येन नदीस्रोतोवदविच्छेदरूपसम्बन्धः	as,mri	bhashya	1.2.1	33	1	सामस्त्येन									linked	Mundaka:1.2.1:ttika_0_30
+mundaka	anandagiri	1.2.1	ttika_0	अमृतो	अमृतो	mri	bhashya	1.2.1	37	1	परविद्याविषयोऽनाद्यनन्तोऽजरोऽमरोऽमृतोऽभयः									linked	Mundaka:1.2.1:ttika_0_37
+mundaka	anandagiri	1.2.1	ttika_1	पूर्वं तावदिति ।	पूर्वं तावदपरविद्याया	as,mri	bhashya	1.2.1	43	1	पूर्वं									linked	Mundaka:1.2.1:ttika_1_7
+mundaka	anandagiri	1.2.1	ttika_2	तदेतत्सत्यमिति ।	तदेतत् सत्यम् अवितथम्	as,mri	bhashya	1.2.1	60	1	तदेतत्									linked	Mundaka:1.2.1:ttika_2_19
+mundaka	anandagiri	1.2.1	ttika_2	हौत्रम्	हौत्रम्	mri														unlinked	Mundaka:1.2.1:ttika_2_23
+mundaka	anandagiri	1.2.1	ttika_2	आध्वर्यवम्	आध्वर्यवम्	mri														unlinked	Mundaka:1.2.1:ttika_2_26
+mundaka	anandagiri	1.2.1	ttika_2	औद्गात्रम्	औद्गात्रम्	mri														unlinked	Mundaka:1.2.1:ttika_2_29
+mundaka	anandagiri	1.2.1	ttika_2	सत्यकामा	सत्यकामा	mri	bhashya	1.2.1	104	1	सत्यकामा		mula	1.2.1	15	1	सत्य-कामाः	w10.p0		linked	Mundaka:1.2.1:ttika_2_34
+mundaka	anandagiri	1.2.2	ttika_0	अनेकाहेति ।	अनेकाहःप्रयोगापेक्षया	as,mri	bhashya	1.2.2	28	1	अनेकाहःप्रयोगापेक्षया									linked	Mundaka:1.2.2:ttika_0_34
+mundaka	anandagiri	1.2.3	ttika_0	माग्रयणं	माग्रयणं	mri														unlinked	Mundaka:1.2.3:ttika_0_11
+mundaka	anandagiri	1.2.3	ttika_0	पिण्डदानादीति ॥१ २ ३॥ ॥१ २ ४॥१ २ ५॥	पिण्डदानाद्यनुग्रहेण वा सम्बध्यमानाः	as	bhashya	1.2.3	75	1	पिण्डदानाद्यनुग्रहेण									linked	Mundaka:1.2.3:ttika_0_38
+mundaka	anandagiri	1.2.7	ttika_0	यज्ञरूपाः	यज्ञरूपाः	mri	bhashya	1.2.7	14	1	यज्ञरूपाः		mula	1.2.7	4	1	यज्ञ-रूपाः	w3.p0		linked	Mundaka:1.2.7:ttika_0_4
+mundaka	anandagiri	1.2.9	ttika_0	स्वयमेवेति	स्वयमेव	mri														unlinked	Mundaka:1.2.9:ttika_0_0
+mundaka	anandagiri	1.2.11	ttika_0	ये पुनस्तद्विपरीता ज्ञानयुक्ता इत्यादिना ।	ये पुनस्तद्विपरीतज्ञानयुक्ता वानप्रस्थाः संन्यासिनश्च	as,mri	bhashya	1.2.11	0	1	ये									linked	Mundaka:1.2.11:ttika_0_6
+mundaka	anandagiri	1.2.11	ttika_0	अरण्ये	अरण्ये	mri	bhashya	1.2.11	15	1	सेवंतेऽरण्ये		mula	1.2.11	4	1	अरण्ये	w2.p2		linked	Mundaka:1.2.11:ttika_0_11
+mundaka	anandagiri	1.2.11	ttika_1	इहैवति ।	इहैव सर्वे प्रविलीयन्ति कामाः	as,mri	bhashya	1.2.11	58	1	इहैव									linked	Mundaka:1.2.11:ttika_1_14
+mundaka	anandagiri	1.2.11	ttika_1	ब्रह्मा	ब्रह्मा	mri	bhashya	1.2.11	89	1	ब्रह्मा									linked	Mundaka:1.2.11:ttika_1_16
+mundaka	anandagiri	1.2.11	ttika_1	विश्वसृजः	विश्वसृजः	mri	bhashya	1.2.11	90	1	विश्वसृजो									linked	Mundaka:1.2.11:ttika_1_19
+mundaka	anandagiri	1.2.11	ttika_1	धर्मो	धर्मो	mri	bhashya	1.2.11	91	1	धर्मो									linked	Mundaka:1.2.11:ttika_1_23
+mundaka	anandagiri	1.2.11	ttika_1	अव्यक्तं	अव्यक्तं	mri	bhashya	1.2.11	92	1	महानव्यक्तमेव									linked	Mundaka:1.2.11:ttika_1_28
+mundaka	anandagiri	1.2.11	ttika_1	सात्त्विकीं	सात्त्विकीं	mri	bhashya	1.2.11	95	1	सात्त्विकीमेतां									linked	Mundaka:1.2.11:ttika_1_32
+mundaka	anandagiri	1.2.12	ttika_0	प्रत्यक्षं	प्रत्यक्षं	mri														unlinked	Mundaka:1.2.12:ttika_0_2
+mundaka	anandagiri	1.2.12	ttika_0	कूटस्थेन	कूटस्थेन	mri	bhashya	1.2.12	83	1	कूटस्थेनाचलेन									linked	Mundaka:1.2.12:ttika_0_31
+mundaka	anandagiri	1.2.12	ttika_0	ध्रुवेण	ध्रुवेण	mri	bhashya	1.2.12	84	1	ध्रुवेणार्थेनार्थी									linked	Mundaka:1.2.12:ttika_0_34
+mundaka	anandagiri	1.2.12	ttika_0	समित्पाणिरिति	समित्पाणिर	mri														unlinked	Mundaka:1.2.12:ttika_0_37
+mundaka	anandagiri	1.2.13	ttika_0	अक्षरणादिति।	अक्षरणादिति।	as,mri	bhashya	1.2.13	32	1	चाक्षरणादक्षतत्वादक्षयत्वाच्च									linked	Mundaka:1.2.13:ttika_0_0
+mundaka	anandagiri	1.2.13	ttika_1	अक्षतत्वादिति ।	अक्षतत्वादिति ।	as,mri	bhashya	1.2.13	32	1	चाक्षरणादक्षतत्वादक्षयत्वाच्च									linked	Mundaka:1.2.13:ttika_1_0
+mundaka	anandagiri	1.2.13	ttika_1	अक्षयत्वाच्चेति।	अक्षयत्वाच्च	mri														unlinked	Mundaka:1.2.13:ttika_1_2
+mundaka	anandagiri	intro	ttika_0	अपरविद्याया इत्यादिना।	अपरविद्यायाः सर्वं कार्यमुक्तम्	as,mri	bhashya	intro	0	1	अपरविद्यायाः									linked	Mundaka:intro:ttika_0_10
+mundaka	anandagiri	2.1.1	ttika_0	यदपरविद्याविषयमिति ।	यदपरविद्याविषयं कर्मफललक्षणम्	as,mri	bhashya	2.1.1	0	1	यदपरविद्याविषयं									linked	Mundaka:2.1.1:ttika_0_6
+mundaka	anandagiri	2.1.1	ttika_0	परमार्थतः	परमार्थतः	mri														unlinked	Mundaka:2.1.1:ttika_0_14
+mundaka	anandagiri	2.1.1	ttika_1	अत्यन्तपरोक्षत्वादिति ।	अत्यन्तपरोक्षत्वात्कथं नाम	as,mri	bhashya	2.1.1	14	1	अत्यन्तपरोक्षत्वात्कथं									linked	Mundaka:2.1.1:ttika_1_0
+mundaka	anandagiri	2.1.1	ttika_2	यथा सुदीप्तादिति ।	यथा सुदीप्तात् सुष्ठु	as,mri	bhashya	2.1.1	19	1	यथा									linked	Mundaka:2.1.1:ttika_2_15
+mundaka	anandagiri	2.1.2	ttika_0	नामरूपबीजभूतादिति ।	नामरूपबीजभूतादव्याकृताख्यात्स्वविकारापेक्षया	as,mri	bhashya	2.1.2	0	1	नामरूपबीजभूतादव्याकृताख्यात्स्वविकारापेक्षया									linked	Mundaka:2.1.2:ttika_0_6
+mundaka	anandagiri	2.1.2	ttika_0	सबाह्याभ्यन्तरः	सबाह्याभ्यन्तरः	mri	bhashya	2.1.2	25	1	सबाह्याभ्यन्तरः		mula	2.1.2	4	1	स-बाह्य-अभ्यन्तरः	w3.p0		linked	Mundaka:2.1.2:ttika_0_19
+mundaka	anandagiri	2.1.2	ttika_1	सर्वभावविकाराणामिति ।	सर्वभावविकाराणां जनिमूलत्वात्	as,mri	bhashya	2.1.2	42	1	सर्वभावविकाराणां									linked	Mundaka:2.1.2:ttika_1_6
+mundaka	anandagiri	2.1.2	ttika_2	यद्यपीत्यादिना ।	यद्यपि देहाद्युपाधिभेददृष्टिभेदेषु	as,mri	bhashya	2.1.2	54	1	देहाद्युपाधिभेददृष्टिभेदेषु									linked	Mundaka:2.1.2:ttika_2_6
+mundaka	anandagiri	2.1.2	ttika_3	परतोऽक्षरात्पर	परतोऽक्षरात्पर	mri	bhashya	2.1.2	100	1	सर्वविकारेभ्यतस्मात्परतोऽक्षरात्परः									linked	Mundaka:2.1.2:ttika_3_1
+mundaka	anandagiri	2.1.2	ttika_3	सर्वकार्येति ।	सर्वकार्यकरणबीजत्वेनोपलक्ष्यमाणत्वात्परं	as,mri	bhashya	2.1.2	97	1	सर्वकार्यकरणबीजत्वेनोपलक्ष्यमाणत्वात्परं									linked	Mundaka:2.1.2:ttika_3_7
+mundaka	anandagiri	2.1.3	ttika_0	यस्मादेतस्मादेवेति ।	यस्मात् एतस्मादेव	as,mri	bhashya	2.1.3	7	1	यस्मात्									linked	Mundaka:2.1.3:ttika_0_11
+mundaka	anandagiri	2.1.3	ttika_1	अविद्याविषय इति ।	उत्पद्यतेऽविद्याविषयो	as,mri	bhashya	2.1.3	11	1	उत्पद्यतेऽविद्याविषयो									linked	Mundaka:2.1.3:ttika_1_8
+mundaka	anandagiri	2.1.3	ttika_2	नामधेय इति ।	नामधेयोऽनृतात्मकः प्राणः	as,mri	bhashya	2.1.3	13	1	नामधेयोऽनृतात्मकः									linked	Mundaka:2.1.3:ttika_2_0
+mundaka	anandagiri	2.1.3	ttika_2	न्प्रवह	न्प्रवह	mri														unlinked	Mundaka:2.1.3:ttika_2_33
+mundaka	anandagiri	2.1.4	ttika_0	सर्वेषां भूतानामिति ।	सर्वेषां भूतानामन्तरात्मा	as,mri	bhashya	2.1.4	93	1	सर्वेषां									linked	Mundaka:2.1.4:ttika_0_0
+mundaka	anandagiri	2.1.4	ttika_0	अन्तरात्मा	अन्तरात्मा	mri														unlinked	Mundaka:2.1.4:ttika_0_5
+mundaka	anandagiri	2.1.4	ttika_0	पञ्चाग्निद्वारेण	पञ्चाग्निद्वारेण	mri														unlinked	Mundaka:2.1.4:ttika_0_9
+mundaka	anandagiri	2.1.6	ttika_0	पाञ्चभक्तिकमिति ।	पाञ्चभक्तिकं साप्तभक्तिकं	as,mri	bhashya	2.1.6	13	1	पाञ्चभक्तिकं									linked	Mundaka:2.1.6:ttika_0_0
+mundaka	anandagiri	2.1.6	ttika_0	साप्तभक्तिकमिति	साप्तभक्तिकम	mri	bhashya	2.1.6	14	1	साप्तभक्तिकं									linked	Mundaka:2.1.6:ttika_0_8
+mundaka	anandagiri	2.1.7	ttika_0	तपश्च कर्माङ्गमिति ।	तपश्च कर्माङ्गं पुरुषसंस्कारलक्षणं	as,mri	bhashya	2.1.7	22	1	तपश्च									linked	Mundaka:2.1.7:ttika_0_0
+mundaka	anandagiri	2.1.7	ttika_0	स्वतन्त्रं	स्वतन्त्रं	mri	bhashya	2.1.7	25	1	स्वतन्त्रं									linked	Mundaka:2.1.7:ttika_0_8
+mundaka	anandagiri	2.1.8	ttika_0	आत्मयाजिनामति ।	आत्मयाजिनां विदुषां कर्माणि	as,mri	bhashya	2.1.8	60	1	आत्मयाजिनां									linked	Mundaka:2.1.8:ttika_0_0
+mundaka	anandagiri	2.2.1	ttika_0	अरूपं सदक्षरमिति ।	अरूपं सदक्षरं केन	as,mri	bhashya	2.2.1	0	1	अरूपं									linked	Mundaka:2.2.1:ttika_0_8
+mundaka	anandagiri	2.2.1	ttika_1	उच्यत इति ।	विज्ञेयमित्युच्यते	as,mri	bhashya	2.2.1	4	1	विज्ञेयमित्युच्यते									linked	Mundaka:2.2.1:ttika_1_6
+mundaka	anandagiri	2.2.1	ttika_2	संनिहितमिति ।	संनिहितं सम्यक् स्थितं	as,mri	bhashya	2.2.1	19	1	संनिहितं									linked	Mundaka:2.2.1:ttika_2_0
+mundaka	anandagiri	2.2.1	ttika_3	महत्पदमिति ॥२ २ १॥	तन्महत्पदमिति उच्यते	as	bhashya	2.2.1	37	1	तन्महत्पदमिति									linked	Mundaka:2.2.1:ttika_3_11
+mundaka	anandagiri	2.2.2	ttika_0	किञ्च यदर्चिमदिति ।	किञ्च यत् अर्चिमत् दीप्तिमत्	as,mri	bhashya	2.2.2	0	1	किञ्च									linked	Mundaka:2.2.2:ttika_0_6
+mundaka	anandagiri	2.2.2	ttika_1	यदणुभ्य इति ।	यत् अणुभ्यः श्यामाकादिभ्योऽपि	as,mri	bhashya	2.2.2	10	2	यत्									linked	Mundaka:2.2.2:ttika_1_3
+mundaka	anandagiri	2.2.2	ttika_2	चशब्दादिति ।	च शब्दात्स्थूलेभ्योऽप्यतिशयेन	as,mri	bhashya	2.2.2	16	2	च									linked	Mundaka:2.2.2:ttika_2_4
+mundaka	anandagiri	2.2.2	ttika_3	यस्मिल्ँलोका इति ।	यस्मिन् लोकाः भूरादयः	as	bhashya	2.2.2	20	1	यस्मिन्									linked	Mundaka:2.2.2:ttika_3_3
+mundaka	anandagiri	2.2.2	ttika_4	तदेतत्सर्वाश्रयमिति ।	तदेतत् सर्वाश्रयं अक्षरम्	as,mri	bhashya	2.2.2	34	1	तदेतत्									linked	Mundaka:2.2.2:ttika_4_5
+mundaka	anandagiri	2.2.3	ttika_0	कथं वेद्धव्यमित्यादिना ।	कथं वेद्धव्यमिति उच्यते	as,mri	bhashya	2.2.3	0	1	कथं									linked	Mundaka:2.2.3:ttika_0_6
+mundaka	anandagiri	2.2.5	ttika_0	अक्षरस्यैव दुर्लक्ष्यत्वादिति ।	अक्षरस्यैव दुर्लक्ष्यत्वात्पुनः	as,mri	bhashya	2.2.5	0	1	अक्षरस्यैव									linked	Mundaka:2.2.5:ttika_0_3
+mundaka	anandagiri	2.2.5	ttika_1	अमृतस्येति।	अमृतस्य एष सेतुः	as,mri	bhashya	2.2.5	45	1	अमृतस्य									linked	Mundaka:2.2.5:ttika_1_7
+mundaka	anandagiri	2.2.6	ttika_0	परस्तादिति ।	अविद्यातमसः परस्तात्	as,mri	bhashya	2.2.6	70	1	अविद्यातमसः									linked	Mundaka:2.2.6:ttika_0_17
+mundaka	anandagiri	2.2.7	ttika_0	योऽसौ तमसः परस्तादित्यादिना ॥२ २ ७॥	योऽसौ तमसः परस्तात्संसारमहोदधिं	as	bhashya	2.2.7	0	1	योऽसौ									linked	Mundaka:2.2.7:ttika_0_9
+mundaka	anandagiri	2.2.9	ttika_0	अस्य परमात्मज्ञानस्येति ।	अस्य परमात्मज्ञानस्य फलमिदमभिधीयते	as,mri	bhashya	2.2.9	0	1	अस्य									linked	Mundaka:2.2.9:ttika_0_0
+mundaka	anandagiri	2.2.9	ttika_0	च्यते।	च्यते।	mri														unlinked	Mundaka:2.2.9:ttika_0_150
+mundaka	anandagiri	2.2.10	ttika_0	यत एव तदेव ब्रह्म भाति चेति ॥ २ २ १०॥	यत एव तदेव ब्रह्म भाति चेति ॥ २२१०॥	as,mri	bhashya	2.2.10	16	1	ब्रह्म									linked	Mundaka:2.2.10:ttika_0_13
+mundaka	anandagiri	2.2.11	ttika_0	यत्तज्ज्योतिषां	यत्तज्ज्योतिषां	mri														unlinked	Mundaka:2.2.11:ttika_0_2
+mundaka	anandagiri	intro	ttika_0	यदक्षरं परं	प्राधान्येन तत्त्वनिर्धारणं	as,mri	bhashya	intro	19	1	प्राधान्येन									linked	Mundaka:intro:ttika_0_0
+mundaka	anandagiri	3.1.1	ttika_0	पक्षिसामान्याद्वेति ।	पक्षिसामान्याद्वा सुपर्णौ	as,mri	bhashya	3.1.1	6	1	पक्षिसामान्याद्वा									linked	Mundaka:3.1.1:ttika_0_0
+mundaka	anandagiri	3.1.4	ttika_0	केचित्त्वित्यादिना ।	केचित्त्वग्निहोत्रादिकर्मब्रह्मविद्ययोः	as,mri	bhashya	3.1.4	101	1	केचित्त्वग्निहोत्रादिकर्मब्रह्मविद्ययोः									linked	Mundaka:3.1.4:ttika_0_19
+mundaka	anandagiri	3.1.5	ttika_0	सम्यग्ज्ञानसहकारीणीति ।	सम्यग्ज्ञानसहकारीणि साधनानि	as,mri	bhashya	3.1.5	3	1	सम्यग्ज्ञानसहकारीणि									linked	Mundaka:3.1.5:ttika_0_0
+mundaka	anandagiri	3.1.6	ttika_0	कुहकं	कुहकं	mri														unlinked	Mundaka:3.1.6:ttika_0_0
+mundaka	anandagiri	3.1.6	ttika_0	माया	माया	mri														unlinked	Mundaka:3.1.6:ttika_0_7
+mundaka	anandagiri	3.1.6	ttika_0	शाठ्यं	शाठ्यं	mri														unlinked	Mundaka:3.1.6:ttika_0_9
+mundaka	anandagiri	3.1.6	ttika_0	अहङ्कारो	अहङ्कारो	mri	bhashya	3.1.6	44	1	कुहकमायाशाठ्याहङ्कारदम्भानृतवर्जिता									linked	Mundaka:3.1.6:ttika_0_12
+mundaka	anandagiri	3.1.6	ttika_0	दम्भो	दम्भो	mri	bhashya	3.1.6	44	1	कुहकमायाशाठ्याहङ्कारदम्भानृतवर्जिता									linked	Mundaka:3.1.6:ttika_0_15
+mundaka	anandagiri	3.1.7	ttika_0	किं तत्किंधर्मकं च तदिति ॥३ १ ७॥	किं तत्किन्धर्मकं च तदित्युच्यते	as,mri	bhashya	3.1.7	0	1	किं									linked	Mundaka:3.1.7:ttika_0_5
+mundaka	anandagiri	3.1.8	ttika_0	ज्ञानप्रसादेनेति ।	ज्ञानप्रसादेन आत्मावबोधनसमर्थमपि	as,mri	bhashya	3.1.8	28	1	ज्ञानप्रसादेन									linked	Mundaka:3.1.8:ttika_0_0
+mundaka	anandagiri	3.1.9	ttika_0	प्राणैः सहेन्द्रियैश्चित्तमेति ।	प्राणैः सहेन्द्रियैः चित्तं	as,mri	bhashya	3.1.9	30	1	प्राणैः									linked	Mundaka:3.1.9:ttika_0_14
+mundaka	anandagiri	3.1.9	ttika_1	ओतं	ओतं	mri	bhashya	3.1.9	35	1	ओतं									linked	Mundaka:3.1.9:ttika_1_0
+mundaka	anandagiri	3.1.9	ttika_1	यस्मिंश्च चित्त इति ॥३ १ ९॥	यस्मिंश्च चित्ते क्लेशादिमलवियुक्ते	as,mri	bhashya	3.1.9	47	1	यस्मिंश्च									linked	Mundaka:3.1.9:ttika_1_12
+mundaka	anandagiri	3.1.10	ttika_0	यं यमिति ॥३ १ १०॥	यं यं लोकं	as	bhashya	3.1.10	7	1	यं									linked	Mundaka:3.1.10:ttika_0_3
+mundaka	anandagiri	3.2.2	ttika_0	परमार्थतत्त्वविज्ञानादिति ।	परमार्थतत्त्वविज्ञानात्पर्याप्तकामः	as,mri	bhashya	3.2.2	36	1	परमार्थतत्त्वविज्ञानात्पर्याप्तकामः									linked	Mundaka:3.2.2:ttika_0_0
+mundaka	anandagiri	3.2.3	ttika_0	न बहुना श्रुतेनेति ।	न बहुना श्रुतेन नापि	as,mri	bhashya	3.2.3	26	2	न									linked	Mundaka:3.2.3:ttika_0_0
+mundaka	anandagiri	3.2.5	ttika_0	वीर्य	वीर्य	mri														unlinked	Mundaka:3.2.5:ttika_0_0
+mundaka	anandagiri	3.2.5	ttika_0	आलिङ्गादिति	आलिङ्गाद	mri														unlinked	Mundaka:3.2.5:ttika_0_5
+mundaka	anandagiri	3.2.6	ttika_0	प्रदीपनिर्वाणवदिति ।	प्रदीपनिर्वाणवदिति ।	as,mri	bhashya	3.2.6	66	1	समन्तात्प्रदीपनिर्वाणवद्भिन्नघटाकाशवच्च									linked	Mundaka:3.2.6:ttika_0_4
+mundaka	anandagiri	3.2.6	ttika_0	पदं	पदं	mri	bhashya	3.2.6	79	1	पदं									linked	Mundaka:3.2.6:ttika_0_6
+mundaka	anandagiri	3.2.6	ttika_0	न		mri														unlinked	Mundaka:3.2.6:ttika_0_10
+mundaka	anandagiri	3.2.6	ttika_1	अध्वस्विति ।	अनध्वगा अध्वसु पारयिष्णवः	as,mri	bhashya	3.2.6	86	1	अनध्वगा									linked	Mundaka:3.2.6:ttika_1_0
+mundaka	anandagiri	3.2.6	ttika_1	पारयिष्णवः	पारयिष्णवः	mri	bhashya	3.2.6	88	1	पारयिष्णवः									linked	Mundaka:3.2.6:ttika_1_3
+mundaka	anandagiri	3.2.6	ttika_1	अनध्वगा	अनध्वगा	mri	bhashya	3.2.6	86	1	अनध्वगा									linked	Mundaka:3.2.6:ttika_1_7
+mundaka	anandagiri	3.2.6	ttika_2	देशपरिच्छिन्नः हीत्यादिना ॥३ २ ६॥	देशपरिच्छिन्ना हि गतिः संसारविषयैव	as	bhashya	3.2.6	91	1	देशपरिच्छिन्ना									linked	Mundaka:3.2.6:ttika_2_4
+mundaka	anandagiri	3.2.7	ttika_0	अन्त्यप्रश्नेति ।	अन्त्यप्रश्नपरिपठिताः	as,mri	bhashya	3.2.7	29	1	अन्त्यप्रश्नपरिपठिताः									linked	Mundaka:3.2.7:ttika_0_12
+mundaka	anandagiri	3.2.7	ttika_1	यानि चेत्यादिना ॥३ २ ७॥ ॥३ २ ८॥३ २ ९॥	यानि च मुमुक्षुणा कृतानि	as	bhashya	3.2.7	37	1	यानि									linked	Mundaka:3.2.7:ttika_1_8
+mundaka	anandagiri	3.2.10	ttika_0	एतां ब्रह्मविद्यां वदेतेति ॥३ २ १०॥ ॥३ २ ११॥	एतां ब्रह्मविद्यां वदेत	as	bhashya	3.2.10	29	1	एतां									linked	Mundaka:3.2.10:ttika_0_9

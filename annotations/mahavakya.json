@@ -1,0 +1,1288 @@
+{
+ "layer": "mahāvākya catalogue (mūla verses)",
+ "method": "candidates from a sāmānādhikaraṇya (co-reference) detector over the kāraka analysis; every candidate judged by hand (genuine identity statement vs. structural false positive)",
+ "generated": "2026-09-22T13:34:17.195Z",
+ "subtypes": {
+  "mukhya": "aikya / direct jīva=brahman identity",
+  "badhayam": "sublation: world/witness = brahman"
+ },
+ "licence": "CC BY 4.0",
+ "attribution": "adhyayana-sahakārī",
+ "format": "text → verse ref → {subtype, label, anchor = the first words of the statement in the padapāṭha}",
+ "texts": {
+  "Brha": {
+   "1.4.10": {
+    "subtype": "mukhya",
+    "label": "ahaṃ brahmāsmi",
+    "anchor": [
+     "अहम्",
+     "ब्रह्म"
+    ]
+   },
+   "2.5.19": {
+    "subtype": "mukhya",
+    "label": "ayam ātmā brahma",
+    "anchor": [
+     "अयम्",
+     "आत्मा"
+    ]
+   },
+   "4.4.5": {
+    "subtype": "mukhya",
+    "label": "sa vā ayam ātmā brahma",
+    "anchor": [
+     "सः",
+     "वा"
+    ]
+   },
+   "4.4.17": {
+    "subtype": "mukhya",
+    "label": "ātman = immortal brahman",
+    "anchor": [
+     "तम्",
+     "एव"
+    ]
+   },
+   "4.4.25": {
+    "subtype": "mukhya",
+    "label": "unborn Self = fearless brahman",
+    "anchor": [
+     "सः",
+     "वा"
+    ]
+   },
+   "3.4.1": {
+    "subtype": "mukhya",
+    "label": "immediate brahman = innermost Self",
+    "anchor": null
+   },
+   "3.4.2": {
+    "subtype": "badhayam",
+    "label": "immediate brahman = innermost Self",
+    "anchor": [
+     "यत्",
+     "एव"
+    ]
+   },
+   "3.5.1": {
+    "subtype": "mukhya",
+    "label": "immediate brahman = innermost Self",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "4.4.12": {
+    "subtype": "mukhya",
+    "label": "ayam asmi",
+    "anchor": null
+   },
+   "2.5.1": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.2": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.3": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.4": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.5": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.6": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.7": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.8": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.9": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.10": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.11": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.12": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.13": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "यः",
+     "अयम्"
+    ]
+   },
+   "2.5.14": {
+    "subtype": "badhayam",
+    "label": "madhu — cosmic/microcosmic identity",
+    "anchor": [
+     "अयम्",
+     "आत्मा"
+    ]
+   },
+   "3.7.3": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.4": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.5": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.6": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.7": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.8": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.9": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.10": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.11": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.12": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.13": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.14": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.15": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.16": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.17": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.18": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.19": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.20": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.21": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": [
+     "एषः",
+     "ते"
+    ]
+   },
+   "3.7.23": {
+    "subtype": "mukhya",
+    "label": "antaryāmī — inner witness",
+    "anchor": null
+   },
+   "3.8.8": {
+    "subtype": "mukhya",
+    "label": "akṣara brahman = sole witness",
+    "anchor": null
+   },
+   "3.8.11": {
+    "subtype": "mukhya",
+    "label": "akṣara brahman = sole witness",
+    "anchor": null
+   },
+   "2.4.6": {
+    "subtype": "badhayam",
+    "label": "all creation resolved into the Self",
+    "anchor": [
+     "इदम्",
+     "ब्रह्म"
+    ]
+   },
+   "4.5.7": {
+    "subtype": "badhayam",
+    "label": "all creation resolved into the Self",
+    "anchor": null
+   },
+   "4.4.19": {
+    "subtype": "badhayam",
+    "label": "neti-neti (neha nānāsti)",
+    "anchor": null
+   },
+   "4.5.15": {
+    "subtype": "mukhya",
+    "label": "aikya (jīva = brahman)",
+    "anchor": [
+     "सः",
+     "एषः"
+    ]
+   },
+   "2.4.14": {
+    "subtype": "badhayam",
+    "label": "aikya (jīva = brahman)",
+    "anchor": null
+   },
+   "2.4.5": {
+    "subtype": "badhayam",
+    "label": "Maitreyī — knowing Self = knowing all",
+    "anchor": null
+   },
+   "4.5.6": {
+    "subtype": "badhayam",
+    "label": "Maitreyī — knowing Self = knowing all",
+    "anchor": null
+   },
+   "4.4.20": {
+    "subtype": "mukhya",
+    "label": "unborn great Self (ekadhā)",
+    "anchor": [
+     "विरजः",
+     "परः"
+    ]
+   },
+   "4.4.22": {
+    "subtype": "mukhya",
+    "label": "great ātman = sarveśvara",
+    "anchor": [
+     "सः",
+     "वा"
+    ]
+   }
+  },
+  "Kena": {
+   "1.5": {
+    "subtype": "badhayam",
+    "label": "tat eva brahma (tvaṃ viddhi)",
+    "anchor": [
+     "तत्",
+     "एव"
+    ]
+   },
+   "1.8": {
+    "subtype": "badhayam",
+    "label": "tat eva brahma (tvaṃ viddhi)",
+    "anchor": [
+     "तत्",
+     "एव"
+    ]
+   },
+   "1.6": {
+    "subtype": "mukhya",
+    "label": "tat eva brahma (tvaṃ viddhi)",
+    "anchor": [
+     "तत्",
+     "एव"
+    ]
+   },
+   "1.7": {
+    "subtype": "mukhya",
+    "label": "tat eva brahma (tvaṃ viddhi)",
+    "anchor": [
+     "तत्",
+     "एव"
+    ]
+   },
+   "1.9": {
+    "subtype": "mukhya",
+    "label": "tat eva brahma (tvaṃ viddhi)",
+    "anchor": [
+     "तत्",
+     "एव"
+    ]
+   }
+  },
+  "Mandukya": {
+   "3.35 · kārikā": {
+    "subtype": "badhayam",
+    "label": "turīya = ātman",
+    "anchor": [
+     "तत्",
+     "एव"
+    ]
+   },
+   "3.11 · kārikā": {
+    "subtype": "badhayam",
+    "label": "turīya = ātman",
+    "anchor": [
+     "तेषाम्",
+     "आत्मा"
+    ]
+   },
+   "1.2": {
+    "subtype": "mukhya",
+    "label": "ayam ātmā brahma",
+    "anchor": [
+     "अयम्",
+     "आत्मा"
+    ]
+   },
+   "1.7": {
+    "subtype": "mukhya",
+    "label": "turīya svarūpa-lakṣaṇa (sa ātmā sa vijñeyaḥ)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   }
+  },
+  "Kathaka": {
+   "2.1.11": {
+    "subtype": "badhayam",
+    "label": "neha nānāsti (sublation of duality)",
+    "anchor": null
+   }
+  },
+  "Isha": {
+   "1.16": {
+    "subtype": "mukhya",
+    "label": "so'ham asmi (puruṣa in the sun)",
+    "anchor": [
+     "सः",
+     "अहम्"
+    ]
+   },
+   "1.6": {
+    "subtype": "mukhya",
+    "label": "sees all beings in the Self",
+    "anchor": null
+   },
+   "1.7": {
+    "subtype": "mukhya",
+    "label": "all beings became the Self",
+    "anchor": null
+   }
+  },
+  "Mundaka": {
+   "3.2.9": {
+    "subtype": "badhayam",
+    "label": "brahmavid brahmaiva bhavati",
+    "anchor": [
+     "यः",
+     "ह"
+    ]
+   },
+   "2.2.12": {
+    "subtype": "badhayam",
+    "label": "brahmaivedaṃ (all is brahman)",
+    "anchor": [
+     "ब्रह्म",
+     "एव"
+    ]
+   },
+   "2.1.10": {
+    "subtype": "mukhya",
+    "label": "puruṣa = viśvam = brahman",
+    "anchor": [
+     "पुरुषः",
+     "एव"
+    ]
+   },
+   "2.2.5": {
+    "subtype": "mukhya",
+    "label": "know the One as Ātman",
+    "anchor": [
+     "तम्",
+     "एव"
+    ]
+   }
+  },
+  "VC": {
+   "137": {
+    "subtype": "mukhya",
+    "label": "ahaṃ brahmāsmi / brahmavit=brahman",
+    "anchor": [
+     "प्रकृति-विकृति-भिन्नः",
+     "शुद्ध-बोध-स्वभावः"
+    ]
+   },
+   "229": {
+    "subtype": "badhayam",
+    "label": "sublation (world/witness = brahman)",
+    "anchor": [
+     "तत्",
+     "सर्वम्"
+    ]
+   },
+   "230": {
+    "subtype": "mukhya",
+    "label": "bādhāyām — world/all = brahman",
+    "anchor": null
+   },
+   "231": {
+    "subtype": "badhayam",
+    "label": "bādhāyām — world/all = brahman",
+    "anchor": null
+   },
+   "233": {
+    "subtype": "badhayam",
+    "label": "bādhāyām — world/all = brahman",
+    "anchor": [
+     "ब्रह्म",
+     "एव"
+    ]
+   },
+   "238": {
+    "subtype": "badhayam",
+    "label": "bādhāyām — world/all = brahman",
+    "anchor": [
+     "ब्रह्म",
+     "एव"
+    ]
+   },
+   "240": {
+    "subtype": "mukhya",
+    "label": "bādhāyām — world/all = brahman",
+    "anchor": null
+   },
+   "253": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "तत्",
+     "त्वम्"
+    ]
+   },
+   "254": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "तत्",
+     "त्वम्"
+    ]
+   },
+   "255": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "तत्",
+     "त्वम्"
+    ]
+   },
+   "256": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "तत्",
+     "त्वम्"
+    ]
+   },
+   "257": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "तत्",
+     "त्वम्"
+    ]
+   },
+   "258": {
+    "subtype": "badhayam",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "ब्रह्म",
+     "तत्त्वम्"
+    ]
+   },
+   "259": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "जन्म-वृद्धि-परिणति-अपक्षय-व्याधि-नाशन-विहीनम्",
+     "अव्ययम्"
+    ]
+   },
+   "260": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "तत्",
+     "त्वम्"
+    ]
+   },
+   "261": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "एकम्",
+     "एव"
+    ]
+   },
+   "262": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "तत्",
+     "त्वम्"
+    ]
+   },
+   "263": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "ब्रह्म",
+     "तत्"
+    ]
+   },
+   "264": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "तत्",
+     "त्वम्"
+    ]
+   },
+   "305": {
+    "subtype": "badhayam",
+    "label": "so'ham asmi / ayam aham asmi",
+    "anchor": [
+     "अयम्",
+     "अहम्"
+    ]
+   },
+   "334": {
+    "subtype": "badhayam",
+    "label": "so'ham asmi / ayam aham asmi",
+    "anchor": [
+     "स्वयम्",
+     "अयम्"
+    ]
+   },
+   "395": {
+    "subtype": "mukhya",
+    "label": "bādhāyām — world/all = brahman",
+    "anchor": [
+     "ब्रह्म",
+     "एव"
+    ]
+   },
+   "454": {
+    "subtype": "badhayam",
+    "label": "bādhāyām — world/all = brahman",
+    "anchor": [
+     "ब्रह्म",
+     "एव"
+    ]
+   },
+   "479": {
+    "subtype": "mukhya",
+    "label": "bādhāyām — world/all = brahman",
+    "anchor": [
+     "ब्रह्म",
+     "एव"
+    ]
+   },
+   "480": {
+    "subtype": "mukhya",
+    "label": "so'ham / tat evāham asmi (anubhūti)",
+    "anchor": null
+   },
+   "491": {
+    "subtype": "mukhya",
+    "label": "ahaṃ brahmāsmi / brahmavit=brahman",
+    "anchor": [
+     "केवलः",
+     "अहम्"
+    ]
+   },
+   "493": {
+    "subtype": "mukhya",
+    "label": "so'ham / tat evāham asmi (anubhūti)",
+    "anchor": [
+     "उभयोः",
+     "अवभासकम्"
+    ]
+   },
+   "494": {
+    "subtype": "mukhya",
+    "label": "so'ham / tat evāham asmi (anubhūti)",
+    "anchor": null
+   },
+   "495": {
+    "subtype": "mukhya",
+    "label": "aham/tat identity",
+    "anchor": [
+     "पुरुषः",
+     "अहम्"
+    ]
+   },
+   "513": {
+    "subtype": "mukhya",
+    "label": "tat evāham asmi",
+    "anchor": [
+     "ब्रह्म-अद्वैतम्",
+     "यत्"
+    ]
+   },
+   "514": {
+    "subtype": "mukhya",
+    "label": "tat evāham asmi",
+    "anchor": [
+     "ब्रह्म-अद्वैतम्",
+     "यत्"
+    ]
+   },
+   "515": {
+    "subtype": "mukhya",
+    "label": "tat evāham asmi",
+    "anchor": [
+     "अद्वैतम्",
+     "यत्"
+    ]
+   },
+   "516": {
+    "subtype": "mukhya",
+    "label": "so'ham / tat evāham asmi (anubhūti)",
+    "anchor": null
+   },
+   "517": {
+    "subtype": "mukhya",
+    "label": "bādhāyām — world/all = brahman",
+    "anchor": [
+     "सर्वः",
+     "अहम्"
+    ]
+   },
+   "519": {
+    "subtype": "mukhya",
+    "label": "so'ham / tat evāham asmi (anubhūti)",
+    "anchor": null
+   },
+   "521": {
+    "subtype": "mukhya",
+    "label": "so'ham / tat evāham asmi (anubhūti)",
+    "anchor": null
+   },
+   "526": {
+    "subtype": "mukhya",
+    "label": "so'ham / tat evāham asmi (anubhūti)",
+    "anchor": null
+   },
+   "555": {
+    "subtype": "mukhya",
+    "label": "ahaṃ brahmāsmi / brahmavit=brahman",
+    "anchor": null
+   },
+   "556": {
+    "subtype": "badhayam",
+    "label": "sublation (world/witness = brahman)",
+    "anchor": [
+     "तथा",
+     "एव"
+    ]
+   },
+   "566": {
+    "subtype": "mukhya",
+    "label": "ahaṃ brahmāsmi / brahmavit=brahman",
+    "anchor": null
+   }
+  },
+  "AB": {
+   "4": {
+    "subtype": "badhayam",
+    "label": "upādhi-nirāsa (limitation is illusive)",
+    "anchor": [
+     "परिच्छिन्नः",
+     "इव"
+    ]
+   },
+   "27": {
+    "subtype": "badhayam",
+    "label": "svarūpa-lakṣaṇa (self-luminous ātman)",
+    "anchor": [
+     "रज्जुसर्पवत्",
+     "आत्मानम्"
+    ]
+   },
+   "30": {
+    "subtype": "mukhya",
+    "label": "jīvātma-paramātma aikyam (mahāvākyaiḥ)",
+    "anchor": null
+   },
+   "47": {
+    "subtype": "badhayam",
+    "label": "sarvātma-darśana",
+    "anchor": [
+     "सम्यक्-विज्ञानवान्",
+     "योगी"
+    ]
+   },
+   "48": {
+    "subtype": "badhayam",
+    "label": "ātmaivedaṃ jagat (clay-pot)",
+    "anchor": [
+     "आत्मा",
+     "एव"
+    ]
+   },
+   "56": {
+    "subtype": "mukhya",
+    "label": "tad brahma (definition)",
+    "anchor": null
+   },
+   "57": {
+    "subtype": "mukhya",
+    "label": "saccidānanda advaya = brahma",
+    "anchor": null
+   },
+   "63": {
+    "subtype": "badhayam",
+    "label": "brahman alone; world a mirage",
+    "anchor": [
+     "जगद्विलक्षणम्",
+     "ब्रह्म"
+    ]
+   }
+  },
+  "UPS": {
+   "24": {
+    "subtype": "mukhya",
+    "label": "īśa=jīva=vastu kevalam (veṣa)",
+    "anchor": [
+     "सत्-स्वभावतः",
+     "वस्तु"
+    ]
+   }
+  },
+  "VS": {
+   "6.377": {
+    "subtype": "mukhya",
+    "label": "saccidānanda = the one Self (eka evātmā)",
+    "anchor": [
+     "सत्यम्",
+     "ज्ञानम्"
+    ]
+   }
+  },
+  "Gita": {
+   "2.16": {
+    "subtype": "mukhya",
+    "label": "sat/asat ontological substratum",
+    "anchor": null
+   },
+   "4.24": {
+    "subtype": "mukhya",
+    "label": "brahmārpaṇaṃ brahma",
+    "anchor": null
+   },
+   "5.19": {
+    "subtype": "mukhya",
+    "label": "samaṃ brahma (equanimity=brahman)",
+    "anchor": null
+   },
+   "5.24": {
+    "subtype": "mukhya",
+    "label": "brahmabhūta abidance",
+    "anchor": null
+   },
+   "6.29": {
+    "subtype": "mukhya",
+    "label": "self in all beings",
+    "anchor": null
+   },
+   "6.30": {
+    "subtype": "mukhya",
+    "label": "Self=Īśvara=cosmos",
+    "anchor": null
+   },
+   "7.19": {
+    "subtype": "badhayam",
+    "label": "vāsudevaḥ sarvam (sarvātma)",
+    "anchor": [
+     "वासुदेवः",
+     "सः"
+    ]
+   },
+   "9.19": {
+    "subtype": "mukhya",
+    "label": "sat-asat = the Lord",
+    "anchor": null
+   },
+   "10.20": {
+    "subtype": "mukhya",
+    "label": "aham ātmā (Self of all)",
+    "anchor": [
+     "अहम्",
+     "आत्मा"
+    ]
+   },
+   "13.2": {
+    "subtype": "mukhya",
+    "label": "kṣetrajña = Īśvara",
+    "anchor": [
+     "क्षेत्र-ज्ञम्",
+     "चापि"
+    ]
+   },
+   "14.27": {
+    "subtype": "mukhya",
+    "label": "Self = ground of brahman",
+    "anchor": [
+     "अहम्",
+     "ब्रह्मणः"
+    ]
+   },
+   "15.7": {
+    "subtype": "mukhya",
+    "label": "jīva = aṃśa of Īśvara",
+    "anchor": null
+   },
+   "15.15": {
+    "subtype": "mukhya",
+    "label": "immanent witness in the heart",
+    "anchor": null
+   },
+   "18.54": {
+    "subtype": "mukhya",
+    "label": "brahmabhūta (peak abidance)",
+    "anchor": null
+   }
+  },
+  "Aitareya": {
+   "3.1.3": {
+    "subtype": "badhayam",
+    "label": "prajñānaṃ brahma",
+    "anchor": [
+     "प्रज्ञा-नेत्रः",
+     "लोकः"
+    ]
+   },
+   "1.3.13": {
+    "subtype": "mukhya",
+    "label": "puruṣa = brahman (darśana)",
+    "anchor": [
+     "सः",
+     "एतम्"
+    ]
+   }
+  },
+  "SAD": {
+   "17": {
+    "subtype": "mukhya",
+    "label": "ātmā pūrṇaḥ (Self as fullness)",
+    "anchor": [
+     "एकस्य",
+     "देहे"
+    ]
+   },
+   "30": {
+    "subtype": "mukhya",
+    "label": "ego dissolved: tat param pūrṇam",
+    "anchor": [
+     "गवेषणात्",
+     "प्राप्य"
+    ]
+   },
+   "32": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (shines as one's Self)",
+    "anchor": [
+     "तत्",
+     "त्वम्"
+    ]
+   }
+  },
+  "Taitiriya": {
+   "2.1.1": {
+    "subtype": "mukhya",
+    "label": "satyaṃ jñānam anantaṃ brahma",
+    "anchor": [
+     "अयम्",
+     "आत्मा"
+    ]
+   },
+   "2.8.5": {
+    "subtype": "mukhya",
+    "label": "puruṣe = āditye = one",
+    "anchor": null
+   }
+  },
+  "Chandogya": {
+   "3.14.1": {
+    "subtype": "badhayam",
+    "label": "sarvaṃ khalv idaṃ brahma",
+    "anchor": [
+     "सर्वम्",
+     "खलु"
+    ]
+   },
+   "3.14.4": {
+    "subtype": "badhayam",
+    "label": "inner Self = brahman (Śāṇḍilya)",
+    "anchor": null
+   },
+   "4.10.5": {
+    "subtype": "mukhya",
+    "label": "kaṃ brahma khaṃ brahma",
+    "anchor": null
+   },
+   "4.15.1": {
+    "subtype": "mukhya",
+    "label": "akṣi-puruṣa = ātman = brahman",
+    "anchor": [
+     "एषः",
+     "आत्मा"
+    ]
+   },
+   "6.2.1": {
+    "subtype": "mukhya",
+    "label": "ekam evādvitīyam (sad-vidyā)",
+    "anchor": null
+   },
+   "6.8.6": {
+    "subtype": "mukhya",
+    "label": "all beings rooted in Sat",
+    "anchor": null
+   },
+   "6.8.7": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "6.9.4": {
+    "subtype": "mukhya",
+    "label": "aikya (jīva = brahman)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "6.10.1": {
+    "subtype": "badhayam",
+    "label": "sublation (world/witness = brahman)",
+    "anchor": [
+     "इयम्",
+     "अहम्"
+    ]
+   },
+   "6.10.3": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "6.11.3": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "6.12.3": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "6.13.3": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "6.14.3": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "6.15.3": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "6.16.3": {
+    "subtype": "mukhya",
+    "label": "tat tvam asi (refrain)",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "7.23.1": {
+    "subtype": "mukhya",
+    "label": "bhūman — non-dual infinite",
+    "anchor": null
+   },
+   "7.24.1": {
+    "subtype": "mukhya",
+    "label": "bhūman — non-dual infinite",
+    "anchor": null
+   },
+   "7.25.1": {
+    "subtype": "badhayam",
+    "label": "sarvātma (saḥ eva idaṃ sarvam)",
+    "anchor": [
+     "अहम्",
+     "एव"
+    ]
+   },
+   "7.25.2": {
+    "subtype": "badhayam",
+    "label": "ātmaivedaṃ sarvam",
+    "anchor": [
+     "आत्मा",
+     "एव"
+    ]
+   },
+   "8.1.5": {
+    "subtype": "mukhya",
+    "label": "Prajāpati: ātman teaching",
+    "anchor": [
+     "एषः",
+     "आत्मा"
+    ]
+   },
+   "8.3.4": {
+    "subtype": "mukhya",
+    "label": "Prajāpati: ātman teaching",
+    "anchor": [
+     "एषः",
+     "आत्मा"
+    ]
+   },
+   "8.7.3": {
+    "subtype": "mukhya",
+    "label": "Prajāpati: ātman teaching",
+    "anchor": [
+     "यः",
+     "तम्"
+    ]
+   },
+   "8.7.4": {
+    "subtype": "mukhya",
+    "label": "Prajāpati: ātman teaching",
+    "anchor": [
+     "एषः",
+     "आत्मा"
+    ]
+   },
+   "8.8.3": {
+    "subtype": "mukhya",
+    "label": "Prajāpati: ātman teaching",
+    "anchor": [
+     "एषः",
+     "आत्मा"
+    ]
+   },
+   "8.10.1": {
+    "subtype": "mukhya",
+    "label": "Prajāpati: ātman teaching",
+    "anchor": [
+     "एषः",
+     "आत्मा"
+    ]
+   },
+   "8.11.1": {
+    "subtype": "mukhya",
+    "label": "so'ham asmi / ayam aham asmi",
+    "anchor": [
+     "एषः",
+     "आत्मा"
+    ]
+   },
+   "8.12.4": {
+    "subtype": "mukhya",
+    "label": "Prajāpati: ātman teaching",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "8.12.5": {
+    "subtype": "mukhya",
+    "label": "Prajāpati: ātman teaching",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   },
+   "8.14.1": {
+    "subtype": "mukhya",
+    "label": "Prajāpati: ātman teaching",
+    "anchor": [
+     "सः",
+     "आत्मा"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,3013 @@
+[
+ {
+  "page": 35,
+  "n": "*",
+  "kind": "note",
+  "witness": "editor",
+  "reading": "प्रतिष्ठानाच्च नेति",
+  "raw": "' प्रतिष्ठानाच्च नेति ' इत्येव सूत्रपाठा बहुलं दृश्यन्ते",
+  "anchor": null,
+  "ref": "1.2.25",
+  "scan_anchor": {
+   "page": 35,
+   "line": 5,
+   "word": "प्रतिष्ठानान्नेति",
+   "confidence": "high",
+   "note": ""
+  }
+ },
+ {
+  "page": 51,
+  "n": "१",
+  "kind": "note",
+  "witness": "editor",
+  "reading": null,
+  "raw": "गोभिर्गोविकारैः पयोभिः",
+  "anchor": null,
+  "ref": "1.4.2",
+  "scan_anchor": {
+   "page": 51,
+   "line": 4,
+   "word": "गोभिः",
+   "confidence": "high",
+   "note": "superscript १ printed before the opening quote of 'गोभिः"
+  }
+ },
+ {
+  "page": 62,
+  "n": "१",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": "प्यविमोक्ष",
+  "raw": "' प्यविमोक्ष ' मुद्रितब्रह्मसूत्रपुस्तकेषु पाठो दृश्यते",
+  "anchor": {
+   "ref": "2.1.11",
+   "part": "sutra",
+   "start": 41,
+   "end": 53,
+   "base": "प्यनिर्मोक्ष",
+   "score": 0.82
+  },
+  "ref": "2.1.11",
+  "scan_anchor": {
+   "page": 62,
+   "line": 21,
+   "word": "चेदेवमप्यनिर्मोक्षप्रसङ्गः",
+   "confidence": "high",
+   "note": "mark above प्य of -प्यनिर्मोक्ष-"
+  }
+ },
+ {
+  "page": 67,
+  "n": "१",
+  "kind": "conjecture",
+  "witness": "editor",
+  "reading": "त्वादेवैतस्य",
+  "raw": "' त्वादेवैतस्य ' इति पठनीयं भाति",
+  "anchor": {
+   "ref": "2.1.26",
+   "part": "vritti",
+   "start": 25,
+   "end": 40,
+   "base": "क ( त्वमेव तस्य",
+   "score": 0.78
+  },
+  "ref": "2.1.26",
+  "scan_anchor": {
+   "page": 67,
+   "line": 10,
+   "word": "त्वमेव",
+   "confidence": "high",
+   "note": "mark above त्व inside the editor's parenthesis '(त्वमेव तस्य?)'"
+  }
+ },
+ {
+  "page": 87,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "त्वेनावि",
+  "raw": "' त्वेनावि ' इति खपुस्तके पाठः",
+  "anchor": {
+   "ref": "2.3.10",
+   "part": "vritti",
+   "start": 506,
+   "end": 514,
+   "base": "यत्वेन व",
+   "score": 0.8
+  },
+  "ref": "2.3.10",
+  "scan_anchor": {
+   "page": 87,
+   "line": 17,
+   "word": "स्रष्टृत्वप्रतिपादकत्वेनानयोरेकवाक्यत्वादविरोध",
+   "confidence": "high",
+   "note": "mark above त्वा of -वाक्यत्वादविरोध (ख: -वाक्यत्वेनाविरोध)"
+  }
+ },
+ {
+  "page": 88,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "त्पत्तिक",
+  "raw": "' त्पत्तिक ' इति खपुस्तके पाठः",
+  "anchor": {
+   "ref": "2.3.13",
+   "part": "lead",
+   "start": 6,
+   "end": 14,
+   "base": "त्पत्तिक",
+   "score": 1.0
+  },
+  "ref": "2.3.13",
+  "scan_anchor": {
+   "page": 88,
+   "line": 5,
+   "word": "पूर्वोक्तक्रमः",
+   "confidence": "high",
+   "note": "mark above र्वो; ख: पूर्वोत्पत्तिकक्रमः"
+  }
+ },
+ {
+  "page": 89,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "नाशौ",
+  "raw": "' नाशौ ' इति खपुस्तके पाठः",
+  "anchor": {
+   "ref": "2.3.17",
+   "part": "lead",
+   "start": 40,
+   "end": 44,
+   "base": "नाशौ",
+   "score": 1.0
+  },
+  "ref": "2.3.17",
+  "scan_anchor": {
+   "page": 89,
+   "line": 6,
+   "word": "जन्ममरणे",
+   "confidence": "high",
+   "note": "mark above मरणे (ख: जन्मनाशौ)"
+  }
+ },
+ {
+  "page": 92,
+  "n": "+",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": "त्वस्य",
+  "raw": "' त्वस्य ' मुद्रिताद्वैतभाष्यादौ पाठः",
+  "anchor": {
+   "ref": "2.3.24",
+   "part": "vritti",
+   "start": 151,
+   "end": 157,
+   "base": "त्वस्य",
+   "score": 1.0
+  },
+  "ref": "2.3.24",
+  "scan_anchor": {
+   "page": 92,
+   "line": 16,
+   "word": "तस्य",
+   "confidence": "high",
+   "note": "dagger/+ printed before तस्य in sūtra 31 (printed Śāṅkara: पुंस्त्वादिवत्त्वस्य)"
+  }
+ },
+ {
+  "page": 94,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "अपि त्वौ",
+  "raw": "' अपि त्वौ ' इति खपुस्तके पाठः",
+  "anchor": {
+   "ref": "2.3.33",
+   "part": "vritti",
+   "start": 412,
+   "end": 419,
+   "base": "अपि त्व",
+   "score": 0.92
+  },
+  "ref": "2.3.33",
+  "scan_anchor": {
+   "page": 94,
+   "line": 23,
+   "word": "किन्त्वौपाधिकम्",
+   "confidence": "low",
+   "note": "no superscript visible anywhere on either half (possibly hidden in the ि-hook of कि); placed by fit only (ख: अपि त्वौपाधिकम्)"
+  }
+ },
+ {
+  "page": 102,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "ख्यप्राणस्य",
+  "raw": "' ख्यप्राणस्य ' ख . पाठः",
+  "anchor": {
+   "ref": "2.4.13",
+   "part": "lead",
+   "start": 12,
+   "end": 23,
+   "base": "्य प्राणस्य",
+   "score": 0.95
+  },
+  "ref": "2.4.13",
+  "scan_anchor": {
+   "page": 102,
+   "line": 16,
+   "word": "मुख्यस्य",
+   "confidence": "high",
+   "note": "mark above ख्य (ख: मुख्यप्राणस्य)"
+  }
+ },
+ {
+  "page": 102,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "द्यधिष्ठानानाम्",
+  "raw": "' द्यधिष्ठानानाम् ' क . पाठः",
+  "anchor": {
+   "ref": "2.4.14",
+   "part": "lead",
+   "start": 92,
+   "end": 106,
+   "base": "ाद्यधिष्ठिताना",
+   "score": 0.76
+  },
+  "ref": "2.4.14",
+  "scan_anchor": {
+   "page": 102,
+   "line": 26,
+   "word": "कानामिन्द्रियाणामाधिदैविकाद्यधिष्ठितानां",
+   "confidence": "high",
+   "note": "small mark above काद्य of -आधिदैविकाद्यधिष्ठितानां (क: -द्यधिष्ठानानाम्)"
+  }
+ },
+ {
+  "page": 103,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "नैवेन्द्रि",
+  "raw": "' नैवेन्द्रि ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "2.4.15",
+   "part": "vritti",
+   "start": 12,
+   "end": 21,
+   "base": "ेनेन्द्रि",
+   "score": 0.84
+  },
+  "ref": "2.4.15",
+  "scan_anchor": {
+   "page": 103,
+   "line": 9,
+   "word": "जीवेनेन्द्रियाणां",
+   "confidence": "high",
+   "note": "mark above वे (ख: जीवेनैवेन्द्रि-)"
+  }
+ },
+ {
+  "page": 105,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "धनिरासेन",
+  "raw": "' धनिरासेन ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "2.4.20",
+   "part": "vritti",
+   "start": 536,
+   "end": 543,
+   "base": "्षनिरास",
+   "score": 0.67
+  },
+  "ref": "2.4.20",
+  "scan_anchor": {
+   "page": 105,
+   "line": 25,
+   "word": "स्मृतिन्यायश्रुतिविरोधव्यासेधेनानध्यव",
+   "confidence": "high",
+   "note": "mark above ध of -विरोधव्यासेधेन (ख: -विरोधनिरासेन)"
+  }
+ },
+ {
+  "page": 107,
+  "n": "१",
+  "kind": "conjecture",
+  "witness": "editor",
+  "reading": "पः स्यात्",
+  "raw": "' पः स्यात् ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.1.7",
+   "part": "vritti",
+   "start": 257,
+   "end": 267,
+   "base": "ः। तस्मात्",
+   "score": 0.75
+  },
+  "ref": "3.1.7",
+  "scan_anchor": {
+   "page": 107,
+   "line": 15,
+   "word": "श्रुतिव्याकोपात्",
+   "confidence": "high",
+   "note": "mark above पा (ख: श्रुतिव्याकोपः स्यात्)"
+  }
+ },
+ {
+  "page": 107,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "ञ्चम्यामाहु",
+  "raw": "' ञ्चम्यामाहु ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.1.8",
+   "part": "lead",
+   "start": 20,
+   "end": 31,
+   "base": "ां पञ्चमाहु",
+   "score": 0.67
+  },
+  "ref": "3.1.8",
+  "scan_anchor": {
+   "page": 107,
+   "line": 20,
+   "word": "पञ्चमाहुतौ",
+   "confidence": "high",
+   "note": "mark above ञ्च (ख: पञ्चम्यामाहुतौ)"
+  }
+ },
+ {
+  "page": 110,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "रते द्रो",
+  "raw": "' रते द्रो ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.1.19",
+   "part": "vritti",
+   "start": 66,
+   "end": 73,
+   "base": "्र द्रो",
+   "score": 0.77
+  },
+  "ref": "3.1.19",
+  "scan_anchor": {
+   "page": 110,
+   "line": 17,
+   "word": "भारतादौ",
+   "confidence": "high",
+   "note": "OCR misread the superscript १ above र as र्; ख: भारते द्रोण-"
+  }
+ },
+ {
+  "page": 112,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "णाल्पमल्पं का",
+  "raw": "' णाल्पमल्पं का ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.1.23",
+   "part": "vritti",
+   "start": 216,
+   "end": 227,
+   "base": "उताल्पमल्पा",
+   "score": 0.78
+  },
+  "ref": "3.1.23",
+  "scan_anchor": {
+   "page": 112,
+   "line": 1,
+   "word": "नातिचिरेणाल्पकाल",
+   "confidence": "high",
+   "note": "mark above रे (ख: नातिचिरेणाल्पमल्पं काल-)"
+  }
+ },
+ {
+  "page": 112,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "खदुःखभोक्तृत्वम् । यत्र तु तद्भोक्तृत्वं , तत्र कर्मपरामर्शो रम",
+  "raw": "' खदुःखभोक्तृत्वम् । यत्र तु तद्भोक्तृत्वं , तत्र कर्मपरामर्शो रम ' खपुस्तके पाठः",
+  "anchor": null,
+  "ref": "3.1.23",
+  "scan_anchor": {
+   "page": 112,
+   "line": 20,
+   "word": "सुखादिभोगः",
+   "confidence": "high",
+   "note": "mark above खा (ख: सुखदुःखभोक्तृत्वम्। यत्र तु तद्भोक्तृत्वं, तत्र कर्मपरामर्शो रम-)"
+  }
+ },
+ {
+  "page": 114,
+  "n": "?",
+  "kind": "note",
+  "witness": "editor",
+  "reading": null,
+  "raw": "1",
+  "anchor": null,
+  "ref": "3.2.1"
+ },
+ {
+  "page": 114,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "अस्मिन्",
+  "raw": "' अस्मिन् ' इत्यतः प्राग् ' जीववत् तथा ' इति कपुस्तके पठ्यते । तत्स्थाने ' जीवार्थतया ' इति वा ' जागरितवद् ' इति वा पाठः स्यादिति भाति",
+  "anchor": {
+   "ref": "3.2.1",
+   "part": "lead",
+   "start": 173,
+   "end": 179,
+   "base": "स्मिन्",
+   "score": 0.92
+  },
+  "ref": "3.2.1",
+  "scan_anchor": {
+   "page": 114,
+   "line": 7,
+   "word": "शाखिनोऽस्मिन्नेव",
+   "confidence": "high",
+   "note": "mark above नो, i.e. just before अस्मिन् (क inserts 'जीववत् तथा' there)"
+  }
+ },
+ {
+  "page": 114,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "त्याशङ्कयाह",
+  "raw": "' त्याशङ्कयाह ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.3",
+   "part": "vritti",
+   "start": 387,
+   "end": 399,
+   "base": "त्येवमादिकया",
+   "score": 0.61
+  },
+  "ref": "3.2.3",
+  "scan_anchor": {
+   "page": 114,
+   "line": 22,
+   "word": "स्यादित्यत",
+   "confidence": "high",
+   "note": "mark above त्य of स्यादित्यत आह (ख: -त्याशङ्कयाह)"
+  }
+ },
+ {
+  "page": 115,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "येति",
+  "raw": "' येति ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.3",
+   "part": "vritti",
+   "start": 614,
+   "end": 618,
+   "base": "येति",
+   "score": 1.0
+  },
+  "ref": "3.2.3",
+  "scan_anchor": {
+   "page": 115,
+   "line": 18,
+   "word": "ईश्वरत्वासम्भवशङ्कानिरासार्थः",
+   "confidence": "low",
+   "note": "only mark found on the page: a faint tick at the start of the line before ईश्वरत्वा- (OCR renders it as “); reading 'येति' does not obviously fit this word"
+  }
+ },
+ {
+  "page": 116,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "सुषुप्त",
+  "raw": "' सुषुप्त ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.7",
+   "part": "lead",
+   "start": 85,
+   "end": 92,
+   "base": "सुषुप्त",
+   "score": 1.0
+  },
+  "ref": "3.2.7",
+  "scan_anchor": {
+   "page": 116,
+   "line": 20,
+   "word": "सुप्तस्य",
+   "confidence": "high",
+   "note": "mark above सु of सुप्तस्य नाड्यादि- (ख: सुषुप्तस्य)"
+  }
+ },
+ {
+  "page": 117,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "ककम्पनव",
+  "raw": "' ककम्पनव ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.10",
+   "part": "vritti",
+   "start": 577,
+   "end": 584,
+   "base": "न कम्पन",
+   "score": 0.77
+  },
+  "ref": "3.2.10",
+  "scan_anchor": {
+   "page": 117,
+   "line": 14,
+   "word": "भयानके",
+   "confidence": "high",
+   "note": "mark above के at line end (ख: भयानककम्पनवदन-)"
+  }
+ },
+ {
+  "page": 117,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "वत् परब्र",
+  "raw": "' वत् परब्र ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.11",
+   "part": "vritti",
+   "start": 374,
+   "end": 382,
+   "base": "वत् परस्",
+   "score": 0.8
+  },
+  "ref": "3.2.11",
+  "scan_anchor": {
+   "page": 117,
+   "line": 24,
+   "word": "सुषुप्तिमरणावस्थोभयधर्मवत्त्ववद्",
+   "confidence": "high",
+   "note": "mark above the second व of -वत्त्ववद् (OCR misread as वेद्); ख: -वत्त्ववत् परब्रह्मणो-"
+  }
+ },
+ {
+  "page": 117,
+  "n": "३",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "त्वमस्त्विति",
+  "raw": "' त्वमस्त्विति ' खपुस्तके पाठ",
+  "anchor": {
+   "ref": "3.2.11",
+   "part": "vritti",
+   "start": 407,
+   "end": 419,
+   "base": "त्वं सम्भवति",
+   "score": 0.7
+  },
+  "ref": "3.2.11",
+  "scan_anchor": {
+   "page": 117,
+   "line": 24,
+   "word": "ब्रह्मणोऽप्युभयरूपत्वं",
+   "confidence": "high",
+   "note": "mark above त्वं (ख: -रूपत्वमस्त्विति)"
+  }
+ },
+ {
+  "page": 118,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "षमेवेति",
+  "raw": "' षमेवेति ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.11",
+   "part": "vritti",
+   "start": 314,
+   "end": 321,
+   "base": "षं वेति",
+   "score": 0.77
+  },
+  "ref": "3.2.11",
+  "scan_anchor": {
+   "page": 118,
+   "line": 1,
+   "word": "निर्विशेषमिति",
+   "confidence": "high",
+   "note": "mark above षे (ख: निर्विशेषमेवेति)"
+  }
+ },
+ {
+  "page": 118,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "न चैक",
+  "raw": "' न चैक ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.13",
+   "part": "vritti",
+   "start": 4,
+   "end": 7,
+   "base": "चैक",
+   "score": 0.86
+  },
+  "ref": "3.2.13",
+  "scan_anchor": {
+   "page": 118,
+   "line": 6,
+   "word": "न",
+   "confidence": "high",
+   "note": "mark above न of 'न ह्येकमेव' (OCR read the superscript as ए-mātrā); ख: न चैकमेव"
+  }
+ },
+ {
+  "page": 120,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "कम् । तदयु",
+  "raw": "' कम् । तदयु ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.22",
+   "part": "lead",
+   "start": 51,
+   "end": 58,
+   "base": "क्तंमयु",
+   "score": 0.71
+  },
+  "ref": "3.2.22",
+  "scan_anchor": {
+   "page": 120,
+   "line": 24,
+   "word": "सिध्यतीत्युक्तमयुक्तं",
+   "confidence": "high",
+   "note": "mark above क्त of उक्तम् (OCR read it as anusvāra); ख: -उक्तम्। तदयुक्तं"
+  }
+ },
+ {
+  "page": 120,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "गो निषेधसत्त्वादि",
+  "raw": "' गो निषेधसत्त्वादि \" कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.22",
+   "part": "lead",
+   "start": 76,
+   "end": 94,
+   "base": "ोऽपि निषिद्धत्वादि",
+   "score": 0.67
+  },
+  "ref": "3.2.22",
+  "scan_anchor": {
+   "page": 120,
+   "line": 24,
+   "word": "ताभिर्ब्रह्मणोऽपि",
+   "confidence": "high",
+   "note": "mark above णो (क: ब्रह्मणो निषेधसत्त्वादि-; note reading's गो = णो)"
+  }
+ },
+ {
+  "page": 121,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "लभ्येत । त",
+  "raw": "' लभ्येत । त ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.23",
+   "part": "lead",
+   "start": 26,
+   "end": 34,
+   "base": "लभ्येतेत",
+   "score": 0.93
+  },
+  "ref": "3.2.23",
+  "scan_anchor": {
+   "page": 121,
+   "line": 16,
+   "word": "तर्ह्युपलभ्येतेति",
+   "confidence": "high",
+   "note": "mark above ल of -उपलभ्येतेति (ख: -उपलभ्येत। तत्राह)"
+  }
+ },
+ {
+  "page": 122,
+  "n": "१",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": "शादिवच्चा",
+  "raw": "' शादिवच्चा ' इति तु मुद्रितपुस्तकेषु पाठो दृश्यते",
+  "anchor": {
+   "ref": "3.2.25",
+   "part": "sutra",
+   "start": 3,
+   "end": 11,
+   "base": "काशवच्चा",
+   "score": 0.71
+  },
+  "ref": "3.2.25",
+  "scan_anchor": {
+   "page": 122,
+   "line": 2,
+   "word": "प्रकाशवच्चावैशेष्यं",
+   "confidence": "high",
+   "note": "mark above श in the sūtra (printed editions: प्रकाशादिवच्चा-)"
+  }
+ },
+ {
+  "page": 123,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "त्त्वोपगमात्",
+  "raw": "' त्त्वोपगमात् ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.31",
+   "part": "lead",
+   "start": 113,
+   "end": 125,
+   "base": "त्त्वावगमाद्",
+   "score": 0.75
+  },
+  "ref": "3.2.31",
+  "scan_anchor": {
+   "page": 123,
+   "line": 10,
+   "word": "वस्त्वन्तरसत्त्वावगमाद्",
+   "confidence": "high",
+   "note": "mark above त्त्वा (क: -सत्त्वोपगमात्)"
+  }
+ },
+ {
+  "page": 123,
+  "n": "२",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": null,
+  "raw": "शारीर इति पदं मुद्रितोपनिषदादौ न दृश्यते",
+  "anchor": null,
+  "ref": "3.2.29",
+  "scan_anchor": {
+   "page": 123,
+   "line": 18,
+   "word": "शारीरः",
+   "confidence": "high",
+   "note": "mark above शा"
+  }
+ },
+ {
+  "page": 124,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "दिः । त",
+  "raw": "' दिः । त ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.29",
+   "part": "lead",
+   "start": 131,
+   "end": 134,
+   "base": "दित",
+   "score": 0.86
+  },
+  "ref": "3.2.29",
+  "scan_anchor": {
+   "page": 124,
+   "line": 8,
+   "word": "स्थानमुपाधिबुद्ध्यादि",
+   "confidence": "high",
+   "note": "mark above द्ध्या (ख: -बुद्ध्यादिः। तद्विशेषात्)"
+  }
+ },
+ {
+  "page": 124,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "रभ्रायु",
+  "raw": "\" रभ्रायु ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.29",
+   "part": "vritti",
+   "start": 109,
+   "end": 115,
+   "base": "ोऽभ्यु",
+   "score": 0.62
+  },
+  "ref": "3.2.29",
+  "scan_anchor": {
+   "page": 124,
+   "line": 11,
+   "word": "सौरालोकादेरङ्गुल्याद्युपाधियोगादुपजातभेदस्योपाध्युपशमात्",
+   "confidence": "high",
+   "note": "mark above रे of -आदेरङ्गुल्या- (OCR read the superscript as ऐ-mātrā); ख: -आदेरभ्रायु(पाधि)-"
+  }
+ },
+ {
+  "page": 124,
+  "n": "३",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "स्मात् स",
+  "raw": "' स्मात् स ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.37",
+   "part": "vritti",
+   "start": 151,
+   "end": 157,
+   "base": "स्मात्",
+   "score": 0.92
+  },
+  "ref": "3.2.37",
+  "scan_anchor": {
+   "page": 124,
+   "line": 27,
+   "word": "(क)स्मात्",
+   "confidence": "high",
+   "note": "mark above स्मा at line start (word split क-/स्मात् across lines 26-27); क: कस्मात् सर्वगतत्वम्"
+  }
+ },
+ {
+  "page": 125,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "कत्वात्",
+  "raw": "' कत्वात् ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.37",
+   "part": "vritti",
+   "start": 208,
+   "end": 214,
+   "base": "कत्ववा",
+   "score": 0.77
+  },
+  "ref": "3.2.37",
+  "scan_anchor": {
+   "page": 125,
+   "line": 11,
+   "word": "क्षणिकात्",
+   "confidence": "high",
+   "note": "mark above का (OCR read it as anusvāra); क: क्षणिकत्वात्"
+  }
+ },
+ {
+  "page": 126,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "सिद्धम्",
+  "raw": "' सिद्धम् ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.37",
+   "part": "vritti",
+   "start": 83,
+   "end": 90,
+   "base": "सिद्धम्",
+   "score": 1.0
+  },
+  "ref": "3.2.37",
+  "scan_anchor": {
+   "page": 126,
+   "line": 6,
+   "word": "स्थितम्",
+   "confidence": "high",
+   "note": "mark above स्थि (ख: सिद्धम्)"
+  }
+ },
+ {
+  "page": 126,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "त्र चोक्तो",
+  "raw": "' त्र चोक्तो ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.1",
+   "part": "vritti",
+   "start": 135,
+   "end": 146,
+   "base": "त्रे तूक्तो",
+   "score": 0.74
+  },
+  "ref": "3.3.1",
+  "scan_anchor": {
+   "page": 126,
+   "line": 19,
+   "word": "अत्र",
+   "confidence": "high",
+   "note": "mark above त्र of 'अत्र तूक्तोपास-' (OCR read the superscript as ए-mātrā); ख: -त्र चोक्तो(पासनानि)"
+  }
+ },
+ {
+  "page": 126,
+  "n": "३",
+  "kind": "note",
+  "witness": "editor",
+  "reading": "प्राणं",
+  "raw": "' प्राणं ' इति पदं मुद्वितोपनिषदादौ न दृश्यते",
+  "anchor": null,
+  "ref": "3.2.41",
+  "scan_anchor": {
+   "page": 126,
+   "line": 25,
+   "word": "प्राणं",
+   "confidence": "high",
+   "note": "mark above प्रा"
+  }
+ },
+ {
+  "page": 127,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "गाथ प",
+  "raw": "' गाथ प ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.2.41",
+   "part": "vritti",
+   "start": 17,
+   "end": 25,
+   "base": "ार्थः। प",
+   "score": 0.6
+  },
+  "ref": "3.2.41"
+ },
+ {
+  "page": 128,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "न विद्यायाः",
+  "raw": "' न विद्यायाः ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.3",
+   "part": "vritti",
+   "start": 38,
+   "end": 49,
+   "base": "न विद्यायाः",
+   "score": 1.0
+  },
+  "ref": "3.3.3",
+  "scan_anchor": {
+   "page": 128,
+   "line": 4,
+   "word": "सर्ववेदान्तेष्वेकत्वेन",
+   "confidence": "high",
+   "note": "superscript १ over final 'न' (OCR read it as anusvara); reading 'न विद्यायाः' replaces 'न तद्विद्यायाः'"
+  }
+ },
+ {
+  "page": 128,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "त्वादुपास",
+  "raw": "' त्वादुपास ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.4",
+   "part": "vritti",
+   "start": 519,
+   "end": 528,
+   "base": "त् तदुपास",
+   "score": 0.82
+  },
+  "ref": "3.3.4",
+  "scan_anchor": {
+   "page": 128,
+   "line": 9,
+   "word": "श्रूयमाणत्वात्",
+   "confidence": "high",
+   "note": "superscript २ over 'त्वा'; second occurrence on page (line 9, not line 8); reading 'त्वादुपास' replaces 'त्वात् तदुपास'"
+  }
+ },
+ {
+  "page": 128,
+  "n": "३",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "मुपापादि",
+  "raw": "' मुपापादि ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.4",
+   "part": "vritti",
+   "start": 567,
+   "end": 577,
+   "base": "मप्युपासना",
+   "score": 0.56
+  },
+  "ref": "3.3.4",
+  "scan_anchor": {
+   "page": 128,
+   "line": 12,
+   "word": "विद्यैक्यमेवादि",
+   "confidence": "high",
+   "note": "superscript ३ over 'मे' (OCR read it as ai-matra); reading 'मुपापादि' for 'मेवादि'"
+  }
+ },
+ {
+  "page": 129,
+  "n": "*",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": null,
+  "raw": "मुद्रितब्रह्मसूत्र पुस्तकेषु चशब्दो न पठ्यते",
+  "anchor": null,
+  "ref": "3.3.6",
+  "scan_anchor": {
+   "page": 129,
+   "line": 1,
+   "word": "च",
+   "confidence": "high",
+   "note": "asterisk printed before/above 'च' in sūtra 3.3.6; note says printed BS editions lack च"
+  }
+ },
+ {
+  "page": 129,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "क्याभावान्नोपसंहारः",
+  "raw": "' क्याभावान्नोपसंहारः ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.5",
+   "part": "vritti",
+   "start": 220,
+   "end": 240,
+   "base": "क्षाशान्तेर्नोपसंहार",
+   "score": 0.72
+  },
+  "ref": "3.3.5",
+  "scan_anchor": {
+   "page": 129,
+   "line": 2,
+   "word": "विद्यैक्यापवादादनुपसंहार",
+   "confidence": "high",
+   "note": "superscript १ over 'क्या'; reading 'क्याभावान्नोपसंहारः' replaces 'क्यापवादादनुपसंहार'"
+  }
+ },
+ {
+  "page": 129,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "युक्त इ",
+  "raw": "' युक्त इ ' ख पुस्तके पाठ",
+  "anchor": {
+   "ref": "3.3.5",
+   "part": "vritti",
+   "start": 297,
+   "end": 302,
+   "base": "युक्त",
+   "score": 0.91
+  },
+  "ref": "3.3.5",
+  "scan_anchor": {
+   "page": 129,
+   "line": 26,
+   "word": "युज्यत",
+   "confidence": "high",
+   "note": "superscript २ over 'यु' in 'स न युज्यत' (last line); reading 'युक्त इ'"
+  }
+ },
+ {
+  "page": 130,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "कमिति",
+  "raw": "' कमिति ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.6",
+   "part": "vritti",
+   "start": 406,
+   "end": 410,
+   "base": "मिति",
+   "score": 0.89
+  },
+  "ref": "3.3.6",
+  "scan_anchor": {
+   "page": 130,
+   "line": 7,
+   "word": "कारणाभावादनिर्धारणार्थकमिदमिति",
+   "confidence": "high",
+   "note": "superscript १ over 'र्थक' (just before 'मिदमिति'); reading 'कमिति' replaces 'कमिदमिति'"
+  }
+ },
+ {
+  "page": 130,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "क्षायामुद्गी",
+  "raw": "' क्षायामुद्गी ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.7",
+   "part": "vritti",
+   "start": 58,
+   "end": 69,
+   "base": "दक्षरमुद्गी",
+   "score": 0.78
+  },
+  "ref": "3.3.7",
+  "scan_anchor": {
+   "page": 130,
+   "line": 9,
+   "word": "इत्यपेक्षयोद्गीथावयवत्वेनोङ्कारो",
+   "confidence": "high",
+   "note": "superscript २ over 'क्ष' (OCR read it as e-matra); reading 'क्षायामुद्गी' replaces 'क्षयोद्गी'"
+  }
+ },
+ {
+  "page": 130,
+  "n": "३",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "षत्वाद्वि",
+  "raw": "' षत्वाद्वि ' क पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.8",
+   "part": "vritti",
+   "start": 44,
+   "end": 52,
+   "base": "त्वाद्वि",
+   "score": 0.94
+  },
+  "ref": "3.3.8",
+  "scan_anchor": {
+   "page": 130,
+   "line": 14,
+   "word": "परिशेषाद्विशेषणपक्ष",
+   "confidence": "high",
+   "note": "superscript ३ over 'षा'; reading 'षत्वाद्वि'"
+  }
+ },
+ {
+  "page": 131,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "भवतु शाखा",
+  "raw": "' भवतु शाखा ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.10",
+   "part": "vritti",
+   "start": 398,
+   "end": 407,
+   "base": "वासु शाखा",
+   "score": 0.75
+  },
+  "ref": "3.3.10",
+  "scan_anchor": {
+   "page": 131,
+   "line": 2,
+   "word": "भवेच्छाखान्तरीयवसिष्ठत्वाद्युपसंहारः",
+   "confidence": "high",
+   "note": "superscript १ over 'भ'; reading 'भवतु शाखा' replaces 'भवेच्छाखा'"
+  }
+ },
+ {
+  "page": 132,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "ज्ञान",
+  "raw": "' ज्ञान ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.13",
+   "part": "lead",
+   "start": 0,
+   "end": 5,
+   "base": "ज्ञान",
+   "score": 1.0
+  },
+  "ref": "3.3.13",
+  "scan_anchor": {
+   "page": 132,
+   "line": 8,
+   "word": "आध्यानसाध्यसाक्षात्काराय",
+   "confidence": "high",
+   "note": "superscript १ over the second 'आध्यान' (the gloss word, not the sūtra pratīka 'आध्यानाय'); reading 'ज्ञान' replaces 'आध्यान'"
+  }
+ },
+ {
+  "page": 132,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "र्थाना",
+  "raw": "' र्थाना ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.16",
+   "part": "vritti",
+   "start": 57,
+   "end": 64,
+   "base": "र्थे ना",
+   "score": 0.83
+  },
+  "ref": "3.3.16",
+  "scan_anchor": {
+   "page": 132,
+   "line": 18,
+   "word": "वाक्यभेदभियार्थादीनां",
+   "confidence": "high",
+   "note": "small superscript (२) over 'र्था', OCR read it as o-matra; digit shape faint but position + fit clear; reading 'र्थाना' replaces 'र्थादीनां'"
+  }
+ },
+ {
+  "page": 133,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "व समजस",
+  "raw": "' व समजस ' खपुस्तके पाठः",
+  "anchor": null,
+  "ref": "3.3.16",
+  "scan_anchor": {
+   "page": 133,
+   "line": 11,
+   "word": "परमात्मन्येवाञ्जसत्वात्",
+   "confidence": "high",
+   "note": "superscript १ over 'वा'; reading 'व समजस' (= एव समञ्जस) replaces 'वाञ्जस'"
+  }
+ },
+ {
+  "page": 133,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "तत्राह",
+  "raw": "' तत्राह ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.17",
+   "part": "vritti",
+   "start": 82,
+   "end": 87,
+   "base": "त्राह",
+   "score": 0.91
+  },
+  "ref": "3.3.17",
+  "scan_anchor": {
+   "page": 133,
+   "line": 26,
+   "word": "चेदत्राह",
+   "confidence": "high",
+   "note": "superscript २ over 'द' in 'चेदत्राह' (OCR misread it as 'चेदेवाह'); reading 'तत्राह'"
+  }
+ },
+ {
+  "page": 137,
+  "n": "१",
+  "kind": "note",
+  "witness": "editor",
+  "reading": "पुण्यपापे विधूय",
+  "raw": "' पुण्यपापे विधूय ' इत्येतत्स्थाने ' नामरूपाद्विमुक्तः ' इत्येव मुण्डके भाष्यादौ च पाठः",
+  "anchor": null,
+  "ref": "3.3.25",
+  "scan_anchor": {
+   "page": 137,
+   "line": 22,
+   "word": "पुण्यपापे",
+   "confidence": "high",
+   "note": "superscript १ over 'पु' of the Ātharvaṇa quotation 'तथा विद्वान् पुण्यपापे विधूय'; editor's note: Muṇḍaka reads 'नामरूपाद्विमुक्तः'"
+  }
+ },
+ {
+  "page": 139,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "ताण्ड्यादिकौषीतकिन",
+  "raw": "‘ ताण्ड्यादिकौषीतकिन ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.26",
+   "part": "vritti",
+   "start": 793,
+   "end": 814,
+   "base": "ष्कृतम् ' इति कौषीतकि",
+   "score": 0.57
+  },
+  "ref": "3.3.26",
+  "scan_anchor": {
+   "page": 139,
+   "line": 23,
+   "word": "कौषीतकिताण्डिश्रुत्योरुभयोरविरोधो",
+   "confidence": "high",
+   "note": "small faint superscript mark over 'कौ' (digit shape not crisp, but only note on page and reading 'ताण्ड्यादिकौषीतकिन' fits 'कौषीतकिताण्डि')"
+  }
+ },
+ {
+  "page": 140,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "ननु स",
+  "raw": "' ननु स ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.26",
+   "part": "vritti",
+   "start": 2940,
+   "end": 2943,
+   "base": "ननस",
+   "score": 0.86
+  },
+  "ref": "3.3.26",
+  "scan_anchor": {
+   "page": 140,
+   "line": 12,
+   "word": "ननु",
+   "confidence": "high",
+   "note": "superscript above ननु; reading 'ननु स' = ननु + following word"
+  }
+ },
+ {
+  "page": 140,
+  "n": "२",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": "सर्वासामविरोधः",
+  "raw": "' सर्वासामविरोधः ' इत्येव तु मुद्रितभाष्यादिषु पाठः",
+  "anchor": {
+   "ref": "3.3.31",
+   "part": "sutra",
+   "start": 7,
+   "end": 21,
+   "base": "सर्वेषामविरोधः",
+   "score": 0.86
+  },
+  "ref": "3.3.31",
+  "scan_anchor": {
+   "page": 140,
+   "line": 21,
+   "word": "सर्वेषामविरोधः",
+   "confidence": "high",
+   "note": "printed reading सर्वासामविरोधः"
+  }
+ },
+ {
+  "page": 141,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "हप्रा",
+  "raw": "' हप्रा ' कर्पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.29",
+   "part": "lead",
+   "start": 6,
+   "end": 10,
+   "base": "प्रा",
+   "score": 0.89
+  },
+  "ref": "3.3.29",
+  "scan_anchor": {
+   "page": 141,
+   "line": 18,
+   "word": "देहान्तर",
+   "confidence": "high",
+   "note": "superscript over हा of देहान्तर- (line end, continues प्राप्तिरस्ति); ms reads देहप्रा(प्ति)"
+  }
+ },
+ {
+  "page": 147,
+  "n": "१",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": "शत्सहस्त्राणि",
+  "raw": "' शत्सहस्त्राणि ' इति मुद्रितभाष्यादिषु पाठः",
+  "anchor": {
+   "ref": "3.3.44",
+   "part": "vritti",
+   "start": 138,
+   "end": 151,
+   "base": "ंशेतं सहस्राण",
+   "score": 0.72
+  },
+  "ref": "3.3.44",
+  "scan_anchor": {
+   "page": 147,
+   "line": 11,
+   "word": "षट्त्रिंशतं",
+   "confidence": "high",
+   "note": "superscript over शं of षट्त्रिंशतं (OCR read the superscript as an e-mātrā: षट्त्रिंशेतं); printed reading षट्त्रिंशत्सहस्राणि"
+  }
+ },
+ {
+  "page": 148,
+  "n": "१",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": "एकैक एव तावान्",
+  "raw": "' एकैक एव तावान् ' इति मुद्रितभाष्यादिषु पाठः",
+  "anchor": null,
+  "ref": "3.3.46",
+  "scan_anchor": {
+   "page": 148,
+   "line": 2,
+   "word": "एकोऽग्निस्तावान्",
+   "confidence": "high",
+   "note": "superscript on ए of एकोऽग्निस्तावान् (OCR ऐ = mark misread); printed reading 'एकैक एव तावान्'"
+  }
+ },
+ {
+  "page": 149,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "त्कर्षः क दृष्टः",
+  "raw": "' त्कर्षः क दृष्टः ' क पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.50",
+   "part": "vritti",
+   "start": 696,
+   "end": 710,
+   "base": "त्कर्षो दृष्टः",
+   "score": 0.89
+  },
+  "ref": "3.3.50",
+  "scan_anchor": {
+   "page": 149,
+   "line": 2,
+   "word": "कर्मप्रकरणादुत्कर्षे",
+   "confidence": "high",
+   "note": "superscript over त्क of उत्कर्षे (OCR misread mark as ै); ms reading 'त्कर्षः क दृष्टः'"
+  }
+ },
+ {
+  "page": 149,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "प्रकृत्य",
+  "raw": "' प्रकृत्य ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.51",
+   "part": "sutra",
+   "start": 21,
+   "end": 28,
+   "base": "र्मृत्य",
+   "score": 0.67
+  },
+  "ref": "3.3.51",
+  "scan_anchor": {
+   "page": 149,
+   "line": 3,
+   "word": "प्रस्तुत्य",
+   "confidence": "high",
+   "note": "superscript over प्र (OCR read it as e-mātrā); ms reading प्रकृत्य"
+  }
+ },
+ {
+  "page": 149,
+  "n": "३",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "नसत्व",
+  "raw": "' नसत्व ' ख पुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.51",
+   "part": "vritti",
+   "start": 16,
+   "end": 21,
+   "base": "नसत्व",
+   "score": 1.0
+  },
+  "ref": "3.3.51",
+  "scan_anchor": {
+   "page": 149,
+   "line": 15,
+   "word": "तद्वन्मानसमानसिकाग्न्योर्मानसिकत्वसा",
+   "confidence": "high",
+   "note": "superscript over the second मानसिकत्व- part (…र्मानसिकत्वसा-); ms reads मानसत्व-"
+  }
+ },
+ {
+  "page": 150,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "र्गापवर्गादि",
+  "raw": "' र्गापवर्गादि ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.53",
+   "part": "vritti",
+   "start": 70,
+   "end": 82,
+   "base": "त् स्वर्गादि",
+   "score": 0.7
+  },
+  "ref": "3.3.53",
+  "scan_anchor": {
+   "page": 150,
+   "line": 6,
+   "word": "स्वर्गादिशास्त्रवैयर्थ्यं",
+   "confidence": "high",
+   "note": "superscript over स्व of स्वर्गादि-; ms reading स्वर्गापवर्गादि"
+  }
+ },
+ {
+  "page": 150,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "एव त",
+  "raw": "' एव त ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.54",
+   "part": "sutra",
+   "start": 37,
+   "end": 39,
+   "base": "वत",
+   "score": 0.8
+  },
+  "ref": "3.3.54",
+  "scan_anchor": {
+   "page": 150,
+   "line": 7,
+   "word": "उत",
+   "confidence": "high",
+   "note": "superscript over उत (देह उत तदतिरिक्त); ms reading 'एव त(द)'"
+  }
+ },
+ {
+  "page": 150,
+  "n": "३",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "विशये",
+  "raw": "' विशये ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.55",
+   "part": "vritti",
+   "start": 613,
+   "end": 617,
+   "base": "विशे",
+   "score": 0.89
+  },
+  "ref": "3.3.55",
+  "scan_anchor": {
+   "page": 150,
+   "line": 27,
+   "word": "सन्देहे",
+   "confidence": "high",
+   "note": "superscript over स of सन्देहे; ms reading विशये"
+  }
+ },
+ {
+  "page": 151,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "स्तिविधिन",
+  "raw": "' स्तिविधिन ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.57",
+   "part": "vritti",
+   "start": 192,
+   "end": 200,
+   "base": "स्तिर्वि",
+   "score": 0.71
+  },
+  "ref": "3.3.57",
+  "scan_anchor": {
+   "page": 151,
+   "line": 25,
+   "word": "दिव्यस्तोपास्तिश्रुतीनां",
+   "confidence": "high",
+   "note": "superscript over स्ति of (व्यस्तोपा)स्तिश्रुतीनां; ms reading (उपा)स्तिविधीनां"
+  }
+ },
+ {
+  "page": 151,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "दत्व",
+  "raw": "' दत्व ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.57",
+   "part": "vritti",
+   "start": 593,
+   "end": 598,
+   "base": "दित्व",
+   "score": 0.89
+  },
+  "ref": "3.3.57",
+  "scan_anchor": {
+   "page": 151,
+   "line": 26,
+   "word": "विधेयत्वादनुवादैकत्वमेव",
+   "confidence": "high",
+   "note": "superscript over दे of अनुवादैकत्वम्; ms reading अनुवादत्वम्"
+  }
+ },
+ {
+  "page": 153,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "6 रुध्यत इ",
+  "raw": "' 6 रुध्यत इ ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.3.58",
+   "part": "vritti",
+   "start": 237,
+   "end": 246,
+   "base": "र्वीत ' इ",
+   "score": 0.62
+  },
+  "ref": "3.3.58",
+  "scan_anchor": {
+   "page": 153,
+   "line": 16,
+   "word": "विरुद्ध",
+   "confidence": "high",
+   "note": "superscript over रु of विरुद्ध (विरुद्ध इति); ms reading विरुध्यत इ(ति)"
+  }
+ },
+ {
+  "page": 155,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "वलविद्या",
+  "raw": "' वलविद्या ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.4",
+   "part": "vritti",
+   "start": 5,
+   "end": 14,
+   "base": "व विद्यया",
+   "score": 0.88
+  },
+  "ref": "3.4.4",
+  "scan_anchor": {
+   "page": 155,
+   "line": 7,
+   "word": "केवलाया",
+   "confidence": "high",
+   "note": "superscript over वला of केवलाया (केवलाया विद्याया); ms reading केवलविद्या(याः)"
+  }
+ },
+ {
+  "page": 155,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "ह्मवादिनां जन",
+  "raw": "' ह्मवादिनां जन ' खपुस्तके पाठः",
+  "anchor": null,
+  "ref": "3.4.1",
+  "scan_anchor": {
+   "page": 155,
+   "line": 18,
+   "word": "ब्रह्मविदां",
+   "confidence": "high",
+   "note": "superscript over ह्म of ब्रह्मविदां; ms reading ब्रह्मवादिनां जन(कादीनां)"
+  }
+ },
+ {
+  "page": 156,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "इति फ",
+  "raw": "' इति फ ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.5",
+   "part": "vritti",
+   "start": 47,
+   "end": 54,
+   "base": "इति च फ",
+   "score": 0.89
+  },
+  "ref": "3.4.5",
+  "scan_anchor": {
+   "page": 156,
+   "line": 1,
+   "word": "इति",
+   "confidence": "high",
+   "note": "superscript over इति (इति च फलारम्भे); ms reading 'इति फ(लारम्भे)' i.e. without च"
+  }
+ },
+ {
+  "page": 156,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "नादपि वि",
+  "raw": "' नादपि वि ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.6",
+   "part": "vritti",
+   "start": 92,
+   "end": 100,
+   "base": "नादपि लि",
+   "score": 0.86
+  },
+  "ref": "3.4.6",
+  "scan_anchor": {
+   "page": 156,
+   "line": 2,
+   "word": "साहित्यदर्शनाद्",
+   "confidence": "high",
+   "note": "superscript over र्श of दर्शनाद्; ms reading दर्शनादपि वि(द्यायाः)"
+  }
+ },
+ {
+  "page": 156,
+  "n": "३",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "नवतः",
+  "raw": "' नवतः ' खपुस्तके पाठः४. ' तत्तद् ज्ञा ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.7",
+   "part": "vritti",
+   "start": 9,
+   "end": 12,
+   "base": "नेव",
+   "score": 0.57
+  },
+  "ref": "3.4.7",
+  "scan_anchor": {
+   "page": 156,
+   "line": 5,
+   "word": "नविद्यावतः",
+   "confidence": "high",
+   "note": "superscript over the line-initial न of (सकलवेदार्थज्ञा-)नविद्यावतः, OCR read the mark as ै; ms reading (ज्ञा)नवतः"
+  }
+ },
+ {
+  "page": 156,
+  "n": "५",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "गुणशे",
+  "raw": "' गुणशे ' खपुस्तके पाठः",
+  "anchor": null,
+  "ref": "3.4.5",
+  "scan_anchor": {
+   "page": 156,
+   "line": 21,
+   "word": "कर्मशेषत्वाभावेऽप्याचारदर्शनं",
+   "confidence": "high",
+   "note": "superscript over क of कर्मशेषत्व-; ms reading (कर्म)गुणशे(षत्व)"
+  }
+ },
+ {
+  "page": 157,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "न्यम",
+  "raw": "' न्यम ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.11",
+   "part": "vritti",
+   "start": 86,
+   "end": 90,
+   "base": "न्यम",
+   "score": 1.0
+  },
+  "ref": "3.4.11",
+  "scan_anchor": {
+   "page": 157,
+   "line": 8,
+   "word": "विद्यान्यं",
+   "confidence": "high",
+   "note": "superscript over न्यं of विद्यान्यं; ms reading (विद्या)न्यम्"
+  }
+ },
+ {
+  "page": 157,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "एवमस्य",
+  "raw": "' एवमस्य ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.11",
+   "part": "vritti",
+   "start": 205,
+   "end": 213,
+   "base": "एवञ्चास्",
+   "score": 0.57
+  },
+  "ref": "3.4.11",
+  "scan_anchor": {
+   "page": 157,
+   "line": 10,
+   "word": "एवञ्चास्य",
+   "confidence": "high",
+   "note": "superscript over ए of एवञ्चास्य; ms reading एवमस्य"
+  }
+ },
+ {
+  "page": 157,
+  "n": "३",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "यतया न",
+  "raw": "' यतया न ' खपुस्तके पाठ",
+  "anchor": {
+   "ref": "3.4.11",
+   "part": "vritti",
+   "start": 243,
+   "end": 249,
+   "base": "यता, न",
+   "score": 0.89
+  },
+  "ref": "3.4.11",
+  "scan_anchor": {
+   "page": 157,
+   "line": 11,
+   "word": "संसारविषयता",
+   "confidence": "high",
+   "note": "superscript over य of विषयता; ms reading (संसारविष)यतया न (मोक्षविषयतेति)"
+  }
+ },
+ {
+  "page": 157,
+  "n": "४",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "कर्मलेपाय न",
+  "raw": "' कर्मलेपाय न ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.14",
+   "part": "vritti",
+   "start": 144,
+   "end": 154,
+   "base": "कर्मलेपो न",
+   "score": 0.84
+  },
+  "ref": "3.4.14",
+  "scan_anchor": {
+   "page": 157,
+   "line": 23,
+   "word": "कर्मलेपो",
+   "confidence": "high",
+   "note": "superscript over क of कर्मलेपो; ms reading कर्मलेपाय न"
+  }
+ },
+ {
+  "page": 159,
+  "n": "१",
+  "kind": "conjecture",
+  "witness": "editor",
+  "reading": "परामर्श :",
+  "raw": "' परामर्श : ' इति स्यात्",
+  "anchor": {
+   "ref": "3.4.18",
+   "part": "sutra",
+   "start": 0,
+   "end": 7,
+   "base": "परामर्श",
+   "score": 1.0
+  },
+  "ref": "3.4.18",
+  "scan_anchor": {
+   "page": 159,
+   "line": 1,
+   "word": "परामर्शम्",
+   "confidence": "high",
+   "note": "superscript over प of परामर्शम् (followed by printed (?)); note: editor's conjecture परामर्शः"
+  }
+ },
+ {
+  "page": 159,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "स्थाश्रुति",
+  "raw": "' स्थाश्रुति ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.18",
+   "part": "vritti",
+   "start": 450,
+   "end": 460,
+   "base": "्या श्रुति",
+   "score": 0.84
+  },
+  "ref": "3.4.18",
+  "scan_anchor": {
+   "page": 159,
+   "line": 10,
+   "word": "ब्रह्मसंस्थो",
+   "confidence": "high",
+   "note": "superscript over स्थो of ब्रह्मसंस्थो- (line-end, continues स्तुतिपरादपि); ms reading (ब्रह्मसं)स्थाश्रुति"
+  }
+ },
+ {
+  "page": 160,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "मङ्गाश्रितोपा",
+  "raw": "' मङ्गाश्रितोपा ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.21",
+   "part": "lead",
+   "start": 24,
+   "end": 37,
+   "base": "म्यश्रुतेः पा",
+   "score": 0.64
+  },
+  "ref": "3.4.21",
+  "scan_anchor": {
+   "page": 160,
+   "line": 4,
+   "word": "कर्माङ्गोपास्तीनामनुष्ठानासिद्धिः",
+   "confidence": "high",
+   "note": "superscript over र्मा of कर्माङ्गोपास्तीनाम्; ms reading (कर्मा)ङ्गाश्रितोपा(स्तीनाम्)"
+  }
+ },
+ {
+  "page": 160,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "दः वेदान्तेषु त",
+  "raw": "' दः वेदान्तेषु त ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.21",
+   "part": "vritti",
+   "start": 44,
+   "end": 61,
+   "base": "द्धिः, सिद्धान्ते",
+   "score": 0.57
+  },
+  "ref": "3.4.21",
+  "scan_anchor": {
+   "page": 160,
+   "line": 23,
+   "word": "फलभेदः",
+   "confidence": "high",
+   "note": "superscript over दः of फलभेदः; ms reading '(फलभे)दः वेदान्तेषु त(त्र)' i.e. वेदान्तेषु for the first तत्र"
+  }
+ },
+ {
+  "page": 160,
+  "n": "३",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "त्याचा आ",
+  "raw": "' त्याचा आ ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.23",
+   "part": "vritti",
+   "start": 315,
+   "end": 323,
+   "base": "त्याद्या",
+   "score": 0.67
+  },
+  "ref": "3.4.23",
+  "scan_anchor": {
+   "page": 160,
+   "line": 24,
+   "word": "इत्याद्याख्यायिकाः",
+   "confidence": "high",
+   "note": "superscript over त्या of इत्याद्याख्यायिकाः; ms reading इत्याचाख्या… ('त्याचा आ')"
+  }
+ },
+ {
+  "page": 161,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "वशेषेण वि",
+  "raw": "' वशेषेण वि ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.23",
+   "part": "lead",
+   "start": 137,
+   "end": 144,
+   "base": "वशेषत्व",
+   "score": 0.67
+  },
+  "ref": "3.4.23",
+  "scan_anchor": {
+   "page": 161,
+   "line": 3,
+   "word": "पारिप्लवशेषत्वेन",
+   "confidence": "high",
+   "note": "superscript over प्लव of पारिप्लवशेषत्वेन (… विशेषित-); ms reading (पारिप्ल)वशेषेण वि(शेषित)"
+  }
+ },
+ {
+  "page": 161,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "यजना",
+  "raw": "' यजना ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.23",
+   "part": "lead",
+   "start": 146,
+   "end": 152,
+   "base": "य ज्या",
+   "score": 0.67
+  },
+  "ref": "3.4.23",
+  "scan_anchor": {
+   "page": 161,
+   "line": 18,
+   "word": "अग्नीन्धनाद्यनपेक्षा",
+   "confidence": "high",
+   "note": "superscript over अ of अग्नीन्धनाद्यनपेक्षा (first occurrence, after ब्रह्मविद्याया); ms reading 'यजना' (presumably अग्नियजनाद्यनपेक्षा) — digit looks like २, fit is loose"
+  }
+ },
+ {
+  "page": 161,
+  "n": "३",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "ति वाक्यार्थ",
+  "raw": "' ति वाक्यार्थ ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.23",
+   "part": "vritti",
+   "start": 712,
+   "end": 724,
+   "base": "त्वादित्यर्थ",
+   "score": 0.7
+  },
+  "ref": "3.4.23",
+  "scan_anchor": {
+   "page": 161,
+   "line": 20,
+   "word": "त्यर्थः",
+   "confidence": "high",
+   "note": "superscript over line-initial त्य of (शुक्तिज्ञानस्येवे)त्यर्थः; ms reading '(इ)ति वाक्यार्थ(ः)'"
+  }
+ },
+ {
+  "page": 161,
+  "n": "४",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "कर्मानपेक्षेत्यभा",
+  "raw": "' कर्मानपेक्षेत्यभा ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.26",
+   "part": "lead",
+   "start": 61,
+   "end": 79,
+   "base": "कैर्मानपेक्षत्वमभा",
+   "score": 0.86
+  },
+  "ref": "3.4.26",
+  "scan_anchor": {
+   "page": 161,
+   "line": 22,
+   "word": "कर्मानपेक्षत्वम",
+   "confidence": "high",
+   "note": "superscript over क of कर्मानपेक्षत्वम- (OCR read the mark as ै); ms reading कर्मानपेक्षेत्यभा(णि)"
+  }
+ },
+ {
+  "page": 161,
+  "n": "५",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "थैवोत्प",
+  "raw": "' थैवोत्प ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.26",
+   "part": "lead",
+   "start": 88,
+   "end": 94,
+   "base": "्वोत्प",
+   "score": 0.77
+  },
+  "ref": "3.4.26",
+  "scan_anchor": {
+   "page": 161,
+   "line": 23,
+   "word": "तथा",
+   "confidence": "high",
+   "note": "superscript over था of तथा (तथा स्वोत्पत्तावपि); ms reading तथैवोत्प(त्तावपि)"
+  }
+ },
+ {
+  "page": 162,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "सर्वांनुज्ञा",
+  "raw": "‘ सर्वांनुज्ञा ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.28",
+   "part": "vritti",
+   "start": 197,
+   "end": 211,
+   "base": "सर्वान्नानुज्ञ",
+   "score": 0.77
+  },
+  "ref": "3.4.28",
+  "scan_anchor": {
+   "page": 162,
+   "line": 20,
+   "word": "सर्वान्नानुज्ञानं",
+   "confidence": "high",
+   "note": "superscript over स of सर्वान्नानुज्ञानं (first occurrence, line 20); ms reading सर्वानुज्ञा(नं)"
+  }
+ },
+ {
+  "page": 162,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "च्छ्वादिमर्यादान",
+  "raw": "' च्छ्वादिमर्यादान ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.28",
+   "part": "vritti",
+   "start": 566,
+   "end": 581,
+   "base": "वाच्छ्रादिपर्यन",
+   "score": 0.71
+  },
+  "ref": "3.4.28",
+  "scan_anchor": {
+   "page": 162,
+   "line": 25,
+   "word": "विध्यभावाच्छ्वादिपर्यन्तस्यान्नस्यैकेनात्तुमशक्यत्वाच्च",
+   "confidence": "high",
+   "note": "superscript over च्छ्वा (printed श्वादि, OCR श्रादि); ms reading (विध्यभावा)च्छ्वादिमर्यादान(्न)"
+  }
+ },
+ {
+  "page": 163,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "र्थसं",
+  "raw": "' र्थसं ' कपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.28",
+   "part": "vritti",
+   "start": 244,
+   "end": 249,
+   "base": "र्थ स",
+   "score": 0.89
+  },
+  "ref": "3.4.28",
+  "scan_anchor": {
+   "page": 163,
+   "line": 21,
+   "word": "कर्मणामुभयार्थत्वसम्भवात्",
+   "confidence": "high",
+   "note": "superscript over या/र्थ of उभयार्थत्व- (small mark beside the reph); ms reading (उभया)र्थसं(भवात्) i.e. without त्व"
+  }
+ },
+ {
+  "page": 164,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "तत्कर्म",
+  "raw": "' तत्कर्म ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.32",
+   "part": "vritti",
+   "start": 75,
+   "end": 82,
+   "base": "त् कर्म",
+   "score": 0.92
+  },
+  "ref": "3.4.32",
+  "scan_anchor": {
+   "page": 164,
+   "line": 19,
+   "word": "तत्कृतकर्मणां",
+   "confidence": "high",
+   "note": "superscript over त of तत्कृतकर्मणां; ms reading तत्कर्म(णां)"
+  }
+ },
+ {
+  "page": 164,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "श्रमान्तरं वि",
+  "raw": "' श्रमान्तरं वि ' खपुस्तके पाठः",
+  "anchor": {
+   "ref": "3.4.36",
+   "part": "vritti",
+   "start": 204,
+   "end": 217,
+   "base": "श्रममन्तरा वि",
+   "score": 0.83
+  },
+  "ref": "3.4.36",
+  "scan_anchor": {
+   "page": 164,
+   "line": 24,
+   "word": "आश्रममन्तरा",
+   "confidence": "high",
+   "note": "superscript over आ of आश्रममन्तरा; ms reading (आ)श्रमान्तरं वि(ना)"
+  }
+ },
+ {
+  "page": 165,
+  "n": "१",
+  "kind": "conjecture",
+  "witness": "editor",
+  "reading": "कुतः",
+  "raw": "' कुतः ' इत्येतदुत्तरं ' लिङ्गाच ' इति पठनीयं भाति",
+  "anchor": {
+   "ref": "3.4.34",
+   "part": "vritti",
+   "start": 72,
+   "end": 76,
+   "base": "कुतः",
+   "score": 1.0
+  },
+  "ref": "3.4.34",
+  "scan_anchor": {
+   "page": 165,
+   "line": 11,
+   "word": "कुतः",
+   "confidence": "high",
+   "note": "superscript over कु of कुतः (line 11, sūtra 39 gloss); editor suggests inserting लिङ्गाच्च after कुतः"
+  }
+ },
+ {
+  "page": 167,
+  "n": "१",
+  "kind": "note",
+  "witness": "editor",
+  "reading": "ढं प",
+  "raw": "' ढं प ' ख , पाठः",
+  "anchor": null,
+  "ref": "3.4.43",
+  "scan_anchor": {
+   "page": 167,
+   "line": 2,
+   "word": "आरूढपतितमित्यादिस्मृतिविरोधः",
+   "confidence": "high",
+   "note": "superscript over ढ of आरूढपतितम् (OCR read the mark as e-mātrā: आरूढे-); ms reading आरूढं प(तितम्)"
+  }
+ },
+ {
+  "page": 167,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "ढं प",
+  "raw": "' ढं प ' ख . पाठः",
+  "anchor": {
+   "ref": "3.4.41",
+   "part": "vritti",
+   "start": 109,
+   "end": 112,
+   "base": "ं प",
+   "score": 0.8
+  },
+  "ref": "3.4.41",
+  "scan_anchor": {
+   "page": 167,
+   "line": 6,
+   "word": "आरूढपतितं",
+   "confidence": "high",
+   "note": "superscript २ over ढ of आरूढपतितं (OCR read it as e-mātrā); ms reading आरूढं प(तितं)"
+  }
+ },
+ {
+  "page": 168,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "अभूतस्य त",
+  "raw": "' अभूतस्य त ' ख . पाठः",
+  "anchor": {
+   "ref": "3.4.47",
+   "part": "vritti",
+   "start": 76,
+   "end": 85,
+   "base": "्य तस्य त",
+   "score": 0.67
+  },
+  "ref": "3.4.47",
+  "scan_anchor": {
+   "page": 168,
+   "line": 11,
+   "word": "प्रत्यन्तरङ्गस्य",
+   "confidence": "high",
+   "note": "superscript over ङ्ग of प्रत्यन्तरङ्गस्य (OCR read mark as ै); ms reading 'अभूतस्य त(स्य)'"
+  }
+ },
+ {
+  "page": 168,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "त्वेति ब्रह्मप",
+  "raw": "' त्वेति ब्रह्मप ' ख . पाठः",
+  "anchor": {
+   "ref": "3.4.47",
+   "part": "vritti",
+   "start": 894,
+   "end": 912,
+   "base": "वानेव। ननु ब्रह्मप",
+   "score": 0.64
+  },
+  "ref": "3.4.47",
+  "scan_anchor": {
+   "page": 168,
+   "line": 19,
+   "word": "विदित्वे'ति",
+   "confidence": "high",
+   "note": "superscript over दि/त्वे of 'विदित्वे'ति; ms reading (विदि)त्वेति ब्रह्मप(रोक्ष…)"
+  }
+ },
+ {
+  "page": 169,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "वह",
+  "raw": "' वह ' क . पाठः",
+  "anchor": {
+   "ref": "3.4.48",
+   "part": "vritti",
+   "start": 20,
+   "end": 23,
+   "base": "विह",
+   "score": 0.8
+  },
+  "ref": "3.4.48",
+  "scan_anchor": {
+   "page": 169,
+   "line": 25,
+   "word": "इहैव",
+   "confidence": "low",
+   "note": "an extra raised stroke over है of इहैव (line 25, after संशये) looks like the superscript (compare normal किमिहैव on line 24); no other mark found on the page; fit with ms reading 'वह' unclear"
+  }
+ },
+ {
+  "page": 169,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "कर्म",
+  "raw": "' कर्म ' क . पाठः",
+  "anchor": {
+   "ref": "3.4.50",
+   "part": "vritti",
+   "start": 128,
+   "end": 132,
+   "base": "कर्म",
+   "score": 1.0
+  },
+  "ref": "3.4.50",
+  "scan_anchor": {
+   "page": 169,
+   "line": 26,
+   "word": "विद्याविरुद्धफलकं",
+   "confidence": "high",
+   "note": "superscript २ over ल of (विद्याविरुद्ध)फलकं (OCR read the mark as ै: फलैकं); ms reading कर्म (i.e. फलकर्म?)"
+  }
+ },
+ {
+  "page": 170,
+  "n": "?",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "पूर्व",
+  "raw": "' पूर्व ' क . पाठः",
+  "anchor": {
+   "ref": "3.4.50",
+   "part": "lead",
+   "start": 0,
+   "end": 5,
+   "base": "पूर्व",
+   "score": 1.0
+  },
+  "ref": "3.4.50",
+  "scan_anchor": {
+   "page": 170,
+   "line": 19,
+   "word": "सर्वं",
+   "confidence": "high",
+   "note": "superscript (looks like १) over 'सर्वं' in the closing verse 'शान्त्यादि साधनं सर्वं प्रत्यपादि'; reading 'पूर्व' replaces 'सर्वं'. The dot over 'दमाह' (OCR line 8 '1') is a speck, not a digit"
+  }
+ },
+ {
+  "page": 171,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "न्तादवा",
+  "raw": "' न्तादवा ' क . पाठः",
+  "anchor": {
+   "ref": "4.1.1",
+   "part": "lead",
+   "start": 373,
+   "end": 379,
+   "base": "न्तीवा",
+   "score": 0.77
+  },
+  "ref": "4.1.1",
+  "scan_anchor": {
+   "page": 171,
+   "line": 2,
+   "word": "दृष्टान्तावान्तरसङ्गत्येदमधिकरणमाह",
+   "confidence": "high",
+   "note": "superscript १ over 'न्ता' (OCR read it as ī-matra); reading 'न्तादवा' replaces 'न्तावा'"
+  }
+ },
+ {
+  "page": 171,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "नं चि",
+  "raw": "' नं चि ' ख . पाठः",
+  "anchor": {
+   "ref": "4.1.1",
+   "part": "vritti",
+   "start": 159,
+   "end": 166,
+   "base": "नं विचि",
+   "score": 0.8
+  },
+  "ref": "4.1.1",
+  "scan_anchor": {
+   "page": 171,
+   "line": 6,
+   "word": "धनं",
+   "confidence": "high",
+   "note": "superscript २ over 'ध' of 'धनं' (line-start, from संन्यासादिसा-धनं); reading 'नं चि' (cf. printed 'नं विचिन्तितम्')"
+  }
+ },
+ {
+  "page": 171,
+  "n": "३",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "मुताव",
+  "raw": "' मुताव ' क . पाठः",
+  "anchor": {
+   "ref": "4.1.1",
+   "part": "vritti",
+   "start": 199,
+   "end": 203,
+   "base": "यमाव",
+   "score": 0.67
+  },
+  "ref": "4.1.1",
+  "scan_anchor": {
+   "page": 171,
+   "line": 8,
+   "word": "मुत",
+   "confidence": "high",
+   "note": "superscript ३ over 'मु' (OCR read it as candrabindu); reading 'मुताव' (cf. 'मुत तस्यावृत्तिः')"
+  }
+ },
+ {
+  "page": 171,
+  "n": "४",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "रद्वारा फ",
+  "raw": "' रद्वारा फ ' ख . पाठः",
+  "anchor": {
+   "ref": "4.1.3",
+   "part": "lead",
+   "start": 50,
+   "end": 57,
+   "base": "द्विचार",
+   "score": 0.67
+  },
+  "ref": "4.1.3",
+  "scan_anchor": {
+   "page": 171,
+   "line": 11,
+   "word": "त्यावृत्तिश्रवणादुपास्यसाक्षात्कारफल",
+   "confidence": "high",
+   "note": "superscript ४ over 'र' before 'फल' (OCR read it as e-matra + anusvara); reading 'रद्वारा फ'"
+  }
+ },
+ {
+  "page": 171,
+  "n": "५",
+  "kind": "note",
+  "witness": "editor",
+  "reading": "आत्मत्वेन ब्र",
+  "raw": "' आत्मत्वेन ब्र ' ख , पाठः",
+  "anchor": null,
+  "ref": "4.1.1",
+  "scan_anchor": {
+   "page": 171,
+   "line": 25,
+   "word": "आत्मेत्येव",
+   "confidence": "high",
+   "note": "superscript ५ over 'आ' at line start; reading 'आत्मत्वेन ब्र' replaces 'आत्मेत्येव ब्रह्म'"
+  }
+ },
+ {
+  "page": 173,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "किमांसी",
+  "raw": "' किमांसी ' क . पाठः",
+  "anchor": {
+   "ref": "4.1.7",
+   "part": "vritti",
+   "start": 141,
+   "end": 152,
+   "base": "ियमः, उतासी",
+   "score": 0.62
+  },
+  "ref": "4.1.7",
+  "scan_anchor": {
+   "page": 173,
+   "line": 16,
+   "word": "किं",
+   "confidence": "low",
+   "note": "NO superscript digit visible on either image (zoomed किं, आसीनस्यैव, आसीनेषु — only anusvara/broken type). Placement is by fit only: reading 'किमांसी' looks like an alternative for 'किं तिष्ठन्नासी(नः)' in line 16. Could be unmarked in the print"
+  }
+ },
+ {
+  "page": 174,
+  "n": "?",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "ति दृष्टम्",
+  "raw": "१' ति दृष्टम् ' क . पाठः",
+  "anchor": {
+   "ref": "4.1.12",
+   "part": "sutra",
+   "start": 21,
+   "end": 30,
+   "base": "ि दृष्टम्",
+   "score": 0.94
+  },
+  "ref": "4.1.12",
+  "scan_anchor": {
+   "page": 174,
+   "line": 26,
+   "word": "कुर्वीतेति",
+   "confidence": "high",
+   "note": "small faint superscript mark (OCR read it as an apostrophe) right after कुर्वीतेति, before सिद्धम्; reading 'ति दृष्टम्' replaces 'ति सिद्धम्'"
+  }
+ },
+ {
+  "page": 175,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "शादित्यर्थः",
+  "raw": "' शादित्यर्थः \" ख . पाठः",
+  "anchor": {
+   "ref": "4.1.13",
+   "part": "vritti",
+   "start": 864,
+   "end": 875,
+   "base": "शादित्यर्थः",
+   "score": 1.0
+  },
+  "ref": "4.1.13",
+  "scan_anchor": {
+   "page": 175,
+   "line": 14,
+   "word": "व्यपदेशात्",
+   "confidence": "high",
+   "note": "small superscript above शा of व्यपदेशात् (first word of the line); reading 'शादित्यर्थः' = ms व्यपदेशादित्यर्थः here"
+  }
+ },
+ {
+  "page": 175,
+  "n": "२",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "र्थः ॥ १३ ॥",
+  "raw": "' र्थः ॥ १३ ॥ ' क . पाठः",
+  "anchor": {
+   "ref": "4.1.13",
+   "part": "vritti",
+   "start": 871,
+   "end": 875,
+   "base": "र्थः",
+   "score": 1.0
+  },
+  "ref": "4.1.13",
+  "scan_anchor": {
+   "page": 175,
+   "line": 15,
+   "word": "निर्गुणब्रह्मविद्यास्वप्युत्तरपूर्वाघाश्लेषविनाशयोर्व्यपदेशादित्यर्थः",
+   "confidence": "high",
+   "note": "superscript २ printed above त्य/र्थ at end of the compound (…दित्यर्थः); reading 'र्थः ॥ १३ ॥' = ms ends the adhikaraṇa here, omitting स्मृतिस्त्वज्ञविषयेति भावः"
+  }
+ },
+ {
+  "page": 176,
+  "n": "?",
+  "kind": "note",
+  "witness": "editor",
+  "reading": "स्परायां ज्ञा",
+  "raw": "' स्परायां ज्ञा ' पाठः",
+  "anchor": null,
+  "ref": "4.1.15",
+  "scan_anchor": {
+   "page": 176,
+   "line": 9,
+   "word": "भवपरम्परया",
+   "confidence": "high",
+   "note": "superscript (looks like १) above म्प of भवपरम्परया; reading 'स्परायां ज्ञा' = परम्परायां ज्ञानोत्पत्ति…"
+  }
+ },
+ {
+  "page": 178,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "पक्षेऽनपेक्षालक्षणविशेषन्या",
+  "raw": "' पक्षेऽनपेक्षालक्षणविशेषन्या ' ( ? ) क . पाठः",
+  "anchor": {
+   "ref": "4.2.1",
+   "part": "lead",
+   "start": 425,
+   "end": 452,
+   "base": "यपेक्षानपेक्षालक्षणविशेषं न",
+   "score": 0.83
+  },
+  "ref": "4.2.1",
+  "scan_anchor": {
+   "page": 178,
+   "line": 9,
+   "word": "पूर्वपक्षे",
+   "confidence": "high",
+   "note": "superscript १ above प of पक्षे (OCR misread it as ै); reading 'पक्षेऽनपेक्षालक्षणविशेषन्या' begins at पक्षे"
+  }
+ },
+ {
+  "page": 179,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "घनयो",
+  "raw": "' घनयो ' क पाठः",
+  "anchor": {
+   "ref": "4.2.3",
+   "part": "lead",
+   "start": 162,
+   "end": 165,
+   "base": "नयो",
+   "score": 0.86
+  },
+  "ref": "4.2.3",
+  "scan_anchor": {
+   "page": 179,
+   "line": 9,
+   "word": "हिमघटयोस्तददर्शनादिति",
+   "confidence": "high",
+   "note": "superscript १ above घ of हिमघटयोः (OCR misread it as र्); reading 'घनयो' = हिमघनयोः"
+  }
+ },
+ {
+  "page": 179,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "त्यभ्युप",
+  "raw": "' त्यभ्युप ' ख . पाठः",
+  "anchor": {
+   "ref": "4.2.3",
+   "part": "vritti",
+   "start": 251,
+   "end": 262,
+   "base": "तव्यम्। सुप",
+   "score": 0.71
+  },
+  "ref": "4.2.3",
+  "scan_anchor": {
+   "page": 179,
+   "line": 18,
+   "word": "अभिसमायन्ती’त्युपगमः",
+   "confidence": "high",
+   "note": "superscript २ above त्यु after the closing quote; reading 'त्यभ्युप' = …त्यभ्युपगमः"
+  }
+ },
+ {
+  "page": 180,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "पूर्वोत्का",
+  "raw": "' पूर्वोत्का ' क . पाठः",
+  "anchor": {
+   "ref": "4.2.3",
+   "part": "vritti",
+   "start": 2,
+   "end": 12,
+   "base": "ं पूर्ववत्",
+   "score": 0.74
+  },
+  "ref": "4.2.3",
+  "scan_anchor": {
+   "page": 180,
+   "line": 5,
+   "word": "पूर्वोक्तोत्क्रान्तिमुपजीव्यान्यत्",
+   "confidence": "low",
+   "note": "a small extra mark sits above र्वो of the bold opening word, merged with the repha/o-sign, so the digit is not legible; reading 'पूर्वोत्का' (= पूर्वोत्क्रान्ति, without क्तो) fits this word"
+  }
+ },
+ {
+  "page": 180,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "मानैव भ",
+  "raw": "' मानैव भ ' ख . पाठः",
+  "anchor": {
+   "ref": "4.2.7",
+   "part": "vritti",
+   "start": 380,
+   "end": 386,
+   "base": "माना भ",
+   "score": 0.73
+  },
+  "ref": "4.2.7",
+  "scan_anchor": {
+   "page": 180,
+   "line": 12,
+   "word": "समाना",
+   "confidence": "high",
+   "note": "superscript above मा of समाना; reading 'मानैव भ' = समानैव भवितुम्"
+  }
+ },
+ {
+  "page": 180,
+  "n": "३",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "जालम्",
+  "raw": "' जालम् ' , ख . पाठः",
+  "anchor": {
+   "ref": "4.2.7",
+   "part": "vritti",
+   "start": 536,
+   "end": 542,
+   "base": "जाँतम्",
+   "score": 0.73
+  },
+  "ref": "4.2.7",
+  "scan_anchor": {
+   "page": 180,
+   "line": 14,
+   "word": "अदग्ध्वात्यन्तमविद्याक्लेशजातम्",
+   "confidence": "high",
+   "note": "superscript ३ above जा (OCR read it as candrabindu); reading 'जालम्' for जातम्"
+  }
+ },
+ {
+  "page": 180,
+  "n": "४",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "वः पुनः प्र",
+  "raw": "' वः पुनः प्र ' ख . पाठः",
+  "anchor": {
+   "ref": "4.2.8",
+   "part": "vritti",
+   "start": 457,
+   "end": 466,
+   "base": "ाभावः प्र",
+   "score": 0.59
+  },
+  "ref": "4.2.8",
+  "scan_anchor": {
+   "page": 180,
+   "line": 26,
+   "word": "संसाराभावः",
+   "confidence": "high",
+   "note": "superscript above वः of संसाराभावः; reading 'वः पुनः प्र' = ms संसाराभावः पुनः प्रसज्येत (पुनः after the word)"
+  }
+ },
+ {
+  "page": 180,
+  "n": "*",
+  "kind": "note",
+  "witness": "editor",
+  "reading": null,
+  "raw": "रंहत्यधिकरणं तृतीयाध्याय प्रथमाधिकरणम्",
+  "anchor": null,
+  "ref": "4.2.6",
+  "scan_anchor": {
+   "page": 180,
+   "line": 3,
+   "word": "करणे*",
+   "confidence": "high",
+   "note": "asterisk printed after करणे (रंहत्यधि-करणे, split across lines 2-3); editor's note identifies the रंहत्यधिकरण"
+  }
+ },
+ {
+  "page": 182,
+  "n": "१",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": "क्षे अपूर्वासि",
+  "raw": "' क्षे अपूर्वासि ' क . पाठः . 6 ' भिद्येते तासाम् ' इत्यपि उपनिषत्कोशेषु पाठो दृश्यते",
+  "anchor": {
+   "ref": "4.2.15",
+   "part": "vritti",
+   "start": 12,
+   "end": 26,
+   "base": "क्षेपरूपत्वादस",
+   "score": 0.74
+  },
+  "ref": "4.2.15",
+  "scan_anchor": {
+   "page": 182,
+   "line": 21,
+   "word": "पूर्वपक्षे",
+   "confidence": "high",
+   "note": "superscript १ above प of पक्षे (OCR misread as ै); reading 'क्षे अपूर्वासि' = पूर्वपक्षे अपूर्वासिद्धिः for …मोक्षासिद्धिः. The raw also bundles a second note ('भिद्येते तासाम्' in upaniṣad editions) whose mark is a § printed before भिद्येते on line 24 (OCR omits it)"
+  }
+ },
+ {
+  "page": 183,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "आयतनं हृ",
+  "raw": "' आयतनं हृ'ख . पाठः",
+  "anchor": null,
+  "ref": "4.2.17",
+  "scan_anchor": {
+   "page": 183,
+   "line": 11,
+   "word": "आधारो",
+   "confidence": "high",
+   "note": "superscript १ above आ of आधारो; reading 'आयतनं हृ' = ms आयतनं हृदयं"
+  }
+ },
+ {
+  "page": 186,
+  "n": "१",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "तानेक",
+  "raw": "' तानेक ' ख . पाठः",
+  "anchor": {
+   "ref": "4.3.1",
+   "part": "vritti",
+   "start": 814,
+   "end": 818,
+   "base": "ानेक",
+   "score": 0.89
+  },
+  "ref": "4.3.1",
+  "scan_anchor": {
+   "page": 186,
+   "line": 1,
+   "word": "उत",
+   "confidence": "high",
+   "note": "superscript १ above त of उत (OCR misread उत¹ as उते); reading 'तानेक' = उतानेक… for उत नैक…"
+  }
+ },
+ {
+  "page": 186,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "णयुक्त ए",
+  "raw": "' णयुक्त ए ' ख . पाठः",
+  "anchor": {
+   "ref": "4.3.2",
+   "part": "lead",
+   "start": 54,
+   "end": 60,
+   "base": "यमुक्त",
+   "score": 0.77
+  },
+  "ref": "4.3.2",
+  "scan_anchor": {
+   "page": 186,
+   "line": 7,
+   "word": "संहारेणानेकविशेषणे",
+   "confidence": "high",
+   "note": "superscript २ above णे at end of …विशेषणे; reading 'णयुक्त ए' = विशेषणयुक्त एक"
+  }
+ },
+ {
+  "page": 186,
+  "n": "३",
+  "kind": "printed",
+  "witness": "मुद्रित",
+  "reading": "लोक",
+  "raw": "' लोक ' इतिमुद्रितोपनिषत्कोशे न पठ्यते",
+  "anchor": {
+   "ref": "4.3.2",
+   "part": "vritti",
+   "start": 119,
+   "end": 122,
+   "base": "लोक",
+   "score": 1.0
+  },
+  "ref": "4.3.2",
+  "scan_anchor": {
+   "page": 186,
+   "line": 24,
+   "word": "वायुलोकमागच्छति",
+   "confidence": "high",
+   "note": "superscript ३ above लो of वायुलोकम्; note says 'लोक' is not read in the printed Upaniṣad edition"
+  }
+ },
+ {
+  "page": 189,
+  "n": "?",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "ख . पाठः .",
+  "raw": "C तुशब्दचो ' ख . पाठः . ' ख . पाठः",
+  "anchor": {
+   "ref": "4.3.11",
+   "part": "vritti",
+   "start": 119,
+   "end": 124,
+   "base": "प्ताः",
+   "score": 0.6
+  },
+  "ref": "4.3.11",
+  "scan_anchor": {
+   "page": 189,
+   "line": 7,
+   "word": "तुश्चोद्यनिरासार्थः",
+   "confidence": "low",
+   "note": "the raw note is garbled ('तुशब्दचो' ख. पाठः + an empty second ' ख. पाठः'); a superscript १ sits above तु of तुश्चोद्यनिरासार्थः, which fits a ms reading 'तुशब्दश्चो…'. A second superscript (looks like २) is printed above क of पूर्वकत्वदर्शनाच्च (line 26, OCR 'पूर्वकेत्वदर्शनाच्च'); its reading is lost from the raw"
+  }
+ },
+ {
+  "page": 192,
+  "n": "१",
+  "kind": "ms",
+  "witness": "क",
+  "reading": "वग",
+  "raw": "' वग ' क . पाठः",
+  "anchor": {
+   "ref": "4.4.2",
+   "part": "vritti",
+   "start": 148,
+   "end": 150,
+   "base": "वग",
+   "score": 1.0
+  },
+  "ref": "4.4.2",
+  "scan_anchor": {
+   "page": 192,
+   "line": 3,
+   "word": "पुनरय",
+   "confidence": "high",
+   "note": "superscript १ above र of पुनरय- (OCR read the mark as े); word continues on line 4 as मवगम्यते (पुनरयमवगम्यते); reading 'वग' = ms पुनरवगम्यते (without अयम्)"
+  }
+ },
+ {
+  "page": 192,
+  "n": "२",
+  "kind": "ms",
+  "witness": "ख",
+  "reading": "र्तृत्वभे",
+  "raw": "' र्तृत्वभे ' ख . पाठः",
+  "anchor": {
+   "ref": "4.4.4",
+   "part": "vritti",
+   "start": 174,
+   "end": 182,
+   "base": "र्तृत्वे",
+   "score": 0.94
+  },
+  "ref": "4.4.4",
+  "scan_anchor": {
+   "page": 192,
+   "line": 17,
+   "word": "कर्मकर्तृत्वेन",
+   "confidence": "high",
+   "note": "superscript २ above र्तृ of कर्मकर्तृत्वेन; reading 'र्तृत्वभे' = कर्तृत्वभेदोक्तेः"
+  }
+ }
+]
