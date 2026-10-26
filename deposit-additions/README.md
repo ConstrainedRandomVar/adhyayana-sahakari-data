@@ -3,6 +3,16 @@
 Keyed by **his surface forms** (the keys of `data/bhasya-words-ALL.json` in his Zenodo deposit, CC BY 4.0), so each row can be
 folded straight back into his dictionary. His `p` (padaccheda) and `g` (grammar) are quoted next to our addition, with credit.
 
+## The gap these files fill
+
+The deposit's `bhasya-words-ALL.json` has no vigraha for any compound: every entry carries only `p`, `g`, `m` and `c`. Of its
+95,585 entries, 46,101 are split as compounds (a hyphen between members, not counting upasarga + verb splits). 19,539 of those
+name the samāsa type in `g`, about 5,000 name a derivation (a kṛt or taddhita suffix), and about 21,600 name neither — so for
+nearly half the compounds there is no samāsa classification at all. The two files below together give a vigraha (with the
+samāsa type, member by member) for 45,456 of the 46,101: `bhasya-vigraha.json` (20,153, a run made for this purpose) and
+`bhasya-vigraha-earlier.json` (25,492, from our earlier runs). Counts measured against the deposit with the same compound test
+(a split token with a non-upasarga hyphen).
+
 ## `bhasya-vigraha.json` — samāsa vigraha for compounds that have none
 
 - **What was missing:** 20,153 surface forms whose padaccheda `p` marks a compound (a hyphen between members) carry no vigraha,
