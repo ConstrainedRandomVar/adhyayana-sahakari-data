@@ -2,53 +2,68 @@
 
 Keyed by **his surface forms** (the keys of `data/bhasya-words-ALL.json` in his Zenodo deposit, CC BY 4.0), so each row can be
 folded straight back into his dictionary. His `p` (padaccheda) and `g` (grammar) are quoted next to our addition, with credit.
+Regenerated 2026-10-26 from the final samāsa peel of our reading site (after a review pass that dropped wrong layers and added
+whole-compound vigrahas).
 
 ## The gap these files fill
 
 The deposit's `bhasya-words-ALL.json` has no vigraha for any compound: every entry carries only `p`, `g`, `m` and `c`. Of its
 95,585 entries, 46,101 are split as compounds (a hyphen between members, not counting upasarga + verb splits). 19,539 of those
-name the samāsa type in `g`, about 5,000 name a derivation (a kṛt or taddhita suffix), and about 21,600 name neither — so for
-nearly half the compounds there is no samāsa classification at all. The two files below together give a vigraha (with the
-samāsa type, member by member) for 45,456 of the 46,101: `bhasya-vigraha.json` (20,153, a run made for this purpose) and
-`bhasya-vigraha-earlier.json` (25,492, from our earlier runs). Counts measured against the deposit with the same compound test
-(a split token with a non-upasarga hyphen).
+name the samāsa type in `g`, 4,994 name a derivation (a kṛt or taddhita suffix), and 21,568 name neither — so for nearly half
+the compounds there is no samāsa classification at all (a terse entry such as `लोकबुद्धि-सिद्ध नपुं॰ १।१`, where others read
+`स्वाभाविक-कर्म-विज्ञान (तत्पुरुष/कर्मधारय) …`). A reader hovering such a compound gets its split but no analysis, and anything
+that keys on the samāsa type silently skips it. **The two files below together give a vigraha — with the samāsa type, member
+by member — for 45,466 of the 46,101.** Counts measured against the deposit with the same compound test (a split token with a
+non-upasarga hyphen).
 
-## `bhasya-vigraha.json` — samāsa vigraha for compounds that have none
+## What a row looks like (both files)
 
-- **What was missing:** 20,153 surface forms whose padaccheda `p` marks a compound (a hyphen between members) carry no vigraha,
-  and for 16,685 of them `g` does not name the samāsa type either (a terse entry such as `लोकबुद्धि-सिद्ध नपुं॰ १।१`; contrast
-  `स्वाभाविक-कर्म-विज्ञान (तत्पुरुष/कर्मधारय) …`). A reader hovering such a compound gets its split but no analysis, and anything
-  that keys on the samāsa type (e.g. a samāsa drill) silently skips it.
-- **What we add:** a vigraha for each of the 20,153: `words[surface] = { p, g, vigraha: [{ part?, layers: [{c, vigraha, type,
-  pratyaya?, sutra?}], stripped?, source }], occ: [{text, refs}] }`. `layers[0]` is the whole compound, then each multi-member or
-  derived (kṛt/taddhita) member, depth-first. `part` is set when the surface is a fused multi-word token and the vigraha is for
-  one compound inside it. `stripped` lists members the model returned that do not occur in the compound (removed by a
-  consonant-skeleton check). `occ` gives where the form occurs.
-- **Provenance:** machine-made — Gemini 3.8 Flash, samāsa-only prompt (`prompts/samasa/bhasya-samasa-vigraha.md`) with his `p`
-  as the split hint, temperature 0, 2026-10-25 (20,067 rows), or reused from the same compound analysed elsewhere in our data
-  (1,050). Sūtra numbers are the model's. Not individually reviewed by a scholar; a hand check of a sample found most sound.
-  Five forms the model judged not to be compounds (होयि, कश्चित्, कस्मिंश्चित्, …) are left out.
+`words[surface] = { p, g, vigraha: [{ part?, layers: [{c, vigraha, type, pratyaya?, sutra?}], source, stripped?, shownIn? }],
+occ: [{text, refs}], fixNote? }`
 
-## `bhasya-vigraha-earlier.json` — the vigrahas our site already showed before 2026-10-25
+- Each vigraha entry is **exactly what our reading card shows** for that form, with the full layers (incl. sūtra and pratyaya,
+  which the card does not print) recovered from our stored peel and the run that produced them (`source`). `layers[0]` is the
+  whole compound, then each multi-member or derived (kṛt/taddhita) member, depth-first.
+- **Excluded:** 148 layers we reviewed by hand and found wrong for a given word, and layers that describe another word (a card
+  shows only layers about its own word); duplicate lines are folded. None of the excluded layers appears in either file.
+- `part` = the stored key, set when a card joins several stored peels (a fused multi-word token, or a member peel).
+  `shownIn` lists the texts, where the same form's card differs between texts. `stripped` lists members the 2026-10-25 run
+  returned that do not occur in the compound (removed by a consonant-skeleton check). `occ` gives where the form occurs.
+- Every card line was traced to a stored layer (0 untraced); nothing was guessed.
 
-- **What:** 25,492 more of his surface forms (padaccheda marks a compound) for which our reading cards showed a vigraha from
-  earlier runs, before the file above existed. Same row shape: `words[surface] = { p, g, vigraha: [{ part?, layers, source,
-  shownIn? }], occ: [{text, refs}] }`, with his `p`/`g` quoted.
-- **How it was mapped (exact, never guessed):** for every page of our reading site, the word card of each of his surface
-  forms was read as the site shows it, and matched line for line against our stored samāsa peels to recover the full layers
-  (with sūtra and pratyaya, which the card does not print) and the run that produced them. Every card matched exactly
-  (0 unmapped). `part` is the stored key, set when a card joins several stored peels (a fused multi-word token, or a member
-  peel). `shownIn` lists the texts, where the same form's card differs between texts (182 forms). Forms whose card is fully
-  explained by the 2026-10-25 file above are left out (already delivered); 189 forms appear in both because some page shows
-  an older or a mixed peel for them, and that is what is given here.
-- **`source` — the producing run** (number of vigraha entries): 2026-08-27 samāsa-only backfill 12,378 · 2026-09-24 gap
-  recovery (gemini-3.7-flash) 12,405 + 2 reused · 2026-08-20 batch (the samāsa field of the first Gemini 3.7 kāraka/morph
-  run; the least trusted) 1,276 · mūla-quote reuse (the same compound's peel in the root text) 893 · 2026-10-01
-  sentence-aware regap (gemini-3.7-flash, with the bhāṣya sentence as context) 195 · same-verse reuse from our shared samāsa
-  dictionary 61 · 2026-10-25 split-gap 236 (parts inside fused tokens whose other parts are older).
-- **Counts, reconciled:** our site's coverage report counts compound word-instances per page (a word on several pages counts
-  each time): 51,010, of which 33 are deliberate blanks. Per page, the 2026-10-25 map supplies 21,414 and earlier runs the
-  rest; over distinct surface forms that is the 20,153 of the first file and the 25,492 here. Not included: 6,644 forms that
-  carry a derivation peel (kṛt/taddhita) but whose padaccheda shows no compound, and 3 forms not in the deposit.
-- **Machine-made, not scholar-reviewed;** the 2026-08-20 rows especially deserve checking.
+## Which file a form is in
 
+- **`bhasya-vigraha.json` — 20,720 forms.** The first (whole-compound) layer of every card that shows the form comes from one of
+  the two runs made for this gap: the 2026-10-25 split-gap run (compounds marked only by the padaccheda split) or the
+  2026-10-26 whole-compound run (compounds whose card had no whole-compound vigraha). Lower layers may come from older runs.
+- **`bhasya-vigraha-earlier.json` — 24,746 forms.** The first layer of at least one card comes from an earlier run
+  (2026-08-20 … 2026-10-01).
+- **`lost-all-layers.json` — 5 forms** that were in the previous version of these files but whose cards now show no vigraha (every
+  layer was garbled or about another word, e.g. «हृदहालय» for हृदयालय). Listed so nothing is dropped silently.
+
+## `source` — the producing run (number of vigraha entries)
+
+| Run | in `bhasya-vigraha.json` | in `bhasya-vigraha-earlier.json` |
+|---|---|---|
+| gemini-3.8-flash 2026-10-25 split-gap run | 19,468 | 428 |
+| gemini-3.8-flash 2026-10-26 whole-compound run | 2,433 | 59 |
+| 2026-09-24 gap recovery (gemini-3.7-flash; exact-surface map) | 1,655 | 11,664 |
+| 2026-08-27 samāsa-only backfill | 896 | 12,206 |
+| 2026-08-20 batch (samāsa field of the first Gemini 3.7 kāraka/morph run; least trusted) | 93 | 1,377 |
+| mūla-quote reuse (the same compound's peel in the root text) | 234 | 1,447 |
+| 2026-10-01 sentence-aware regap (gemini-3.7-flash, with the bhāṣya sentence as context) | 77 | 253 |
+| same-verse reuse from our shared samāsa dictionary | 38 | 311 |
+
+Prompts: `prompts/samasa/`. Sūtra numbers are the model's.
+
+## Changes from the first version (2026-10-25/26)
+
+`bhasya-vigraha.json` 20,153 → 20,720 forms; `bhasya-vigraha-earlier.json` 25,492 → 24,746. About 2,300 forms moved into the
+first file and about 1,600 into the second under the cleaner rule above (by the source of the whole-compound layer); 899 and
+892 forms changed layers (wrong or other-word layers removed, whole-compound vigrahas added); 5 forms lost all layers. Deposit
+coverage 45,456 → 45,466.
+
+Not included: 6,636 forms that carry a derivation peel (kṛt/taddhita) but whose padaccheda shows no compound, and 3 forms not
+in the deposit.
+
+**Machine-made, not scholar-reviewed;** the 2026-08-20 rows especially deserve checking.
