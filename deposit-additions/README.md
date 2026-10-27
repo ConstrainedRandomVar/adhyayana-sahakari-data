@@ -41,6 +41,11 @@ occ: [{text, refs}], fixNote? }`
 - **`lost-all-layers.json` — 5 forms** that were in the previous version of these files but whose cards now show no vigraha (every
   layer was garbled or about another word, e.g. «हृदहालय» for हृदयालय). Listed so nothing is dropped silently.
 
+## `uncertain`
+
+A layer carrying `"uncertain": true` is one our own review judged low-confidence (2026-10-27): the reading card shows it with a mark
+rather than hiding it. Treat these as the least reliable rows.
+
 ## `source` — the producing run (number of vigraha entries)
 
 | Run | in `bhasya-vigraha.json` | in `bhasya-vigraha-earlier.json` |
